@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000581",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 98,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para recuperar la calidad y la confianza en el tren en España.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 186,
+    "no": 150,
+    "abstain": 11,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  }
+ ]
+}

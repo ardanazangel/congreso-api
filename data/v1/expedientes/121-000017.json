@@ -1,0 +1,57 @@
+{
+ "expediente": "121/000017",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-17",
+   "session": 59,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica 7/2014, de 12 de noviembre, sobre intercambio de información de antecedentes penales y consideración de resoluciones judiciales penales en la Unión Europea, para su adecuación a la normativa de la Unión Europea sobre el Sistema Europeo de Información de Antecedentes Penales (ECRIS).",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 8.",
+   "totals": {
+    "present": 350,
+    "yes": 57,
+    "no": 291,
+    "abstain": 2,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-17.json"
+  },
+  {
+   "date": "2024-09-18",
+   "session": 60,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica 7/2014, de 12 de noviembre, sobre intercambio de información de antecedentes penales y consideración de resoluciones judiciales penales en la Unión Europea, para su adecuación a la normativa de la Unión Europea sobre el Sistema Europeo de Información de Antecedentes Penales (ECRIS).",
+   "subtitle": "Votación del dictamen. Votación del dictamen.",
+   "totals": {
+    "present": 346,
+    "yes": 346,
+    "no": 0,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-18.json"
+  },
+  {
+   "date": "2024-09-18",
+   "session": 60,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica 7/2014, de 12 de noviembre, sobre intercambio de información de antecedentes penales y consideración de resoluciones judiciales penales en la Unión Europea, para su adecuación a la normativa de la Unión Europea sobre el Sistema Europeo de Información de Antecedentes Penales (ECRIS).",
+   "subtitle": "Votación de conjunto. Votación de conjunto del Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica 7/2014, de 12 de noviembre, sobre intercambio de información de antecedentes penales y consideración de resoluciones judiciales penales en la Unión Europea, para su adecuación a la normativa de la Unión Europea sobre el Sistema Europeo de Información de Antecedentes Penales (ECRIS), por tener el mismo carácter orgánico.",
+   "totals": {
+    "present": 346,
+    "yes": 346,
+    "no": 0,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-18.json"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "expediente": "173/000031",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 18,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la actual situación económica, política y social de nuestro país.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 346,
+    "yes": 144,
+    "no": 170,
+    "abstain": 32,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 19,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la actual situación económica, política y social de nuestro país.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 346,
+    "yes": 168,
+    "no": 172,
+    "abstain": 6,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  }
+ ]
+}

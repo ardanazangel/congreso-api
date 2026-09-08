@@ -1,0 +1,57 @@
+{
+ "expediente": "173/000053",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la disposición del Gobierno de proceder de forma inmediata al rescate de la AP-9 a la vista del reciente informe realizado por profesores de la Universidad de A Coruña que fija en 904,7 millones de euros el coste de esta operación.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 345,
+    "yes": 178,
+    "no": 154,
+    "abstain": 13,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  },
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 12,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la disposición del Gobierno de proceder de forma inmediata al rescate de la AP-9 a la vista del reciente informe realizado por profesores de la Universidad de A Coruña que fija en 904,7 millones de euros el coste de esta operación.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 344,
+    "yes": 306,
+    "no": 33,
+    "abstain": 5,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  },
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 13,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la disposición del Gobierno de proceder de forma inmediata al rescate de la AP-9 a la vista del reciente informe realizado por profesores de la Universidad de A Coruña que fija en 904,7 millones de euros el coste de esta operación.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 345,
+    "yes": 307,
+    "no": 33,
+    "abstain": 5,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  }
+ ]
+}

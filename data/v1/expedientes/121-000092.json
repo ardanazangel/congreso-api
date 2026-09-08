@@ -1,0 +1,23 @@
+{
+ "expediente": "121/000092",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 21,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación conjunta de las enmiendas a la totalidad de devolución al Proyecto de Ley por la que se modifican la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y la Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria, y se adoptan otras medidas para la mejora del sistema educativo, presentadas por los Grupos Parlamentarios Junts per Catalunya y Vasco (EAJ-PNV).",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 11,
+    "no": 329,
+    "abstain": 7,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  }
+ ]
+}

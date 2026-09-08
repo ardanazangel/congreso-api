@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000182",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-28",
+   "session": 142,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la modificación de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 168,
+    "abstain": 7,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-28.json"
+  }
+ ]
+}

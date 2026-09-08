@@ -1,0 +1,125 @@
+{
+ "expediente": "162/000713",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la adopción de medidas urgentes en la lucha contra la inseguridad ciudadana causada por el incremento de uso de armas blancas.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 342,
+    "yes": 169,
+    "no": 161,
+    "abstain": 12,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la adopción de medidas urgentes en la lucha contra la inseguridad ciudadana causada por el incremento de uso de armas blancas.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 345,
+    "yes": 169,
+    "no": 163,
+    "abstain": 13,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la adopción de medidas urgentes en la lucha contra la inseguridad ciudadana causada por el incremento de uso de armas blancas.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 343,
+    "yes": 173,
+    "no": 162,
+    "abstain": 8,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la adopción de medidas urgentes en la lucha contra la inseguridad ciudadana causada por el incremento de uso de armas blancas.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 345,
+    "yes": 176,
+    "no": 163,
+    "abstain": 6,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la adopción de medidas urgentes en la lucha contra la inseguridad ciudadana causada por el incremento de uso de armas blancas.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 344,
+    "yes": 174,
+    "no": 169,
+    "abstain": 1,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 6,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la adopción de medidas urgentes en la lucha contra la inseguridad ciudadana causada por el incremento de uso de armas blancas.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 343,
+    "yes": 167,
+    "no": 163,
+    "abstain": 13,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 7,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la adopción de medidas urgentes en la lucha contra la inseguridad ciudadana causada por el incremento de uso de armas blancas.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 345,
+    "yes": 176,
+    "no": 163,
+    "abstain": 6,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  }
+ ]
+}

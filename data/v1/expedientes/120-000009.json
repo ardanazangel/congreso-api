@@ -1,0 +1,23 @@
+{
+ "expediente": "120/000009",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-07",
+   "session": 135,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley de iniciativa popular.",
+   "title": "Proposición de Ley para la derogación de la Ley 18/2013, de 12 de noviembre, para la regulación de la Tauromaquia como patrimonio cultural.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 57,
+    "no": 169,
+    "abstain": 118,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-07.json"
+  }
+ ]
+}

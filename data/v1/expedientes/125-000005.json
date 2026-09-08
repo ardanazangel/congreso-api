@@ -1,0 +1,159 @@
+{
+ "expediente": "125/000005",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-11",
+   "session": 44,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley de Comunidades y Ciudades Autónomas.",
+   "title": "Proposición de Ley del Parlamento de Galicia, Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 309,
+    "no": 33,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-11.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia.",
+   "subtitle": "Votos particulares del Grupo Parlamentario Popular en el Congreso. Voto particular a la enmienda transaccional nº 1, a la enmienda nº 4 (voto particular nº 8).",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 211,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia.",
+   "subtitle": "Votos particulares del Grupo Parlamentario Popular en el Congreso. Voto particular a la enmienda transaccional nº 2, a la enmienda nº 5 (voto particular nº 9).",
+   "totals": {
+    "present": 346,
+    "yes": 138,
+    "no": 208,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia.",
+   "subtitle": "Votos particulares del Grupo Parlamentario Popular en el Congreso. Voto particular a la enmienda transaccional nº 3, a las enmiendas núms. 6, 7 y 8 (votos particulares núms. 10, 11 y 12).",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 211,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia.",
+   "subtitle": "Votos particulares del Grupo Parlamentario Popular en el Congreso. Voto particular a la enmienda transaccional nº 4, a la enmienda nº 9 (voto particular nº 13).",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 211,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia.",
+   "subtitle": "Votos particulares del Grupo Parlamentario Popular en el Congreso. Voto particular a la enmienda transaccional nº 5, a las enmiendas núms. 10 y 11 (votos particulares núms. 14 y 15).",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 211,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 23,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia.",
+   "subtitle": "Votación del dictamen. Votación del dictamen.",
+   "totals": {
+    "present": 346,
+    "yes": 178,
+    "no": 167,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 24,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia.",
+   "subtitle": "Votación de conjunto. Votación de conjunto de la Proposición de Ley Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia, por tener la misma carácter orgánico.",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 169,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 5,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia. Votación en bloque de las enmiendas.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 210,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  }
+ ]
+}

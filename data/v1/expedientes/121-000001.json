@@ -1,0 +1,618 @@
+{
+ "expediente": "121/000001",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-22",
+   "session": 23,
+   "number": 17,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de devolución al Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 32,
+    "no": 310,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-22.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 24,
+    "no": 322,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 68.",
+   "totals": {
+    "present": 347,
+    "yes": 29,
+    "no": 318,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 24.",
+   "totals": {
+    "present": 347,
+    "yes": 25,
+    "no": 296,
+    "abstain": 26,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 32.",
+   "totals": {
+    "present": 347,
+    "yes": 12,
+    "no": 334,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 49.",
+   "totals": {
+    "present": 346,
+    "yes": 24,
+    "no": 322,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 50.",
+   "totals": {
+    "present": 346,
+    "yes": 46,
+    "no": 300,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmiendas 53, 55, 60 y 62.",
+   "totals": {
+    "present": 347,
+    "yes": 20,
+    "no": 327,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 17,
+    "no": 318,
+    "abstain": 12,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Plurinacional SUMAR Enmienda 27.",
+   "totals": {
+    "present": 345,
+    "yes": 44,
+    "no": 291,
+    "abstain": 10,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 97 y 106.",
+   "totals": {
+    "present": 346,
+    "yes": 138,
+    "no": 208,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 98 y 110.",
+   "totals": {
+    "present": 347,
+    "yes": 138,
+    "no": 176,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 101.",
+   "totals": {
+    "present": 345,
+    "yes": 136,
+    "no": 176,
+    "abstain": 33,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 105.",
+   "totals": {
+    "present": 347,
+    "yes": 144,
+    "no": 203,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Resto de las enmiendas.",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 175,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Enmiendas transaccionales Enmienda transaccional a la enmienda 35 del Grupo Parlamentario Junts per Catalunya.",
+   "totals": {
+    "present": 347,
+    "yes": 175,
+    "no": 171,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 43,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación del dictamen. Votación del dictamen",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 171,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 44,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación de conjunto. Votación de conjunto del Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres, por tener el mismo carácter orgánico.",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 171,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 46,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas de corrección gramatical relacionadas en el punto 1, letras A, C, D, E, F y G del mensaje motivado.",
+   "totals": {
+    "present": 348,
+    "yes": 313,
+    "no": 1,
+    "abstain": 34,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 47,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al Preámbulo, apartado II (punto 1.Bc) del mensaje motivado)",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 144,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 48,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Resto de las enmiendas al Preámbulo, apartado II (puntos 1.Ba), b), d) y e) del mensaje motivado)",
+   "totals": {
+    "present": 347,
+    "yes": 138,
+    "no": 176,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 49,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al Preámbulo, apartado VI, último párrafo, a los párrafos tercero a quinto del apartado VII y al párrafo quinto del apartado VII (puntos 1.H, J y K del mensaje motivado)",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 177,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 50,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al Preámbulo, apartado VII, párrafo primero y a los cinco últimos párrafos del apartado VII (puntos 1.I y L del mensaje motivado)",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 177,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 51,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al Preámbulo, antepenúltimo párrafo del apartado VIII (punto 1.M del mensaje motivado)",
+   "totals": {
+    "present": 347,
+    "yes": 344,
+    "no": 3,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 52,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al capítulo II, artículos segundo y cuarto, al capítulo V, artículo noveno, apartado Tres.1, y a la disposición transitoria segunda (puntos 3, 4, 6.2 y 24 del mensaje motivado)",
+   "totals": {
+    "present": 348,
+    "yes": 347,
+    "no": 1,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 53,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al capítulo I, artículo primero, apartado Uno (punto 2.1 del mensaje motivado)",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 210,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 54,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al capítulo I, artículo primero, apartado Tres (punto 2.2 del mensaje motivado)",
+   "totals": {
+    "present": 348,
+    "yes": 172,
+    "no": 176,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 55,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al capítulo II, artículo sexto, apartado Dos (punto 5.1 del mensaje motivado)",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 56,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al capítulo II, artículo sexto, apartado Tres (punto 5.2 del mensaje motivado)",
+   "totals": {
+    "present": 346,
+    "yes": 138,
+    "no": 208,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 57,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al capítulo VII, artículo duodécimo; de supresión de la disposición adicional primera; de renumeración de las disposiciones adicionales segunda, tercera y quinta; y de adición de una nueva disposición adicional quinta y de una nueva disposición adicional sexta (puntos 8, 15, 16, 17, 19, 21 y 22 del mensaje motivado)",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 210,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 58,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda a la disposición transitoria primera, apartados 2 y 7 (puntos 23.1 y 23.4 del mensaje motivado)",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 210,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 59,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda a la disposición transitoria primera, apartado 3 (punto 23.2 del mensaje motivado)",
+   "totals": {
+    "present": 348,
+    "yes": 339,
+    "no": 9,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 60,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda a la disposición transitoria primera, apartado 5 (punto 23.3 del mensaje motivado)",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 171,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 61,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas de renumeración de la disposición adicional cuarta; y a las disposiciones finales duodécima y decimotercera (puntos 18, 36 y 37 del mensaje motivado)",
+   "totals": {
+    "present": 347,
+    "yes": 139,
+    "no": 175,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 62,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+   "subtitle": "Votación separada de las enmiendas. Resto de las enmiendas",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 210,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 68,
+   "heading": "Enmiendas del Senado.",
+   "title": "Votación de conjunto del Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres, por tener la misma carácter orgánico.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 178,
+    "no": 171,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  }
+ ]
+}

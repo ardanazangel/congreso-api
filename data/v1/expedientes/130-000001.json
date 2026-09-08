@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000001",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-01-10",
+   "session": 15,
+   "number": 1,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 172,
+    "no": 171,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-10.json"
+  },
+  {
+   "date": "2024-01-10",
+   "session": 15,
+   "number": 2,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como proyecto de ley por el procedimiento de urgencia del Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 205,
+    "no": 0,
+    "abstain": 138,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-10.json"
+  }
+ ]
+}

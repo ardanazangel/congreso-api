@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000784",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 13,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa al establecimiento del principio de prioridad nacional en las prestaciones públicas. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 168,
+    "no": 181,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  }
+ ]
+}

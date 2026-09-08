@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000181",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-10",
+   "session": 116,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la modificación de la Ley 22/1988, de 28 de julio, de Costas, para la preservación de conjuntos urbanos costeros de tipología tradicional y otras instalaciones de interés público, en terrenos que han pasado a ser de dominio público marítimo-terrestre.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 189,
+    "no": 155,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-10.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000521",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-19",
+   "session": 121,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, en defensa de los contrapesos democráticos.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 170,
+    "no": 174,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-19.json"
+  }
+ ]
+}

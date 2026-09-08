@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000123",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 63,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley de los Grupos Parlamentarios Socialista, Plurinacional SUMAR y Mixto, de modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 177,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  }
+ ]
+}

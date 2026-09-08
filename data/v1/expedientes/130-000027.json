@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000027",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 10,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 13/2025, de 25 de noviembre, por el que se adoptan medidas complementarias urgentes para la recuperación económica y social de la isla de La Palma tras los daños ocasionados por las erupciones volcánicas.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 309,
+    "no": 0,
+    "abstain": 39,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 11,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 13/2025, de 25 de noviembre, por el que se adoptan medidas complementarias urgentes para la recuperación económica y social de la isla de La Palma tras los daños ocasionados por las erupciones volcánicas.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  }
+ ]
+}

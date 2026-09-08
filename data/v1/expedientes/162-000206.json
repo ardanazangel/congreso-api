@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000206",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-05-30",
+   "session": 43,
+   "number": 21,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Plurinacional SUMAR, sobre la creación de un Sistema de Información Económica para la Negociación Colectiva (SIENN) a partir de los registros administrativos oficiales.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 165,
+    "no": 171,
+    "abstain": 13,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-05-30.json"
+  }
+ ]
+}

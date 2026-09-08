@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000057",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 26,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Plurinacional SUMAR, sobre medidas urgentes para garantizar el abastecimiento energético en los barrios que están sufriendo cortes en el suministro de la electricidad y reforma integral de los barrios con menor renta. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Socialista.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 33,
+    "abstain": 144,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  }
+ ]
+}

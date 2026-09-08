@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000434",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Republicano, sobre el marco regulatorio contra la opacidad algorítmica y el estudio para la posible creación de una red social de interés y de iniciativa pública de ámbito europeo. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Junts per Catalunya.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 175,
+    "no": 167,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  }
+ ]
+}

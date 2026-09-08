@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000098",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-14",
+   "session": 111,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las causas del apagón eléctrico sucedido el 28 de abril de 2025, su impacto en términos de seguridad energética nacional, y las garantías urgentes que debe proporcionar el Gobierno para que no vuelva a suceder.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 168,
+    "abstain": 7,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-14.json"
+  }
+ ]
+}

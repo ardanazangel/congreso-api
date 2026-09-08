@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000121",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-24",
+   "session": 134,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la defensa de la Ministra de Igualdad de las víctimas de violencia de género y las medidas que se están tomando al respecto desde su Ministerio.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 162,
+    "abstain": 16,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-24.json"
+  }
+ ]
+}

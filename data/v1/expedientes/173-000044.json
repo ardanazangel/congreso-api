@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000044",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-18",
+   "session": 60,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Catalán Higueras), sobre los plazos y previsiones presupuestarias para la construcción de los tramos pendientes del Corredor Navarro de Alta Velocidad y la Autovía de Navarra A-15. Se vota en los términos resultantes de la incorporación de la enmienda del Grupo Parlamentario Vasco (EAJ-PNV).",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 319,
+    "no": 25,
+    "abstain": 3,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-18.json"
+  }
+ ]
+}

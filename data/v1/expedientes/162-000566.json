@@ -1,0 +1,91 @@
+{
+ "expediente": "162/000566",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-10",
+   "session": 130,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a garantizar la igualdad de los españoles para afrontar el inicio del curso escolar 2025/2026.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 348,
+    "yes": 184,
+    "no": 157,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-10.json"
+  },
+  {
+   "date": "2025-09-10",
+   "session": 130,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a garantizar la igualdad de los españoles para afrontar el inicio del curso escolar 2025/2026.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 348,
+    "yes": 176,
+    "no": 165,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-10.json"
+  },
+  {
+   "date": "2025-09-10",
+   "session": 130,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a garantizar la igualdad de los españoles para afrontar el inicio del curso escolar 2025/2026.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 166,
+    "abstain": 11,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-10.json"
+  },
+  {
+   "date": "2025-09-10",
+   "session": 130,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a garantizar la igualdad de los españoles para afrontar el inicio del curso escolar 2025/2026.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 157,
+    "abstain": 12,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-10.json"
+  },
+  {
+   "date": "2025-09-10",
+   "session": 130,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a garantizar la igualdad de los españoles para afrontar el inicio del curso escolar 2025/2026.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 348,
+    "yes": 146,
+    "no": 202,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-10.json"
+  }
+ ]
+}

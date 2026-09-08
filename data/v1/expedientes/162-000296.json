@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000296",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 7,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a la regularización de personas migrantes. Se vota en los términos de la enmienda presentada por los Grupos Parlamentarios Mixto (Sra. Belarra Urteaga y Sr. Rego Candamil), Euskal Herria Bildu, Republicano y Plurinacional SUMAR.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 46,
+    "no": 183,
+    "abstain": 119,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  }
+ ]
+}

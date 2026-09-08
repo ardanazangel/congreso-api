@@ -1,0 +1,23 @@
+{
+ "expediente": "130/000033",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 22,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 172,
+    "no": 177,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  }
+ ]
+}

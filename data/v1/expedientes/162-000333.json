@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000333",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 25,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre el compromiso con el derecho a la igualdad efectiva entre hombres y mujeres, con especial atención a la garantía en el derecho a la salud sexual y reproductiva. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Republicano.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 178,
+    "no": 33,
+    "abstain": 138,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  }
+ ]
+}

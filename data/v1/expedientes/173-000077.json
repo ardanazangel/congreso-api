@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000077",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-19",
+   "session": 93,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuáles son las medidas que va a adoptar el Gobierno para garantizar que los españoles puedan acceder a una vivienda digna.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 33,
+    "no": 175,
+    "abstain": 136,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-19.json"
+  }
+ ]
+}

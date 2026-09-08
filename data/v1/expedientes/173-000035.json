@@ -1,0 +1,91 @@
+{
+ "expediente": "173/000035",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 24,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las políticas en materia de transición ecológica desarrolladas por el Gobierno y el impacto en el sistema alimentario, la lucha contra la despoblación y la garantía de abastecimiento de recursos hídricos de nuestro país.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 347,
+    "yes": 182,
+    "no": 44,
+    "abstain": 121,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 25,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las políticas en materia de transición ecológica desarrolladas por el Gobierno y el impacto en el sistema alimentario, la lucha contra la despoblación y la garantía de abastecimiento de recursos hídricos de nuestro país.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 346,
+    "yes": 144,
+    "no": 162,
+    "abstain": 40,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 26,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las políticas en materia de transición ecológica desarrolladas por el Gobierno y el impacto en el sistema alimentario, la lucha contra la despoblación y la garantía de abastecimiento de recursos hídricos de nuestro país.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 347,
+    "yes": 138,
+    "no": 176,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 27,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las políticas en materia de transición ecológica desarrolladas por el Gobierno y el impacto en el sistema alimentario, la lucha contra la despoblación y la garantía de abastecimiento de recursos hídricos de nuestro país.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 345,
+    "yes": 184,
+    "no": 42,
+    "abstain": 119,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 28,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las políticas en materia de transición ecológica desarrolladas por el Gobierno y el impacto en el sistema alimentario, la lucha contra la despoblación y la garantía de abastecimiento de recursos hídricos de nuestro país.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 346,
+    "yes": 176,
+    "no": 36,
+    "abstain": 134,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "expediente": "122/000019",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-01-10",
+   "session": 15,
+   "number": 7,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+   "subtitle": "Enmiendas a la totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo presentada por el Grupo Parlamentario VOX.",
+   "totals": {
+    "present": 342,
+    "yes": 33,
+    "no": 309,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-10.json"
+  },
+  {
+   "date": "2024-01-30",
+   "session": 18,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 26 y 34.",
+   "totals": {
+    "present": 350,
+    "yes": 7,
+    "no": 305,
+    "abstain": 38,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-30.json"
+  },
+  {
+   "date": "2024-01-30",
+   "session": 18,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 28 y 33.",
+   "totals": {
+    "present": 350,
+    "yes": 34,
+    "no": 304,
+    "abstain": 12,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-30.json"
+  },
+  {
+   "date": "2024-01-30",
+   "session": 18,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Resto de las enmiendas.",
+   "totals": {
+    "present": 350,
+    "yes": 48,
+    "no": 293,
+    "abstain": 9,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-30.json"
+  },
+  {
+   "date": "2024-01-30",
+   "session": 18,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+   "subtitle": "Enmiendas presentadas por los Grupos Parlamentarios Junts per Catalunya y Vasco (EAJ-PNV) Enmienda transaccional en Comisión núm. 4 a la enmienda 26 del Grupo Parlamentario Junts per Catalunya, relativa al artículo 1.",
+   "totals": {
+    "present": 350,
+    "yes": 12,
+    "no": 305,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-30.json"
+  },
+  {
+   "date": "2024-01-30",
+   "session": 18,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+   "subtitle": "Enmiendas presentadas por los Grupos Parlamentarios Junts per Catalunya y Vasco (EAJ-PNV) Enmienda transaccional en Comisión núm. 5 a la enmienda 28 del Grupo Parlamentario Junts per Catalunya, relativa al artículo 4 y la exposición de motivos.",
+   "totals": {
+    "present": 350,
+    "yes": 39,
+    "no": 297,
+    "abstain": 14,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-30.json"
+  },
+  {
+   "date": "2024-01-30",
+   "session": 18,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+   "subtitle": "Enmiendas presentadas por los Grupos Parlamentarios Junts per Catalunya y Vasco (EAJ-PNV) Enmienda transaccional en Comisión núm. 6 a la enmienda 29 del Grupo Parlamentario Junts per Catalunya, relativa al artículo 2.",
+   "totals": {
+    "present": 350,
+    "yes": 53,
+    "no": 297,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-30.json"
+  },
+  {
+   "date": "2024-01-30",
+   "session": 18,
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 350,
+    "yes": 45,
+    "no": 293,
+    "abstain": 12,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-30.json"
+  },
+  {
+   "date": "2024-01-30",
+   "session": 18,
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+   "subtitle": "Enmiendas presentadas por los Grupos Parlamentarios Republicano y Junts per Catalunya Enmienda transaccional en Comisión núm. 3 a la enmienda 29 del Grupo Parlamentario Junts per Catalunya, relativa al artículo 2.",
+   "totals": {
+    "present": 350,
+    "yes": 57,
+    "no": 293,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-30.json"
+  },
+  {
+   "date": "2024-01-30",
+   "session": 18,
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+   "subtitle": "Votación del dictamen. Votación del dictamen.",
+   "totals": {
+    "present": 349,
+    "yes": 177,
+    "no": 172,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-30.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+   "subtitle": "Votación del nuevo dictamen. Votación del nuevo dictamen.",
+   "totals": {
+    "present": 350,
+    "yes": 178,
+    "no": 172,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  }
+ ]
+}

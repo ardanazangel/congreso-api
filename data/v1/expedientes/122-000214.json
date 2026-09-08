@@ -1,0 +1,40 @@
+{
+ "expediente": "122/000214",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-07",
+   "session": 135,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Euskal Herria Bildu, sobre control y regulación de la publicidad y contratación de los pisos turísticos.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 176,
+    "no": 169,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-07.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 28,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final de la Proposición de Ley sobre control y regulación de la publicidad y contratación de los pisos turísticos, presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 336,
+    "no": 11,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  }
+ ]
+}

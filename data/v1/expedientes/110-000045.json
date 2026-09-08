@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000045",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-14",
+   "session": 111,
+   "number": 8,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Tratado de Amistad y Cooperación entre el Reino de España y la República Francesa, hecho en Barcelona el 19 de enero de 2023.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 163,
+    "no": 171,
+    "abstain": 11,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-14.json"
+  }
+ ]
+}

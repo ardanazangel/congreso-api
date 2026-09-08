@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000178",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR para la modificación de la Ley 12/2023, de 24 de mayo, por el derecho a la vivienda.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 44,
+    "no": 179,
+    "abstain": 124,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-27.json"
+  }
+ ]
+}

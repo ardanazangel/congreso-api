@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000040",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-12",
+   "session": 91,
+   "number": 17,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Canje de Notas constitutivo de Acuerdo entre el Reino de España y la Agencia Espacial Europea por el que se enmienda el Acuerdo entre el Reino de España y la Agencia Espacial Europea relativo a los emplazamientos de la Agencia Espacial Europea en el Reino de España, hecho en Madrid el 10 y 17 de julio de 2024.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 328,
+    "no": 0,
+    "abstain": 20,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-12.json"
+  }
+ ]
+}

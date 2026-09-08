@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000186",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-27",
+   "session": 114,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, Orgánica por la que se modifica la Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 177,
+    "no": 168,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-27.json"
+  }
+ ]
+}

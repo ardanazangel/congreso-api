@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000634",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-18",
+   "session": 161,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa a la defensa de nuestro campo y del sector primario que garantiza nuestra soberanía alimentaria.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 31,
+    "no": 174,
+    "abstain": 139,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-18.json"
+  }
+ ]
+}

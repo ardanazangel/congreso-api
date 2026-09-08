@@ -1,0 +1,91 @@
+{
+ "expediente": "173/000052",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 345,
+    "yes": 170,
+    "no": 175,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  },
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 345,
+    "yes": 33,
+    "no": 312,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  },
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 8,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 345,
+    "yes": 33,
+    "no": 312,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  },
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 345,
+    "yes": 33,
+    "no": 312,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  },
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para combatir el empobrecimiento de los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 345,
+    "yes": 33,
+    "no": 312,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  }
+ ]
+}

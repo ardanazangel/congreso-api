@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000047",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-14",
+   "session": 111,
+   "number": 9,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo entre el Reino de España y la República Portuguesa para la construcción de un puente internacional sobre el río Guadiana, entre las localidades de Sanlúcar de Guadiana (España) y Alcoutim (Portugal), hecho en Faro el 23 de octubre de 2024.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 323,
+    "no": 0,
+    "abstain": 20,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-14.json"
+  }
+ ]
+}

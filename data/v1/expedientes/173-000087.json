@@ -1,0 +1,108 @@
+{
+ "expediente": "173/000087",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-20",
+   "session": 101,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la posición del Gobierno español ante los anuncios intervencionistas, belicistas, anexionistas y de apoyo a la limpieza étnica de los Estados Unidos de América.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 345,
+    "yes": 178,
+    "no": 32,
+    "abstain": 135,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-20.json"
+  },
+  {
+   "date": "2025-03-20",
+   "session": 101,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la posición del Gobierno español ante los anuncios intervencionistas, belicistas, anexionistas y de apoyo a la limpieza étnica de los Estados Unidos de América.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 346,
+    "yes": 178,
+    "no": 33,
+    "abstain": 135,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-20.json"
+  },
+  {
+   "date": "2025-03-20",
+   "session": 101,
+   "number": 8,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la posición del Gobierno español ante los anuncios intervencionistas, belicistas, anexionistas y de apoyo a la limpieza étnica de los Estados Unidos de América.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 346,
+    "yes": 37,
+    "no": 302,
+    "abstain": 7,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-20.json"
+  },
+  {
+   "date": "2025-03-20",
+   "session": 101,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la posición del Gobierno español ante los anuncios intervencionistas, belicistas, anexionistas y de apoyo a la limpieza étnica de los Estados Unidos de América.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 346,
+    "yes": 44,
+    "no": 302,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-20.json"
+  },
+  {
+   "date": "2025-03-20",
+   "session": 101,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la posición del Gobierno español ante los anuncios intervencionistas, belicistas, anexionistas y de apoyo a la limpieza étnica de los Estados Unidos de América.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 345,
+    "yes": 172,
+    "no": 34,
+    "abstain": 139,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-20.json"
+  },
+  {
+   "date": "2025-03-20",
+   "session": 101,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la posición del Gobierno español ante los anuncios intervencionistas, belicistas, anexionistas y de apoyo a la limpieza étnica de los Estados Unidos de América.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 346,
+    "yes": 37,
+    "no": 302,
+    "abstain": 7,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-20.json"
+  }
+ ]
+}

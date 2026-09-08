@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000031",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-01-27",
+   "session": 156,
+   "number": 2,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 17/2025, de 23 de diciembre, de medidas de promoción del uso del transporte público mediante la bonificación de abonos y títulos multiviaje.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 32,
+    "abstain": 137,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-01-27.json"
+  },
+  {
+   "date": "2026-01-27",
+   "session": 156,
+   "number": 3,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 17/2025, de 23 de diciembre, de medidas de promoción del uso del transporte público mediante la bonificación de abonos y títulos multiviaje.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 316,
+    "no": 33,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-01-27.json"
+  }
+ ]
+}

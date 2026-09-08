@@ -1,0 +1,23 @@
+{
+ "expediente": "123/000001",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-12-09",
+   "session": 152,
+   "number": 3,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Sr. Rufián Romero y otros 23 Diputados, Orgánica de garantía del plurilingüismo y de los derechos lingüísticos de la ciudadanía ante las instituciones del Estado.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 174,
+    "no": 170,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-09.json"
+  }
+ ]
+}

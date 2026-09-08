@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000155",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 16,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, para regular la inteligencia artificial para proteger a los más vulnerables. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Republicano y el Grupo Parlamentario Junts per Catalunya.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 180,
+    "no": 32,
+    "abstain": 135,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  }
+ ]
+}

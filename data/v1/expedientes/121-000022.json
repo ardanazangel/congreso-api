@@ -1,0 +1,23 @@
+{
+ "expediente": "121/000022",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 4,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se modifican el texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre, y la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras. Votación de la enmienda.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 178,
+    "no": 32,
+    "abstain": 138,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  }
+ ]
+}

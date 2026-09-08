@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000023",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-09",
+   "session": 129,
+   "number": 3,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el permiso de nacimiento y cuidado, mediante la modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, para completar la transposición de la Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 2010/18/UE del Consejo.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 313,
+    "no": 0,
+    "abstain": 33,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-09.json"
+  },
+  {
+   "date": "2025-09-09",
+   "session": 129,
+   "number": 4,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el permiso de nacimiento y cuidado, mediante la modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, para completar la transposición de la Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 2010/18/UE del Consejo.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 347,
+    "no": 0,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-09.json"
+  }
+ ]
+}

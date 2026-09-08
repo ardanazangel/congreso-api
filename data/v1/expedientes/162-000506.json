@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000506",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-28",
+   "session": 115,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a financiar con máxima urgencia la \"Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible\".",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 345,
+    "no": 1,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-28.json"
+  }
+ ]
+}

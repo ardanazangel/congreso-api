@@ -1,0 +1,23 @@
+{
+ "expediente": "125/000002",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-06",
+   "session": 19,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley de Comunidades y Ciudades Autónomas.",
+   "title": "Del Parlamento de Cataluña, de garantía del servicio de cajero automático en los municipios en riesgo de exclusión financiera y de garantía del acceso a los servicios bancarios (corresponde al número de expediente 125/000017/0000 de la XIV Legislatura). La Mesa del Congreso de los Diputados, en su reunión de 13 de febrero de 2024, acordó declarar nulos los votos emitidos por error por doña Cristina Narbona Ruiz y don Félix Bolaños García desde los escaños, respectivamente, de don José Ramón Gómez Besteiro y de doña Yolanda Díaz Pérez. En consecuencia, se han corregido las relaciones de diputados que votan sí y que no votan, así como el resultado de la votación.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 310,
+    "no": 0,
+    "abstain": 33,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-06.json"
+  }
+ ]
+}

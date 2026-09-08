@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000257",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 22,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, para el reconocimiento de la República de Kosovo como Estado soberano por parte del Estado español.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 25,
+    "no": 293,
+    "abstain": 27,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  }
+ ]
+}

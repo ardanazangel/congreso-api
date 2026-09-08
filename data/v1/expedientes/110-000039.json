@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000039",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-12",
+   "session": 91,
+   "number": 16,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo Global de Transporte Aéreo entre los Estados miembros de la Asociación de Naciones del Asia Sudoriental y la Unión Europea y sus Estados miembros, hecho en Bali, Indonesia, el 17 de octubre de 2022, y Declaración que España desea formular.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 294,
+    "no": 0,
+    "abstain": 53,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-12.json"
+  }
+ ]
+}

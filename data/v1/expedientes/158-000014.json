@@ -1,0 +1,23 @@
+{
+ "expediente": "158/000014",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "number": 15,
+   "heading": "Propuestas de creación de Subcomisiones.",
+   "title": "Propuesta de la Comisión de Sanidad, de creación de una Subcomisión relativa al estudio de la situación del sector veterinario en el Estado español.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 313,
+    "no": 33,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-27.json"
+  }
+ ]
+}

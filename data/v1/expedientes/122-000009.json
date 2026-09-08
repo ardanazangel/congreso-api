@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000009",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-12-12",
+   "session": 11,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica para la modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, en materia de delitos contra la libertad e indemnidad sexuales.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 33,
+    "no": 316,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-12.json"
+  }
+ ]
+}

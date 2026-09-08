@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000036",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-18",
+   "session": 166,
+   "number": 5,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 316,
+    "no": 32,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-18.json"
+  },
+  {
+   "date": "2026-03-18",
+   "session": 166,
+   "number": 6,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-18.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000051",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-14",
+   "session": 111,
+   "number": 11,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Protocolo nº 16 al Convenio para la Protección de los Derechos Humanos y de las Libertades Fundamentales, hecho ad referendum en Estrasburgo el 2 de octubre de 2013, y Declaraciones que España desea formular.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 299,
+    "no": 33,
+    "abstain": 13,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-14.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000362",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-12",
+   "session": 91,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre la menopausia. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Mixto (Sr. Javier Sánchez Serna).",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 316,
+    "no": 33,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-12.json"
+  }
+ ]
+}

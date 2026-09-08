@@ -1,0 +1,278 @@
+{
+ "expediente": "173/000014",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 34,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "totals": {
+    "present": 343,
+    "yes": 42,
+    "no": 299,
+    "abstain": 2,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 35,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 2.",
+   "totals": {
+    "present": 343,
+    "yes": 162,
+    "no": 143,
+    "abstain": 38,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 36,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 3.",
+   "totals": {
+    "present": 336,
+    "yes": 146,
+    "no": 154,
+    "abstain": 36,
+    "absent": 14,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 37,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 4.",
+   "totals": {
+    "present": 344,
+    "yes": 169,
+    "no": 142,
+    "abstain": 33,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 38,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 5.",
+   "totals": {
+    "present": 343,
+    "yes": 44,
+    "no": 13,
+    "abstain": 286,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 39,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 6.",
+   "totals": {
+    "present": 341,
+    "yes": 44,
+    "no": 152,
+    "abstain": 145,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 40,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 7.",
+   "totals": {
+    "present": 344,
+    "yes": 56,
+    "no": 0,
+    "abstain": 288,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 41,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 8.",
+   "totals": {
+    "present": 344,
+    "yes": 160,
+    "no": 152,
+    "abstain": 32,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 42,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 9.",
+   "totals": {
+    "present": 344,
+    "yes": 44,
+    "no": 292,
+    "abstain": 8,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 43,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 10.",
+   "totals": {
+    "present": 345,
+    "yes": 57,
+    "no": 170,
+    "abstain": 118,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 44,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 11.",
+   "totals": {
+    "present": 344,
+    "yes": 46,
+    "no": 253,
+    "abstain": 45,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 45,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 12.",
+   "totals": {
+    "present": 343,
+    "yes": 43,
+    "no": 287,
+    "abstain": 13,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 46,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 13.",
+   "totals": {
+    "present": 343,
+    "yes": 36,
+    "no": 293,
+    "abstain": 14,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 47,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 14.",
+   "totals": {
+    "present": 345,
+    "yes": 32,
+    "no": 275,
+    "abstain": 38,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 48,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 15.",
+   "totals": {
+    "present": 345,
+    "yes": 43,
+    "no": 290,
+    "abstain": 12,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 49,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra), en relación con la política general del Gobierno sobre la situación de los trabajadores y trabajadoras del campo.",
+   "subtitle": "Votación separada por puntos Punto 16.",
+   "totals": {
+    "present": 345,
+    "yes": 162,
+    "no": 176,
+    "abstain": 7,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  }
+ ]
+}

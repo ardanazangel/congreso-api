@@ -1,0 +1,74 @@
+{
+ "expediente": "173/000168",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-30",
+   "session": 177,
+   "number": 5,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la política económica de este Gobierno y cómo impacta a las familias españolas.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 155,
+    "abstain": 16,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-30.json"
+  },
+  {
+   "date": "2026-04-30",
+   "session": 177,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la política económica de este Gobierno y cómo impacta a las familias españolas.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 164,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-30.json"
+  },
+  {
+   "date": "2026-04-30",
+   "session": 177,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la política económica de este Gobierno y cómo impacta a las familias españolas.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 348,
+    "yes": 184,
+    "no": 164,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-30.json"
+  },
+  {
+   "date": "2026-04-30",
+   "session": 177,
+   "number": 8,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la política económica de este Gobierno y cómo impacta a las familias españolas.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 347,
+    "yes": 320,
+    "no": 11,
+    "abstain": 16,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-30.json"
+  }
+ ]
+}

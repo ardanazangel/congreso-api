@@ -1,0 +1,2864 @@
+{
+ "date": "2024-11-21",
+ "session": 79,
+ "legislature": "XV",
+ "deputies": [
+  {
+   "name": "Abades Martínez, Cristina",
+   "group": "GP",
+   "seat": "3702"
+  },
+  {
+   "name": "Ábalos Meco, José Luis",
+   "group": "GMx",
+   "seat": "2701"
+  },
+  {
+   "name": "Abascal Conde, Santiago",
+   "group": "GVOX",
+   "seat": "3201"
+  },
+  {
+   "name": "Acedo Reyes, Sofía",
+   "group": "GP",
+   "seat": "3611"
+  },
+  {
+   "name": "Aceves Galindo, José Luis",
+   "group": "GS",
+   "seat": "1505"
+  },
+  {
+   "name": "Adrio Taracido, María",
+   "group": "GS",
+   "seat": "1707"
+  },
+  {
+   "name": "Agirretxea Urresti, Joseba Andoni",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2310"
+  },
+  {
+   "name": "Agüera Gago, Cristina",
+   "group": "GP",
+   "seat": "3712"
+  },
+  {
+   "name": "Aguirre Gil de Biedma, Rocío",
+   "group": "GVOX",
+   "seat": "2707"
+  },
+  {
+   "name": "Aizcorbe Torra, Juan José",
+   "group": "GVOX",
+   "seat": "2613"
+  },
+  {
+   "name": "Aizpurua Arzallus, Mertxe",
+   "group": "GEH Bildu",
+   "seat": "2501"
+  },
+  {
+   "name": "Alcaraz Martos, Francisco José",
+   "group": "GVOX",
+   "seat": "2611"
+  },
+  {
+   "name": "Alfonso Cendón, Javier",
+   "group": "GS",
+   "seat": "1204"
+  },
+  {
+   "name": "Alfonso Silvestre, Alma",
+   "group": "GP",
+   "seat": "3604"
+  },
+  {
+   "name": "Alía Aguado, María Pilar",
+   "group": "GP",
+   "seat": "2713"
+  },
+  {
+   "name": "Almirón Ruiz, Oriol",
+   "group": "GS",
+   "seat": "1805"
+  },
+  {
+   "name": "Almodóvar Sánchez, Emilia",
+   "group": "GS",
+   "seat": "4601"
+  },
+  {
+   "name": "Alonso Cantorné, Fèlix",
+   "group": "GSUMAR",
+   "seat": "2405"
+  },
+  {
+   "name": "Alós López, Ana Isabel",
+   "group": "GP",
+   "seat": "3308"
+  },
+  {
+   "name": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+   "group": "GP",
+   "seat": "3413"
+  },
+  {
+   "name": "Álvarez Fanjul, Beatriz",
+   "group": "GP",
+   "seat": "3305"
+  },
+  {
+   "name": "Álvarez González, Alicia",
+   "group": "GS",
+   "seat": "1706"
+  },
+  {
+   "name": "Álvaro Vidal, Francesc-Marc",
+   "group": "GR",
+   "seat": "2515"
+  },
+  {
+   "name": "Andala Ubbi, Teslem",
+   "group": "GSUMAR",
+   "seat": "2303"
+  },
+  {
+   "name": "Andrés Añón, Carmen",
+   "group": "GS",
+   "seat": "1702"
+  },
+  {
+   "name": "Aragonés Mendiguchía, Carlos",
+   "group": "GP",
+   "seat": "3616"
+  },
+  {
+   "name": "Aranda Vargas, Francisco",
+   "group": "GS",
+   "seat": "1502"
+  },
+  {
+   "name": "Argota Castro, Trinidad Carmen",
+   "group": "GS",
+   "seat": "1712"
+  },
+  {
+   "name": "Argüelles García, Silverio",
+   "group": "GP",
+   "seat": "3603"
+  },
+  {
+   "name": "Armario González, Blanca",
+   "group": "GVOX",
+   "seat": "2705"
+  },
+  {
+   "name": "Armengol Socias, Francina",
+   "group": "GS",
+   "seat": "1"
+  },
+  {
+   "name": "Arribas Maroto, Manuel",
+   "group": "GS",
+   "seat": "1504"
+  },
+  {
+   "name": "Asarta Cuevas, Alberto",
+   "group": "GVOX",
+   "seat": "-1"
+  },
+  {
+   "name": "Azorín Salar, Lázaro",
+   "group": "GS",
+   "seat": "1609"
+  },
+  {
+   "name": "Badia Casas, Eloi",
+   "group": "GSUMAR",
+   "seat": "2404"
+  },
+  {
+   "name": "Barrio Baroja, Carmelo",
+   "group": "GP",
+   "seat": "5706"
+  },
+  {
+   "name": "Bayón Rolo, Juan Andrés",
+   "group": "GP",
+   "seat": "2818"
+  },
+  {
+   "name": "Beamonte Mesa, Luis María",
+   "group": "GP",
+   "seat": "3514"
+  },
+  {
+   "name": "Belarra Urteaga, Ione",
+   "group": "GMx",
+   "seat": "2510"
+  },
+  {
+   "name": "Belda Pérez-Pedrero, Enrique",
+   "group": "GP",
+   "seat": "3817"
+  },
+  {
+   "name": "Belmonte Gómez, Rafael Benigno",
+   "group": "GP",
+   "seat": "3808"
+  },
+  {
+   "name": "Bendodo Benasayag, Elías",
+   "group": "GP",
+   "seat": "3312"
+  },
+  {
+   "name": "Bermúdez de Castro Fernández, José Antonio",
+   "group": "GP",
+   "seat": "3"
+  },
+  {
+   "name": "Blanquer Alcaraz, Patricia",
+   "group": "GS",
+   "seat": "1205"
+  },
+  {
+   "name": "Boada Danés, Júlia",
+   "group": "GSUMAR",
+   "seat": "-1"
+  },
+  {
+   "name": "Bolaños García, Félix",
+   "group": "GS",
+   "seat": "1105"
+  },
+  {
+   "name": "Borrego Cortés, Isabel María",
+   "group": "GP",
+   "seat": "3404"
+  },
+  {
+   "name": "Bravo Baena, Juan",
+   "group": "GP",
+   "seat": "3310"
+  },
+  {
+   "name": "Cabezón Casas, Tomás",
+   "group": "GP",
+   "seat": "5802"
+  },
+  {
+   "name": "Calvo Gómez, Pilar",
+   "group": "GJxCAT",
+   "seat": "1616"
+  },
+  {
+   "name": "Camino Miñana, Víctor",
+   "group": "GS",
+   "seat": "1403"
+  },
+  {
+   "name": "Campos Asensi, Jorge",
+   "group": "GVOX",
+   "seat": "2605"
+  },
+  {
+   "name": "Canelo Matito, Andrea",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Cantalapiedra Álvarez, María de las Mercedes",
+   "group": "GP",
+   "seat": "5702"
+  },
+  {
+   "name": "Carazo Hermoso, Eduardo",
+   "group": "GP",
+   "seat": "2711"
+  },
+  {
+   "name": "Carballedo Berlanga, María Eugenia",
+   "group": "GP",
+   "seat": "2712"
+  },
+  {
+   "name": "Casares Hontañón, Pedro",
+   "group": "GS",
+   "seat": "1401"
+  },
+  {
+   "name": "Castilla Álvarez, María Carmen",
+   "group": "GS",
+   "seat": "1308"
+  },
+  {
+   "name": "Catalán Higueras, Alberto",
+   "group": "GMx",
+   "seat": "1715"
+  },
+  {
+   "name": "Cavacasillas Rodríguez, Antonio",
+   "group": "GP",
+   "seat": "5705"
+  },
+  {
+   "name": "Celaya Brey, Javier",
+   "group": "GP",
+   "seat": "2814"
+  },
+  {
+   "name": "Cercas Mena, Blanca",
+   "group": "GS",
+   "seat": "4704"
+  },
+  {
+   "name": "Cerdán León, Santos",
+   "group": "GS",
+   "seat": "1301"
+  },
+  {
+   "name": "Cervera Pinart, Josep Maria",
+   "group": "GJxCAT",
+   "seat": "1615"
+  },
+  {
+   "name": "Chamorro Delmo, Ricardo",
+   "group": "GVOX",
+   "seat": "2802"
+  },
+  {
+   "name": "Clavell López, Óscar",
+   "group": "GP",
+   "seat": "3505"
+  },
+  {
+   "name": "Clemente Muñoz, Raquel",
+   "group": "GP",
+   "seat": "3714"
+  },
+  {
+   "name": "Cobo Carmona, Ana",
+   "group": "GS",
+   "seat": "1605"
+  },
+  {
+   "name": "Cobo Pérez, Noelia",
+   "group": "GS",
+   "seat": "1513"
+  },
+  {
+   "name": "Cobo Vega, Manuel",
+   "group": "GP",
+   "seat": "3516"
+  },
+  {
+   "name": "Cofiño Fernández, Rafael",
+   "group": "GSUMAR",
+   "seat": "2505"
+  },
+  {
+   "name": "Conde Bajén, Agustín",
+   "group": "GP",
+   "seat": "3612"
+  },
+  {
+   "name": "Conde López, Francisco José",
+   "group": "GP",
+   "seat": "3405"
+  },
+  {
+   "name": "Conesa Coma, Ignasi",
+   "group": "GS",
+   "seat": "4706"
+  },
+  {
+   "name": "Cortés Carballo, Mario",
+   "group": "GP",
+   "seat": "3708"
+  },
+  {
+   "name": "Corujo Berriel, María Dolores",
+   "group": "GS",
+   "seat": "1411"
+  },
+  {
+   "name": "Crespín Rubio, Rafaela",
+   "group": "GS",
+   "seat": "1415"
+  },
+  {
+   "name": "Cruset Domènech, Josep Maria",
+   "group": "GJxCAT",
+   "seat": "1516"
+  },
+  {
+   "name": "Cruz Santana, Gabriel",
+   "group": "GS",
+   "seat": "1711"
+  },
+  {
+   "name": "Cruz-Guzmán García, María Soledad",
+   "group": "GP",
+   "seat": "3711"
+  },
+  {
+   "name": "Cuesta Rodríguez, María del Socorro",
+   "group": "GP",
+   "seat": "3802"
+  },
+  {
+   "name": "De la Rosa Baena, Olvido",
+   "group": "GS",
+   "seat": "1814"
+  },
+  {
+   "name": "De las Cuevas Cortés, Félix",
+   "group": "GP",
+   "seat": "3819"
+  },
+  {
+   "name": "De los Santos González, Jaime Miguel",
+   "group": "GP",
+   "seat": "3506"
+  },
+  {
+   "name": "De Luna Tobarra, Llanos",
+   "group": "GP",
+   "seat": "3503"
+  },
+  {
+   "name": "De Meer Méndez, Rocío",
+   "group": "GVOX",
+   "seat": "3401"
+  },
+  {
+   "name": "De Rosa Torner, Fernando",
+   "group": "GP",
+   "seat": "5604"
+  },
+  {
+   "name": "Del Valle Rodríguez, Emilio Jesús",
+   "group": "GVOX",
+   "seat": "-1"
+  },
+  {
+   "name": "Delgado Arce, Celso Luis",
+   "group": "GP",
+   "seat": "5606"
+  },
+  {
+   "name": "Delgado-Taramona Hernández, Jimena",
+   "group": "GP",
+   "seat": "2808"
+  },
+  {
+   "name": "Díaz Marín, Raúl",
+   "group": "GS",
+   "seat": "1802"
+  },
+  {
+   "name": "Díaz Pérez, Yolanda",
+   "group": "GSUMAR",
+   "seat": "1103"
+  },
+  {
+   "name": "Diouf Dioh, Luc Andre",
+   "group": "GS",
+   "seat": "1404"
+  },
+  {
+   "name": "Esteban Bravo, Aitor",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2207"
+  },
+  {
+   "name": "Estrems Fayos, Etna",
+   "group": "GR",
+   "seat": "2409"
+  },
+  {
+   "name": "Fabra Part, Alberto",
+   "group": "GP",
+   "seat": "3407"
+  },
+  {
+   "name": "Fagúndez Campo, Antidio",
+   "group": "GS",
+   "seat": "1501"
+  },
+  {
+   "name": "Faneca López, María Luisa",
+   "group": "GS",
+   "seat": "1507"
+  },
+  {
+   "name": "Fernández Benéitez, Andrea",
+   "group": "GS",
+   "seat": "1607"
+  },
+  {
+   "name": "Fernández González, María Mercedes",
+   "group": "GP",
+   "seat": "3515"
+  },
+  {
+   "name": "Fernández Hernández, Pedro",
+   "group": "GVOX",
+   "seat": "3502"
+  },
+  {
+   "name": "Fernández Herranz, Sandra",
+   "group": "GP",
+   "seat": "5601"
+  },
+  {
+   "name": "Fernández Pena, Paula",
+   "group": "GS",
+   "seat": "1803"
+  },
+  {
+   "name": "Fernández Ríos, Tomás",
+   "group": "GVOX",
+   "seat": "2706"
+  },
+  {
+   "name": "Figaredo Álvarez-Sala, José María",
+   "group": "GVOX",
+   "seat": "3203"
+  },
+  {
+   "name": "Flores Juberías, Carlos",
+   "group": "GVOX",
+   "seat": "2704"
+  },
+  {
+   "name": "Floriano Corrales, Carlos Javier",
+   "group": "GP",
+   "seat": "3615"
+  },
+  {
+   "name": "Folch Blanc, Javier José",
+   "group": "GP",
+   "seat": "3601"
+  },
+  {
+   "name": "Franco González, Silvia",
+   "group": "GP",
+   "seat": "2817"
+  },
+  {
+   "name": "Fullaondo la Cruz, Marije",
+   "group": "GEH Bildu",
+   "seat": "2602"
+  },
+  {
+   "name": "Fúnez de Gregorio, Carmen",
+   "group": "GP",
+   "seat": "3311"
+  },
+  {
+   "name": "Gallardo Barrena, Pedro Ignacio",
+   "group": "GP",
+   "seat": "3602"
+  },
+  {
+   "name": "Gamarra Ruiz-Clavijo, Concepción",
+   "group": "GP",
+   "seat": "3209"
+  },
+  {
+   "name": "García Adanero, Carlos",
+   "group": "GP",
+   "seat": "5605"
+  },
+  {
+   "name": "García Chavarría, María Montserrat",
+   "group": "GS",
+   "seat": "1708"
+  },
+  {
+   "name": "García Félix, Manuel",
+   "group": "GP",
+   "seat": "3815"
+  },
+  {
+   "name": "García Gomis, David",
+   "group": "GVOX",
+   "seat": "2806"
+  },
+  {
+   "name": "García Gurrutxaga, María Luisa",
+   "group": "GS",
+   "seat": "1709"
+  },
+  {
+   "name": "García López, Maribel",
+   "group": "GS",
+   "seat": "1206"
+  },
+  {
+   "name": "García Morís, Roberto",
+   "group": "GS",
+   "seat": "1412"
+  },
+  {
+   "name": "Garre Murcia, Cristóbal",
+   "group": "GP",
+   "seat": "3809"
+  },
+  {
+   "name": "Garrido Jiménez, Elisa",
+   "group": "GS",
+   "seat": "1402"
+  },
+  {
+   "name": "Garrido Valenzuela, Irene",
+   "group": "GP",
+   "seat": "3605"
+  },
+  {
+   "name": "Gavin i Valls, Isidre",
+   "group": "GJxCAT",
+   "seat": "1514"
+  },
+  {
+   "name": "Gil de Reboleño Lastortres, Esther",
+   "group": "GSUMAR",
+   "seat": "4"
+  },
+  {
+   "name": "Gil Lázaro, Ignacio",
+   "group": "GVOX",
+   "seat": "2614"
+  },
+  {
+   "name": "Gil Santiago, Carlos",
+   "group": "GP",
+   "seat": "3812"
+  },
+  {
+   "name": "González Bella, María del Mar",
+   "group": "GP",
+   "seat": "3206"
+  },
+  {
+   "name": "González Gracia, Juan Antonio",
+   "group": "GS",
+   "seat": "1510"
+  },
+  {
+   "name": "González López, Nahuel",
+   "group": "GSUMAR",
+   "seat": "2407"
+  },
+  {
+   "name": "González Vázquez, Marta",
+   "group": "GP",
+   "seat": "5"
+  },
+  {
+   "name": "González-Robatto Perote, Jacobo",
+   "group": "GVOX",
+   "seat": "2604"
+  },
+  {
+   "name": "Gracia Blanco, Marta",
+   "group": "GS",
+   "seat": "4603"
+  },
+  {
+   "name": "Granollers Cunillera, Inés",
+   "group": "GR",
+   "seat": "2516"
+  },
+  {
+   "name": "Guardiola Salmerón, Mirian",
+   "group": "GP",
+   "seat": "3408"
+  },
+  {
+   "name": "Guijarro Ceballos, María",
+   "group": "GS",
+   "seat": "1408"
+  },
+  {
+   "name": "Guijarro García, Txema",
+   "group": "GSUMAR",
+   "seat": "2401"
+  },
+  {
+   "name": "Guinart Moreno, Lídia",
+   "group": "GS",
+   "seat": "1309"
+  },
+  {
+   "name": "Gutiérrez Prieto, Sergio",
+   "group": "GS",
+   "seat": "1606"
+  },
+  {
+   "name": "Gutiérrez Santiago, Víctor",
+   "group": "GS",
+   "seat": "1306"
+  },
+  {
+   "name": "Hernández Quero, Carlos",
+   "group": "GVOX",
+   "seat": "2703"
+  },
+  {
+   "name": "Hernando Fraile, Rafael Antonio",
+   "group": "GP",
+   "seat": "3409"
+  },
+  {
+   "name": "Herrera García, Milena",
+   "group": "GS",
+   "seat": "1410"
+  },
+  {
+   "name": "Herrero Bono, José Alberto",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Hispán Iglesias de Ussel, Pablo",
+   "group": "GP",
+   "seat": "3513"
+  },
+  {
+   "name": "Hita Téllez, Guillermo",
+   "group": "GS",
+   "seat": "1312"
+  },
+  {
+   "name": "Hoces Íñiguez, Ignacio",
+   "group": "GVOX",
+   "seat": "2612"
+  },
+  {
+   "name": "Hoyo Juliá, Belén",
+   "group": "GP",
+   "seat": "3614"
+  },
+  {
+   "name": "Ibáñez Hernando, Ángel",
+   "group": "GP",
+   "seat": "2714"
+  },
+  {
+   "name": "Ibáñez Mezquita, Alberto",
+   "group": "GSUMAR",
+   "seat": "2305"
+  },
+  {
+   "name": "Iniesta Egido, Isabel",
+   "group": "GS",
+   "seat": "4804"
+  },
+  {
+   "name": "Iñarritu García, Jon",
+   "group": "GEH Bildu",
+   "seat": "2603"
+  },
+  {
+   "name": "Jerez Antequera, Juan Carlos",
+   "group": "GS",
+   "seat": "4606"
+  },
+  {
+   "name": "Jiménez Linuesa, Beatriz",
+   "group": "GP",
+   "seat": "3608"
+  },
+  {
+   "name": "Jordà i Roura, Teresa",
+   "group": "GR",
+   "seat": "2411"
+  },
+  {
+   "name": "Lago Peñas, Manuel",
+   "group": "GSUMAR",
+   "seat": "2307"
+  },
+  {
+   "name": "Lamuà Estañol, Marc",
+   "group": "GS",
+   "seat": "1503"
+  },
+  {
+   "name": "Leal Fernández, Isaura",
+   "group": "GS",
+   "seat": "7"
+  },
+  {
+   "name": "Legarda Uriarte, Mikel",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2206"
+  },
+  {
+   "name": "Lima García, Laura María",
+   "group": "GP",
+   "seat": "3801"
+  },
+  {
+   "name": "Llamazares Domingo, Esther",
+   "group": "GP",
+   "seat": "2810"
+  },
+  {
+   "name": "López Álvarez, Patxi",
+   "group": "GS",
+   "seat": "1201"
+  },
+  {
+   "name": "López Cano, Ignacio",
+   "group": "GS",
+   "seat": "1508"
+  },
+  {
+   "name": "López Maraver, Ángel",
+   "group": "GVOX",
+   "seat": "2615"
+  },
+  {
+   "name": "López Tagliafico, Candela",
+   "group": "GSUMAR",
+   "seat": "2507"
+  },
+  {
+   "name": "López Zamora, Cristina",
+   "group": "GS",
+   "seat": "4805"
+  },
+  {
+   "name": "Lorente Anaya, Macarena",
+   "group": "GP",
+   "seat": "3813"
+  },
+  {
+   "name": "Lorenzo Cazorla, Juan Antonio",
+   "group": "GS",
+   "seat": "1612"
+  },
+  {
+   "name": "Losada Fernández, José",
+   "group": "GS",
+   "seat": "1818"
+  },
+  {
+   "name": "Lucas Ayala, Francisco",
+   "group": "GS",
+   "seat": "1304"
+  },
+  {
+   "name": "Macías Gata, Alfonso Carlos",
+   "group": "GP",
+   "seat": "2812"
+  },
+  {
+   "name": "Madrenas i Mir, Marta",
+   "group": "GJxCAT",
+   "seat": "1515"
+  },
+  {
+   "name": "Madrid Olmo, Bartolomé",
+   "group": "GP",
+   "seat": "2813"
+  },
+  {
+   "name": "Maldonado López, Adriana",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Marcos Ortega, Milagros",
+   "group": "GP",
+   "seat": "5602"
+  },
+  {
+   "name": "Marí Bosó, José Vicente",
+   "group": "GP",
+   "seat": "3411"
+  },
+  {
+   "name": "Mariscal Anaya, Guillermo",
+   "group": "GP",
+   "seat": "8"
+  },
+  {
+   "name": "Mariscal Zabala, Manuel",
+   "group": "GVOX",
+   "seat": "3501"
+  },
+  {
+   "name": "Marqués Atés, Amador",
+   "group": "GS",
+   "seat": "1703"
+  },
+  {
+   "name": "Martín Blanco, Nacho",
+   "group": "GP",
+   "seat": "2708"
+  },
+  {
+   "name": "Martín García, Pedro Samuel",
+   "group": "GP",
+   "seat": "3805"
+  },
+  {
+   "name": "Martín Martínez, Andreu",
+   "group": "GS",
+   "seat": "4705"
+  },
+  {
+   "name": "Martín Rodríguez, Margarita",
+   "group": "GS",
+   "seat": "4602"
+  },
+  {
+   "name": "Martín Urriza, Carlos",
+   "group": "GSUMAR",
+   "seat": "2306"
+  },
+  {
+   "name": "Martínez Barbero, Verónica",
+   "group": "GSUMAR",
+   "seat": "2201"
+  },
+  {
+   "name": "Martínez Gómez, Antonio",
+   "group": "GP",
+   "seat": "3804"
+  },
+  {
+   "name": "Martínez Hierro, Lander",
+   "group": "GSUMAR",
+   "seat": "2402"
+  },
+  {
+   "name": "Martínez Labella, Ana",
+   "group": "GP",
+   "seat": "3811"
+  },
+  {
+   "name": "Martínez Ramírez, Carmen",
+   "group": "GS",
+   "seat": "1512"
+  },
+  {
+   "name": "Martínez Salmerón, Joaquín",
+   "group": "GS",
+   "seat": "4806"
+  },
+  {
+   "name": "Martínez Seijo, María Luz",
+   "group": "GS",
+   "seat": "1305"
+  },
+  {
+   "name": "Matos Castro, Sergio Carlos",
+   "group": "GS",
+   "seat": "1807"
+  },
+  {
+   "name": "Matute García de Jalón, Oskar",
+   "group": "GEH Bildu",
+   "seat": "2502"
+  },
+  {
+   "name": "Mayoral de Lamo, Alberto",
+   "group": "GS",
+   "seat": "1613"
+  },
+  {
+   "name": "Mayoral Pérez, Jesús",
+   "group": "GS",
+   "seat": "4802"
+  },
+  {
+   "name": "Mejías Sánchez, Carina",
+   "group": "GVOX",
+   "seat": "2805"
+  },
+  {
+   "name": "Melgarejo Moreno, Joaquín",
+   "group": "GP",
+   "seat": "3716"
+  },
+  {
+   "name": "Mellado Sierra, Valle",
+   "group": "GS",
+   "seat": "1602"
+  },
+  {
+   "name": "Méndez Monasterio, Lourdes",
+   "group": "GVOX",
+   "seat": "2610"
+  },
+  {
+   "name": "Mercadal Baquero, Pepe",
+   "group": "GS",
+   "seat": "1808"
+  },
+  {
+   "name": "Merino Martínez, Javier",
+   "group": "GP",
+   "seat": "3607"
+  },
+  {
+   "name": "Mesquida Mayans, Joan",
+   "group": "GP",
+   "seat": "3713"
+  },
+  {
+   "name": "Micó Micó, Àgueda",
+   "group": "GSUMAR",
+   "seat": "2203"
+  },
+  {
+   "name": "Mínguez García, Montse",
+   "group": "GS",
+   "seat": "1202"
+  },
+  {
+   "name": "Molina León, Ainhoa",
+   "group": "GP",
+   "seat": "3803"
+  },
+  {
+   "name": "Moneo Díez, María Sandra",
+   "group": "GP",
+   "seat": "3517"
+  },
+  {
+   "name": "Montávez Aguillaume, Vicente",
+   "group": "GS",
+   "seat": "1819"
+  },
+  {
+   "name": "Montero Cuadrado, María Jesús",
+   "group": "GS",
+   "seat": "1102"
+  },
+  {
+   "name": "Montesinos de Miguel, Macarena",
+   "group": "GP",
+   "seat": "3207"
+  },
+  {
+   "name": "Moraleja Gómez, Tristana María",
+   "group": "GP",
+   "seat": "3710"
+  },
+  {
+   "name": "Morales Álvarez, Álvaro",
+   "group": "GS",
+   "seat": "1809"
+  },
+  {
+   "name": "Moreno Borrás, Cristina",
+   "group": "GP",
+   "seat": "3806"
+  },
+  {
+   "name": "Moreno Fernández, Mª Isabel",
+   "group": "GS",
+   "seat": "1816"
+  },
+  {
+   "name": "Moro Almaraz, María Jesús",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Muñoz Abrines, Pedro",
+   "group": "GP",
+   "seat": "3410"
+  },
+  {
+   "name": "Muñoz de la Iglesia, Ester",
+   "group": "GP",
+   "seat": "3309"
+  },
+  {
+   "name": "Nacarino-Brabo Jiménez, Aurora",
+   "group": "GP",
+   "seat": "2715"
+  },
+  {
+   "name": "Narbona Ruiz, Cristina",
+   "group": "GS",
+   "seat": "1207"
+  },
+  {
+   "name": "Nasarre Oliva, Begoña",
+   "group": "GS",
+   "seat": "1203"
+  },
+  {
+   "name": "Navarro Lacoba, Carmen",
+   "group": "GP",
+   "seat": "9"
+  },
+  {
+   "name": "Navarro López, Pedro",
+   "group": "GP",
+   "seat": "3705"
+  },
+  {
+   "name": "Nogueras i Camero, Míriam",
+   "group": "GJxCAT",
+   "seat": "1517"
+  },
+  {
+   "name": "Noriega Gómez, Javier",
+   "group": "GP",
+   "seat": "2819"
+  },
+  {
+   "name": "Núñez Feijóo, Alberto",
+   "group": "GP",
+   "seat": "3210"
+  },
+  {
+   "name": "Núñez González, Noelia",
+   "group": "GP",
+   "seat": "3306"
+  },
+  {
+   "name": "Núñez Guijarro, José Enrique",
+   "group": "GP",
+   "seat": "3510"
+  },
+  {
+   "name": "Olano Vela, Jaime Eduardo de",
+   "group": "GP",
+   "seat": "3204"
+  },
+  {
+   "name": "Ortega Smith-Molina, Francisco Javier",
+   "group": "GVOX",
+   "seat": "3302"
+  },
+  {
+   "name": "Otero García, Mercedes",
+   "group": "GS",
+   "seat": "1812"
+  },
+  {
+   "name": "Otero Rodríguez, Patricia",
+   "group": "GS",
+   "seat": "1604"
+  },
+  {
+   "name": "Pagès i Massó, Josep",
+   "group": "GJxCAT",
+   "seat": "1614"
+  },
+  {
+   "name": "Palencia Rubio, Héctor",
+   "group": "GP",
+   "seat": "3610"
+  },
+  {
+   "name": "Paniagua Núñez, Miguel Ángel",
+   "group": "GP",
+   "seat": "3701"
+  },
+  {
+   "name": "Paré Aregall, Josep",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Parra Aparicio, Julia",
+   "group": "GP",
+   "seat": "2809"
+  },
+  {
+   "name": "Parra Gallego, Agustín",
+   "group": "GP",
+   "seat": "2807"
+  },
+  {
+   "name": "Pascual Rocamora, Sandra",
+   "group": "GP",
+   "seat": "2821"
+  },
+  {
+   "name": "Pedreño Molina, Juan Luis",
+   "group": "GP",
+   "seat": "3709"
+  },
+  {
+   "name": "Peña Camarero, Esther",
+   "group": "GS",
+   "seat": "1303"
+  },
+  {
+   "name": "Perea i Conillas, María Mercè",
+   "group": "GS",
+   "seat": "1311"
+  },
+  {
+   "name": "Pérez Coronado, Pablo",
+   "group": "GP",
+   "seat": "3706"
+  },
+  {
+   "name": "Pérez López, Álvaro",
+   "group": "GP",
+   "seat": "3205"
+  },
+  {
+   "name": "Pérez Ortiz, Isabel María",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Pérez Osma, Daniel",
+   "group": "GP",
+   "seat": "2815"
+  },
+  {
+   "name": "Pérez Recuerda, Isabel Gema",
+   "group": "GP",
+   "seat": "3807"
+  },
+  {
+   "name": "Pin Ferrando, Gala",
+   "group": "GSUMAR",
+   "seat": "2403"
+  },
+  {
+   "name": "Pisarello Prados, Gerardo",
+   "group": "GSUMAR",
+   "seat": "6"
+  },
+  {
+   "name": "Plaza García, Inés",
+   "group": "GS",
+   "seat": "1705"
+  },
+  {
+   "name": "Poblador Pacheco, María Araceli",
+   "group": "GS",
+   "seat": "1813"
+  },
+  {
+   "name": "Pose Mesura, Modesto",
+   "group": "GS",
+   "seat": "1801"
+  },
+  {
+   "name": "Pozueta Fernández, Isabel",
+   "group": "GEH Bildu",
+   "seat": "2503"
+  },
+  {
+   "name": "Prieto Serrano, María Isabel",
+   "group": "GP",
+   "seat": "3606"
+  },
+  {
+   "name": "Puente Santiago, Óscar",
+   "group": "GS",
+   "seat": "1108"
+  },
+  {
+   "name": "Pueyo Sanz, Jorge",
+   "group": "GSUMAR",
+   "seat": "2308"
+  },
+  {
+   "name": "Puy Fraga, Pedro",
+   "group": "GP",
+   "seat": "3406"
+  },
+  {
+   "name": "Quintana Carballo, Rosa",
+   "group": "GP",
+   "seat": "5603"
+  },
+  {
+   "name": "Quintanilla Navarro, Miguel Ángel",
+   "group": "GP",
+   "seat": "5704"
+  },
+  {
+   "name": "Rallo Lombarte, Artemi",
+   "group": "GS",
+   "seat": "1413"
+  },
+  {
+   "name": "Ramajo Prada, Óscar",
+   "group": "GP",
+   "seat": "3810"
+  },
+  {
+   "name": "Ramírez Carner, Arnau",
+   "group": "GS",
+   "seat": "1603"
+  },
+  {
+   "name": "Ramírez del Río, José",
+   "group": "GVOX",
+   "seat": "2609"
+  },
+  {
+   "name": "Ramírez Martín, María Lourdes",
+   "group": "GP",
+   "seat": "2811"
+  },
+  {
+   "name": "Ramírez Moreno, María de las Nieves",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Ramos Esteban, César Joaquín",
+   "group": "GS",
+   "seat": "1509"
+  },
+  {
+   "name": "Recas Martín, Alda",
+   "group": "GSUMAR",
+   "seat": "2508"
+  },
+  {
+   "name": "Redondo Cárdenas, Gonzalo",
+   "group": "GS",
+   "seat": "4803"
+  },
+  {
+   "name": "Rego Candamil, Néstor",
+   "group": "GMx",
+   "seat": "2513"
+  },
+  {
+   "name": "Requena Ruiz, Juan Diego",
+   "group": "GP",
+   "seat": "3507"
+  },
+  {
+   "name": "Rey de las Heras, Luis Alfonso",
+   "group": "GS",
+   "seat": "1714"
+  },
+  {
+   "name": "Reynal Reillo, Esperanza",
+   "group": "GP",
+   "seat": "3704"
+  },
+  {
+   "name": "Rivera Arias, Engracia",
+   "group": "GSUMAR",
+   "seat": "2406"
+  },
+  {
+   "name": "Rives Arcayna, Caridad",
+   "group": "GS",
+   "seat": "4807"
+  },
+  {
+   "name": "Robles López, Joaquín",
+   "group": "GVOX",
+   "seat": "2608"
+  },
+  {
+   "name": "Rodríguez Almeida, Andrés Alberto",
+   "group": "GVOX",
+   "seat": "2804"
+  },
+  {
+   "name": "Rodríguez Calleja, Patricia",
+   "group": "GP",
+   "seat": "3504"
+  },
+  {
+   "name": "Rodríguez de Millán Parro, María José",
+   "group": "GVOX",
+   "seat": "3202"
+  },
+  {
+   "name": "Rodríguez Gómez de Celis, Alfonso",
+   "group": "GS",
+   "seat": "2"
+  },
+  {
+   "name": "Rodríguez Palacios, Javier",
+   "group": "GS",
+   "seat": "1608"
+  },
+  {
+   "name": "Rodríguez Salas, José Antonio",
+   "group": "GS",
+   "seat": "1405"
+  },
+  {
+   "name": "Rodríguez Serra, Santi",
+   "group": "GP",
+   "seat": "3820"
+  },
+  {
+   "name": "Rodríguez Suárez, Esther",
+   "group": "GS",
+   "seat": "4701"
+  },
+  {
+   "name": "Rojas García, Carlos",
+   "group": "GP",
+   "seat": "3613"
+  },
+  {
+   "name": "Rojas Manrique, Juan Antonio",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Rojo Blas, Alberto",
+   "group": "GS",
+   "seat": "1701"
+  },
+  {
+   "name": "Román Jasanada, Antonio",
+   "group": "GP",
+   "seat": "3512"
+  },
+  {
+   "name": "Romaní Cantera, José Ignacio",
+   "group": "GP",
+   "seat": "5703"
+  },
+  {
+   "name": "Romero Pozo, Rafaela",
+   "group": "GS",
+   "seat": "1810"
+  },
+  {
+   "name": "Romero Vilches, María de los Reyes",
+   "group": "GVOX",
+   "seat": "3303"
+  },
+  {
+   "name": "Ros Martínez, Susana",
+   "group": "GS",
+   "seat": "1310"
+  },
+  {
+   "name": "Rueda Perelló, Patricia",
+   "group": "GVOX",
+   "seat": "2606"
+  },
+  {
+   "name": "Rufián Romero, Gabriel",
+   "group": "GR",
+   "seat": "2412"
+  },
+  {
+   "name": "Ruiz Boix, Juan Carlos",
+   "group": "GS",
+   "seat": "1414"
+  },
+  {
+   "name": "Ruiz de Diego, Víctor Javier",
+   "group": "GS",
+   "seat": "4604"
+  },
+  {
+   "name": "Ruiz de Pinedo Undiano, Iñaki",
+   "group": "GEH Bildu",
+   "seat": "2601"
+  },
+  {
+   "name": "Ruiz Solás, María de la Cabeza",
+   "group": "GVOX",
+   "seat": "3301"
+  },
+  {
+   "name": "Sáez Alonso-Muñumer, Pablo",
+   "group": "GVOX",
+   "seat": "3402"
+  },
+  {
+   "name": "Sáez Cruz, Emilio",
+   "group": "GS",
+   "seat": "1601"
+  },
+  {
+   "name": "Sagastizabal Unzetabarrenetxea, Idoia",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2309"
+  },
+  {
+   "name": "Sahuquillo García, Luis Carlos",
+   "group": "GS",
+   "seat": "1409"
+  },
+  {
+   "name": "Sainz Martín, María",
+   "group": "GS",
+   "seat": "1815"
+  },
+  {
+   "name": "Salvador i Duch, Jordi",
+   "group": "GR",
+   "seat": "2410"
+  },
+  {
+   "name": "Sánchez Díaz, María Carmen",
+   "group": "GS",
+   "seat": "1511"
+  },
+  {
+   "name": "Sánchez García, José María",
+   "group": "GVOX",
+   "seat": "2607"
+  },
+  {
+   "name": "Sánchez Ojeda, Carlos Alberto",
+   "group": "GP",
+   "seat": "2709"
+  },
+  {
+   "name": "Sánchez Pérez-Castejón, Pedro",
+   "group": "GS",
+   "seat": "1101"
+  },
+  {
+   "name": "Sánchez Pérez, César",
+   "group": "GP",
+   "seat": "3715"
+  },
+  {
+   "name": "Sánchez Serna, Javier",
+   "group": "GMx",
+   "seat": "2509"
+  },
+  {
+   "name": "Sánchez Sierra, María del Mar",
+   "group": "GP",
+   "seat": "3414"
+  },
+  {
+   "name": "Sánchez Torregrosa, Maribel",
+   "group": "GP",
+   "seat": "3511"
+  },
+  {
+   "name": "Sancho Íñiguez, Herminio Rufino",
+   "group": "GS",
+   "seat": "1611"
+  },
+  {
+   "name": "Santana Aguilera, Ada",
+   "group": "GS",
+   "seat": "4702"
+  },
+  {
+   "name": "Santana Perera, Noemí",
+   "group": "GMx",
+   "seat": "2511"
+  },
+  {
+   "name": "Santiago Romero, Enrique Fernando",
+   "group": "GSUMAR",
+   "seat": "2204"
+  },
+  {
+   "name": "Santos Maraver, Agustín",
+   "group": "GSUMAR",
+   "seat": "2301"
+  },
+  {
+   "name": "Sanz Martínez, Luisa",
+   "group": "GS",
+   "seat": "1713"
+  },
+  {
+   "name": "Sarrià Morell, Vicent Manuel",
+   "group": "GS",
+   "seat": "1710"
+  },
+  {
+   "name": "Sastre Uyá, Miguel Ángel",
+   "group": "GP",
+   "seat": "3703"
+  },
+  {
+   "name": "Sayas López, Sergio",
+   "group": "GP",
+   "seat": "3304"
+  },
+  {
+   "name": "Sémper Pascual, Borja",
+   "group": "GP",
+   "seat": "3307"
+  },
+  {
+   "name": "Senderos Oraá, Daniel",
+   "group": "GS",
+   "seat": "1610"
+  },
+  {
+   "name": "Serrada Pariente, David",
+   "group": "GS",
+   "seat": "1506"
+  },
+  {
+   "name": "Serrano Martínez, Juan Francisco",
+   "group": "GS",
+   "seat": "1302"
+  },
+  {
+   "name": "Sierra Caballero, Francisco",
+   "group": "GSUMAR",
+   "seat": "2506"
+  },
+  {
+   "name": "Simancas Simancas, Rafael",
+   "group": "GS",
+   "seat": "1210"
+  },
+  {
+   "name": "Soldevilla Novials, Alba",
+   "group": "GS",
+   "seat": "4605"
+  },
+  {
+   "name": "Soler Mur, Alejandro",
+   "group": "GS",
+   "seat": "1208"
+  },
+  {
+   "name": "Taboadela Álvarez, Obdulia",
+   "group": "GS",
+   "seat": "1407"
+  },
+  {
+   "name": "Tarno Blanco, Ricardo",
+   "group": "GP",
+   "seat": "5801"
+  },
+  {
+   "name": "Tellado Filgueira, Miguel",
+   "group": "GP",
+   "seat": "3208"
+  },
+  {
+   "name": "Teniente Sánchez, Cristina",
+   "group": "GP",
+   "seat": "5701"
+  },
+  {
+   "name": "Tomás Olivares, Violante",
+   "group": "GP",
+   "seat": "2716"
+  },
+  {
+   "name": "Torres Tejada, María",
+   "group": "GP",
+   "seat": "2820"
+  },
+  {
+   "name": "Trenzano Rubio, Marta",
+   "group": "GS",
+   "seat": "1806"
+  },
+  {
+   "name": "Uriarte Bengoechea, Edurne",
+   "group": "GP",
+   "seat": "3403"
+  },
+  {
+   "name": "Valero Morales, Juan Antonio",
+   "group": "GSUMAR",
+   "seat": "2304"
+  },
+  {
+   "name": "Valido García, Cristina",
+   "group": "GMx",
+   "seat": "1716"
+  },
+  {
+   "name": "Vallugera Balañà, Pilar",
+   "group": "GR",
+   "seat": "2514"
+  },
+  {
+   "name": "Vaquero Montero, Maribel",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2205"
+  },
+  {
+   "name": "Varela Pazos, Marta",
+   "group": "GP",
+   "seat": "3415"
+  },
+  {
+   "name": "Vázquez Blanco, Ana Belén",
+   "group": "GP",
+   "seat": "3509"
+  },
+  {
+   "name": "Vázquez Jiménez, María del Mar",
+   "group": "GP",
+   "seat": "3707"
+  },
+  {
+   "name": "Vedrina Conesa, María Elisa",
+   "group": "GP",
+   "seat": "2816"
+  },
+  {
+   "name": "Velarde Gómez, Martina",
+   "group": "GMx",
+   "seat": "2512"
+  },
+  {
+   "name": "Velasco Morillo, Elvira",
+   "group": "GP",
+   "seat": "2710"
+  },
+  {
+   "name": "Velasco Retamosa, José Manuel",
+   "group": "GP",
+   "seat": "3816"
+  },
+  {
+   "name": "Verano Domínguez, Bella",
+   "group": "GP",
+   "seat": "3412"
+  },
+  {
+   "name": "Verdejo Vicente, Ferran",
+   "group": "GS",
+   "seat": "1704"
+  },
+  {
+   "name": "Vidal Matas, Vicenç",
+   "group": "GSUMAR",
+   "seat": "2408"
+  },
+  {
+   "name": "Vidal Sáez, Aina",
+   "group": "GSUMAR",
+   "seat": "2202"
+  },
+  {
+   "name": "Zaragoza Alonso, José",
+   "group": "GS",
+   "seat": "1209"
+  }
+ ],
+ "votings": [
+  {
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 23.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 18,
+    "no": 330,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion001/VOT_20241121173755.json"
+  },
+  {
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 24.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 32,
+    "no": 303,
+    "abstain": 13,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNNNNNNNANNNNNNYNNNNAYNNNNNNNNNNYNNNYNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNYNNANNNNNNNNNNNNNNANNNNNNNNNNNNNNYNNNNYNNNANNYNNNNNNNNNNNNYNANNAYNNNNNNNNYNNNNNNNNNNNNNNNNNNYYNYNNNNNANNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNNNANNYNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNANNANNNNNNANNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNANNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion002/VOT_20241121173756.json"
+  },
+  {
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 25.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 303,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNNNNNNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNYNNNYNNYNNNNNNNNNNNNYNYNNYYNNNNNNNNYNNNNNNNNNNNNNNNNNNYYNYNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNNNYNNYNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNYNNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion003/VOT_20241121173757.json"
+  },
+  {
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 27.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 32,
+    "no": 303,
+    "abstain": 13,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNNNNNNNANNNNNNYNNNNAYNNNNNNNNNNYNNNYNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNYNNANNNNNNNNNNNNNNANNNNNNNNNNNNNNYNNNNYNNNANNYNNNNNNNNNNNNYNANNAYNNNNNNNNYNNNNNNNNNNNNNNNNNNYYNYNNNNNANNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNNNANNYNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNANNANNNNNNANNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNANNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion004/VOT_20241121173758.json"
+  },
+  {
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Enmienda 2.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 347,
+    "yes": 5,
+    "no": 342,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion005/VOT_20241121173759.json"
+  },
+  {
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Resto de las enmiendas.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 139,
+    "no": 162,
+    "abstain": 47,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXAYNNNYAAAANYYNNNYYYNANNYNNYANNANNYYYNYYYYNNNYYYNNANYYYNNYYYNNNAYYNNYNYYNYNNNNYYNYYYAYAYYNNNNAYNNNYAYNAAAYYYAYYYYNYANNNYNYNNAYYNNYANAYNNNNNAYNYYNAYYNNANYANNNNYYNNANNYNNNYNYNYYYANYYNNNNYNYNNNNANNAYNANYYNNYYNNYYNYNYYYYNNYYNYYYYYANNNYYNYYYYNNYYNYYNNNNNAYNNYYYNYNAYNNNNAYNYNNAAYANNNYNYYNYYNANAANNAAANNNNANAYXYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNYANYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion006/VOT_20241121173801.json"
+  },
+  {
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Votación en bloque de las enmiendas.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 18,
+    "no": 329,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNAYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion007/VOT_20241121173803.json"
+  },
+  {
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu y el Grupo Parlamentario Republicano Enmiendas 36 y 37.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 303,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNNNNNNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNYNNNYNNYNNNNNNNNNNNNYNYNNYYNNNNNNNNYNNNNNNNNNNNNNNNNNNYYNYNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNNNYNNYNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNYNNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion008/VOT_20241121173804.json"
+  },
+  {
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu y el Grupo Parlamentario Republicano Resto de las enmiendas.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 303,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNNNNNNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNYNNNYNNYNNNNNNNNNNNNYNYNNYYNNNNNNNNYNNNNNNNNNNNNNNNNNNYYNYNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNNNYNNYNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNYNNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion009/VOT_20241121173805.json"
+  },
+  {
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Republicano Enmienda 28.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 18,
+    "no": 330,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion010/VOT_20241121173807.json"
+  },
+  {
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmiendas 113, 118 y 120.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 347,
+    "yes": 164,
+    "no": 178,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NXNNYYANNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNNYNYNNNYYNNNYYNNNNYYNYNNYNYYNYNNYNNNNNNNNYYYAYNYYYNNNYNNNNNNYNNNNYNNYYYNYNNYNNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYANNYYNYYNYYYNNNYNNNNYNNYYYYNYNYYYYYYYNNYNYNNYYNNYYNNYNYNNNNXYNNNNNNNNNYYNNNYNNNNYYNNYNNYYYYYYNYYNNNYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYAYYYYNNXNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYANNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion011/VOT_20241121173808.json"
+  },
+  {
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Resto de las enmiendas.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 347,
+    "yes": 44,
+    "no": 303,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NXNNNNNNNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNXNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNYNNNYNNYNNNNNNNNNNNNYNYNNYYNNNNNNNNYNNNNNNNNNNNNNNNNNNYYNYNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNNNYNNYNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNYNNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion012/VOT_20241121173809.json"
+  },
+  {
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Votación en bloque de las enmiendas.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 315,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXYNNNNNYYNYNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNYNYNNNNNNNNNNNNYNNYYYNNNNNNNNNNYNNNNNNNNYNNNNNYNNNNNNNNYNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNYYNYNNNNNNNNNNNYNYNNNNYYNNNNNNYNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion013/VOT_20241121173810.json"
+  },
+  {
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda 80.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 347,
+    "yes": 145,
+    "no": 201,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNYNYNNYYNNNNYYNYNYYNNYYNYNNNNNNNNNYNYNNNYYNYNNNYYNNNYYYNNNYYNNNNYNYYYYNNYNNNNNNNNYNYYYNYYYNNNYNNNNNNYNNNNYNNYYYNYNYNNNNYNNNYYNYNYYYNNYNNYNNNNYYYNYNYYYNNYYNNYNYYYNYNYNNYNYNNYYNNNNNYYYYYYYNNYNYNNNYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNNNYYYYNYNNNNYNYNNYYNYANYNNYNNNNYYYNYNNYNNYNXNYYYYNNYYYYYYNNXNNNNYYNNNYYNNNYYYNYYYYNNNNNYNNYYYNNNNNNNNYNNY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion014/VOT_20241121173811.json"
+  },
+  {
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda 81.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 164,
+    "no": 184,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNNNYNNYYYNNNYNYYNYYNNYYNYYNNNYNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNYNNNNNNNNYYYYNNYYYNNNYNNNNNNNNNNNYNNYYYNYNYYNNNYYNNYNNYYYYYNNYNNYNNNYYNYNNYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYNYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYNNYYNNNYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNNYYNNNYYYYNYNNXNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYNYNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion015/VOT_20241121173812.json"
+  },
+  {
+   "number": 16,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda 106.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 169,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNYYNYNNNYYYNNYYYNNNYYNYNNYNYYYYNNYNNNNNNNNYYYYYNYYYNNNYNNNNNNYYNNNYNNYYYNYNYYNNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYYNYYNNNYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNXNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYYNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion016/VOT_20241121173813.json"
+  },
+  {
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda transaccional en Comisión número 1 a la enmienda número 107, de los Grupos Parlamentarios Socialista y Junts per Catalunya.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 347,
+    "yes": 177,
+    "no": 170,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNYNNNNNNNNYYYYYNYYYNNNYNXNNNNYNNNNYNNYYYNYNYYNNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYYNYYNNNYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNXNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYYNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion017/VOT_20241121173814.json"
+  },
+  {
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda transaccional en Comisión número 4 a la enmienda número 108, de los Grupos Parlamentarios Socialista, Plurinacional SUMAR y Junts per Catalunya.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 171,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNYNNNNNNNNYYYYYNYYYNNNYNNNNNNYNNNNYNNYYYNYNYYNNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYYNYYNNNYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNXNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYYNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion018/VOT_20241121173815.json"
+  },
+  {
+   "number": 19,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Resto de las enmiendas.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 172,
+    "no": 175,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNNNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNYNNNNNNNNYYYYYNYYYNNNYNNNNNNYNNNNYNNYYYNYNYYNNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYYNYYNNNYNYNNYYYYANYNYYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNXNNNNYYNYYYYNNNYYYYYYYYNNNNNYNYYYYNNNNNNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion019/VOT_20241121173816.json"
+  },
+  {
+   "number": 20,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Votos particulares Voto particular número 1 del Grupo Parlamentario Socialista a la enmienda número 109 del Grupo Parlamentario Plurinacional SUMAR.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 159,
+    "no": 148,
+    "abstain": 41,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXANYYYNANANYNNYYYNNNYAYYNYYNAYYAYYNNNNNNNNYYYNNNYYAYNNNYYNNNYYYANNYYNYNNYNYYYYNNYNNNANANNYYYYANYYYNANYAAANNNANNNNYNAYYYNYNYYNNNYYNAYANYYYYYANYNNYNNNYYAYNAYYYYNNYYNYYNYYYNYNYNNNAYNNYYYYNYNYYYYAYYANYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNAYYYNNYNNNNYYNNYNNYYYYYANYYNNNYNYANYYYYANYNYYAANAYYYNYNNYNNYAYAAYYAAAYYYYAYANXNNNNYYNYYYYNNNYYYYYYYYNNNNNYNYYAYNNNNNNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion020/VOT_20241121173817.json"
+  },
+  {
+   "number": 21,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Votos particulares Voto particular número 2 del Grupo Parlamentario Socialista a la enmienda número 110 del Grupo Parlamentario Plurinacional SUMAR.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 159,
+    "no": 175,
+    "abstain": 14,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNANYNNYYYNNNYAYYNYYNNYYNYYNNNNNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNYNNNNNNNNYYYYANYYYNNNYNNNNNNANNNNYNNYYYNYNYYNNNYYNNYANYYYYYNNYNNYNNNYYAYNAYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYAYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYANYYNNNYNYNNYYYYANYNYYNNNNYYYNYNNYNNYNYNAYYANNYYYYAYNNXNNNNYYNYYYYNNNYYYYYYYYNNNNNYNYYAYNNNNNNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion021/VOT_20241121173818.json"
+  },
+  {
+   "number": 22,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Votos particulares Voto particular número 3 del Grupo Parlamentario Socialista a la enmienda número 111 del Grupo Parlamentario Plurinacional SUMAR.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 159,
+    "no": 189,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNNNYNNYYYNNNYNYYNYYNNYYNYYNNNNNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNYNNNNNNNNYYYYNNYYYNNNYNNNNNNNNNNNYNNYYYNYNYYNNNYYNNYNNYYYYYNNYNNYNNNYYNYNNYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYNYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYNNYYNNNYNYNNYYYYNNYNYYNNNNYYYNYNNYNNYNYNNYYNNNYYYYNYNNXNNNNYYNYYYYNNNYYYYYYYYNNNNNYNYYNYNNNNNNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion022/VOT_20241121173819.json"
+  },
+  {
+   "number": 23,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Votos particulares Votos particulares números 4 y 5 del Grupo Parlamentario Socialista a las enmiendas números 57 y 58 del Grupo Parlamentario Popular en el Congreso.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 347,
+    "yes": 159,
+    "no": 173,
+    "abstain": 15,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNANYNNYYYNNNYAYYNYYNNYYAYYNNNNNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNYNNNNNANNYYYYANYYYNNNYNNNNNNANNNNYNNYYYNYNYYNNNYYNNYANYYYYYNNYNNYNNNYYAYNAYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYAYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYANYYNNNYNYNNYYYYNNYNYYNNNNYYYNYNNYNNYNYNAYYANNYYYYAYNNXNNNNYYNYYYYNNXYYYYYYYYNNNNNYNYYAYNNNNNNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion023/VOT_20241121173820.json"
+  },
+  {
+   "number": 24,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Correcciones técnicas Enmienda de corrección técnica presentada por los Grupos Parlamentarios Socialista, Plurinacional SUMAR, Republicano y Euskal Herria Bildu.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 169,
+    "abstain": 2,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNYNYNNYYYNNNYYYYNYYNNYYAYYNNNYNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNYNNNNNANNYYYYYNYYYNNNYNNNNNNYNNNNYNNYYYNYNYYNNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYYNYYNNNYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNXNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYYNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion024/VOT_20241121173821.json"
+  },
+  {
+   "number": 25,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre el compromiso con el derecho a la igualdad efectiva entre hombres y mujeres, con especial atención a la garantía en el derecho a la salud sexual y reproductiva. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Republicano.",
+   "subtitle": "",
+   "expediente": "162/000333",
+   "totals": {
+    "present": 349,
+    "yes": 178,
+    "no": 33,
+    "abstain": 138,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "AXNAYYYANNYNYAAYYYAAAYYYYAYYANYYNYYAAAYAAAAYYYAAAYYNYAAAYYAAAYYYNAAYYAYAAYAYYYYAAYAAANANAAYYYYYAYYYANAYNNNAAAYAAAAYANYYYAYAYYNAAYYANYYAYYYYYNAYAAYNAAYYYYAYYYYYAAYYNYYAYYYAYAYAAANYAAYYYYAYAYYYYYYYNAYNYAAYYAAYYAAYAYAAAAYYAAYAAAAANYYYAAYAAAAYYAAYAAYYYYYYAYYAAAYAYNAYYYYYAYAYYNNANYYYAYAAYAAYNYNYYYYNNYYYYYYNAYAYAAYYYYYYYAAAYYYYYYYYAAAAAYAYYYYAAAAYAAAYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion025/VOT_20241121173822.json"
+  },
+  {
+   "number": 26,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Plurinacional SUMAR, sobre medidas urgentes para garantizar el abastecimiento energético en los barrios que están sufriendo cortes en el suministro de la electricidad y reforma integral de los barrios con menor renta. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Socialista.",
+   "subtitle": "",
+   "expediente": "162/000057",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 33,
+    "abstain": 144,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "AXNAYYYANNYNYAAYYYAAAYYYYAYYANYYNYYAAAYAAAAYYYAAAAYNYAAAYYAAAYYANAAYYAYAAYAYYAYAAYAAANANXAYYYYYAYYYANAYNNNAAAYAAAAYANYYYAYAAYNAAYYANYYAYYYYYNAYAAYNAAYYYYAYYYYXAAYYNYYAYYYAAAYAAANYAAYYYYAYAYYYYYYYNAYNYAAYYAAYYAAYAYAAAAYYAAAAAAAANYYAAAYAAAAYYAAYAAYYYYYYAYYAAAYAYNAYYYYYAYAYYNNANYYYAYAAYAAYNYNYYYYNNYYYYYYNAYAYAAYYYYYYYAAAYYYYYYYYAAAAAYAYYYYAAAAYAAAYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion026/VOT_20241121173823.json"
+  },
+  {
+   "number": 27,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga y Sr. Sánchez Serna), en relación con la desclasificación de toda la documentación vinculada al intento de Golpe de Estado de 23 de febrero de 1981.",
+   "subtitle": "",
+   "expediente": "173/000060",
+   "totals": {
+    "present": 349,
+    "yes": 57,
+    "no": 291,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "NXNNNNYNNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNYNNNNNNNNNNNNNYNNNNNNYNNNNNNYNNNNNNNNNNNNNYNYYNNNNNNNNNNNNNNYNNNNNNNNNNNNNYYNNNNYNNNYNNYNNNNNNNNNNNNYNYNNYYNNYNNNNNYNNNNNNYNNNNNNNNNNNYYNYNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNYNNNNNNNNNNNNNNYYNNNYNNYNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNYNNYNNNYNNYNNNNNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYAYYNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion027/VOT_20241121173825.json"
+  },
+  {
+   "number": 28,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la política del Gobierno acerca de la participación de las Fuerzas Armadas en la preservación de la seguridad y el bienestar de los españoles en los supuestos de grave riesgo, catástrofes y necesidades públicas.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "expediente": "173/000061",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion028/VOT_20241121173825.json"
+  },
+  {
+   "number": 29,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la política del Gobierno acerca de la participación de las Fuerzas Armadas en la preservación de la seguridad y el bienestar de los españoles en los supuestos de grave riesgo, catástrofes y necesidades públicas.",
+   "subtitle": "Votación separada por puntos Punto 2.",
+   "expediente": "173/000061",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 177,
+    "abstain": 138,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "AXYANNNAYYNYNAANNNAAANNNNANNAYNNYNNAAANAAAANNNAAANNYNAAANNAAANNNYAANNANAANANNNNAANAAAYAYAANNNNNANNNAYANYYYAAANAAAANAYNNNANANNYAANNAYNNANNNNNYANAANYAANNNNANNNNNAANNYNNANNNANANAAAYNAANNNNAXANNNNNNNYANYNAANNAANNAANANAAAANNAANAAAAAYNNNAANAAAANNAANAANNNNNNANNAAANANYANNNNNANANNYYAYNNNANAANAANYNYNNNNYYNNNNNNYANANAANNNNNNNAAANNNNNNNNAAAAANANNNNAAAANAAANNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion029/VOT_20241121173826.json"
+  },
+  {
+   "number": 30,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la política del Gobierno acerca de la participación de las Fuerzas Armadas en la preservación de la seguridad y el bienestar de los españoles en los supuestos de grave riesgo, catástrofes y necesidades públicas.",
+   "subtitle": "Votación separada por puntos Punto 3.",
+   "expediente": "173/000061",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 176,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNANNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNYNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYXNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion030/VOT_20241121173827.json"
+  },
+  {
+   "number": 31,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la política del Gobierno acerca de la participación de las Fuerzas Armadas en la preservación de la seguridad y el bienestar de los españoles en los supuestos de grave riesgo, catástrofes y necesidades públicas.",
+   "subtitle": "Votación separada por puntos Punto 4.",
+   "expediente": "173/000061",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion031/VOT_20241121173828.json"
+  },
+  {
+   "number": 32,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la política del Gobierno acerca de la participación de las Fuerzas Armadas en la preservación de la seguridad y el bienestar de los españoles en los supuestos de grave riesgo, catástrofes y necesidades públicas.",
+   "subtitle": "Votación separada por puntos Punto 5.",
+   "expediente": "173/000061",
+   "totals": {
+    "present": 349,
+    "yes": 169,
+    "no": 180,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNNYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYNNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion032/VOT_20241121173829.json"
+  },
+  {
+   "number": 33,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion033/VOT_20241121173830.json"
+  },
+  {
+   "number": 34,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 2.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 179,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYNYYYYYYNYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion034/VOT_20241121173831.json"
+  },
+  {
+   "number": 35,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 3.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 349,
+    "yes": 33,
+    "no": 178,
+    "abstain": 138,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "AXYANNNAYYNYNAANNNAAANNNNANNAYNNYNNAAANAAAANNNAAANNYNAAANNAAANNNYAANNANAANANNNNAANAAAYAYAANNNNNANNNAYANYYYAAANAAAANAYNNNANANNYAANNAYNNANNNNNYANAANYAANNNNANNNNNAANNYNNANNNANANAAAYNAANNNNANANNNNNNNYANYNAANNAANNAANANAAAANNAANAAAAAYNNNAANAAAANNAANAANNNNNNANNAAANANYANNNNNANANNYYAYNNNANAANAANYNYNNNNYYNNNNNNYANANAANNNNNNNAAANNNNNNNNAAAAANANNNNAAAANAAANNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion035/VOT_20241121173832.json"
+  },
+  {
+   "number": 36,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 4.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion036/VOT_20241121173833.json"
+  },
+  {
+   "number": 37,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 5.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion037/VOT_20241121173834.json"
+  },
+  {
+   "number": 38,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 6.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYXNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion038/VOT_20241121173835.json"
+  },
+  {
+   "number": 39,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 7.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion039/VOT_20241121173836.json"
+  },
+  {
+   "number": 40,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 8.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 347,
+    "yes": 171,
+    "no": 176,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYXNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYXNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion040/VOT_20241121173837.json"
+  },
+  {
+   "number": 41,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 9.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNXYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion041/VOT_20241121173838.json"
+  },
+  {
+   "number": 42,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 10.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 178,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNAYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion042/VOT_20241121173839.json"
+  },
+  {
+   "number": 43,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 11.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion043/VOT_20241121173840.json"
+  },
+  {
+   "number": 44,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar los servicios ferroviarios en España.",
+   "subtitle": "Votación separada por puntos Punto 12.",
+   "expediente": "173/000062",
+   "totals": {
+    "present": 349,
+    "yes": 33,
+    "no": 178,
+    "abstain": 138,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "AXYANNNAYYNYNAANNNAAANNNNANNAYNNYNNAAANAAAANNNAAANNYNAAANNAAANNNYAANNANAANANNNNAANAAAYAYAANNNNNANNNAYANYYYAAANAAAANAYNNNANANNYAANNAYNNANNNNNYANAANYAANNNNANNNNNAANNYNNANNNANANAAAYNAANNNNANANNNNNNNYANYNAANNAANNAANANAAAANNAANAAAAAYNNNAANAAAANNAANAANNNNNNANNAAANANYANNNNNANANNYYAYNNNANAANAANYNYNNNNYYNNNNNNYANANAANNNNNNNAAANNNNNNNNAAAAANANNNNAAAANAAANNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion044/VOT_20241121173841.json"
+  },
+  {
+   "number": 45,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Catalán Higueras), sobre los trámites pendientes, plazos y previsiones para la construcción de la segunda fase del Canal de Navarra.",
+   "subtitle": "",
+   "expediente": "173/000063",
+   "totals": {
+    "present": 349,
+    "yes": 292,
+    "no": 44,
+    "abstain": 13,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYYYAYYYNYYYYYYNYYYYNNYYYYYYYYYYNYYYNYYYYYNYYYYAYYYYYYYYYYYYYAYYYYYYNYYYYYYAYYYYYYYYYYYYYNYANYYYYYYYYYYYYYYNYYYYYYYYYYYYYANYYYYNYYYNYYNYYYYYYYYYYYYNYNYYNNYYAYYYYYNYYYYYYAYYYYYYYYYYYNNYNYYYYYNYYYYYYYYYNYYYYYYYYYYYYYYYYYYAYYYYYYYYAYYYYYYYYYYYYYYNNYYYNYYNYYYYYYYYYYNYAYYYNYYYYYYYYYYYYYYYYYYYNYYNYYYAYYNYYYYYNYYYYNNNYYYYYYYYNYYYYYYYYYYYNYNAYYYYNYYYYNNY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion045/VOT_20241121173842.json"
+  },
+  {
+   "number": 46,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 37,
+    "abstain": 141,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAYYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYYYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYANAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAYYAANAAYAYNAYYYYAAAYAYYAYYAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion046/VOT_20241121173843.json"
+  },
+  {
+   "number": 47,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 2.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 349,
+    "yes": 172,
+    "no": 37,
+    "abstain": 140,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAYYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYYYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYANAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAYYAANAYYAYNAYYYYAAAYAYYAYYAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion047/VOT_20241121173844.json"
+  },
+  {
+   "number": 48,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 3.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 36,
+    "abstain": 140,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAXYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYYYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYANAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAXYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAAXYANYYYAYAYYAANAYYAYNAYYYYAAAYAYYAYYAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion048/VOT_20241121173845.json"
+  },
+  {
+   "number": 49,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 4.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 347,
+    "yes": 139,
+    "no": 36,
+    "abstain": 172,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YXAYAAAYAANAAYYAANYYYAANAYAAYAAAAANYYYNYYYYANAYYYAAAAYYYAAYYYAAAAYYAAYNYYAYAAAAYYAYYYAYAYYANAAAYAAAYAYAAAAYYYNYYYYAYAAAAYAYANAXYANYAAAYANAAAAYAYYAAYYNAXAYANAAAYYAAANAYAAAYAYAYYYAAYYAANNYNYAAAANAAYYAAAYYNAYYAAYYAYAYYYYAAYYAYYYYYAAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAAYAANAAYAYNAAYYAAAAYAYYAYYAAAAAAANAAAAAAAAAYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion049/VOT_20241121173847.json"
+  },
+  {
+   "number": 50,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 5.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 37,
+    "abstain": 141,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAYYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYYYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYANAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAYYAANAAYAYNAYYYYAAAYAYYAYYAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion050/VOT_20241121173848.json"
+  },
+  {
+   "number": 51,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 6.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 348,
+    "yes": 169,
+    "no": 37,
+    "abstain": 142,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAYYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYAYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYANAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAXYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAYYAANAAYAYNAYYYYAAAYAYYAYYAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion051/VOT_20241121173849.json"
+  },
+  {
+   "number": 52,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 7.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 37,
+    "abstain": 141,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAYYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYYYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYANAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAYYAANAAYAYNAYYYYAAAYAYYAYYAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion052/VOT_20241121173850.json"
+  },
+  {
+   "number": 53,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 8.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 37,
+    "abstain": 141,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAYYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYYYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYANAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAYYAANAYYAYNAYYYYAAAYAYYAYAAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion053/VOT_20241121173850.json"
+  },
+  {
+   "number": 54,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 9.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 37,
+    "abstain": 141,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAYYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYYYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYANAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAYYAANAAYAYNAYYYYAAAYAYYAYYAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion054/VOT_20241121173851.json"
+  },
+  {
+   "number": 55,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 10.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 36,
+    "abstain": 141,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAYYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYYYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYAXAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAYYAANAAYAYNAYYYYAAAYAYYAYYAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion055/VOT_20241121173852.json"
+  },
+  {
+   "number": 56,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 11.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 37,
+    "abstain": 141,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAYYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYYYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYANAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAYYAANAAYAYNAYYYYAAAYAYYAYYAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion056/VOT_20241121173853.json"
+  },
+  {
+   "number": 57,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 12.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 37,
+    "abstain": 141,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAYYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYYYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYANAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAYYAANAAYAYNAYYYYAAAYAYYAYYAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion057/VOT_20241121173854.json"
+  },
+  {
+   "number": 58,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 13.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 37,
+    "abstain": 141,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYAAAYYYNYAYYAANYYYAANAYAAYYAAYANYYYNYYYYANAYYYAAYAYYYAAYYYAAAYYYAAYNYYAYAAAAYYAYYYYYYYYANAAAYAAAYYYAYYYYYYNYYYYAYYAAAYAYANYYYANYYAAYANAAAYYAYYAYYYNANAYANAAAYYAAYNAYAAAYAYAYYYYAYYAANNYNYAAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYAYYYYYYAAAYYAYYYYAAYYAYYNNAAANYANYYYAYAYYAANAAYAYNAYYYYAAAYAYYAYYAYAYAAANYYAAAAAAYYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion058/VOT_20241121173855.json"
+  },
+  {
+   "number": 59,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las responsabilidades y actuaciones del Ministerio del Interior durante la crisis provocada por la DANA.",
+   "subtitle": "Votación separada por puntos Punto 14.",
+   "expediente": "173/000064",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 70,
+    "abstain": 141,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXNYAAAYNNNNAYYAANYYYAANAYAAYNAANANYYYNYYYYANAYYYAANAYYYAAYYYAAANYYAAYNYYAYAAAAYYAYYYNYNYYANAAAYAAAYNYANNNYYYNYYYYAYNAAAYAYANNYYANYNAAYANAAANYAYYANYYNANAYANAAAYYAANNAYAAAYAYAYYYNAYYAANNYNYAAAANAANYANAYYNAYYAAYYAYAYYYYAAYYAYYYYYNAAAYYAYYYYAAYYAYYNNAAANYANYYYAYANYAANAAYAYNANNYNAAAYAYYAYYANANAAANNNAAAAAANYAYNYYAANNNAAYYYAAANAAAAYYYYYAYNAAAYYYYNYYYANNA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion059/VOT_20241121173856.json"
+  },
+  {
+   "number": 60,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.",
+   "subtitle": "",
+   "expediente": "130/000009",
+   "totals": {
+    "present": 349,
+    "yes": 314,
+    "no": 33,
+    "abstain": 2,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXNYYYYYNNYNYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYNYNYYYYYYYYYYYYNYYNNNYYYYYYYYYYNYYYYYYYYNYYYYYNYYYYYYYYNYYYYYNYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYNNYNYYYYYYYYYYYNYNYYYYNNYYYYAYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion060/VOT_20241121173857.json"
+  },
+  {
+   "number": 61,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.",
+   "subtitle": "",
+   "expediente": "130/000009",
+   "totals": {
+    "present": 349,
+    "yes": 349,
+    "no": 0,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion061/VOT_20241121173858.json"
+  },
+  {
+   "number": 62,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen del Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 178,
+    "no": 171,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNYNNNNNNNNYYYYYNYYYNNNYNNNNNNYNNNNYNNYYYNYNYYNNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYYNYYNNNYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNYNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYYNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion062/VOT_20241121173859.json"
+  },
+  {
+   "number": 63,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se crea la Autoridad Administrativa Independiente de Defensa del Cliente Financiero para la resolución extrajudicial de conflictos entre las entidades financieras y sus clientes.",
+   "subtitle": "Enmienda a la totalidad de devolución. Enmienda a la totalidad de devolución presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "expediente": "121/000018",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 178,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNAYYNNNYYYNNYNYYNYNNNNYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion063/VOT_20241121173900.json"
+  },
+  {
+   "number": 64,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se crea la Autoridad Administrativa Independiente de Defensa del Cliente Financiero para la resolución extrajudicial de conflictos entre las entidades financieras y sus clientes.",
+   "subtitle": "Solicitud de avocación. Solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de ley, presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "expediente": "121/000018",
+   "totals": {
+    "present": 349,
+    "yes": 342,
+    "no": 7,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion064/VOT_20241121173901.json"
+  },
+  {
+   "number": 65,
+   "heading": "Veto del Senado.",
+   "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica 13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen Foral de Navarra, en cuanto a tráfico, circulación de vehículos de motor y seguridad vial.",
+   "subtitle": "",
+   "expediente": "121/000030",
+   "totals": {
+    "present": 349,
+    "yes": 179,
+    "no": 170,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNYYNYNNNYYYNNYYYNNNYYNYNNYNYYYYNNYNNNNNNNNYYYYYNYYYNNNYNNNNNNYNNNNYNNYYYNYNYYNNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYYNYYNNNYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNYNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYYNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion065/VOT_20241121173902.json"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000029",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 14,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 15/2025, de 2 de diciembre, por el que se adoptan medidas urgentes para favorecer la actividad inversora de las entidades locales y de las comunidades autónomas, y por el que se modifica el Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 168,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 15,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 15/2025, de 2 de diciembre, por el que se adoptan medidas urgentes para favorecer la actividad inversora de las entidades locales y de las comunidades autónomas, y por el que se modifica el Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 347,
+    "no": 0,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  }
+ ]
+}

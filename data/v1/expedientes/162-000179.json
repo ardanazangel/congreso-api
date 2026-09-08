@@ -1,0 +1,261 @@
+{
+ "expediente": "162/000179",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 345,
+    "yes": 177,
+    "no": 0,
+    "abstain": 168,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 345,
+    "yes": 174,
+    "no": 20,
+    "abstain": 151,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 347,
+    "yes": 175,
+    "no": 13,
+    "abstain": 159,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 347,
+    "yes": 183,
+    "no": 0,
+    "abstain": 164,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 344,
+    "yes": 187,
+    "no": 0,
+    "abstain": 157,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 6,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 347,
+    "yes": 188,
+    "no": 0,
+    "abstain": 159,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 7,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 347,
+    "yes": 175,
+    "no": 20,
+    "abstain": 152,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 8,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 8.",
+   "totals": {
+    "present": 347,
+    "yes": 187,
+    "no": 3,
+    "abstain": 157,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 9,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 9.",
+   "totals": {
+    "present": 347,
+    "yes": 182,
+    "no": 0,
+    "abstain": 165,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 10,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 10.",
+   "totals": {
+    "present": 347,
+    "yes": 158,
+    "no": 32,
+    "abstain": 157,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 11,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 11.",
+   "totals": {
+    "present": 347,
+    "yes": 183,
+    "no": 0,
+    "abstain": 164,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 12,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 12.",
+   "totals": {
+    "present": 342,
+    "yes": 172,
+    "no": 20,
+    "abstain": 150,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 13,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 13.",
+   "totals": {
+    "present": 346,
+    "yes": 176,
+    "no": 13,
+    "abstain": 157,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 14,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 14.",
+   "totals": {
+    "present": 347,
+    "yes": 189,
+    "no": 0,
+    "abstain": 158,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 15,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la protección de los menores en el entorno digital.",
+   "subtitle": "Votación separada por puntos. Punto 15.",
+   "totals": {
+    "present": 347,
+    "yes": 190,
+    "no": 0,
+    "abstain": 157,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  }
+ ]
+}

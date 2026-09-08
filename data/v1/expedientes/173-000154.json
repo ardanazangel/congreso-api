@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000154",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-18",
+   "session": 166,
+   "number": 3,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la política en materia de migración del Gobierno.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 176,
+    "no": 172,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-18.json"
+  }
+ ]
+}

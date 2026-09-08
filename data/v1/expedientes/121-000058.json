@@ -1,0 +1,23 @@
+{
+ "expediente": "121/000058",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-10",
+   "session": 130,
+   "number": 10,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación conjunta de las enmiendas a la totalidad de devolución al Proyecto de Ley para la reducción de la duración máxima de la jornada ordinaria de trabajo y la garantía del registro de jornada y el derecho a la desconexión, presentadas por los Grupos Parlamentarios Junts per Catalunya, VOX y Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 178,
+    "no": 170,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-10.json"
+  }
+ ]
+}

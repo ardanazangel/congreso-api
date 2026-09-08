@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000256",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-14",
+   "session": 171,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Junts per Catalunya, Orgánica sobre la regulación del uso de velos integrales y la delegación en la Comunidad Autónoma de Cataluña de competencias estatales en materia de seguridad e identificación de personas.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 7,
+    "no": 327,
+    "abstain": 13,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-14.json"
+  }
+ ]
+}

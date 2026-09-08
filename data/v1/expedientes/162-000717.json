@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000717",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-18",
+   "session": 166,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la defensa de los cristianos perseguidos en el mundo y la acción internacional para frenar las masacres por motivos religiosos.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 169,
+    "no": 3,
+    "abstain": 176,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-18.json"
+  }
+ ]
+}

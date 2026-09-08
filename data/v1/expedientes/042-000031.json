@@ -1,0 +1,23 @@
+{
+ "expediente": "042/000031",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-16",
+   "session": 139,
+   "number": 20,
+   "heading": "Dictamen de la Comisión del Estatuto.",
+   "title": "Dictamen de la Comisión del Estatuto sobre declaración de actividades de los Excmos. Sres. Diputados.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 345,
+    "no": 1,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-16.json"
+  }
+ ]
+}

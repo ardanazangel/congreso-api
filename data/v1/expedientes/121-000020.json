@@ -1,0 +1,244 @@
+{
+ "expediente": "121/000020",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 106,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea, presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV). Enmienda 31.",
+   "totals": {
+    "present": 334,
+    "yes": 27,
+    "no": 303,
+    "abstain": 4,
+    "absent": 16,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  },
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya. Enmienda 10.",
+   "totals": {
+    "present": 335,
+    "yes": 155,
+    "no": 140,
+    "abstain": 40,
+    "absent": 15,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  },
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista y el Grupo Parlamentario Plurinacional SUMAR. Enmienda 42.",
+   "totals": {
+    "present": 336,
+    "yes": 162,
+    "no": 174,
+    "abstain": 0,
+    "absent": 14,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  },
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso. Enmienda 62.",
+   "totals": {
+    "present": 336,
+    "yes": 162,
+    "no": 174,
+    "abstain": 0,
+    "absent": 14,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  },
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso. Enmienda 64.",
+   "totals": {
+    "present": 334,
+    "yes": 144,
+    "no": 189,
+    "abstain": 1,
+    "absent": 16,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  },
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso. Enmienda 65.",
+   "totals": {
+    "present": 334,
+    "yes": 134,
+    "no": 200,
+    "abstain": 0,
+    "absent": 16,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  },
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen del Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 180,
+    "no": 32,
+    "abstain": 137,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  },
+  {
+   "date": "2025-09-17",
+   "session": 132,
+   "number": 20,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al preámbulo.",
+   "totals": {
+    "present": 347,
+    "yes": 340,
+    "no": 1,
+    "abstain": 6,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-17.json"
+  },
+  {
+   "date": "2025-09-17",
+   "session": 132,
+   "number": 21,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional undécima (nueva).",
+   "totals": {
+    "present": 347,
+    "yes": 189,
+    "no": 12,
+    "abstain": 146,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-17.json"
+  },
+  {
+   "date": "2025-09-17",
+   "session": 132,
+   "number": 22,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional duodécima (nueva).",
+   "totals": {
+    "present": 346,
+    "yes": 175,
+    "no": 170,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-17.json"
+  },
+  {
+   "date": "2025-09-17",
+   "session": 132,
+   "number": 23,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional decimotercera (nueva).",
+   "totals": {
+    "present": 347,
+    "yes": 302,
+    "no": 45,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-17.json"
+  },
+  {
+   "date": "2025-09-17",
+   "session": 132,
+   "number": 24,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición final tercera.",
+   "totals": {
+    "present": 347,
+    "yes": 308,
+    "no": 6,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-17.json"
+  },
+  {
+   "date": "2025-09-17",
+   "session": 132,
+   "number": 25,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición final tercera.bis (nueva).",
+   "totals": {
+    "present": 347,
+    "yes": 139,
+    "no": 168,
+    "abstain": 40,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-17.json"
+  }
+ ]
+}

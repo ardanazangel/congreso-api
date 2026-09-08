@@ -1,0 +1,23 @@
+{
+ "expediente": "121/000034",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "number": 13,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de Ley de modificación del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre, y de la Ley 14/2014, de 24 de julio, de Navegación Marítima, presentada por el Grupo Parlamentario Republicano.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 346,
+    "no": 0,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-12.json"
+  }
+ ]
+}

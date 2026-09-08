@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000022",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-04-23",
+   "session": 36,
+   "number": 24,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la necesidad de acordar una financiación singular para Cataluña a fin de que la ciudadanía catalana disponga de servicios públicos a la altura de su esfuerzo fiscal.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 24,
+    "no": 291,
+    "abstain": 28,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-23.json"
+  }
+ ]
+}

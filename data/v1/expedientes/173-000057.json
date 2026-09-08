@@ -1,0 +1,142 @@
+{
+ "expediente": "173/000057",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-23",
+   "session": 70,
+   "number": 21,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar a los españoles trabajos estables y de calidad.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 178,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-23.json"
+  },
+  {
+   "date": "2024-10-23",
+   "session": 70,
+   "number": 22,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar a los españoles trabajos estables y de calidad.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 342,
+    "yes": 164,
+    "no": 177,
+    "abstain": 1,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-23.json"
+  },
+  {
+   "date": "2024-10-23",
+   "session": 70,
+   "number": 23,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar a los españoles trabajos estables y de calidad.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-23.json"
+  },
+  {
+   "date": "2024-10-23",
+   "session": 70,
+   "number": 24,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar a los españoles trabajos estables y de calidad.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 349,
+    "yes": 33,
+    "no": 316,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-23.json"
+  },
+  {
+   "date": "2024-10-23",
+   "session": 70,
+   "number": 25,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar a los españoles trabajos estables y de calidad.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 349,
+    "yes": 33,
+    "no": 178,
+    "abstain": 138,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-23.json"
+  },
+  {
+   "date": "2024-10-23",
+   "session": 70,
+   "number": 26,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar a los españoles trabajos estables y de calidad.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 177,
+    "abstain": 138,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-23.json"
+  },
+  {
+   "date": "2024-10-23",
+   "session": 70,
+   "number": 27,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar a los españoles trabajos estables y de calidad.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-23.json"
+  },
+  {
+   "date": "2024-10-23",
+   "session": 70,
+   "number": 28,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar a los españoles trabajos estables y de calidad.",
+   "subtitle": "Votación separada por puntos. Punto 8.",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-23.json"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "expediente": "122/000233",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista sobre programa de cribado neonatal del Sistema Nacional de Salud.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 307,
+    "no": 7,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-27.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 18,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley de modificación de normas sobre el programa de cribado neonatal del Sistema Nacional de Salud y de otra normativa. Votación de la enmienda.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 185,
+    "no": 0,
+    "abstain": 163,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "130/000030",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-01-27",
+   "session": 156,
+   "number": 1,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 16/2025, de 23 de diciembre, por el que se prorrogan determinadas medidas para hacer frente a situaciones de vulnerabilidad social, y se adoptan medidas urgentes en materia tributaria y de Seguridad Social.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-01-27.json"
+  }
+ ]
+}

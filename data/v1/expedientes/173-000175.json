@@ -1,0 +1,91 @@
+{
+ "expediente": "173/000175",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 26,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la reversión de las decisiones sobre el incremento del gasto militar para favorecer la inversión social en la actual situación de crisis económica.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 347,
+    "yes": 45,
+    "no": 302,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 27,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la reversión de las decisiones sobre el incremento del gasto militar para favorecer la inversión social en la actual situación de crisis económica.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 347,
+    "yes": 167,
+    "no": 45,
+    "abstain": 135,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 28,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la reversión de las decisiones sobre el incremento del gasto militar para favorecer la inversión social en la actual situación de crisis económica.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 347,
+    "yes": 178,
+    "no": 169,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 29,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la reversión de las decisiones sobre el incremento del gasto militar para favorecer la inversión social en la actual situación de crisis económica.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 347,
+    "yes": 45,
+    "no": 295,
+    "abstain": 7,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 30,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la reversión de las decisiones sobre el incremento del gasto militar para favorecer la inversión social en la actual situación de crisis económica.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 303,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  }
+ ]
+}

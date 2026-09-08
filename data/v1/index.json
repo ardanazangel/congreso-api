@@ -1,0 +1,822 @@
+{
+ "generatedAt": "2026-09-08T09:43:41.340Z",
+ "legislature": "XV",
+ "source": "https://www.congreso.es/es/opendata/votaciones",
+ "days": [
+  {
+   "date": "2023-09-19",
+   "session": 2,
+   "votings": 2,
+   "url": "sessions/2023-09-19.json"
+  },
+  {
+   "date": "2023-09-21",
+   "session": 3,
+   "votings": 4,
+   "url": "sessions/2023-09-21.json"
+  },
+  {
+   "date": "2023-11-28",
+   "session": 9,
+   "votings": 5,
+   "url": "sessions/2023-11-28.json"
+  },
+  {
+   "date": "2023-12-12",
+   "session": 11,
+   "votings": 7,
+   "url": "sessions/2023-12-12.json"
+  },
+  {
+   "date": "2023-12-19",
+   "session": 13,
+   "votings": 14,
+   "url": "sessions/2023-12-19.json"
+  },
+  {
+   "date": "2024-01-10",
+   "session": 15,
+   "votings": 8,
+   "url": "sessions/2024-01-10.json"
+  },
+  {
+   "date": "2024-01-16",
+   "session": 16,
+   "votings": 2,
+   "url": "sessions/2024-01-16.json"
+  },
+  {
+   "date": "2024-01-30",
+   "session": 18,
+   "votings": 9,
+   "url": "sessions/2024-01-30.json"
+  },
+  {
+   "date": "2024-02-06",
+   "session": 19,
+   "votings": 7,
+   "url": "sessions/2024-02-06.json"
+  },
+  {
+   "date": "2024-02-20",
+   "session": 21,
+   "votings": 2,
+   "url": "sessions/2024-02-20.json"
+  },
+  {
+   "date": "2024-02-22",
+   "session": 23,
+   "votings": 18,
+   "url": "sessions/2024-02-22.json"
+  },
+  {
+   "date": "2024-02-27",
+   "session": 24,
+   "votings": 2,
+   "url": "sessions/2024-02-27.json"
+  },
+  {
+   "date": "2024-02-29",
+   "session": 26,
+   "votings": 19,
+   "url": "sessions/2024-02-29.json"
+  },
+  {
+   "date": "2024-03-12",
+   "session": 27,
+   "votings": 2,
+   "url": "sessions/2024-03-12.json"
+  },
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "votings": 53,
+   "url": "sessions/2024-03-14.json"
+  },
+  {
+   "date": "2024-03-19",
+   "session": 31,
+   "votings": 2,
+   "url": "sessions/2024-03-19.json"
+  },
+  {
+   "date": "2024-03-21",
+   "session": 33,
+   "votings": 19,
+   "url": "sessions/2024-03-21.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "votings": 19,
+   "url": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-23",
+   "session": 36,
+   "votings": 38,
+   "url": "sessions/2024-04-23.json"
+  },
+  {
+   "date": "2024-05-21",
+   "session": 38,
+   "votings": 2,
+   "url": "sessions/2024-05-21.json"
+  },
+  {
+   "date": "2024-05-23",
+   "session": 40,
+   "votings": 61,
+   "url": "sessions/2024-05-23.json"
+  },
+  {
+   "date": "2024-05-28",
+   "session": 41,
+   "votings": 2,
+   "url": "sessions/2024-05-28.json"
+  },
+  {
+   "date": "2024-05-30",
+   "session": 43,
+   "votings": 36,
+   "url": "sessions/2024-05-30.json"
+  },
+  {
+   "date": "2024-06-11",
+   "session": 44,
+   "votings": 2,
+   "url": "sessions/2024-06-11.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "votings": 25,
+   "url": "sessions/2024-06-13.json"
+  },
+  {
+   "date": "2024-06-18",
+   "session": 47,
+   "votings": 2,
+   "url": "sessions/2024-06-18.json"
+  },
+  {
+   "date": "2024-06-20",
+   "session": 49,
+   "votings": 25,
+   "url": "sessions/2024-06-20.json"
+  },
+  {
+   "date": "2024-06-25",
+   "session": 50,
+   "votings": 2,
+   "url": "sessions/2024-06-25.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "votings": 46,
+   "url": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-07-04",
+   "session": 53,
+   "votings": 1,
+   "url": "sessions/2024-07-04.json"
+  },
+  {
+   "date": "2024-07-11",
+   "session": 54,
+   "votings": 13,
+   "url": "sessions/2024-07-11.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "votings": 77,
+   "url": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-09-10",
+   "session": 57,
+   "votings": 3,
+   "url": "sessions/2024-09-10.json"
+  },
+  {
+   "date": "2024-09-11",
+   "session": 58,
+   "votings": 11,
+   "url": "sessions/2024-09-11.json"
+  },
+  {
+   "date": "2024-09-17",
+   "session": 59,
+   "votings": 3,
+   "url": "sessions/2024-09-17.json"
+  },
+  {
+   "date": "2024-09-18",
+   "session": 60,
+   "votings": 7,
+   "url": "sessions/2024-09-18.json"
+  },
+  {
+   "date": "2024-09-24",
+   "session": 61,
+   "votings": 2,
+   "url": "sessions/2024-09-24.json"
+  },
+  {
+   "date": "2024-09-26",
+   "session": 63,
+   "votings": 9,
+   "url": "sessions/2024-09-26.json"
+  },
+  {
+   "date": "2024-10-08",
+   "session": 64,
+   "votings": 2,
+   "url": "sessions/2024-10-08.json"
+  },
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "votings": 20,
+   "url": "sessions/2024-10-10.json"
+  },
+  {
+   "date": "2024-10-15",
+   "session": 67,
+   "votings": 3,
+   "url": "sessions/2024-10-15.json"
+  },
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "votings": 14,
+   "url": "sessions/2024-10-16.json"
+  },
+  {
+   "date": "2024-10-22",
+   "session": 69,
+   "votings": 3,
+   "url": "sessions/2024-10-22.json"
+  },
+  {
+   "date": "2024-10-23",
+   "session": 70,
+   "votings": 31,
+   "url": "sessions/2024-10-23.json"
+  },
+  {
+   "date": "2024-10-29",
+   "session": 71,
+   "votings": 2,
+   "url": "sessions/2024-10-29.json"
+  },
+  {
+   "date": "2024-10-30",
+   "session": 73,
+   "votings": 2,
+   "url": "sessions/2024-10-30.json"
+  },
+  {
+   "date": "2024-11-12",
+   "session": 74,
+   "votings": 1,
+   "url": "sessions/2024-11-12.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "votings": 44,
+   "url": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-19",
+   "session": 77,
+   "votings": 2,
+   "url": "sessions/2024-11-19.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "votings": 65,
+   "url": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-26",
+   "session": 80,
+   "votings": 1,
+   "url": "sessions/2024-11-26.json"
+  },
+  {
+   "date": "2024-11-28",
+   "session": 82,
+   "votings": 18,
+   "url": "sessions/2024-11-28.json"
+  },
+  {
+   "date": "2024-12-10",
+   "session": 83,
+   "votings": 2,
+   "url": "sessions/2024-12-10.json"
+  },
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "votings": 14,
+   "url": "sessions/2024-12-12.json"
+  },
+  {
+   "date": "2024-12-17",
+   "session": 86,
+   "votings": 2,
+   "url": "sessions/2024-12-17.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "votings": 107,
+   "url": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2025-01-22",
+   "session": 89,
+   "votings": 5,
+   "url": "sessions/2025-01-22.json"
+  },
+  {
+   "date": "2025-02-11",
+   "session": 90,
+   "votings": 2,
+   "url": "sessions/2025-02-11.json"
+  },
+  {
+   "date": "2025-02-12",
+   "session": 91,
+   "votings": 18,
+   "url": "sessions/2025-02-12.json"
+  },
+  {
+   "date": "2025-02-18",
+   "session": 92,
+   "votings": 2,
+   "url": "sessions/2025-02-18.json"
+  },
+  {
+   "date": "2025-02-19",
+   "session": 93,
+   "votings": 15,
+   "url": "sessions/2025-02-19.json"
+  },
+  {
+   "date": "2025-02-25",
+   "session": 94,
+   "votings": 2,
+   "url": "sessions/2025-02-25.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "votings": 22,
+   "url": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-03-11",
+   "session": 96,
+   "votings": 2,
+   "url": "sessions/2025-03-11.json"
+  },
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "votings": 21,
+   "url": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2025-03-18",
+   "session": 99,
+   "votings": 2,
+   "url": "sessions/2025-03-18.json"
+  },
+  {
+   "date": "2025-03-20",
+   "session": 101,
+   "votings": 65,
+   "url": "sessions/2025-03-20.json"
+  },
+  {
+   "date": "2025-03-25",
+   "session": 102,
+   "votings": 3,
+   "url": "sessions/2025-03-25.json"
+  },
+  {
+   "date": "2025-03-26",
+   "session": 103,
+   "votings": 13,
+   "url": "sessions/2025-03-26.json"
+  },
+  {
+   "date": "2025-04-08",
+   "session": 104,
+   "votings": 3,
+   "url": "sessions/2025-04-08.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "votings": 21,
+   "url": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-05-06",
+   "session": 107,
+   "votings": 3,
+   "url": "sessions/2025-05-06.json"
+  },
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "votings": 18,
+   "url": "sessions/2025-05-08.json"
+  },
+  {
+   "date": "2025-05-13",
+   "session": 110,
+   "votings": 2,
+   "url": "sessions/2025-05-13.json"
+  },
+  {
+   "date": "2025-05-14",
+   "session": 111,
+   "votings": 12,
+   "url": "sessions/2025-05-14.json"
+  },
+  {
+   "date": "2025-05-20",
+   "session": 112,
+   "votings": 9,
+   "url": "sessions/2025-05-20.json"
+  },
+  {
+   "date": "2025-05-27",
+   "session": 114,
+   "votings": 2,
+   "url": "sessions/2025-05-27.json"
+  },
+  {
+   "date": "2025-05-28",
+   "session": 115,
+   "votings": 8,
+   "url": "sessions/2025-05-28.json"
+  },
+  {
+   "date": "2025-06-10",
+   "session": 116,
+   "votings": 2,
+   "url": "sessions/2025-06-10.json"
+  },
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "votings": 18,
+   "url": "sessions/2025-06-12.json"
+  },
+  {
+   "date": "2025-06-17",
+   "session": 119,
+   "votings": 2,
+   "url": "sessions/2025-06-17.json"
+  },
+  {
+   "date": "2025-06-19",
+   "session": 121,
+   "votings": 10,
+   "url": "sessions/2025-06-19.json"
+  },
+  {
+   "date": "2025-06-24",
+   "session": 122,
+   "votings": 3,
+   "url": "sessions/2025-06-24.json"
+  },
+  {
+   "date": "2025-06-26",
+   "session": 124,
+   "votings": 19,
+   "url": "sessions/2025-06-26.json"
+  },
+  {
+   "date": "2025-07-08",
+   "session": 125,
+   "votings": 2,
+   "url": "sessions/2025-07-08.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "votings": 19,
+   "url": "sessions/2025-07-22.json"
+  },
+  {
+   "date": "2025-09-09",
+   "session": 129,
+   "votings": 4,
+   "url": "sessions/2025-09-09.json"
+  },
+  {
+   "date": "2025-09-10",
+   "session": 130,
+   "votings": 11,
+   "url": "sessions/2025-09-10.json"
+  },
+  {
+   "date": "2025-09-16",
+   "session": 131,
+   "votings": 2,
+   "url": "sessions/2025-09-16.json"
+  },
+  {
+   "date": "2025-09-17",
+   "session": 132,
+   "votings": 27,
+   "url": "sessions/2025-09-17.json"
+  },
+  {
+   "date": "2025-09-23",
+   "session": 133,
+   "votings": 2,
+   "url": "sessions/2025-09-23.json"
+  },
+  {
+   "date": "2025-09-24",
+   "session": 134,
+   "votings": 10,
+   "url": "sessions/2025-09-24.json"
+  },
+  {
+   "date": "2025-10-07",
+   "session": 135,
+   "votings": 2,
+   "url": "sessions/2025-10-07.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "votings": 117,
+   "url": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-14",
+   "session": 137,
+   "votings": 2,
+   "url": "sessions/2025-10-14.json"
+  },
+  {
+   "date": "2025-10-16",
+   "session": 139,
+   "votings": 20,
+   "url": "sessions/2025-10-16.json"
+  },
+  {
+   "date": "2025-10-21",
+   "session": 140,
+   "votings": 2,
+   "url": "sessions/2025-10-21.json"
+  },
+  {
+   "date": "2025-10-22",
+   "session": 141,
+   "votings": 14,
+   "url": "sessions/2025-10-22.json"
+  },
+  {
+   "date": "2025-10-28",
+   "session": 142,
+   "votings": 25,
+   "url": "sessions/2025-10-28.json"
+  },
+  {
+   "date": "2025-11-11",
+   "session": 144,
+   "votings": 2,
+   "url": "sessions/2025-11-11.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "votings": 115,
+   "url": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-18",
+   "session": 147,
+   "votings": 2,
+   "url": "sessions/2025-11-18.json"
+  },
+  {
+   "date": "2025-11-19",
+   "session": 148,
+   "votings": 7,
+   "url": "sessions/2025-11-19.json"
+  },
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "votings": 18,
+   "url": "sessions/2025-11-27.json"
+  },
+  {
+   "date": "2025-12-09",
+   "session": 152,
+   "votings": 3,
+   "url": "sessions/2025-12-09.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "votings": 31,
+   "url": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2026-01-27",
+   "session": 156,
+   "votings": 3,
+   "url": "sessions/2026-01-27.json"
+  },
+  {
+   "date": "2026-02-10",
+   "session": 157,
+   "votings": 2,
+   "url": "sessions/2026-02-10.json"
+  },
+  {
+   "date": "2026-02-12",
+   "session": 159,
+   "votings": 25,
+   "url": "sessions/2026-02-12.json"
+  },
+  {
+   "date": "2026-02-17",
+   "session": 160,
+   "votings": 2,
+   "url": "sessions/2026-02-17.json"
+  },
+  {
+   "date": "2026-02-18",
+   "session": 161,
+   "votings": 12,
+   "url": "sessions/2026-02-18.json"
+  },
+  {
+   "date": "2026-02-24",
+   "session": 162,
+   "votings": 2,
+   "url": "sessions/2026-02-24.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "votings": 27,
+   "url": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-03-17",
+   "session": 165,
+   "votings": 2,
+   "url": "sessions/2026-03-17.json"
+  },
+  {
+   "date": "2026-03-18",
+   "session": 166,
+   "votings": 10,
+   "url": "sessions/2026-03-18.json"
+  },
+  {
+   "date": "2026-03-24",
+   "session": 167,
+   "votings": 2,
+   "url": "sessions/2026-03-24.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "votings": 67,
+   "url": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-04-14",
+   "session": 171,
+   "votings": 2,
+   "url": "sessions/2026-04-14.json"
+  },
+  {
+   "date": "2026-04-15",
+   "session": 172,
+   "votings": 18,
+   "url": "sessions/2026-04-15.json"
+  },
+  {
+   "date": "2026-04-21",
+   "session": 173,
+   "votings": 2,
+   "url": "sessions/2026-04-21.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "votings": 17,
+   "url": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-28",
+   "session": 175,
+   "votings": 3,
+   "url": "sessions/2026-04-28.json"
+  },
+  {
+   "date": "2026-04-30",
+   "session": 177,
+   "votings": 12,
+   "url": "sessions/2026-04-30.json"
+  },
+  {
+   "date": "2026-05-19",
+   "session": 179,
+   "votings": 2,
+   "url": "sessions/2026-05-19.json"
+  },
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "votings": 13,
+   "url": "sessions/2026-05-20.json"
+  },
+  {
+   "date": "2026-05-26",
+   "session": 181,
+   "votings": 3,
+   "url": "sessions/2026-05-26.json"
+  },
+  {
+   "date": "2026-05-28",
+   "session": 183,
+   "votings": 16,
+   "url": "sessions/2026-05-28.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "votings": 42,
+   "url": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-16",
+   "session": 186,
+   "votings": 2,
+   "url": "sessions/2026-06-16.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "votings": 27,
+   "url": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-06-23",
+   "session": 189,
+   "votings": 2,
+   "url": "sessions/2026-06-23.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "votings": 30,
+   "url": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "votings": 56,
+   "url": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "votings": 20,
+   "url": "sessions/2026-07-23.json"
+  }
+ ],
+ "missingData": [
+  "2023-09-27",
+  "2023-09-29",
+  "2023-11-16",
+  "2024-01-18"
+ ],
+ "totals": {
+  "days": 134,
+  "votings": 2056,
+  "withoutExpediente": 0
+ }
+}

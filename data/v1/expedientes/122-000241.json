@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000241",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-10",
+   "session": 157,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, para garantizar el cumplimiento de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 172,
+    "no": 162,
+    "abstain": 13,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-10.json"
+  }
+ ]
+}

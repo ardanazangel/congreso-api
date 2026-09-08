@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000075",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 25,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Convenio entre el Reino de España y la República Oriental de Uruguay en el ámbito de la seguridad y lucha contra la delincuencia organizada transnacional, hecho en Montevideo el 22 de julio de 2025, e intercambio de notas verbales de fecha 7 de agosto de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 294,
+    "no": 0,
+    "abstain": 52,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  }
+ ]
+}

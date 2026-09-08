@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000252",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-20",
+   "session": 49,
+   "number": 8,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre un Acuerdo de País contra los Discursos de Odio.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 33,
+    "abstain": 138,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-20.json"
+  }
+ ]
+}

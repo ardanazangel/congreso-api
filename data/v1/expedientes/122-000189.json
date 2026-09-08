@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000189",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-09",
+   "session": 129,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la escolarización del alumnado con necesidades educativas especiales (Orgánica).",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 177,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-09.json"
+  }
+ ]
+}

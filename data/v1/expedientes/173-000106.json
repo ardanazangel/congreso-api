@@ -1,0 +1,91 @@
+{
+ "expediente": "173/000106",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 13,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para que la Vicepresidenta Tercera del Gobierno y Ministra para la Transición Ecológica y el Reto Demográfico informe de las hasta la fecha no aclaradas causas del mayor apagón de la historia de España y de los compromisos que va a adquirir el Gobierno para que no vuelva a suceder.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 348,
+    "yes": 180,
+    "no": 152,
+    "abstain": 16,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  },
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 14,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para que la Vicepresidenta Tercera del Gobierno y Ministra para la Transición Ecológica y el Reto Demográfico informe de las hasta la fecha no aclaradas causas del mayor apagón de la historia de España y de los compromisos que va a adquirir el Gobierno para que no vuelva a suceder.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 153,
+    "abstain": 16,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  },
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 15,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para que la Vicepresidenta Tercera del Gobierno y Ministra para la Transición Ecológica y el Reto Demográfico informe de las hasta la fecha no aclaradas causas del mayor apagón de la historia de España y de los compromisos que va a adquirir el Gobierno para que no vuelva a suceder.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 157,
+    "abstain": 12,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  },
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 16,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para que la Vicepresidenta Tercera del Gobierno y Ministra para la Transición Ecológica y el Reto Demográfico informe de las hasta la fecha no aclaradas causas del mayor apagón de la historia de España y de los compromisos que va a adquirir el Gobierno para que no vuelva a suceder.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 347,
+    "yes": 184,
+    "no": 152,
+    "abstain": 11,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  },
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 17,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para que la Vicepresidenta Tercera del Gobierno y Ministra para la Transición Ecológica y el Reto Demográfico informe de las hasta la fecha no aclaradas causas del mayor apagón de la historia de España y de los compromisos que va a adquirir el Gobierno para que no vuelva a suceder.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 345,
+    "yes": 145,
+    "no": 185,
+    "abstain": 15,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  }
+ ]
+}

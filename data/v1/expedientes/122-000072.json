@@ -1,0 +1,40 @@
+{
+ "expediente": "122/000072",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-25",
+   "session": 94,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, sobre concesión de nacionalidad española a las y los saharauis nacidos bajo la administración española.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 195,
+    "no": 116,
+    "abstain": 33,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-25.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 26,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final de la Proposición de Ley sobre concesión de nacionalidad española a las y los saharauis nacidos bajo la administración española, presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 347,
+    "no": 0,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  }
+ ]
+}

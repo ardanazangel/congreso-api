@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000148",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-18",
+   "session": 161,
+   "number": 3,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Valido García), sobre el impacto en la economía canaria de la falta de aplicación e incumplimientos de la normativa europea y española en vigor por su condición de Región Ultraperiférica. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Popular en el Congreso y el Grupo Parlamentario Mixto (Sra. Valido García).",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 169,
+    "no": 150,
+    "abstain": 24,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-18.json"
+  }
+ ]
+}

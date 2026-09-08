@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000006",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-06",
+   "session": 19,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Del Grupo Parlamentario Popular en el Congreso, sobre las medidas que piensa adoptar el Gobierno para cumplir la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera. Se vota en sus términos.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 137,
+    "no": 174,
+    "abstain": 33,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-06.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000070",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-15",
+   "session": 172,
+   "number": 17,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Convenio entre el Reino de España y el Principado de Andorra para la realización de una interconexión eléctrica de 220 kV, hecho en Belem el 18 de noviembre de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 306,
+    "no": 0,
+    "abstain": 38,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-15.json"
+  }
+ ]
+}

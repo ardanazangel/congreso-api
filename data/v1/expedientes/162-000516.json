@@ -1,0 +1,91 @@
+{
+ "expediente": "162/000516",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa a la defensa del olivar en el contexto de la sobreinstalación de plantas de generación renovable.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  },
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa a la defensa del olivar en el contexto de la sobreinstalación de plantas de generación renovable.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 347,
+    "yes": 33,
+    "no": 313,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  },
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa a la defensa del olivar en el contexto de la sobreinstalación de plantas de generación renovable.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 314,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  },
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa a la defensa del olivar en el contexto de la sobreinstalación de plantas de generación renovable.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  },
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 6,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa a la defensa del olivar en el contexto de la sobreinstalación de plantas de generación renovable.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 177,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  }
+ ]
+}

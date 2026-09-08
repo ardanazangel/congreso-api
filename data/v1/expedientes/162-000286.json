@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000286",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-11",
+   "session": 58,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa al reconocimiento de Edmundo González Urrutia como ganador de las elecciones presidenciales celebradas el pasado 28 de julio de 2024 en Venezuela.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 177,
+    "no": 164,
+    "abstain": 1,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-11.json"
+  }
+ ]
+}

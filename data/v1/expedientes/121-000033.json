@@ -1,0 +1,23 @@
+{
+ "expediente": "121/000033",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-22",
+   "session": 69,
+   "number": 3,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de devolución al Proyecto de Ley por la que se modifican el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, en materia de extinción del contrato de trabajo por incapacidad permanente de las personas trabajadoras, y el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en materia de incapacidad permanente, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 315,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-22.json"
+  }
+ ]
+}

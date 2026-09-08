@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000022",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 18,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran diversas iniciativas y programas como acontecimientos de excepcional interés público.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 313,
+    "no": 33,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 19,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 8/2025, de 8 de julio, por el que se declaran diversas iniciativas y programas como acontecimientos de excepcional interés público.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 335,
+    "no": 6,
+    "abstain": 5,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000138",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-19",
+   "session": 148,
+   "number": 4,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuál es la política del Gobierno para garantizar la seguridad de las mujeres en nuestras calles.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 31,
+    "no": 314,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-19.json"
+  }
+ ]
+}

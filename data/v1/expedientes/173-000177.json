@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000177",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 37,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a tomar el Gobierno para garantizar la correcta educación de los alumnos en el sistema educativo español. Se vota en sus términos.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 169,
+    "no": 179,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  }
+ ]
+}

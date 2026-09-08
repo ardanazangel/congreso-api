@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000170",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-25",
+   "session": 102,
+   "number": 3,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, por la que se modifica la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 176,
+    "no": 32,
+    "abstain": 137,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-25.json"
+  }
+ ]
+}

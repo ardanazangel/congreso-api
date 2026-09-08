@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000051",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-05-28",
+   "session": 41,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la modificación de la Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado, para el informe previo a las Cortes Generales de los Consejos Europeos, así como la toma de decisiones no contempladas en la Estrategia de Acción en el Exterior.",
+   "subtitle": "",
+   "totals": {
+    "present": 340,
+    "yes": 302,
+    "no": 24,
+    "abstain": 14,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-05-28.json"
+  }
+ ]
+}

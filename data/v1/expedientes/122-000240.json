@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000240",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-05-26",
+   "session": 181,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, de modificación de la Ley 49/1960, de 21 de julio, sobre propiedad horizontal.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 306,
+    "no": 33,
+    "abstain": 10,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-26.json"
+  }
+ ]
+}

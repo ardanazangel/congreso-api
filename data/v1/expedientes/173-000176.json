@@ -1,0 +1,108 @@
+{
+ "expediente": "173/000176",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 31,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el desempeño de la Ministra de Inclusión, Seguridad Social y Migraciones y las políticas desarrolladas desde su Ministerio.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 347,
+    "yes": 177,
+    "no": 169,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 32,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el desempeño de la Ministra de Inclusión, Seguridad Social y Migraciones y las políticas desarrolladas desde su Ministerio.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 170,
+    "abstain": 8,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 33,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el desempeño de la Ministra de Inclusión, Seguridad Social y Migraciones y las políticas desarrolladas desde su Ministerio.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 170,
+    "abstain": 8,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 34,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el desempeño de la Ministra de Inclusión, Seguridad Social y Migraciones y las políticas desarrolladas desde su Ministerio.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 169,
+    "abstain": 8,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 35,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el desempeño de la Ministra de Inclusión, Seguridad Social y Migraciones y las políticas desarrolladas desde su Ministerio.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 348,
+    "yes": 178,
+    "no": 170,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 36,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el desempeño de la Ministra de Inclusión, Seguridad Social y Migraciones y las políticas desarrolladas desde su Ministerio.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 161,
+    "abstain": 15,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  }
+ ]
+}

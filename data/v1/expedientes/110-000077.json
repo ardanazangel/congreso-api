@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000077",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 27,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo de extradición entre el Reino de España y la República Árabe de Egipto, hecho en El Cairo el 15 de enero de 2026.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 294,
+    "no": 40,
+    "abstain": 12,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  }
+ ]
+}

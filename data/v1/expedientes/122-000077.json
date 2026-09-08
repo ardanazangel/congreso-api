@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000077",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-05-21",
+   "session": 38,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para prohibir el proxenetismo en todas sus formas.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 122,
+    "no": 184,
+    "abstain": 36,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-05-21.json"
+  }
+ ]
+}

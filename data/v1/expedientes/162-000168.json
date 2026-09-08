@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000168",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-04-23",
+   "session": 36,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, relativa a apoyar la vital labor de la UNRWA. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Plurinacional SUMAR.",
+   "subtitle": "",
+   "totals": {
+    "present": 341,
+    "yes": 167,
+    "no": 32,
+    "abstain": 142,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-23.json"
+  }
+ ]
+}

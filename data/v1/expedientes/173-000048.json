@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000048",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Valido García), sobre la declaración de un parque nacional marino en las aguas del Mar de las Calmas en el entorno de la isla de El Hierro. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Mixto (Sra. Valido García).",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 299,
+    "no": 0,
+    "abstain": 47,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  }
+ ]
+}

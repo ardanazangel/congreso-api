@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000141",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-11",
+   "session": 90,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la violencia en el ámbito sanitario.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 171,
+    "no": 173,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-11.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000017",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-06",
+   "session": 19,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Del Grupo Parlamentario Popular en el Congreso, Orgánica sobre crímenes de ETA sin resolver y sus víctimas para el cumplimiento del informe de 21 de abril de 2022 del Comité de Peticiones del Parlamento Europeo (PE702.917v03-00).",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 170,
+    "no": 175,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-06.json"
+  }
+ ]
+}

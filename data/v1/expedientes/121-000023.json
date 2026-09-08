@@ -1,0 +1,720 @@
+{
+ "expediente": "121/000023",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-26",
+   "session": 63,
+   "number": 9,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 339,
+    "yes": 339,
+    "no": 0,
+    "abstain": 0,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-26.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 23.",
+   "totals": {
+    "present": 348,
+    "yes": 18,
+    "no": 330,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 24.",
+   "totals": {
+    "present": 348,
+    "yes": 32,
+    "no": 303,
+    "abstain": 13,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 25.",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 303,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 27.",
+   "totals": {
+    "present": 348,
+    "yes": 32,
+    "no": 303,
+    "abstain": 13,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Enmienda 2.",
+   "totals": {
+    "present": 347,
+    "yes": 5,
+    "no": 342,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 139,
+    "no": 162,
+    "abstain": 47,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 18,
+    "no": 329,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu y el Grupo Parlamentario Republicano Enmiendas 36 y 37.",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 303,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu y el Grupo Parlamentario Republicano Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 303,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Republicano Enmienda 28.",
+   "totals": {
+    "present": 348,
+    "yes": 18,
+    "no": 330,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmiendas 113, 118 y 120.",
+   "totals": {
+    "present": 347,
+    "yes": 164,
+    "no": 178,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 44,
+    "no": 303,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 315,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda 80.",
+   "totals": {
+    "present": 347,
+    "yes": 145,
+    "no": 201,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda 81.",
+   "totals": {
+    "present": 348,
+    "yes": 164,
+    "no": 184,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 16,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda 106.",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 169,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda transaccional en Comisión número 1 a la enmienda número 107, de los Grupos Parlamentarios Socialista y Junts per Catalunya.",
+   "totals": {
+    "present": 347,
+    "yes": 177,
+    "no": 170,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda transaccional en Comisión número 4 a la enmienda número 108, de los Grupos Parlamentarios Socialista, Plurinacional SUMAR y Junts per Catalunya.",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 171,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 19,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 172,
+    "no": 175,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 20,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Votos particulares Voto particular número 1 del Grupo Parlamentario Socialista a la enmienda número 109 del Grupo Parlamentario Plurinacional SUMAR.",
+   "totals": {
+    "present": 348,
+    "yes": 159,
+    "no": 148,
+    "abstain": 41,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 21,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Votos particulares Voto particular número 2 del Grupo Parlamentario Socialista a la enmienda número 110 del Grupo Parlamentario Plurinacional SUMAR.",
+   "totals": {
+    "present": 348,
+    "yes": 159,
+    "no": 175,
+    "abstain": 14,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 22,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Votos particulares Voto particular número 3 del Grupo Parlamentario Socialista a la enmienda número 111 del Grupo Parlamentario Plurinacional SUMAR.",
+   "totals": {
+    "present": 348,
+    "yes": 159,
+    "no": 189,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 23,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Votos particulares Votos particulares números 4 y 5 del Grupo Parlamentario Socialista a las enmiendas números 57 y 58 del Grupo Parlamentario Popular en el Congreso.",
+   "totals": {
+    "present": 347,
+    "yes": 159,
+    "no": 173,
+    "abstain": 15,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 24,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "Correcciones técnicas Enmienda de corrección técnica presentada por los Grupos Parlamentarios Socialista, Plurinacional SUMAR, Republicano y Euskal Herria Bildu.",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 169,
+    "abstain": 2,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 62,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen del Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 178,
+    "no": 171,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 90,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al Preámbulo, en lo relativo al apartado II, párrafo vigésimo primero.",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 178,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 91,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al Preámbulo, en lo relativo al apartado II, párrafo sexagésimo séptimo.",
+   "totals": {
+    "present": 349,
+    "yes": 178,
+    "no": 171,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 92,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Resto de las enmiendas al Preámbulo.",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 93,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a los artículos 7 y 14.",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 177,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 94,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional segunda.",
+   "totals": {
+    "present": 349,
+    "yes": 311,
+    "no": 38,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 95,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional (Nueva) relativa a las ayudas fiscales a los damnificados por la DANA.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 96,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional (Nueva) relativa a las donaciones a trabajadores afectados por la DANA.",
+   "totals": {
+    "present": 349,
+    "yes": 181,
+    "no": 167,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 97,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional (Nueva) relativa a la modificación de la Ley 35/2006.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 98,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional (Nueva) relativa a la modificación de la Ley 37/1992.",
+   "totals": {
+    "present": 349,
+    "yes": 179,
+    "no": 170,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 99,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición transitoria segunda y a la disposición final cuarta.",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 178,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 100,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición final novena, en lo relativo a la modificación del apartado Dos.",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 101,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición final novena, en lo relativo a la modificación del apartado Veintiuno.",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 211,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 102,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición final novena, en lo relativo a la introducción de un apartado Veintidós.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 177,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 103,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a las disposiciones finales nuevas, en lo relativo a la modificación de la Ley 38/2022.",
+   "totals": {
+    "present": 349,
+    "yes": 183,
+    "no": 166,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 104,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Resto de las enmiendas a las disposiciones finales nuevas.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 105,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Resto de las enmiendas del Senado.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  }
+ ]
+}

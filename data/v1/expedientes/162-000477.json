@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000477",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para ajustar el IRPF por la inflación.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 164,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  }
+ ]
+}

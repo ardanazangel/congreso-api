@@ -1,0 +1,23 @@
+{
+ "expediente": "125/000008",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-11",
+   "session": 90,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley de Comunidades y Ciudades Autónomas.",
+   "title": "Proposición de Ley del Parlamento de Andalucía, de reforma parcial del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 344,
+    "no": 0,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-11.json"
+  }
+ ]
+}

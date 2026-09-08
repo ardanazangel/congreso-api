@@ -1,0 +1,176 @@
+{
+ "expediente": "173/000156",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 37,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre las dificultades fiscales y económicas de la clase media y trabajadora.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 350,
+    "yes": 158,
+    "no": 185,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 38,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre las dificultades fiscales y económicas de la clase media y trabajadora.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 350,
+    "yes": 20,
+    "no": 323,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 39,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre las dificultades fiscales y económicas de la clase media y trabajadora.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 350,
+    "yes": 7,
+    "no": 324,
+    "abstain": 19,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 40,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre las dificultades fiscales y económicas de la clase media y trabajadora.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 350,
+    "yes": 191,
+    "no": 152,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 41,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre las dificultades fiscales y económicas de la clase media y trabajadora.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 349,
+    "yes": 145,
+    "no": 198,
+    "abstain": 6,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 42,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre las dificultades fiscales y económicas de la clase media y trabajadora.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 349,
+    "yes": 20,
+    "no": 191,
+    "abstain": 138,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 43,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre las dificultades fiscales y económicas de la clase media y trabajadora.",
+   "subtitle": "Votación separada por puntos. Punto 7.13.",
+   "totals": {
+    "present": 350,
+    "yes": 223,
+    "no": 126,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 44,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre las dificultades fiscales y económicas de la clase media y trabajadora.",
+   "subtitle": "Votación separada por puntos. Punto 7.14.",
+   "totals": {
+    "present": 350,
+    "yes": 223,
+    "no": 126,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 45,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre las dificultades fiscales y económicas de la clase media y trabajadora.",
+   "subtitle": "Votación separada por puntos. Punto 7.15.",
+   "totals": {
+    "present": 350,
+    "yes": 85,
+    "no": 127,
+    "abstain": 138,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 46,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre las dificultades fiscales y económicas de la clase media y trabajadora.",
+   "subtitle": "Votación separada por puntos. Resto del punto 7 de la moción.",
+   "totals": {
+    "present": 349,
+    "yes": 7,
+    "no": 330,
+    "abstain": 12,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  }
+ ]
+}

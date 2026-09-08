@@ -1,0 +1,23 @@
+{
+ "expediente": "156/000005",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-21",
+   "session": 33,
+   "number": 14,
+   "heading": "Solicitudes de creación de Comisiones de Investigación.",
+   "title": "Solicitud del Sr. López Álvarez y otros 72 Diputados, de creación de una Comisión de Investigación sobre los hechos, responsabilidades y enseñanzas en torno a los procesos de contratación para la adquisición de material sanitario por parte de las Administraciones públicas durante la crisis pandémica ocasionada por la COVID-19.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 175,
+    "no": 33,
+    "abstain": 136,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-21.json"
+  }
+ ]
+}

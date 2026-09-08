@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000311",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 7,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, en defensa de la libertad de expresión.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 32,
+    "no": 180,
+    "abstain": 137,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  }
+ ]
+}

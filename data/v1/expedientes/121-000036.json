@@ -1,0 +1,176 @@
+{
+ "expediente": "121/000036",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 15,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de devolución al Proyecto de Ley integral de impulso de la economía social, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 33,
+    "no": 175,
+    "abstain": 137,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 57,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley integral de impulso de la economía social.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al preámbulo; al artículo Segundo, apartado Tres, en relación con el artículo 2.1.o) de la LRREI; al artículo Tercero, apartado Cuatro, en relación con el artículo 8.1) de la Ley de Economía Social; de supresión del artículo Cuarto; de adición de una disposición adicional primera (nueva), en relación con la reforma del régimen fiscal de las cooperativas; y de adición de una disposición final nueva, sobre el carácter supletorio de la Ley de Economía Social.",
+   "totals": {
+    "present": 350,
+    "yes": 137,
+    "no": 180,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 58,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley integral de impulso de la economía social.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al artículo Primero, apartado Cinco, en relación con el artículo 12 bis de la Ley de Cooperativas; al artículo Primero, apartado Diez, en relación con el artículo 19 de la Ley de Cooperativas; al artículo Primero, apartado Veinte, en relación con los apartados 2 y 5 del artículo 44 bis de la Ley de Cooperativas; al artículo Primero, apartado Veintisiete, en relación con el artículo 83 bis de la Ley de Cooperativas; al artículo Segundo, apartado Tres, en relación con el artículo 2.3 LRREI; al artículo Tercero, apartado Uno (nuevo), en relación con el artículo 4 de la Ley de Economía Social; y al artículo Tercero, apartado Uno bis) (nuevo), en relación con el artículo 5.4 de la Ley de Economía Social.",
+   "totals": {
+    "present": 349,
+    "yes": 137,
+    "no": 212,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 59,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley integral de impulso de la economía social.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al artículo Primero, apartado Catorce, en relación con el artículo 27.2 de la Ley de Cooperativas.",
+   "totals": {
+    "present": 350,
+    "yes": 346,
+    "no": 4,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 60,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley integral de impulso de la economía social.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al artículo Segundo, apartado Dos, en relación con el artículo 2.3.e) de la LRREI; y al artículo Tercero, apartado Dos, en relación con el artículo 5 bis 1 de la Ley de Economía Social.",
+   "totals": {
+    "present": 350,
+    "yes": 313,
+    "no": 4,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 61,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley integral de impulso de la economía social.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al artículo Segundo, apartado Tres, por el que se suprime el artículo 2.1.ñ) bis LRREI.",
+   "totals": {
+    "present": 349,
+    "yes": 169,
+    "no": 180,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 62,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley integral de impulso de la economía social.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al artículo Segundo, apartado Siete, en relación con el segundo párrafo del artículo 6 LRREI.",
+   "totals": {
+    "present": 349,
+    "yes": 136,
+    "no": 180,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 63,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley integral de impulso de la economía social.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al artículo Segundo, apartado Siete, en relación con la adición de un nuevo párrafo cuarto al artículo 6 LRREI.",
+   "totals": {
+    "present": 349,
+    "yes": 3,
+    "no": 313,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 64,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley integral de impulso de la economía social.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas de adición de una disposición final (nueva) en relación con la seguridad jurídica de la actividad innovadora realizada por entidades sin fines lucrativos a través de Agrupaciones de Interés Económico.",
+   "totals": {
+    "present": 350,
+    "yes": 138,
+    "no": 179,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 65,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley integral de impulso de la economía social.",
+   "subtitle": "Votación separada de las enmiendas. Resto de las enmiendas.",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 179,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  }
+ ]
+}

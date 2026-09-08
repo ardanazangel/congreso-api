@@ -1,0 +1,380 @@
+{
+ "expediente": "162/000727",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 8,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 350,
+    "yes": 184,
+    "no": 159,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 9,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 346,
+    "yes": 177,
+    "no": 164,
+    "abstain": 5,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 10,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 347,
+    "yes": 177,
+    "no": 152,
+    "abstain": 18,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 11,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 350,
+    "yes": 52,
+    "no": 161,
+    "abstain": 137,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 12,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 350,
+    "yes": 12,
+    "no": 324,
+    "abstain": 14,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 13,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 350,
+    "yes": 40,
+    "no": 162,
+    "abstain": 148,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 14,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 350,
+    "yes": 339,
+    "no": 5,
+    "abstain": 6,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 15,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 8.",
+   "totals": {
+    "present": 350,
+    "yes": 191,
+    "no": 158,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 16,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 9.",
+   "totals": {
+    "present": 349,
+    "yes": 52,
+    "no": 154,
+    "abstain": 143,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 17,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 10.",
+   "totals": {
+    "present": 348,
+    "yes": 39,
+    "no": 159,
+    "abstain": 150,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 18,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 11.",
+   "totals": {
+    "present": 350,
+    "yes": 191,
+    "no": 153,
+    "abstain": 6,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 19,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 12.",
+   "totals": {
+    "present": 349,
+    "yes": 26,
+    "no": 323,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 20,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 13.",
+   "totals": {
+    "present": 350,
+    "yes": 26,
+    "no": 324,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 21,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 14.",
+   "totals": {
+    "present": 350,
+    "yes": 184,
+    "no": 158,
+    "abstain": 8,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 22,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 15.",
+   "totals": {
+    "present": 350,
+    "yes": 183,
+    "no": 167,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 23,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 16.",
+   "totals": {
+    "present": 350,
+    "yes": 26,
+    "no": 186,
+    "abstain": 138,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 24,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 17.",
+   "totals": {
+    "present": 349,
+    "yes": 25,
+    "no": 323,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 25,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 18.",
+   "totals": {
+    "present": 349,
+    "yes": 25,
+    "no": 323,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 26,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 19.",
+   "totals": {
+    "present": 349,
+    "yes": 20,
+    "no": 323,
+    "abstain": 6,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 27,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 20.",
+   "totals": {
+    "present": 349,
+    "yes": 53,
+    "no": 153,
+    "abstain": 143,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 28,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 21.",
+   "totals": {
+    "present": 350,
+    "yes": 48,
+    "no": 153,
+    "abstain": 149,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 29,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, de medidas fiscales urgentes para hacer frente a la fatiga tributaria que padecen la clase media, trabajadores, autónomos y pequeños empresarios.",
+   "subtitle": "Votación separada por puntos. Punto 22.",
+   "totals": {
+    "present": 349,
+    "yes": 190,
+    "no": 153,
+    "abstain": 6,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  }
+ ]
+}

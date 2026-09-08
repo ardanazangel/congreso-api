@@ -1,0 +1,40 @@
+{
+ "expediente": "121/000026",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 19,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proyecto de Ley del Cine y de la Cultura Audiovisual.",
+   "subtitle": "Enmiendas a la totalidad de devolución. Votación conjunta de las enmiendas a la totalidad de devolución presentadas por los Grupos Parlamentarios VOX y Popular en el Congreso.",
+   "totals": {
+    "present": 347,
+    "yes": 172,
+    "no": 175,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 20,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proyecto de Ley del Cine y de la Cultura Audiovisual.",
+   "subtitle": "Solicitud de avocación. Solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de ley, presentada por el Grupo Parlamentario Junts per Catalunya.",
+   "totals": {
+    "present": 346,
+    "yes": 345,
+    "no": 1,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  }
+ ]
+}

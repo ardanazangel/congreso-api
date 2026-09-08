@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000028",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-10",
+   "session": 57,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica de modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, relativa a las elecciones al Parlamento Europeo.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 177,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-10.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000348",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 8,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para una Estrategia Integral para una Transición Energética limpia, justa y competitiva.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 204,
+    "abstain": 7,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  }
+ ]
+}

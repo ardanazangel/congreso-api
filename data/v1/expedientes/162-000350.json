@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000350",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 8,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre el nuevo mapa concesional estatal de los servicios de transporte público regular de viajeros por carretera.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 139,
+    "no": 51,
+    "abstain": 159,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  }
+ ]
+}

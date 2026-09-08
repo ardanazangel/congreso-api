@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000068",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-24",
+   "session": 61,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Mixto, Orgánica para el impulso de la aplicación de la Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual, y la plena protección de las víctimas de violencias sexuales.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 172,
+    "no": 170,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-24.json"
+  }
+ ]
+}

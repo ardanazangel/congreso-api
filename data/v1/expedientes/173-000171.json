@@ -1,0 +1,91 @@
+{
+ "expediente": "173/000171",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las políticas en materia de vivienda de este Gobierno.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 347,
+    "yes": 178,
+    "no": 164,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-20.json"
+  },
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "number": 8,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las políticas en materia de vivienda de este Gobierno.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 346,
+    "yes": 178,
+    "no": 48,
+    "abstain": 120,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-20.json"
+  },
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las políticas en materia de vivienda de este Gobierno.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 347,
+    "yes": 177,
+    "no": 169,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-20.json"
+  },
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las políticas en materia de vivienda de este Gobierno.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 347,
+    "yes": 183,
+    "no": 162,
+    "abstain": 2,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-20.json"
+  },
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las políticas en materia de vivienda de este Gobierno.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 347,
+    "yes": 183,
+    "no": 45,
+    "abstain": 119,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-20.json"
+  }
+ ]
+}

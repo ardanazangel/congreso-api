@@ -1,0 +1,23 @@
+{
+ "expediente": "156/000010",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-28",
+   "session": 115,
+   "number": 7,
+   "heading": "Solicitudes de creación de Comisiones de Investigación.",
+   "title": "Solicitud de los Grupos Parlamentarios Socialista y Plurinacional SUMAR, de creación de una Comisión de Investigación sobre los hechos, las causas, las responsabilidades y las enseñanzas a extraer acerca de la crisis de suministro eléctrico que tuvo lugar el día 28 de abril de 2025. Se vota en sus términos.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 175,
+    "no": 170,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-28.json"
+  }
+ ]
+}

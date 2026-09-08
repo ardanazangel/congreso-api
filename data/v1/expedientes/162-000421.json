@@ -1,0 +1,108 @@
+{
+ "expediente": "162/000421",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para que el Gobierno ejerza de manera efectiva y uniforme sus competencias en materia de inmigración en todo el Estado.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 346,
+    "yes": 172,
+    "no": 174,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para que el Gobierno ejerza de manera efectiva y uniforme sus competencias en materia de inmigración en todo el Estado.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 175,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para que el Gobierno ejerza de manera efectiva y uniforme sus competencias en materia de inmigración en todo el Estado.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para que el Gobierno ejerza de manera efectiva y uniforme sus competencias en materia de inmigración en todo el Estado.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 175,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 6,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para que el Gobierno ejerza de manera efectiva y uniforme sus competencias en materia de inmigración en todo el Estado.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 7,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para que el Gobierno ejerza de manera efectiva y uniforme sus competencias en materia de inmigración en todo el Estado.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "expediente": "121/000030",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-10",
+   "session": 57,
+   "number": 3,
+   "heading": "Tramitación directa y en lectura única de iniciativas legislativas.",
+   "title": "Votación de conjunto del texto del Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica 13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen Foral de Navarra, en cuanto a tráfico, circulación de vehículos de motor y seguridad vial.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 169,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-10.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 65,
+   "heading": "Veto del Senado.",
+   "title": "Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica 13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen Foral de Navarra, en cuanto a tráfico, circulación de vehículos de motor y seguridad vial.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 179,
+    "no": 170,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  }
+ ]
+}

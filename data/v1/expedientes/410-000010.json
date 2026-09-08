@@ -1,0 +1,23 @@
+{
+ "expediente": "410/000010",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-23",
+   "session": 189,
+   "number": 1,
+   "heading": "Toma en consideración de Proposición de reforma del Reglamento del Congreso.",
+   "title": "Proposición del Grupo Parlamentario Popular en el Congreso, de reforma del Reglamento del Congreso relativa a las sesiones de control al Gobierno.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 175,
+    "no": 171,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-23.json"
+  }
+ ]
+}

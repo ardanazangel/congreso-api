@@ -1,0 +1,23 @@
+{
+ "expediente": "430/000001",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-01-10",
+   "session": 15,
+   "number": 6,
+   "heading": "Debate relativo al Plan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+   "title": "Acuerdo del Gobierno por el que se remite a las Cortes Generales el Plan de Reequilibrio previsto en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera. Se vota el Plan de Reequilibrio.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 171,
+    "no": 171,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-10.json"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "expediente": "173/000126",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-16",
+   "session": 139,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la estrategia que desarrollará el Gobierno para garantizar la supervivencia del campo español.",
+   "subtitle": "Votación separada por puntos. Punto 5.b",
+   "totals": {
+    "present": 341,
+    "yes": 192,
+    "no": 149,
+    "abstain": 0,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-16.json"
+  },
+  {
+   "date": "2025-10-16",
+   "session": 139,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la estrategia que desarrollará el Gobierno para garantizar la supervivencia del campo español.",
+   "subtitle": "Votación separada por puntos. Resto de la moción.",
+   "totals": {
+    "present": 342,
+    "yes": 33,
+    "no": 175,
+    "abstain": 134,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-16.json"
+  }
+ ]
+}

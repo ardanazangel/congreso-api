@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000072",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 22,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo entre el Reino de España y el Banco Asiático de Desarrollo relativo al centro de prestación de servicios informáticos y resiliencia del Banco Asiático de Desarrollo, hecho en Manila y Madrid el 28 de octubre y 25 de noviembre de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 294,
+    "no": 33,
+    "abstain": 19,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  }
+ ]
+}

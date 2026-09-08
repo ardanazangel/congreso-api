@@ -1,0 +1,40 @@
+{
+ "expediente": "121/000053",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-06",
+   "session": 107,
+   "number": 3,
+   "heading": "Acuerdo de tramitación directa y en lectura única de iniciativas legislativas.",
+   "title": "Acuerdo de tramitación directa y en lectura única del Proyecto de Ley Orgánica por la que se autoriza la ratificación de cuatro enmiendas al artículo 8.2 del Estatuto de Roma de la Corte Penal Internacional.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 311,
+    "no": 0,
+    "abstain": 33,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-06.json"
+  },
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 16,
+   "heading": "Tramitación directa y en lectura única de iniciativas legislativas.",
+   "title": "Votación de conjunto del texto del Proyecto de Ley Orgánica por la que se autoriza la ratificación de cuatro enmiendas al artículo 8.2 del Estatuto de Roma de la Corte Penal Internacional, por tramitarse en lectura única y por tener el mismo carácter orgánico, teniendo en cuenta las observaciones técnicas distribuidas.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 317,
+    "no": 0,
+    "abstain": 32,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  }
+ ]
+}

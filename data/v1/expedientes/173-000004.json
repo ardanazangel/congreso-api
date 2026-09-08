@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000004",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-06",
+   "session": 19,
+   "number": 5,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Del Grupo Parlamentario Republicano, en relación con el despliegue y desarrollo de la Ley 20/2022, de 19 de octubre, de Memoria Democrática. Se vota en los términos de la enmienda presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Republicano.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 174,
+    "no": 170,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-06.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000203",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-18",
+   "session": 60,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa a la defensa del principio de la caja única de la Seguridad Social.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 168,
+    "no": 178,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-18.json"
+  }
+ ]
+}

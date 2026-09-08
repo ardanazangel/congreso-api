@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000149",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-18",
+   "session": 161,
+   "number": 4,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuáles van a ser las medidas del Gobierno para garantizar la seguridad de las infraestructuras de transportes.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 168,
+    "no": 176,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-18.json"
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "expediente": "122/000201",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-24",
+   "session": 122,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para penalizar las terapias de conversión dirigidas a eliminar o negar la orientación sexual, identidad sexual o expresión de género.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 311,
+    "no": 33,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-24.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para penalizar las terapias de conversión dirigidas a eliminar o negar la orientación sexual, identidad sexual o expresión de género.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR, el Grupo Parlamentario Republicano, el Grupo Parlamentario Euskal Herria Bildu y el Grupo Parlamentario Mixto (Sra. Micó Micó y Sr. Rego Candamil). Enmienda transaccional en Comisión nº 2.",
+   "totals": {
+    "present": 349,
+    "yes": 51,
+    "no": 298,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para penalizar las terapias de conversión dirigidas a eliminar o negar la orientación sexual, identidad sexual o expresión de género.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR, el Grupo Parlamentario Republicano, el Grupo Parlamentario Euskal Herria Bildu y el Grupo Parlamentario Mixto (Sra. Micó Micó y Sr. Rego Candamil). Enmienda transaccional en Comisión nº 3.",
+   "totals": {
+    "present": 348,
+    "yes": 50,
+    "no": 298,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para penalizar las terapias de conversión dirigidas a eliminar o negar la orientación sexual, identidad sexual o expresión de género.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 26.",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 204,
+    "abstain": 7,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para penalizar las terapias de conversión dirigidas a eliminar o negar la orientación sexual, identidad sexual o expresión de género.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 28.",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 179,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para penalizar las terapias de conversión dirigidas a eliminar o negar la orientación sexual, identidad sexual o expresión de género.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 29.",
+   "totals": {
+    "present": 348,
+    "yes": 169,
+    "no": 172,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para penalizar las terapias de conversión dirigidas a eliminar o negar la orientación sexual, identidad sexual o expresión de género.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 31.",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 211,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para penalizar las terapias de conversión dirigidas a eliminar o negar la orientación sexual, identidad sexual o expresión de género.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Resto de las enmiendas.",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 179,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 21,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para penalizar las terapias de conversión dirigidas a eliminar o negar la orientación sexual, identidad sexual o expresión de género.",
+   "subtitle": "Votación del dictamen. Votación del dictamen.",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 32,
+    "abstain": 137,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 22,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para penalizar las terapias de conversión dirigidas a eliminar o negar la orientación sexual, identidad sexual o expresión de género.",
+   "subtitle": "Votación de conjunto. Votación de conjunto de la Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para penalizar las terapias de conversión dirigidas a eliminar o negar la orientación sexual, identidad sexual o expresión de género, por tener la misma carácter orgánico.",
+   "totals": {
+    "present": 348,
+    "yes": 178,
+    "no": 32,
+    "abstain": 138,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  }
+ ]
+}

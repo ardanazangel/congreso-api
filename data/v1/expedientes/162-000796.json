@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000796",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 14,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, para impulsar la educación afectivo-sexual y emocional en el ámbito educativo. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Republicano.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 172,
+    "no": 170,
+    "abstain": 7,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  }
+ ]
+}

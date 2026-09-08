@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000050",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-14",
+   "session": 111,
+   "number": 10,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Renovación de la Reserva formulada por España al Convenio penal sobre la corrupción del Consejo de Europa, hecho en Estrasburgo el 27 de enero de 1999.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 293,
+    "no": 4,
+    "abstain": 46,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-14.json"
+  }
+ ]
+}

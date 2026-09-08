@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000010",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-29",
+   "session": 26,
+   "number": 13,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre la situación del Delta del Ebro. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Republicano y el Grupo Parlamentario Junts per Catalunya.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 314,
+    "no": 0,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-29.json"
+  }
+ ]
+}

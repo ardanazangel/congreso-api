@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000267",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-21",
+   "session": 173,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, de modificación de la regulación sobre la crioconservación de ovocitos.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 306,
+    "no": 33,
+    "abstain": 8,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-21.json"
+  }
+ ]
+}

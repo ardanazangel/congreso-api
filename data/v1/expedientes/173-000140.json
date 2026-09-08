@@ -1,0 +1,40 @@
+{
+ "expediente": "173/000140",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la estrategia del Gobierno para garantizar el buen funcionamiento de las Fuerzas y Cuerpos de Seguridad del Estado.",
+   "subtitle": "Votación separada por puntos. Punto 8.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-27.json"
+  },
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la estrategia del Gobierno para garantizar el buen funcionamiento de las Fuerzas y Cuerpos de Seguridad del Estado.",
+   "subtitle": "Votación separada por puntos. Resto de la moción.",
+   "totals": {
+    "present": 347,
+    "yes": 171,
+    "no": 176,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-27.json"
+  }
+ ]
+}

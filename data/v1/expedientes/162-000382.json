@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000382",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 56,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa al aumento de la indemnización por despido improcedente.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 165,
+    "no": 172,
+    "abstain": 12,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  }
+ ]
+}

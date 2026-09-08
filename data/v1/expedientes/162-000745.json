@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000745",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-30",
+   "session": 177,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa al colapso del Sistema Nacional de Salud provocado por el Gobierno de España.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 315,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-30.json"
+  }
+ ]
+}

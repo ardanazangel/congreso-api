@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000038",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-12",
+   "session": 91,
+   "number": 15,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Protocolo común relativo a la aplicación de la Convención de Viena y del Convenio de París, hecho en Viena el 21 de septiembre de 1988.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 327,
+    "no": 0,
+    "abstain": 20,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-12.json"
+  }
+ ]
+}

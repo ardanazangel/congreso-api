@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000017",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 13,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el programa de incentivos ligados a la movilidad eléctrica (MOVES III) para el año 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 180,
+    "no": 33,
+    "abstain": 137,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 14,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el programa de incentivos ligados a la movilidad eléctrica (MOVES III) para el año 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 349,
+    "no": 0,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000116",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 42,
+   "heading": "Votación de las Proposiciones no de Ley y mociones consecuencia de interpelaciones urgentes pendientes de la sesión plenaria de 29/10/2024.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, para defender al campo español. Se vota en los términos de la enmienda presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 32,
+    "no": 179,
+    "abstain": 136,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  }
+ ]
+}

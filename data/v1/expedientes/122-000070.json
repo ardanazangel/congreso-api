@@ -1,0 +1,40 @@
+{
+ "expediente": "122/000070",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-04-23",
+   "session": 36,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, para la atención integral de las personas afectadas por enfermedades neurodegenerativas, como la Esclerosis Lateral Amiotrófica (ELA).",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 343,
+    "no": 0,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-23.json"
+  },
+  {
+   "date": "2024-06-20",
+   "session": 49,
+   "number": 25,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de texto alternativo a la Proposición de Ley para la atención integral de las personas afectadas por enfermedades neurodegenerativas, como la Esclerosis Lateral Amiotrófica (ELA), presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 33,
+    "no": 316,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-20.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000554",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-16",
+   "session": 139,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la urgente necesidad de reactivar los proyectos estatales estratégicos paralizados en la provincia de León.",
+   "subtitle": "",
+   "totals": {
+    "present": 341,
+    "yes": 172,
+    "no": 19,
+    "abstain": 150,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-16.json"
+  }
+ ]
+}

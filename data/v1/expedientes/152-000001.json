@@ -1,0 +1,40 @@
+{
+ "expediente": "152/000001",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-23",
+   "session": 70,
+   "number": 30,
+   "heading": "Solicitud de prórroga de Comisiones de Investigación.",
+   "title": "Solicitud de prórroga por un año del plazo para la realización del Dictamen de la Comisión de Investigación sobre la denominada \"Operación Cataluña\" y las actuaciones del Ministerio del Interior durante los gobiernos del Partido Popular en relación con las presuntas irregularidades que vinculan a altos cargos y mandos policiales con la existencia de una trama parapolicial.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 177,
+    "no": 170,
+    "abstain": 2,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-23.json"
+  },
+  {
+   "date": "2025-10-22",
+   "session": 141,
+   "number": 14,
+   "heading": "Solicitud de prórroga de Comisiones de Investigación.",
+   "title": "Solicitud de prórroga por un año del plazo para la realización del Dictamen de la Comisión de Investigación sobre la denominada \"Operación Cataluña\" y las actuaciones del Ministerio del Interior durante los gobiernos del Partido Popular en relación con las presuntas irregularidades que vinculan a altos cargos y mandos policiales con la existencia de una trama parapolicial.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 176,
+    "no": 171,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-22.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000533",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-26",
+   "session": 124,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa a la recuperación de la memoria histórica en relación a los sucesos de sanfermines de 1978. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Euskal Herria Bildu.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 174,
+    "no": 169,
+    "abstain": 1,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-26.json"
+  }
+ ]
+}

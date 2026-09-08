@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000037",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 53,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 6/2026, de 3 de marzo, por el que se modifica la Ley 20/2022, de 19 de octubre, de Memoria Democrática, sobre reconocimiento a favor de personas fallecidas o con lesiones incapacitantes por su actividad en defensa y reivindicación de la Democracia.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 173,
+    "no": 170,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 54,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 6/2026, de 3 de marzo, por el que se modifica la Ley 20/2022, de 19 de octubre, de Memoria Democrática, sobre reconocimiento a favor de personas fallecidas o con lesiones incapacitantes por su actividad en defensa y reivindicación de la Democracia.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 179,
+    "no": 171,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  }
+ ]
+}

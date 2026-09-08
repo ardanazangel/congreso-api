@@ -1,0 +1,23 @@
+{
+ "expediente": "125/000014",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 42,
+   "heading": "Toma en consideración de Proposiciones de Ley de Comunidades y Ciudades Autónomas.",
+   "title": "Proposición de Ley del Parlamento de Cataluña, de modificación de algunas disposiciones normativas procesales con relación al derecho de morir dignamente.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 178,
+    "no": 169,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  }
+ ]
+}

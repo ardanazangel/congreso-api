@@ -1,0 +1,23 @@
+{
+ "expediente": "158/000012",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 107,
+   "heading": "Propuestas de creación de Comisiones.",
+   "title": "Propuesta de la Comisión de Juventud e Infancia, de creación de una Subcomisión sobre el estudio de un Pacto de Estado para la erradicación de la Pobreza Infantil.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 317,
+    "no": 31,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  }
+ ]
+}

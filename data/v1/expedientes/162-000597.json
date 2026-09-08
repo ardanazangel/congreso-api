@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000597",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), para la garantía efectiva del derecho a la educación sexual integral en cumplimiento con la Ley Orgánica 1/2023, de 28 de febrero, por la que se modifica la Ley Orgánica 2/2010, de 3 de marzo, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Republicano y el Grupo Parlamentario Mixto (Sra. Valido García y Sra. Belarra Urteaga).",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 167,
+    "no": 183,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000061",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-22",
+   "session": 141,
+   "number": 13,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo de Asociación entre la Unión Europea y sus Estados miembros, por una parte, y los miembros de la Organización de Estados de África, el Caribe y el Pacífico, por otra, hecho ad referendum en Apia (Samoa) el 15 de noviembre de 2023.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 294,
+    "no": 33,
+    "abstain": 20,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-22.json"
+  }
+ ]
+}

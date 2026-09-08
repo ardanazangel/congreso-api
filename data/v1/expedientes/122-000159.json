@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000159",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-14",
+   "session": 137,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Mixto, para la reducción de la duración máxima de la jornada ordinaria de trabajo a 35 horas semanales.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 162,
+    "no": 178,
+    "abstain": 6,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-14.json"
+  }
+ ]
+}

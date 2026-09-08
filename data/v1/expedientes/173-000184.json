@@ -1,0 +1,57 @@
+{
+ "expediente": "173/000184",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 18,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la insostenible situación del Gobierno de España y sus responsabilidades en la misma del Ministro de Política Territorial y Memoria Democrática.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 349,
+    "yes": 178,
+    "no": 171,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 19,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la insostenible situación del Gobierno de España y sus responsabilidades en la misma del Ministro de Política Territorial y Memoria Democrática.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 349,
+    "yes": 177,
+    "no": 171,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 20,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la insostenible situación del Gobierno de España y sus responsabilidades en la misma del Ministro de Política Territorial y Memoria Democrática.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 166,
+    "abstain": 12,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000591",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-22",
+   "session": 141,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para instar al Gobierno a realizar una auditoría integral del sistema de control telemático de órdenes de alejamiento en casos de violencia de género y violencia sexual.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 174,
+    "no": 9,
+    "abstain": 165,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-22.json"
+  }
+ ]
+}

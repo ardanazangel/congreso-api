@@ -1,0 +1,74 @@
+{
+ "expediente": "173/000163",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Gobierno para abandonar la guerra y el rearme criminal.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 345,
+    "yes": 20,
+    "no": 300,
+    "abstain": 25,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Gobierno para abandonar la guerra y el rearme criminal.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 344,
+    "yes": 43,
+    "no": 300,
+    "abstain": 1,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Gobierno para abandonar la guerra y el rearme criminal.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 345,
+    "yes": 45,
+    "no": 299,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 12,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Gobierno para abandonar la guerra y el rearme criminal.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 343,
+    "yes": 38,
+    "no": 298,
+    "abstain": 7,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  }
+ ]
+}

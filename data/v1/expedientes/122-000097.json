@@ -1,0 +1,40 @@
+{
+ "expediente": "122/000097",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-05-28",
+   "session": 41,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, para la mejora de la protección de las personas donantes en vivo de órganos para su posterior trasplante.",
+   "subtitle": "",
+   "totals": {
+    "present": 340,
+    "yes": 340,
+    "no": 0,
+    "abstain": 0,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-05-28.json"
+  },
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "number": 12,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley para la mejora de la protección de las personas donantes en vivo de órganos o tejidos para su posterior trasplante. Votación de la enmienda.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 136,
+    "no": 177,
+    "abstain": 33,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-12.json"
+  }
+ ]
+}

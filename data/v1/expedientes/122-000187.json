@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000187",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-23",
+   "session": 133,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Vasco (EAJ-PNV), Orgánica de reforma de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 179,
+    "no": 170,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-23.json"
+  }
+ ]
+}

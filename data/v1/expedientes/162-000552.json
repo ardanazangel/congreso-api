@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000552",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-17",
+   "session": 132,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa al incremento de la inseguridad en España.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 33,
+    "no": 313,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-17.json"
+  }
+ ]
+}

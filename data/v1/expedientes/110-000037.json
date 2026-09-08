@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000037",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-12",
+   "session": 91,
+   "number": 14,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo de cooperación científica entre el Reino de España y los Estados Unidos de América sobre la estación de seguimiento de la NASA, hecho en Madrid el 10 de junio de 2024.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 327,
+    "no": 1,
+    "abstain": 20,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-12.json"
+  }
+ ]
+}

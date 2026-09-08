@@ -1,0 +1,91 @@
+{
+ "expediente": "162/000589",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la digitalización y el mantenimiento de los centros de examen desplazados para las pruebas de obtención del permiso de conducir.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 346,
+    "yes": 191,
+    "no": 3,
+    "abstain": 152,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-27.json"
+  },
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la digitalización y el mantenimiento de los centros de examen desplazados para las pruebas de obtención del permiso de conducir.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 346,
+    "yes": 178,
+    "no": 156,
+    "abstain": 12,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-27.json"
+  },
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "number": 6,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la digitalización y el mantenimiento de los centros de examen desplazados para las pruebas de obtención del permiso de conducir.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 347,
+    "yes": 192,
+    "no": 144,
+    "abstain": 11,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-27.json"
+  },
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "number": 7,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la digitalización y el mantenimiento de los centros de examen desplazados para las pruebas de obtención del permiso de conducir.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 347,
+    "yes": 139,
+    "no": 164,
+    "abstain": 44,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-27.json"
+  },
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "number": 8,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la digitalización y el mantenimiento de los centros de examen desplazados para las pruebas de obtención del permiso de conducir.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 347,
+    "yes": 185,
+    "no": 15,
+    "abstain": 147,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-27.json"
+  }
+ ]
+}

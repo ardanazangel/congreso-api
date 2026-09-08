@@ -1,0 +1,108 @@
+{
+ "expediente": "173/000049",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 8,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuál es la política del Gobierno en materia de educación.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 346,
+    "yes": 33,
+    "no": 313,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  },
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuál es la política del Gobierno en materia de educación.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 175,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  },
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuál es la política del Gobierno en materia de educación.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 175,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  },
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuál es la política del Gobierno en materia de educación.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 175,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  },
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 12,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuál es la política del Gobierno en materia de educación.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 175,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  },
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 13,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuál es la política del Gobierno en materia de educación.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 175,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  }
+ ]
+}

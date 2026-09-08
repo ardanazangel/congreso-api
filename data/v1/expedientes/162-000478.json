@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000478",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-14",
+   "session": 111,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, en defensa del Pacto Verde europeo.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 175,
+    "no": 169,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-14.json"
+  }
+ ]
+}

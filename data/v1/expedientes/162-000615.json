@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000615",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 58,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre el 40 aniversario de la aprobación de la Ley General de Sanidad y de reconocimiento a la figura de Ernest Lluch.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 308,
+    "no": 33,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  }
+ ]
+}

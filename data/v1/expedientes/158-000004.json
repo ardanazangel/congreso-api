@@ -1,0 +1,23 @@
+{
+ "expediente": "158/000004",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-11",
+   "session": 58,
+   "number": 11,
+   "heading": "Propuestas de creación de Subcomisiones.",
+   "title": "Propuesta de la Comisión de Igualdad, de creación de una Subcomisión relativa a la lucha contra los discursos de odio.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 310,
+    "no": 33,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-11.json"
+  }
+ ]
+}

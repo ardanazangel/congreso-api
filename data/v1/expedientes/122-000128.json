@@ -1,0 +1,74 @@
+{
+ "expediente": "122/000128",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-26",
+   "session": 63,
+   "number": 8,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Solicitudes de avocación por el Pleno de la Cámara de la deliberación y votación final de la Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos neurológicos de alta complejidad y curso irreversible, presentadas por el Grupo Parlamentario Popular en el Congreso, el Grupo Parlamentario Socialista y el Grupo Parlamentario Junts per Catalunya.",
+   "subtitle": "",
+   "totals": {
+    "present": 339,
+    "yes": 339,
+    "no": 0,
+    "abstain": 0,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-26.json"
+  },
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible (antes denominada Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos neurológicos de alta complejidad y curso irreversible).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 344,
+    "yes": 12,
+    "no": 326,
+    "abstain": 6,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  },
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible (antes denominada Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos neurológicos de alta complejidad y curso irreversible).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 343,
+    "yes": 12,
+    "no": 324,
+    "abstain": 7,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  },
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen de la Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible (antes denominada Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos neurológicos de alta complejidad y curso irreversible).",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 344,
+    "no": 0,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  }
+ ]
+}

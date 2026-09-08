@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000139",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-18",
+   "session": 99,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, sobre la reducción de la tasa máxima de alcohol en la conducción y la prohibición de la difusión de la ubicación de controles en redes sociales.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 177,
+    "no": 32,
+    "abstain": 135,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-18.json"
+  }
+ ]
+}

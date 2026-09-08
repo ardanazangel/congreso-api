@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000018",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-20",
+   "session": 21,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica para garantizar la unidad de España.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 33,
+    "no": 313,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-20.json"
+  }
+ ]
+}

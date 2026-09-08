@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000163",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-17",
+   "session": 119,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, al objeto de tipificar penalmente el transporte y almacenamiento de combustibles líquidos predeterminados al narcotráfico.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 171,
+    "no": 172,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-17.json"
+  }
+ ]
+}

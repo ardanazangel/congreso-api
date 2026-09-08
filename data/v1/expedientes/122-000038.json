@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000038",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-18",
+   "session": 47,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, de protección del Patrimonio Histórico frente al vandalismo.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 168,
+    "no": 170,
+    "abstain": 5,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-18.json"
+  }
+ ]
+}

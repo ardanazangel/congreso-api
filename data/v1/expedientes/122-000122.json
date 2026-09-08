@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000122",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-20",
+   "session": 112,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley de los Grupos Parlamentarios Plurinacional SUMAR y Mixto, por la que se reforma la Ley 53/2007, de 28 de diciembre, sobre el control del comercio exterior de material de defensa y de doble uso, introduciendo la figura del embargo y su régimen jurídico.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 176,
+    "no": 171,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-20.json"
+  }
+ ]
+}

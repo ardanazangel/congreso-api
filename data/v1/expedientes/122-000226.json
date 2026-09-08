@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000226",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-17",
+   "session": 165,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica de modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para la ampliación de los supuestos en los que se prevé la imposición de la pena de prisión permanente revisable.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 172,
+    "no": 174,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-17.json"
+  }
+ ]
+}

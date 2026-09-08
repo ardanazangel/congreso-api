@@ -1,0 +1,74 @@
+{
+ "expediente": "162/000292",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para que España respalde la investigación de la Fiscalía del Tribunal Penal Internacional y solicite una orden de arresto contra Nicolás Maduro y otros responsables de crímenes de lesa humanidad en Venezuela.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 346,
+    "yes": 183,
+    "no": 163,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-12.json"
+  },
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para que España respalde la investigación de la Fiscalía del Tribunal Penal Internacional y solicite una orden de arresto contra Nicolás Maduro y otros responsables de crímenes de lesa humanidad en Venezuela.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 345,
+    "yes": 171,
+    "no": 161,
+    "abstain": 13,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-12.json"
+  },
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para que España respalde la investigación de la Fiscalía del Tribunal Penal Internacional y solicite una orden de arresto contra Nicolás Maduro y otros responsables de crímenes de lesa humanidad en Venezuela.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 346,
+    "yes": 302,
+    "no": 31,
+    "abstain": 13,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-12.json"
+  },
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para que España respalde la investigación de la Fiscalía del Tribunal Penal Internacional y solicite una orden de arresto contra Nicolás Maduro y otros responsables de crímenes de lesa humanidad en Venezuela.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 346,
+    "yes": 183,
+    "no": 163,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-12.json"
+  }
+ ]
+}

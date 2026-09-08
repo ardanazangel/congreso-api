@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000007",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-12-19",
+   "session": 13,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Republicano, para garantizar el derecho a la autonomía de la voluntad de los y las deportistas.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 177,
+    "no": 169,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-19.json"
+  }
+ ]
+}

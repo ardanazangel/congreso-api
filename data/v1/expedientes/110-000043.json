@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000043",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 19,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Convención de las Naciones Unidas sobre los efectos internacionales de las ventas judiciales de buques, hecha en Nueva York el 7 de diciembre de 2022.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 292,
+    "no": 0,
+    "abstain": 52,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  }
+ ]
+}

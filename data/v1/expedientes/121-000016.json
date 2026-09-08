@@ -1,0 +1,652 @@
+{
+ "expediente": "121/000016",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-07-11",
+   "session": 54,
+   "number": 11,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de devolución al Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios, presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-11.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 329,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 9,
+    "no": 337,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 740, 768, 775 y 776.",
+   "totals": {
+    "present": 344,
+    "yes": 177,
+    "no": 167,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 329,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 539.",
+   "totals": {
+    "present": 347,
+    "yes": 160,
+    "no": 154,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 675.",
+   "totals": {
+    "present": 347,
+    "yes": 142,
+    "no": 204,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 329,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Junts per Catalunya Enmienda 389.",
+   "totals": {
+    "present": 347,
+    "yes": 28,
+    "no": 317,
+    "abstain": 2,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 25,
+    "no": 322,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 144.",
+   "totals": {
+    "present": 347,
+    "yes": 46,
+    "no": 301,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 45,
+    "no": 302,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Enmienda 706.",
+   "totals": {
+    "present": 347,
+    "yes": 168,
+    "no": 179,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Enmiendas 710, 712 y 715.",
+   "totals": {
+    "present": 347,
+    "yes": 32,
+    "no": 179,
+    "abstain": 136,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 32,
+    "no": 315,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 871, 873, 875, 876, 883, 896, 901 a 906, 917, 920, 923, 926 a 929, 933, 935, 952, 1040, 1047 a 1050, 1058, 1067 y 1071.",
+   "totals": {
+    "present": 346,
+    "yes": 135,
+    "no": 211,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 16,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 886, 890, 892, 895, 899, 907, 908, 918, 924, 936 y 1053.",
+   "totals": {
+    "present": 346,
+    "yes": 168,
+    "no": 178,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Resto de las enmiendas.",
+   "totals": {
+    "present": 346,
+    "yes": 136,
+    "no": 178,
+    "abstain": 32,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Votos particulares. Voto particular número 1 del Grupo Parlamentario Socialista a la enmienda número 228 del Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 179,
+    "no": 168,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 19,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Votos particulares. Voto particular número 8 del Grupo Parlamentario Popular en el Congreso a la enmienda número 316 del Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 135,
+    "no": 180,
+    "abstain": 32,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 20,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Votos particulares. Resto de votos particulares del Grupo Parlamentario Popular en el Congreso.",
+   "totals": {
+    "present": 346,
+    "yes": 168,
+    "no": 178,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 21,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 2 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 179,
+    "no": 167,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 22,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 3 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 346,
+    "yes": 315,
+    "no": 31,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 23,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 4 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 346,
+    "yes": 315,
+    "no": 31,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 24,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 5 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 346,
+    "yes": 178,
+    "no": 168,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 25,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 6 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 179,
+    "no": 168,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 26,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 7 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 313,
+    "no": 34,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 27,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 8 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 180,
+    "no": 167,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 28,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 9 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 179,
+    "no": 168,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 29,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 10 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 179,
+    "no": 168,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 30,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 11 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 179,
+    "no": 168,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 31,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 12 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 179,
+    "no": 168,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 32,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 13 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 315,
+    "no": 32,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 33,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica número 14 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 346,
+    "yes": 314,
+    "no": 32,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 38,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Votación del dictamen. Votación del Dictamen, en lo relativo a la disposición final decimonovena nonies (nueva).",
+   "totals": {
+    "present": 347,
+    "yes": 180,
+    "no": 167,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 39,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Votación del dictamen. Resto del Dictamen",
+   "totals": {
+    "present": 347,
+    "yes": 180,
+    "no": 167,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 40,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia (antes denominado Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia y de acciones colectivas para la protección y defensa de los derechos e intereses de los consumidores y usuarios).",
+   "subtitle": "Votación de conjunto. Votación de conjunto del Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia, por tener el mismo carácter orgánico.",
+   "totals": {
+    "present": 347,
+    "yes": 179,
+    "no": 168,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 88,
+   "heading": "Veto del Senado.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 177,
+    "no": 170,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  }
+ ]
+}

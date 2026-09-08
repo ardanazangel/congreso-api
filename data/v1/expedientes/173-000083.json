@@ -1,0 +1,91 @@
+{
+ "expediente": "173/000083",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el infierno fiscal al que este Gobierno está sometiendo a los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 345,
+    "yes": 170,
+    "no": 168,
+    "abstain": 7,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el infierno fiscal al que este Gobierno está sometiendo a los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 345,
+    "yes": 171,
+    "no": 167,
+    "abstain": 7,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 12,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el infierno fiscal al que este Gobierno está sometiendo a los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 346,
+    "yes": 175,
+    "no": 163,
+    "abstain": 8,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 13,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el infierno fiscal al que este Gobierno está sometiendo a los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 345,
+    "yes": 211,
+    "no": 121,
+    "abstain": 13,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 14,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el infierno fiscal al que este Gobierno está sometiendo a los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 346,
+    "yes": 146,
+    "no": 151,
+    "abstain": 49,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  }
+ ]
+}

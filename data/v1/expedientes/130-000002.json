@@ -1,0 +1,23 @@
+{
+ "expediente": "130/000002",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-01-10",
+   "session": 15,
+   "number": 3,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 7/2023, de 19 de diciembre, por el que se adoptan medidas urgentes, para completar la transposición de la Directiva (UE) 2019/1158, del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 2010/18/UE del Consejo, y para la simplificación y mejora del nivel asistencial de la protección por desempleo.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 167,
+    "no": 176,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-10.json"
+  }
+ ]
+}

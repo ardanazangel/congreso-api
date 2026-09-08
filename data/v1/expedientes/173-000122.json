@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000122",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 99,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la necesidad de garantizar la enseñanza y presencia del español en todos los ámbitos del espacio público de toda la nación.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 33,
+    "no": 177,
+    "abstain": 137,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "expediente": "122/000280",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-05-19",
+   "session": 179,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, Orgánica para la modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 313,
+    "no": 33,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-19.json"
+  },
+  {
+   "date": "2026-05-28",
+   "session": 183,
+   "number": 16,
+   "heading": "Acuerdo de tramitación directa y en lectura única de iniciativas legislativas.",
+   "title": "Acuerdo de tramitación directa y en lectura única de la Proposición de Ley Orgánica para la modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 313,
+    "no": 33,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-28.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 18,
+   "heading": "Tramitación directa y en lectura única de iniciativas legislativas.",
+   "title": "Votación de conjunto de la Proposición de Ley Orgánica para la modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, por tramitarse en lectura única y tener la iniciativa carácter orgánico, teniendo en cuenta las correcciones técnicas distribuidas.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 312,
+    "no": 33,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  }
+ ]
+}

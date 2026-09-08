@@ -1,0 +1,40 @@
+{
+ "expediente": "154/000006",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 18,
+   "heading": "Solicitud de prórroga de Subcomisiones.",
+   "title": "Solicitud de la Comisión de Igualdad, de prórroga de seis meses del plazo para la conclusión de los trabajos de la Subcomisión relativa a la lucha contra los discursos de odio, constituida en el seno de la citada Comisión.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 317,
+    "no": 32,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 31,
+   "heading": "Solicitud de prórroga de Subcomisiones.",
+   "title": "Solicitud de la Comisión de Igualdad, de prórroga de seis meses del plazo para la conclusión de los trabajos de la Subcomisión relativa a la lucha contra los discursos de odio, constituida en el seno de la citada Comisión.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 309,
+    "no": 32,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  }
+ ]
+}

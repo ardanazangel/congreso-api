@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000178",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Vasco (EAJ-PNV), sobre las medidas que piensa adoptar el Gobierno para garantizar el correcto funcionamiento de la prestación por Cuidado de Menores con Enfermedad Grave (CUME).",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 226,
+    "no": 0,
+    "abstain": 121,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  }
+ ]
+}

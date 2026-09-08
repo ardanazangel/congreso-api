@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000159",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 52,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la estrategia energética del Gobierno para garantizar la supervivencia de la industria y el crecimiento del país.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 33,
+    "no": 317,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  }
+ ]
+}

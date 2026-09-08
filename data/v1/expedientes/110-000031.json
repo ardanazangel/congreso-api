@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000031",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 18,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo complementario del Convenio Básico de cooperación científica y técnica entre el Reino de España y los Estados Unidos Mexicanos para el financiamiento de programas y proyectos de cooperación, hecho \"ad referendum\" en Ciudad de México el 9 de marzo de 2022.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 293,
+    "no": 33,
+    "abstain": 19,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  }
+ ]
+}

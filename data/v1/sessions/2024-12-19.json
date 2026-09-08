@@ -1,0 +1,3578 @@
+{
+ "date": "2024-12-19",
+ "session": 88,
+ "legislature": "XV",
+ "deputies": [
+  {
+   "name": "Abades Martínez, Cristina",
+   "group": "GP",
+   "seat": "3702"
+  },
+  {
+   "name": "Ábalos Meco, José Luis",
+   "group": "GMx",
+   "seat": "2701"
+  },
+  {
+   "name": "Abascal Conde, Santiago",
+   "group": "GVOX",
+   "seat": "-1"
+  },
+  {
+   "name": "Acedo Reyes, Sofía",
+   "group": "GP",
+   "seat": "3611"
+  },
+  {
+   "name": "Aceves Galindo, José Luis",
+   "group": "GS",
+   "seat": "1505"
+  },
+  {
+   "name": "Adrio Taracido, María",
+   "group": "GS",
+   "seat": "1707"
+  },
+  {
+   "name": "Agirretxea Urresti, Joseba Andoni",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2310"
+  },
+  {
+   "name": "Agüera Gago, Cristina",
+   "group": "GP",
+   "seat": "3712"
+  },
+  {
+   "name": "Aguirre Gil de Biedma, Rocío",
+   "group": "GVOX",
+   "seat": "2707"
+  },
+  {
+   "name": "Aizcorbe Torra, Juan José",
+   "group": "GVOX",
+   "seat": "2613"
+  },
+  {
+   "name": "Aizpurua Arzallus, Mertxe",
+   "group": "GEH Bildu",
+   "seat": "2501"
+  },
+  {
+   "name": "Alcaraz Martos, Francisco José",
+   "group": "GVOX",
+   "seat": "2611"
+  },
+  {
+   "name": "Alfonso Cendón, Javier",
+   "group": "GS",
+   "seat": "1204"
+  },
+  {
+   "name": "Alfonso Silvestre, Alma",
+   "group": "GP",
+   "seat": "3604"
+  },
+  {
+   "name": "Alía Aguado, María Pilar",
+   "group": "GP",
+   "seat": "2713"
+  },
+  {
+   "name": "Almirón Ruiz, Oriol",
+   "group": "GS",
+   "seat": "1805"
+  },
+  {
+   "name": "Almodóvar Sánchez, Emilia",
+   "group": "GS",
+   "seat": "4601"
+  },
+  {
+   "name": "Alonso Cantorné, Fèlix",
+   "group": "GSUMAR",
+   "seat": "2405"
+  },
+  {
+   "name": "Alós López, Ana Isabel",
+   "group": "GP",
+   "seat": "3308"
+  },
+  {
+   "name": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+   "group": "GP",
+   "seat": "3413"
+  },
+  {
+   "name": "Álvarez Fanjul, Beatriz",
+   "group": "GP",
+   "seat": "3305"
+  },
+  {
+   "name": "Álvarez González, Alicia",
+   "group": "GS",
+   "seat": "1706"
+  },
+  {
+   "name": "Álvaro Vidal, Francesc-Marc",
+   "group": "GR",
+   "seat": "2515"
+  },
+  {
+   "name": "Andala Ubbi, Teslem",
+   "group": "GSUMAR",
+   "seat": "2303"
+  },
+  {
+   "name": "Andrés Añón, Carmen",
+   "group": "GS",
+   "seat": "1702"
+  },
+  {
+   "name": "Aragonés Mendiguchía, Carlos",
+   "group": "GP",
+   "seat": "3616"
+  },
+  {
+   "name": "Aranda Vargas, Francisco",
+   "group": "GS",
+   "seat": "1502"
+  },
+  {
+   "name": "Argota Castro, Trinidad Carmen",
+   "group": "GS",
+   "seat": "1712"
+  },
+  {
+   "name": "Argüelles García, Silverio",
+   "group": "GP",
+   "seat": "3603"
+  },
+  {
+   "name": "Armario González, Blanca",
+   "group": "GVOX",
+   "seat": "2705"
+  },
+  {
+   "name": "Armengol Socias, Francina",
+   "group": "GS",
+   "seat": "1"
+  },
+  {
+   "name": "Arribas Maroto, Manuel",
+   "group": "GS",
+   "seat": "1504"
+  },
+  {
+   "name": "Asarta Cuevas, Alberto",
+   "group": "GVOX",
+   "seat": "2803"
+  },
+  {
+   "name": "Azorín Salar, Lázaro",
+   "group": "GS",
+   "seat": "1609"
+  },
+  {
+   "name": "Badia Casas, Eloi",
+   "group": "GSUMAR",
+   "seat": "2404"
+  },
+  {
+   "name": "Barrio Baroja, Carmelo",
+   "group": "GP",
+   "seat": "5706"
+  },
+  {
+   "name": "Bayón Rolo, Juan Andrés",
+   "group": "GP",
+   "seat": "2818"
+  },
+  {
+   "name": "Beamonte Mesa, Luis María",
+   "group": "GP",
+   "seat": "3514"
+  },
+  {
+   "name": "Belarra Urteaga, Ione",
+   "group": "GMx",
+   "seat": "2510"
+  },
+  {
+   "name": "Belda Pérez-Pedrero, Enrique",
+   "group": "GP",
+   "seat": "3817"
+  },
+  {
+   "name": "Belmonte Gómez, Rafael Benigno",
+   "group": "GP",
+   "seat": "3808"
+  },
+  {
+   "name": "Bendodo Benasayag, Elías",
+   "group": "GP",
+   "seat": "3312"
+  },
+  {
+   "name": "Bermúdez de Castro Fernández, José Antonio",
+   "group": "GP",
+   "seat": "3"
+  },
+  {
+   "name": "Blanquer Alcaraz, Patricia",
+   "group": "GS",
+   "seat": "1205"
+  },
+  {
+   "name": "Boada Danés, Júlia",
+   "group": "GSUMAR",
+   "seat": "2302"
+  },
+  {
+   "name": "Bolaños García, Félix",
+   "group": "GS",
+   "seat": "1105"
+  },
+  {
+   "name": "Borrego Cortés, Isabel María",
+   "group": "GP",
+   "seat": "3404"
+  },
+  {
+   "name": "Bravo Baena, Juan",
+   "group": "GP",
+   "seat": "3310"
+  },
+  {
+   "name": "Cabezón Casas, Tomás",
+   "group": "GP",
+   "seat": "5802"
+  },
+  {
+   "name": "Calvo Gómez, Pilar",
+   "group": "GJxCAT",
+   "seat": "1616"
+  },
+  {
+   "name": "Camino Miñana, Víctor",
+   "group": "GS",
+   "seat": "1402"
+  },
+  {
+   "name": "Campos Asensi, Jorge",
+   "group": "GVOX",
+   "seat": "2605"
+  },
+  {
+   "name": "Canelo Matito, Andrea",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Cantalapiedra Álvarez, María de las Mercedes",
+   "group": "GP",
+   "seat": "5702"
+  },
+  {
+   "name": "Carazo Hermoso, Eduardo",
+   "group": "GP",
+   "seat": "2711"
+  },
+  {
+   "name": "Carballedo Berlanga, María Eugenia",
+   "group": "GP",
+   "seat": "2712"
+  },
+  {
+   "name": "Casares Hontañón, Pedro",
+   "group": "GS",
+   "seat": "1412"
+  },
+  {
+   "name": "Castilla Álvarez, María Carmen",
+   "group": "GS",
+   "seat": "1306"
+  },
+  {
+   "name": "Catalán Higueras, Alberto",
+   "group": "GMx",
+   "seat": "1715"
+  },
+  {
+   "name": "Cavacasillas Rodríguez, Antonio",
+   "group": "GP",
+   "seat": "5705"
+  },
+  {
+   "name": "Celaya Brey, Javier",
+   "group": "GP",
+   "seat": "2814"
+  },
+  {
+   "name": "Cercas Mena, Blanca",
+   "group": "GS",
+   "seat": "4704"
+  },
+  {
+   "name": "Cerdán León, Santos",
+   "group": "GS",
+   "seat": "1301"
+  },
+  {
+   "name": "Cervera Pinart, Josep Maria",
+   "group": "GJxCAT",
+   "seat": "1615"
+  },
+  {
+   "name": "Chamorro Delmo, Ricardo",
+   "group": "GVOX",
+   "seat": "2802"
+  },
+  {
+   "name": "Clavell López, Óscar",
+   "group": "GP",
+   "seat": "3505"
+  },
+  {
+   "name": "Clemente Muñoz, Raquel",
+   "group": "GP",
+   "seat": "3714"
+  },
+  {
+   "name": "Cobo Carmona, Ana",
+   "group": "GS",
+   "seat": "1605"
+  },
+  {
+   "name": "Cobo Pérez, Noelia",
+   "group": "GS",
+   "seat": "1513"
+  },
+  {
+   "name": "Cobo Vega, Manuel",
+   "group": "GP",
+   "seat": "3516"
+  },
+  {
+   "name": "Cofiño Fernández, Rafael",
+   "group": "GSUMAR",
+   "seat": "2505"
+  },
+  {
+   "name": "Conde Bajén, Agustín",
+   "group": "GP",
+   "seat": "3612"
+  },
+  {
+   "name": "Conde López, Francisco José",
+   "group": "GP",
+   "seat": "3405"
+  },
+  {
+   "name": "Conesa Coma, Ignasi",
+   "group": "GS",
+   "seat": "4706"
+  },
+  {
+   "name": "Cortés Carballo, Mario",
+   "group": "GP",
+   "seat": "3708"
+  },
+  {
+   "name": "Corujo Berriel, María Dolores",
+   "group": "GS",
+   "seat": "1410"
+  },
+  {
+   "name": "Crespín Rubio, Rafaela",
+   "group": "GS",
+   "seat": "1312"
+  },
+  {
+   "name": "Cruset Domènech, Josep Maria",
+   "group": "GJxCAT",
+   "seat": "1516"
+  },
+  {
+   "name": "Cruz Santana, Gabriel",
+   "group": "GS",
+   "seat": "1711"
+  },
+  {
+   "name": "Cruz-Guzmán García, María Soledad",
+   "group": "GP",
+   "seat": "3711"
+  },
+  {
+   "name": "Cuesta Rodríguez, María del Socorro",
+   "group": "GP",
+   "seat": "3802"
+  },
+  {
+   "name": "Cuevas Larrosa, Raúl",
+   "group": "GP",
+   "seat": "3705"
+  },
+  {
+   "name": "De la Rosa Baena, Olvido",
+   "group": "GS",
+   "seat": "1814"
+  },
+  {
+   "name": "De las Cuevas Cortés, Félix",
+   "group": "GP",
+   "seat": "3819"
+  },
+  {
+   "name": "De los Santos González, Jaime Miguel",
+   "group": "GP",
+   "seat": "3506"
+  },
+  {
+   "name": "De Luna Tobarra, Llanos",
+   "group": "GP",
+   "seat": "3503"
+  },
+  {
+   "name": "De Meer Méndez, Rocío",
+   "group": "GVOX",
+   "seat": "3401"
+  },
+  {
+   "name": "De Rosa Torner, Fernando",
+   "group": "GP",
+   "seat": "5604"
+  },
+  {
+   "name": "Del Valle Rodríguez, Emilio Jesús",
+   "group": "GVOX",
+   "seat": "2616"
+  },
+  {
+   "name": "Delgado Arce, Celso Luis",
+   "group": "GP",
+   "seat": "5606"
+  },
+  {
+   "name": "Delgado-Taramona Hernández, Jimena",
+   "group": "GP",
+   "seat": "2808"
+  },
+  {
+   "name": "Díaz Marín, Raúl",
+   "group": "GS",
+   "seat": "1802"
+  },
+  {
+   "name": "Díaz Pérez, Yolanda",
+   "group": "GSUMAR",
+   "seat": "1103"
+  },
+  {
+   "name": "Diouf Dioh, Luc Andre",
+   "group": "GS",
+   "seat": "1403"
+  },
+  {
+   "name": "Esteban Bravo, Aitor",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2207"
+  },
+  {
+   "name": "Estrems Fayos, Etna",
+   "group": "GR",
+   "seat": "2409"
+  },
+  {
+   "name": "Fabra Part, Alberto",
+   "group": "GP",
+   "seat": "3407"
+  },
+  {
+   "name": "Fagúndez Campo, Antidio",
+   "group": "GS",
+   "seat": "1501"
+  },
+  {
+   "name": "Faneca López, María Luisa",
+   "group": "GS",
+   "seat": "1507"
+  },
+  {
+   "name": "Fernández Benéitez, Andrea",
+   "group": "GS",
+   "seat": "1607"
+  },
+  {
+   "name": "Fernández González, María Mercedes",
+   "group": "GP",
+   "seat": "3515"
+  },
+  {
+   "name": "Fernández Hernández, Pedro",
+   "group": "GVOX",
+   "seat": "3502"
+  },
+  {
+   "name": "Fernández Herranz, Sandra",
+   "group": "GP",
+   "seat": "5601"
+  },
+  {
+   "name": "Fernández Pena, Paula",
+   "group": "GS",
+   "seat": "1803"
+  },
+  {
+   "name": "Fernández Ríos, Tomás",
+   "group": "GVOX",
+   "seat": "2706"
+  },
+  {
+   "name": "Figaredo Álvarez-Sala, José María",
+   "group": "GVOX",
+   "seat": "3203"
+  },
+  {
+   "name": "Flores Juberías, Carlos",
+   "group": "GVOX",
+   "seat": "2704"
+  },
+  {
+   "name": "Floriano Corrales, Carlos Javier",
+   "group": "GP",
+   "seat": "3615"
+  },
+  {
+   "name": "Folch Blanc, Javier José",
+   "group": "GP",
+   "seat": "3601"
+  },
+  {
+   "name": "Franco González, Silvia",
+   "group": "GP",
+   "seat": "2817"
+  },
+  {
+   "name": "Fullaondo la Cruz, Marije",
+   "group": "GEH Bildu",
+   "seat": "2602"
+  },
+  {
+   "name": "Fúnez de Gregorio, Carmen",
+   "group": "GP",
+   "seat": "3311"
+  },
+  {
+   "name": "Gallardo Barrena, Pedro Ignacio",
+   "group": "GP",
+   "seat": "3602"
+  },
+  {
+   "name": "Gamarra Ruiz-Clavijo, Concepción",
+   "group": "GP",
+   "seat": "3209"
+  },
+  {
+   "name": "García Adanero, Carlos",
+   "group": "GP",
+   "seat": "5605"
+  },
+  {
+   "name": "García Chavarría, María Montserrat",
+   "group": "GS",
+   "seat": "1708"
+  },
+  {
+   "name": "García Félix, Manuel",
+   "group": "GP",
+   "seat": "3815"
+  },
+  {
+   "name": "García Gomis, David",
+   "group": "GVOX",
+   "seat": "2806"
+  },
+  {
+   "name": "García Gurrutxaga, María Luisa",
+   "group": "GS",
+   "seat": "1709"
+  },
+  {
+   "name": "García López, Maribel",
+   "group": "GS",
+   "seat": "1206"
+  },
+  {
+   "name": "García Morís, Roberto",
+   "group": "GS",
+   "seat": "1411"
+  },
+  {
+   "name": "Garre Murcia, Cristóbal",
+   "group": "GP",
+   "seat": "3809"
+  },
+  {
+   "name": "Garrido Jiménez, Elisa",
+   "group": "GS",
+   "seat": "1401"
+  },
+  {
+   "name": "Garrido Valenzuela, Irene",
+   "group": "GP",
+   "seat": "3605"
+  },
+  {
+   "name": "Gavin i Valls, Isidre",
+   "group": "GJxCAT",
+   "seat": "1514"
+  },
+  {
+   "name": "Gil de Reboleño Lastortres, Esther",
+   "group": "GSUMAR",
+   "seat": "4"
+  },
+  {
+   "name": "Gil Lázaro, Ignacio",
+   "group": "GVOX",
+   "seat": "2614"
+  },
+  {
+   "name": "Gil Santiago, Carlos",
+   "group": "GP",
+   "seat": "3812"
+  },
+  {
+   "name": "González Gracia, Juan Antonio",
+   "group": "GS",
+   "seat": "1510"
+  },
+  {
+   "name": "González López, Nahuel",
+   "group": "GSUMAR",
+   "seat": "2407"
+  },
+  {
+   "name": "González Vázquez, Marta",
+   "group": "GP",
+   "seat": "5"
+  },
+  {
+   "name": "González-Robatto Perote, Jacobo",
+   "group": "GVOX",
+   "seat": "2604"
+  },
+  {
+   "name": "Gracia Blanco, Marta",
+   "group": "GS",
+   "seat": "4603"
+  },
+  {
+   "name": "Granollers Cunillera, Inés",
+   "group": "GR",
+   "seat": "2516"
+  },
+  {
+   "name": "Guardiola Salmerón, Mirian",
+   "group": "GP",
+   "seat": "3206"
+  },
+  {
+   "name": "Guijarro Ceballos, María",
+   "group": "GS",
+   "seat": "1407"
+  },
+  {
+   "name": "Guijarro García, Txema",
+   "group": "GSUMAR",
+   "seat": "2401"
+  },
+  {
+   "name": "Guinart Moreno, Lídia",
+   "group": "GS",
+   "seat": "1307"
+  },
+  {
+   "name": "Gutiérrez Prieto, Sergio",
+   "group": "GS",
+   "seat": "1606"
+  },
+  {
+   "name": "Gutiérrez Santiago, Víctor",
+   "group": "GS",
+   "seat": "1305"
+  },
+  {
+   "name": "Hernández Quero, Carlos",
+   "group": "GVOX",
+   "seat": "2703"
+  },
+  {
+   "name": "Hernando Fraile, Rafael Antonio",
+   "group": "GP",
+   "seat": "3409"
+  },
+  {
+   "name": "Herrera García, Milena",
+   "group": "GS",
+   "seat": "1409"
+  },
+  {
+   "name": "Herrero Bono, José Alberto",
+   "group": "GP",
+   "seat": "3609"
+  },
+  {
+   "name": "Hispán Iglesias de Ussel, Pablo",
+   "group": "GP",
+   "seat": "3513"
+  },
+  {
+   "name": "Hita Téllez, Guillermo",
+   "group": "GS",
+   "seat": "1310"
+  },
+  {
+   "name": "Hoces Íñiguez, Ignacio",
+   "group": "GVOX",
+   "seat": "2612"
+  },
+  {
+   "name": "Hoyo Juliá, Belén",
+   "group": "GP",
+   "seat": "3614"
+  },
+  {
+   "name": "Ibáñez Hernando, Ángel",
+   "group": "GP",
+   "seat": "2714"
+  },
+  {
+   "name": "Ibáñez Mezquita, Alberto",
+   "group": "GSUMAR",
+   "seat": "2305"
+  },
+  {
+   "name": "Iniesta Egido, Isabel",
+   "group": "GS",
+   "seat": "4804"
+  },
+  {
+   "name": "Iñarritu García, Jon",
+   "group": "GEH Bildu",
+   "seat": "2603"
+  },
+  {
+   "name": "Jerez Antequera, Juan Carlos",
+   "group": "GS",
+   "seat": "4606"
+  },
+  {
+   "name": "Jiménez Linuesa, Beatriz",
+   "group": "GP",
+   "seat": "3608"
+  },
+  {
+   "name": "Jordà i Roura, Teresa",
+   "group": "GR",
+   "seat": "2411"
+  },
+  {
+   "name": "Lago Peñas, Manuel",
+   "group": "GSUMAR",
+   "seat": "2307"
+  },
+  {
+   "name": "Lamuà Estañol, Marc",
+   "group": "GS",
+   "seat": "1503"
+  },
+  {
+   "name": "Leal Fernández, Isaura",
+   "group": "GS",
+   "seat": "7"
+  },
+  {
+   "name": "Legarda Uriarte, Mikel",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2206"
+  },
+  {
+   "name": "Lima García, Laura María",
+   "group": "GP",
+   "seat": "3801"
+  },
+  {
+   "name": "Llamazares Domingo, Esther",
+   "group": "GP",
+   "seat": "2810"
+  },
+  {
+   "name": "López Álvarez, Patxi",
+   "group": "GS",
+   "seat": "1201"
+  },
+  {
+   "name": "López Cano, Ignacio",
+   "group": "GS",
+   "seat": "1508"
+  },
+  {
+   "name": "López Maraver, Ángel",
+   "group": "GVOX",
+   "seat": "2615"
+  },
+  {
+   "name": "López Tagliafico, Candela",
+   "group": "GSUMAR",
+   "seat": "2507"
+  },
+  {
+   "name": "López Zamora, Cristina",
+   "group": "GS",
+   "seat": "4805"
+  },
+  {
+   "name": "Lorente Anaya, Macarena",
+   "group": "GP",
+   "seat": "3813"
+  },
+  {
+   "name": "Lorenzo Cazorla, Juan Antonio",
+   "group": "GS",
+   "seat": "1612"
+  },
+  {
+   "name": "Losada Fernández, José",
+   "group": "GS",
+   "seat": "1818"
+  },
+  {
+   "name": "Lucas Ayala, Francisco",
+   "group": "GS",
+   "seat": "1304"
+  },
+  {
+   "name": "Macías Gata, Alfonso Carlos",
+   "group": "GP",
+   "seat": "2812"
+  },
+  {
+   "name": "Madrenas i Mir, Marta",
+   "group": "GJxCAT",
+   "seat": "1515"
+  },
+  {
+   "name": "Madrid Olmo, Bartolomé",
+   "group": "GP",
+   "seat": "2813"
+  },
+  {
+   "name": "Maldonado López, Adriana",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Marcos Ortega, Milagros",
+   "group": "GP",
+   "seat": "5602"
+  },
+  {
+   "name": "Marí Bosó, José Vicente",
+   "group": "GP",
+   "seat": "3411"
+  },
+  {
+   "name": "Mariscal Anaya, Guillermo",
+   "group": "GP",
+   "seat": "8"
+  },
+  {
+   "name": "Mariscal Zabala, Manuel",
+   "group": "GVOX",
+   "seat": "3501"
+  },
+  {
+   "name": "Marqués Atés, Amador",
+   "group": "GS",
+   "seat": "1703"
+  },
+  {
+   "name": "Martín Blanco, Nacho",
+   "group": "GP",
+   "seat": "2708"
+  },
+  {
+   "name": "Martín García, Pedro Samuel",
+   "group": "GP",
+   "seat": "3805"
+  },
+  {
+   "name": "Martín Martínez, Andreu",
+   "group": "GS",
+   "seat": "4705"
+  },
+  {
+   "name": "Martín Rodríguez, Margarita",
+   "group": "GS",
+   "seat": "4602"
+  },
+  {
+   "name": "Martín Urriza, Carlos",
+   "group": "GSUMAR",
+   "seat": "2306"
+  },
+  {
+   "name": "Martínez Barbero, Verónica",
+   "group": "GSUMAR",
+   "seat": "2201"
+  },
+  {
+   "name": "Martínez Gómez, Antonio",
+   "group": "GP",
+   "seat": "3804"
+  },
+  {
+   "name": "Martínez Hierro, Lander",
+   "group": "GSUMAR",
+   "seat": "2402"
+  },
+  {
+   "name": "Martínez Labella, Ana",
+   "group": "GP",
+   "seat": "3811"
+  },
+  {
+   "name": "Martínez Ramírez, Carmen",
+   "group": "GS",
+   "seat": "1512"
+  },
+  {
+   "name": "Martínez Salmerón, Joaquín",
+   "group": "GS",
+   "seat": "4806"
+  },
+  {
+   "name": "Martínez Seijo, María Luz",
+   "group": "GS",
+   "seat": "1415"
+  },
+  {
+   "name": "Matute García de Jalón, Oskar",
+   "group": "GEH Bildu",
+   "seat": "2502"
+  },
+  {
+   "name": "Mayoral de Lamo, Alberto",
+   "group": "GS",
+   "seat": "1613"
+  },
+  {
+   "name": "Mayoral Pérez, Jesús",
+   "group": "GS",
+   "seat": "4802"
+  },
+  {
+   "name": "Mejías Sánchez, Carina",
+   "group": "GVOX",
+   "seat": "2805"
+  },
+  {
+   "name": "Melgarejo Moreno, Joaquín",
+   "group": "GP",
+   "seat": "3716"
+  },
+  {
+   "name": "Mellado Sierra, Valle",
+   "group": "GS",
+   "seat": "1602"
+  },
+  {
+   "name": "Méndez Monasterio, Lourdes",
+   "group": "GVOX",
+   "seat": "2610"
+  },
+  {
+   "name": "Mercadal Baquero, Pepe",
+   "group": "GS",
+   "seat": "1808"
+  },
+  {
+   "name": "Merino Martínez, Javier",
+   "group": "GP",
+   "seat": "3607"
+  },
+  {
+   "name": "Mesquida Mayans, Joan",
+   "group": "GP",
+   "seat": "3713"
+  },
+  {
+   "name": "Micó Micó, Àgueda",
+   "group": "GSUMAR",
+   "seat": "2203"
+  },
+  {
+   "name": "Mínguez García, Montse",
+   "group": "GS",
+   "seat": "1202"
+  },
+  {
+   "name": "Molina León, Ainhoa",
+   "group": "GP",
+   "seat": "3803"
+  },
+  {
+   "name": "Moneo Díez, María Sandra",
+   "group": "GP",
+   "seat": "3517"
+  },
+  {
+   "name": "Montávez Aguillaume, Vicente",
+   "group": "GS",
+   "seat": "1819"
+  },
+  {
+   "name": "Montero Cuadrado, María Jesús",
+   "group": "GS",
+   "seat": "1102"
+  },
+  {
+   "name": "Montesinos de Miguel, Macarena",
+   "group": "GP",
+   "seat": "3207"
+  },
+  {
+   "name": "Moraleja Gómez, Tristana María",
+   "group": "GP",
+   "seat": "3710"
+  },
+  {
+   "name": "Morales Álvarez, Álvaro",
+   "group": "GS",
+   "seat": "1809"
+  },
+  {
+   "name": "Moreno Borrás, Cristina",
+   "group": "GP",
+   "seat": "3806"
+  },
+  {
+   "name": "Moreno Fernández, Mª Isabel",
+   "group": "GS",
+   "seat": "1816"
+  },
+  {
+   "name": "Moro Almaraz, María Jesús",
+   "group": "GP",
+   "seat": "3508"
+  },
+  {
+   "name": "Muñoz Abrines, Pedro",
+   "group": "GP",
+   "seat": "3410"
+  },
+  {
+   "name": "Muñoz de la Iglesia, Ester",
+   "group": "GP",
+   "seat": "3309"
+  },
+  {
+   "name": "Nacarino-Brabo Jiménez, Aurora",
+   "group": "GP",
+   "seat": "2715"
+  },
+  {
+   "name": "Narbona Ruiz, Cristina",
+   "group": "GS",
+   "seat": "1207"
+  },
+  {
+   "name": "Nasarre Oliva, Begoña",
+   "group": "GS",
+   "seat": "1203"
+  },
+  {
+   "name": "Navarro Lacoba, Carmen",
+   "group": "GP",
+   "seat": "9"
+  },
+  {
+   "name": "Navarro López, Pedro",
+   "group": "GP",
+   "seat": "3504"
+  },
+  {
+   "name": "Nogueras i Camero, Míriam",
+   "group": "GJxCAT",
+   "seat": "1517"
+  },
+  {
+   "name": "Noriega Gómez, Javier",
+   "group": "GP",
+   "seat": "2819"
+  },
+  {
+   "name": "Núñez Feijóo, Alberto",
+   "group": "GP",
+   "seat": "3210"
+  },
+  {
+   "name": "Núñez González, Noelia",
+   "group": "GP",
+   "seat": "3306"
+  },
+  {
+   "name": "Núñez Guijarro, José Enrique",
+   "group": "GP",
+   "seat": "3510"
+  },
+  {
+   "name": "Olano Vela, Jaime Eduardo de",
+   "group": "GP",
+   "seat": "3204"
+  },
+  {
+   "name": "Ortega Smith-Molina, Francisco Javier",
+   "group": "GVOX",
+   "seat": "3302"
+  },
+  {
+   "name": "Otero García, Mercedes",
+   "group": "GS",
+   "seat": "1812"
+  },
+  {
+   "name": "Otero Rodríguez, Patricia",
+   "group": "GS",
+   "seat": "1604"
+  },
+  {
+   "name": "Pagès i Massó, Josep",
+   "group": "GJxCAT",
+   "seat": "1614"
+  },
+  {
+   "name": "Palencia Rubio, Héctor",
+   "group": "GP",
+   "seat": "3610"
+  },
+  {
+   "name": "Paniagua Núñez, Miguel Ángel",
+   "group": "GP",
+   "seat": "3701"
+  },
+  {
+   "name": "Paré Aregall, Josep",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Parra Aparicio, Julia",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Parra Gallego, Agustín",
+   "group": "GP",
+   "seat": "2807"
+  },
+  {
+   "name": "Pascual Rocamora, Sandra",
+   "group": "GP",
+   "seat": "2821"
+  },
+  {
+   "name": "Pedreño Molina, Juan Luis",
+   "group": "GP",
+   "seat": "3709"
+  },
+  {
+   "name": "Peña Camarero, Esther",
+   "group": "GS",
+   "seat": "1303"
+  },
+  {
+   "name": "Perea i Conillas, María Mercè",
+   "group": "GS",
+   "seat": "1309"
+  },
+  {
+   "name": "Pérez Coronado, Pablo",
+   "group": "GP",
+   "seat": "3706"
+  },
+  {
+   "name": "Pérez López, Álvaro",
+   "group": "GP",
+   "seat": "3205"
+  },
+  {
+   "name": "Pérez Ortiz, Isabel María",
+   "group": "GS",
+   "seat": "1817"
+  },
+  {
+   "name": "Pérez Osma, Daniel",
+   "group": "GP",
+   "seat": "2815"
+  },
+  {
+   "name": "Pérez Recuerda, Isabel Gema",
+   "group": "GP",
+   "seat": "3807"
+  },
+  {
+   "name": "Pin Ferrando, Gala",
+   "group": "GSUMAR",
+   "seat": "2403"
+  },
+  {
+   "name": "Pisarello Prados, Gerardo",
+   "group": "GSUMAR",
+   "seat": "6"
+  },
+  {
+   "name": "Plaza García, Inés",
+   "group": "GS",
+   "seat": "1705"
+  },
+  {
+   "name": "Poblador Pacheco, María Araceli",
+   "group": "GS",
+   "seat": "1813"
+  },
+  {
+   "name": "Pose Mesura, Modesto",
+   "group": "GS",
+   "seat": "1801"
+  },
+  {
+   "name": "Pozueta Fernández, Isabel",
+   "group": "GEH Bildu",
+   "seat": "-1"
+  },
+  {
+   "name": "Prieto Serrano, María Isabel",
+   "group": "GP",
+   "seat": "3606"
+  },
+  {
+   "name": "Puente Santiago, Óscar",
+   "group": "GS",
+   "seat": "1108"
+  },
+  {
+   "name": "Pueyo Sanz, Jorge",
+   "group": "GSUMAR",
+   "seat": "2308"
+  },
+  {
+   "name": "Puy Fraga, Pedro",
+   "group": "GP",
+   "seat": "3406"
+  },
+  {
+   "name": "Quintana Carballo, Rosa",
+   "group": "GP",
+   "seat": "5603"
+  },
+  {
+   "name": "Quintanilla Navarro, Miguel Ángel",
+   "group": "GP",
+   "seat": "5704"
+  },
+  {
+   "name": "Quintero Hernández, Jonay",
+   "group": "GS",
+   "seat": "1807"
+  },
+  {
+   "name": "Rallo Lombarte, Artemi",
+   "group": "GS",
+   "seat": "1413"
+  },
+  {
+   "name": "Ramajo Prada, Óscar",
+   "group": "GP",
+   "seat": "3810"
+  },
+  {
+   "name": "Ramírez Carner, Arnau",
+   "group": "GS",
+   "seat": "1603"
+  },
+  {
+   "name": "Ramírez del Río, José",
+   "group": "GVOX",
+   "seat": "2609"
+  },
+  {
+   "name": "Ramírez Martín, María Lourdes",
+   "group": "GP",
+   "seat": "2811"
+  },
+  {
+   "name": "Ramírez Moreno, María de las Nieves",
+   "group": "GS",
+   "seat": "1414"
+  },
+  {
+   "name": "Ramos Esteban, César Joaquín",
+   "group": "GS",
+   "seat": "1509"
+  },
+  {
+   "name": "Recas Martín, Alda",
+   "group": "GSUMAR",
+   "seat": "2508"
+  },
+  {
+   "name": "Redondo Cárdenas, Gonzalo",
+   "group": "GS",
+   "seat": "4803"
+  },
+  {
+   "name": "Rego Candamil, Néstor",
+   "group": "GMx",
+   "seat": "2513"
+  },
+  {
+   "name": "Requena Ruiz, Juan Diego",
+   "group": "GP",
+   "seat": "3507"
+  },
+  {
+   "name": "Rey de las Heras, Luis Alfonso",
+   "group": "GS",
+   "seat": "1714"
+  },
+  {
+   "name": "Reynal Reillo, Esperanza",
+   "group": "GP",
+   "seat": "3704"
+  },
+  {
+   "name": "Rivera Arias, Engracia",
+   "group": "GSUMAR",
+   "seat": "2406"
+  },
+  {
+   "name": "Rives Arcayna, Caridad",
+   "group": "GS",
+   "seat": "4807"
+  },
+  {
+   "name": "Robles López, Joaquín",
+   "group": "GVOX",
+   "seat": "2608"
+  },
+  {
+   "name": "Rodríguez Almeida, Andrés Alberto",
+   "group": "GVOX",
+   "seat": "2804"
+  },
+  {
+   "name": "Rodríguez Calleja, Patricia",
+   "group": "GP",
+   "seat": "3408"
+  },
+  {
+   "name": "Rodríguez de Millán Parro, María José",
+   "group": "GVOX",
+   "seat": "3202"
+  },
+  {
+   "name": "Rodríguez Gómez de Celis, Alfonso",
+   "group": "GS",
+   "seat": "2"
+  },
+  {
+   "name": "Rodríguez Palacios, Javier",
+   "group": "GS",
+   "seat": "1608"
+  },
+  {
+   "name": "Rodríguez Salas, José Antonio",
+   "group": "GS",
+   "seat": "1404"
+  },
+  {
+   "name": "Rodríguez Serra, Santi",
+   "group": "GP",
+   "seat": "3820"
+  },
+  {
+   "name": "Rodríguez Suárez, Esther",
+   "group": "GS",
+   "seat": "4701"
+  },
+  {
+   "name": "Rojas García, Carlos",
+   "group": "GP",
+   "seat": "3613"
+  },
+  {
+   "name": "Rojas Manrique, Juan Antonio",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Rojo Blas, Alberto",
+   "group": "GS",
+   "seat": "1701"
+  },
+  {
+   "name": "Román Jasanada, Antonio",
+   "group": "GP",
+   "seat": "3512"
+  },
+  {
+   "name": "Romaní Cantera, José Ignacio",
+   "group": "GP",
+   "seat": "5703"
+  },
+  {
+   "name": "Romero Pozo, Rafaela",
+   "group": "GS",
+   "seat": "1810"
+  },
+  {
+   "name": "Romero Vilches, María de los Reyes",
+   "group": "GVOX",
+   "seat": "3303"
+  },
+  {
+   "name": "Ros Martínez, Susana",
+   "group": "GS",
+   "seat": "1308"
+  },
+  {
+   "name": "Rueda Perelló, Patricia",
+   "group": "GVOX",
+   "seat": "2606"
+  },
+  {
+   "name": "Rufián Romero, Gabriel",
+   "group": "GR",
+   "seat": "2412"
+  },
+  {
+   "name": "Ruiz Boix, Juan Carlos",
+   "group": "GS",
+   "seat": "1311"
+  },
+  {
+   "name": "Ruiz de Diego, Víctor Javier",
+   "group": "GS",
+   "seat": "4604"
+  },
+  {
+   "name": "Ruiz de Pinedo Undiano, Iñaki",
+   "group": "GEH Bildu",
+   "seat": "2601"
+  },
+  {
+   "name": "Ruiz Solás, María de la Cabeza",
+   "group": "GVOX",
+   "seat": "3301"
+  },
+  {
+   "name": "Sáez Alonso-Muñumer, Pablo",
+   "group": "GVOX",
+   "seat": "3402"
+  },
+  {
+   "name": "Sáez Cruz, Emilio",
+   "group": "GS",
+   "seat": "1601"
+  },
+  {
+   "name": "Sagastizabal Unzetabarrenetxea, Idoia",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2309"
+  },
+  {
+   "name": "Sahuquillo García, Luis Carlos",
+   "group": "GS",
+   "seat": "1408"
+  },
+  {
+   "name": "Sainz Martín, María",
+   "group": "GS",
+   "seat": "1815"
+  },
+  {
+   "name": "Salvador i Duch, Jordi",
+   "group": "GR",
+   "seat": "2410"
+  },
+  {
+   "name": "Sánchez Díaz, María Carmen",
+   "group": "GS",
+   "seat": "1511"
+  },
+  {
+   "name": "Sánchez García, José María",
+   "group": "GVOX",
+   "seat": "2607"
+  },
+  {
+   "name": "Sánchez Ojeda, Carlos Alberto",
+   "group": "GP",
+   "seat": "2709"
+  },
+  {
+   "name": "Sánchez Pérez-Castejón, Pedro",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Sánchez Pérez, César",
+   "group": "GP",
+   "seat": "3715"
+  },
+  {
+   "name": "Sánchez Serna, Javier",
+   "group": "GMx",
+   "seat": "2509"
+  },
+  {
+   "name": "Sánchez Sierra, María del Mar",
+   "group": "GP",
+   "seat": "3414"
+  },
+  {
+   "name": "Sánchez Torregrosa, Maribel",
+   "group": "GP",
+   "seat": "3511"
+  },
+  {
+   "name": "Sancho Íñiguez, Herminio Rufino",
+   "group": "GS",
+   "seat": "1611"
+  },
+  {
+   "name": "Santana Aguilera, Ada",
+   "group": "GS",
+   "seat": "4702"
+  },
+  {
+   "name": "Santana Perera, Noemí",
+   "group": "GMx",
+   "seat": "2511"
+  },
+  {
+   "name": "Santiago Romero, Enrique Fernando",
+   "group": "GSUMAR",
+   "seat": "2204"
+  },
+  {
+   "name": "Santos Maraver, Agustín",
+   "group": "GSUMAR",
+   "seat": "2301"
+  },
+  {
+   "name": "Sanz Martínez, Luisa",
+   "group": "GS",
+   "seat": "1713"
+  },
+  {
+   "name": "Sarrià Morell, Vicent Manuel",
+   "group": "GS",
+   "seat": "1710"
+  },
+  {
+   "name": "Sastre Uyá, Miguel Ángel",
+   "group": "GP",
+   "seat": "3703"
+  },
+  {
+   "name": "Sayas López, Sergio",
+   "group": "GP",
+   "seat": "3304"
+  },
+  {
+   "name": "Sémper Pascual, Borja",
+   "group": "GP",
+   "seat": "3307"
+  },
+  {
+   "name": "Senderos Oraá, Daniel",
+   "group": "GS",
+   "seat": "1610"
+  },
+  {
+   "name": "Serrada Pariente, David",
+   "group": "GS",
+   "seat": "1506"
+  },
+  {
+   "name": "Serrano Martínez, Juan Francisco",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Sierra Caballero, Francisco",
+   "group": "GSUMAR",
+   "seat": "2506"
+  },
+  {
+   "name": "Simancas Simancas, Rafael",
+   "group": "GS",
+   "seat": "1210"
+  },
+  {
+   "name": "Soldevilla Novials, Alba",
+   "group": "GS",
+   "seat": "4605"
+  },
+  {
+   "name": "Soler Mur, Alejandro",
+   "group": "GS",
+   "seat": "1208"
+  },
+  {
+   "name": "Taboadela Álvarez, Obdulia",
+   "group": "GS",
+   "seat": "1406"
+  },
+  {
+   "name": "Tarno Blanco, Ricardo",
+   "group": "GP",
+   "seat": "5801"
+  },
+  {
+   "name": "Tellado Filgueira, Miguel",
+   "group": "GP",
+   "seat": "3208"
+  },
+  {
+   "name": "Teniente Sánchez, Cristina",
+   "group": "GP",
+   "seat": "5701"
+  },
+  {
+   "name": "Tomás Olivares, Violante",
+   "group": "GP",
+   "seat": "2716"
+  },
+  {
+   "name": "Torres Tejada, María",
+   "group": "GP",
+   "seat": "2820"
+  },
+  {
+   "name": "Trenzano Rubio, Marta",
+   "group": "GS",
+   "seat": "1806"
+  },
+  {
+   "name": "Uriarte Bengoechea, Edurne",
+   "group": "GP",
+   "seat": "3403"
+  },
+  {
+   "name": "Valero Morales, Juan Antonio",
+   "group": "GSUMAR",
+   "seat": "2304"
+  },
+  {
+   "name": "Valido García, Cristina",
+   "group": "GMx",
+   "seat": "1716"
+  },
+  {
+   "name": "Vallugera Balañà, Pilar",
+   "group": "GR",
+   "seat": "2514"
+  },
+  {
+   "name": "Vaquero Montero, Maribel",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2205"
+  },
+  {
+   "name": "Varela Pazos, Marta",
+   "group": "GP",
+   "seat": "3415"
+  },
+  {
+   "name": "Vázquez Blanco, Ana Belén",
+   "group": "GP",
+   "seat": "3509"
+  },
+  {
+   "name": "Vázquez Jiménez, María del Mar",
+   "group": "GP",
+   "seat": "3707"
+  },
+  {
+   "name": "Vedrina Conesa, María Elisa",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Velarde Gómez, Martina",
+   "group": "GMx",
+   "seat": "2512"
+  },
+  {
+   "name": "Velasco Morillo, Elvira",
+   "group": "GP",
+   "seat": "2710"
+  },
+  {
+   "name": "Velasco Retamosa, José Manuel",
+   "group": "GP",
+   "seat": "3816"
+  },
+  {
+   "name": "Verano Domínguez, Bella",
+   "group": "GP",
+   "seat": "3412"
+  },
+  {
+   "name": "Verdejo Vicente, Ferran",
+   "group": "GS",
+   "seat": "1704"
+  },
+  {
+   "name": "Vidal Matas, Vicenç",
+   "group": "GSUMAR",
+   "seat": "2408"
+  },
+  {
+   "name": "Vidal Sáez, Aina",
+   "group": "GSUMAR",
+   "seat": "2202"
+  },
+  {
+   "name": "Zaragoza Alonso, José",
+   "group": "GS",
+   "seat": "1209"
+  }
+ ],
+ "votings": [
+  {
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 31.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 44,
+    "no": 303,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NYNNNNNNNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNYNNNYNNYNNNNNNNNNNNNYNYNNYYNNNNNNNNYNNNNNNNNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNNNNNYYNNNXNNYNNNNNNNNNNNYNANNNYNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNNNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNYNNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion001/VOT_20241219162658.json"
+  },
+  {
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 32.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 16,
+    "no": 331,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNANNNNNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNNNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion002/VOT_20241219162700.json"
+  },
+  {
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 37.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 56,
+    "no": 291,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NXNNNNYNNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNYNNNNNNNNNNNNNYNNNNNNYNNNNNNYNNNNNNNNNNNNNNYNYYNNNNNNNNNNNNNNYNNNNNNNNNNNNNYYNNNYNNNYNNYNNNNNNNNNNNNYNYNNYYNNYNNNNNYNNNNNNYNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNYNNXNNNNNYNNNNNNNNNNNNNNYYNNNXNNYNNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNYNNYNNNYNNYNNNNNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNYYNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion003/VOT_20241219162701.json"
+  },
+  {
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 38.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 24,
+    "no": 297,
+    "abstain": 27,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNANNNNYANNNNNNNNNNANNNYNNNNNANNNNYNNNNNNNNNNNNNYNNNNNNANNNNNNYNNNNNNNNNNNNNNANNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNYANNNANNNYNNANNNNNNNNNNNNANYNNYANNNNNNNNANNNNNNYNNNNNNNNNNNAANANNNNYNNNNNNNNNANNNNNNNNNNNNNNNNNNYNNXNNNNNYNNNNNNNNNNNNNNAANNNXNNANNNNNNNNNNNANYNNNANNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNNNYNNNNYAANNNNNNNNANNNNNNNNNNNANYNNNNNYNNNNAAN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion004/VOT_20241219162702.json"
+  },
+  {
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 39.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 51,
+    "no": 162,
+    "abstain": 134,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "AYNANNNANNYNNAANNYAAANYYNANNANNNNNYAAAYAANANYNANAYNNNAAANNAAANNYNAANNAYAANANNYNAAANAAANANAANYNNYANNNANANNNNAAAYNAAANANNNNANAYYNANYANNYANYNNNNANAANNAAYNYNAYYNNNAANNNYNANNNAYANAAANNAANNYYAYANNNYNNNANNNAAYNAANNAANANAAAANNAAYAAXAANNNYAANAAAANNAANAAYYNNNXANYAAANNANNANNYNYANAYNNNANNNNANAANAANNNNYNNYNNNNNNYNNANAXAANNYYYNNAAANNNYNNNNAAAAANAYNYNAAAAYAAANYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion005/VOT_20241219162703.json"
+  },
+  {
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Resto de las enmiendas.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 17,
+    "no": 304,
+    "abstain": 27,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNANNNNYANNNNNNNNNNANNNYNNNNNANNNNNNNNNNNNNNNNNNNNNNNNNANNNNNNNNNNNNNNNNNNNNNANNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNANNNANNNYNNANNNNNNNNNNNNANYNNYANNNNNNNNANNNNNNNNNNNNNNNNNNAANANNNNYNNNNNNNNNANNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNNNNNAANNNXNNANNNNNNNNNNNANYNNNANNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNNNYNNNNYAANNNNNNNNANNNNNNNNNNNANYNNNNNYNNNNAAN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion006/VOT_20241219162704.json"
+  },
+  {
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Enmienda 1.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 36,
+    "no": 279,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNYNNNANYYNYNNNNNANNNNNANNNNNYNNYNANNNNNNNNNANNNNNNYNNNNNNYNNNNNYNNNNNANNNNNNNNNNNNNNNYNYNNNANANNNNNNYNNYYYNNNNNNNNNNYNNNNNNNAYNNANYNNNNANNNYNNNNNYNNANYNNNANNANNNNYANNNNNNNNNNNNYNNNNNAANANNNNNNNYNNYNNNANNNNNNNNNNNNNNNNNNNNNXNNYNNNNNNNNNNNNNNNNNAANNNXNNANNNNNNNYNNNANANNNANYYNYNNNNNNNNNNNYNYNNNNYYNANNNNYNNNNNNNNNAANNNNNNNNANNNNNNNNNNNAYNANNNNNNNNNAAN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion007/VOT_20241219162705.json"
+  },
+  {
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Enmienda 2.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 297,
+    "no": 23,
+    "abstain": 28,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YYYYYYNYYYYYYYYYYAYYYYNAYYYYYYYYYYAYYYNYYYYYAYYYYNYYYYYYYYYYYYYNYYYYYYAYYYYYYNYYYYYYYYYYYYYYAYNNYYYYYYYYYYYYYYYYYYYYYYYYYYYYNAYYYAYYYNYYAYYYYYYYYYYYYAYYYYNAYYNYYYYYAYYYYYYNYYYYYYYYYYYAAYAYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYNYYXYYYYYNYYYYYYYYYYYYYYAAYYYXYYAYYYYYYYYYYYAYAYYYAYYYYYYYYYYYYYYYYYYYNYYYYYYNYYNYYYYYNYYYYNAAYYYYYYYYAYYYYYYYYYYYAYNNYYYYNYYYYAAY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion008/VOT_20241219162707.json"
+  },
+  {
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Enmienda 4.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 35,
+    "no": 150,
+    "abstain": 163,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "ANYANNNAYYNYNAANNAAAANNANANNAYNNYNAAAANAAAANANAAANNYNAAANNYAANNNYAANNAAAANANNNNAAANAAAYAYAANANNNANNNAYANYYYAAANAAAANAYNNNANANAYANAAYNNANANNNNANAANYAAANNNANANNNAANNYANANNNANANAAAYNAANNAAAAANNNNNNYANYNAAANAANNAANANAAAANNAANAAXAAYNNNAANAAAANNAANAAAANNNXANAAAANNANYANNANYANAANYYAYNNNANAANAANYNYNNNNYYNNNNNNYANANAANNNAANNAAANNNANNNNAAAAANAAYNNAAAANAAANAAN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion009/VOT_20241219162708.json"
+  },
+  {
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Enmienda 6.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 2,
+    "no": 345,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion010/VOT_20241219162709.json"
+  },
+  {
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Enmienda 7.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNNNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYXYYYNNNYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNYNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion011/VOT_20241219162710.json"
+  },
+  {
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Enmienda 10.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 167,
+    "abstain": 10,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNAYYYAYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNANYNNNYYYNYYYYYYAYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNANYNNNNAYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNANNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYXYYYNNNYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNAYYNANNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNYNAYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion012/VOT_20241219162712.json"
+  },
+  {
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 126.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 346,
+    "yes": 152,
+    "no": 194,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "NYNNYYYNNNYNYNNYYNNNNYYNYNYYYNYYNYNNNNYNNNNYNXNNNYYNYNNNYYYNNYYYNNNYYNNNNYNYYYYNNNYNNNNNNNNYNYYYNYYYNNNYNNNNNNYNNNNYNNYYYNYNYNNNYNNNYYNYNYYYNNYNNYNNNNYYYNYNYYYNNYYNNYNYYYNYNYNNNNYNXYYNNNNNYYYYYYNNYNYNNNYNNYYNNYNYNNNNYYNNYNNXNNNYYYNNYNNNNYYNNYNNNNYYYXNYNNNNYYNYNNYYNYYNYNNYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNYNYNNYYYNNYYNNNYYYNYYYYNNNNNYNNYYYNNNNYNNNYNNY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion013/VOT_20241219162714.json"
+  },
+  {
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Resto de las enmiendas.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 29,
+    "no": 318,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNYNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYYNNNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNYNNNNNNNNNNNNNNNNNYNNYNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNXNNXNNYNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNYNNYNNNYNNYNNNNNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNYYNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion014/VOT_20241219162715.json"
+  },
+  {
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmiendas 47 y 51.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 346,
+    "yes": 50,
+    "no": 296,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "NYNNNNNNNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNYNNNNNNNNNNNNNYNNNNNNYNNNNNNYNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNYYNNNYNNNXNNYNNNNNNNNNNNNYNYNNYYNNNNNNNNYNNNNNNYNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNYNNXNNNNNYNNNNNNNNXNNNNNYYNNNXNNYNNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNNNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNYNNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion015/VOT_20241219162717.json"
+  },
+  {
+   "number": 16,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 54.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 23,
+    "no": 324,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNYNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNXNNNNNYNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNANNNNNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNNNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion016/VOT_20241219162718.json"
+  },
+  {
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 93.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 161,
+    "no": 159,
+    "abstain": 27,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNYNNYYNNAYYYNYANYNNYNNNNNAYYYYYYYYNANYYYYNNNYYYNNYYYNNYNYYNNYAYYNYNNYNYYYNYYYNYNYYNANNYYNNNYNYNNNNYYYYYYYYNYNNNNYNYYANYNAYNNYYNANNNNYNYYNNYYANYNYYANNNYYNNNANYNNNYYYNYYYNNYYNNAAYAYNNNYNNNYNNNYYANYYNNYYNYNYYYYNNYYYYYXYYXNNYYYNYYYYNNYYNYYAANNNXYNAYYYNNYNNYNNANYYNYANNNYNNNNYNYYNYYNNNNYNNYNNNNNNYNNYNYYYYNNYAANNYYYNNNANNNNYYYYYNYANYNYYYYYYYYNAAN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion017/VOT_20241219162719.json"
+  },
+  {
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Resto de las enmiendas.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 16,
+    "no": 298,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNANNNYNNNNNNANNNNYANNNNNNNNNNANNNYNNNNNANNNNNNNNNNNNNNNNNNNNNNNNNANNNNNNNNNNNXNNNNNNNNNANAYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNANNNANNNYNNANNNNNNNNNNNNANYNNYANNANNNNNANNNNNNNNNNNNNNNNNNAANANNNNYNNNNNNNNNANNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNNNNNAANNNXNNANNNNNNNNNNNANANNNANNNNNNNNNNNNNNNNNNNYNNYNNNANNYNNNNNYNNNNYAANNNNNNNNANNNNNNNNNNNANYANNNNYNNNNAAN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion018/VOT_20241219162721.json"
+  },
+  {
+   "number": 19,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 139.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 43,
+    "no": 266,
+    "abstain": 38,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNANNNANAAYANNNNNYNNNNYYNNNNNANNANYNNNYNNNNNYNNNNNNANNNNNNNNNNNNANNNNNYNNNNNNNNNNNNNNNANANNNYNANNNNNNANNAAANNNYNNNNNNANNNNNNNYANNYNANYNNYNNNANNNNNANNYNYNNYYNNANNNNAYNNNNNNNNNNNNANNNNNYYNYNNNNYNNANNANNNYNNNNNNNNNNNNNNNNNNNNNXNNANNNNNNNNNNNNNNNNNYYNNNXNNYNNNNNNNANNNYNYNNNYNAANANNNNNNNNNNNANAYNNYAANANNYNANNNYXNNNYYYNNNNNNNNYNNNNNNNNNNNYNYANNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion019/VOT_20241219162722.json"
+  },
+  {
+   "number": 20,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 141.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 43,
+    "no": 162,
+    "abstain": 142,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "ANNANNAANNYNNAANNYAAANYYNANNANNNNNYAAAYAAAANYNAAANNNNAAANNAAANNNNAANNAYAANANNNNAAANAAANANAANYNAYANNNANANNNNAAAYAAAANANNNNANANYNANYANNYANYNNNNANAANNAAYNYNAYYNNAAANNNYNANNNANANAAANNAANNYYAYANNNYNNNANNNAAYNAANNAANANAAAANNAANAAXAANNNNAANAAAANNAANAAYYNNNXANYAAANNANNANNYNAANAYNNNANNNNANAANAANNNNYNNYNNNANNYNNANAYXANNYYYNNAAANNNYNNNNAAAAANAYNYAAAAAYAAANYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion020/VOT_20241219162723.json"
+  },
+  {
+   "number": 21,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda transaccional en Comisión a las enmiendas 89 y 139 (artículo 13).",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 51,
+    "no": 260,
+    "abstain": 37,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNANNNANAAYANNNNNYNNNNYYNNNNNANNANYNNNYNNNNNYNNNNYNANNNNNNNNNNNYANNNNNYNNNNNNYNNNNNNNNANANNNYNAYNNNNNANNAAANNNYNNNNNNANNNNNNYYANNYNNNYNNYNNNANNNNNANNYNYNNYYNNANNNNAYNNNNNNYNNNNNANNNNNYYNYNNNNYNNANNANNNYNNNNNNNNNNNNNNNNNNYNNXNNANNYNNNNNNNNNNNNNNYYNNNXNNYNNNNNNNANNNYNYNNNYNAANANNNNNNNNNNNANAYNNYAANANNYNANNNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNYANNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion021/VOT_20241219162724.json"
+  },
+  {
+   "number": 22,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda transaccional en Comisión a las enmiendas 93, 94 y 142 (artículo 17).",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 44,
+    "no": 292,
+    "abstain": 12,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNANNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNANNNNNNNNNNNNNANNNNNNYNNNNNNANNNNNNNNNNNNNNYNAYNNNNNNNNNNNNNNYNNNNNNNNNNNNNAYNNNYNNNYNNYNNNNNNNNNNNNYNYNNYYNNANNNNNYNNNNNNANNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNANNXNNNNNANNNNNNNNNNNNNNYYNNNXNNYNNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNYNNYNNNANNYNNNNNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNYANNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion022/VOT_20241219162725.json"
+  },
+  {
+   "number": 23,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda transaccional en Comisión a las enmiendas 100 y 148 (disposiciones adicionales nuevas).",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 51,
+    "no": 296,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNYNNNNNNNNNNNNNYNNNNNNYNNNNNNYNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNYYNNNYNNNYNNYNNNNNNNNNNNNYNYNNYYNNXNNNNNYNNNNNNYNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNYNNXNNNNNYNNNNNNNNNNNNNNYYNNNXNNYNNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNNNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNYNNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion023/VOT_20241219162727.json"
+  },
+  {
+   "number": 24,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda transaccional en Comisión a las enmiendas 18, 33, 57 a 59 y 135 (artículo 9).",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 44,
+    "no": 297,
+    "abstain": 6,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNANNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNYNAYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNYNNNYNNYNNNNNNNNNNNNYNYNNYYNNANNNNNYNNNNNNNNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNXNNXNNNNNNNNNNNNNNNNNYYNNNXNNYNNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNYNNYNNNANNYNNNNNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYAYANNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion024/VOT_20241219162728.json"
+  },
+  {
+   "number": 25,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Resto de las enmiendas.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 44,
+    "no": 303,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNYNNNNYYNNNNNNNNNNYNNNYNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNYNNNYNNYNNNNNNNNNNNNYNYNNYYNNXNNNNNYNNNNNNNNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNNNNNYYNNNXNNYNNNNNNNNNNNYNYNNNYNNNNNNNNNNNNNNNNNNNYNNYNNNNNNYNNNNNYNNNNYYYNNNNNNNNYNNNNNNNNNNNYNYNNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion025/VOT_20241219162729.json"
+  },
+  {
+   "number": 26,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Enmienda 182.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 178,
+    "abstain": 137,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "ANYANNNAYYNYNAANNNAAANNNNANNAYNNYNNAAANAAAANNNAAANNYNAAANNAAANNNYAANNANAANANNNNAAANAAAYAYAANNNNNANNNAYANYYYAAANAAAANAYNNNANANNYANNAYNNANNNNNYANAANYAANNNNANNNNNAANNYNNANNNANANAAAYNAANNNNANANNNNNNYANYNAANNAANNAANANAAAANNAANAAXAAYNNNAANAAAANNAANAANNNNNXANNAAANNANYANNNNNANANNYYAYNNNANAANAANYNYNNNNYYNNNNNNYANANAANNNNNNNAAANNNNNNNNAAAAANANNNNAAAANAAANNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion026/VOT_20241219162730.json"
+  },
+  {
+   "number": 27,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Enmiendas 183, 184 y 186.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 169,
+    "no": 178,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNXYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYXYYYNNNYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion027/VOT_20241219162731.json"
+  },
+  {
+   "number": 28,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Resto de las enmiendas.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 315,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNYNNNNNYYNYNNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNYNYNNNNNNNNNNNNYNNYYYNNNNNNNNNNYNNNNNNNNYNNNNYNNNNNNNNYNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNYNNNNNNNNNNNNNNNNNNNNNNNNNXNNYNNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNYNNNNNNNNNNNYYNYNNNNNNNNNNNYNYNNNNYYNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion028/VOT_20241219162732.json"
+  },
+  {
+   "number": 29,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda 204.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 168,
+    "no": 170,
+    "abstain": 10,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NYNNYYANNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNANNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNNYNNNNNNNNYYYAYNYYYNNNYNNNNNNYNNNNYNNYYYNYNYYNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYANNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNXNNNYYYNNYNNNNYYNNYNNYYYYYXNYYNNNYYNYNNYYYYANYNYYNNNNYYYNYNNYNNYNYNYYYYNNYAYYYYNNYNANNYYAYYYYNNNYYYYYYYYNNNNNYNYYYANNNNANNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion029/VOT_20241219162734.json"
+  },
+  {
+   "number": 30,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Enmienda 224.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 345,
+    "yes": 126,
+    "no": 198,
+    "abstain": 21,
+    "absent": 5,
+    "unanimous": false
+   },
+   "votes": "NYNNYYANNNANYNNYYNNNNYANYNYYNNYYNYNNNNANNNNYNYNNNYYNYNNNYYNNNYYYNNNYYNNNNYNYYYYNNNYNNNNNNNNYNYXANYYYNNNYNNNNNNANNNNYNNYYYNYNXNNNYNNNYANYNYYYNNYNNYNNNNYAYNANYYANNYYNNYNYYYNYNYNNNNYNNYYNNNNNYYYAYYNNYNYNNNXNNYYNNYNYNNNNNYNNYNNXNNNYYYNNYNNNNYYNNYNNNNYYYXNYNNNNYYNYNNYYNYANYNNYNNNNYYYNYNNYNNYNYNAYYANNYAYYAYNNYNANNYYANNYYNNNYYYNYYYYNNNNNYNNYAANNNNANNNYNNY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion030/VOT_20241219162735.json"
+  },
+  {
+   "number": 31,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Socialista Resto de las enmiendas.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 165,
+    "no": 177,
+    "abstain": 6,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NYNNYYANNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNNYNYNNNYYNNNYYNNNNYYNYNNYNYYNYNNNYNNNNNNNNYYYAYNYYYNNNYNNNNNNYNNNNYNNYYYNYNNYNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYANNYYNYYNYYYNNNYNNNNYNNYYYYNYNYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNNNNXNNNYYNNNYNNNNYYNNYNNYYYYYXNYYNNNYYNYNNYYYYANYNYYNNNNYYYNYNNYNNYNYNYYYYNNYAYYYYNNYNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYANNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion031/VOT_20241219162736.json"
+  },
+  {
+   "number": 32,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 236.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYXYYYNNNYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion032/VOT_20241219162737.json"
+  },
+  {
+   "number": 33,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 237.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 136,
+    "no": 173,
+    "abstain": 38,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNAYNNAYAANANYYNNNYYYNNNNYNNYANNANNYYYNYYYYNNNYYYNNANYYYNNYYYNNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNANYNNNYAYNAAAYYYNYYYYNYANNNYNYNNAYNNYANNYNNNNNAYNYYNAYYNNNNYNNNNAYYNNANNYNNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYXYYANNNYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNAYNNNNNYNYNNAAYANNNXNYYNYYNANANNNNAANANNNNAYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNAYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion033/VOT_20241219162739.json"
+  },
+  {
+   "number": 34,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 238.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 137,
+    "no": 209,
+    "abstain": 2,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNNNNYNNYNNNNNNYYYNYYYYNNNYYYNNNNYYYNNYYYNNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNNNYNNNYNYNNNAYYYNYYYYNYNNNNYNYNNNYNNYNNNYNNNNNNYNYYNNYYNNNNYNNNNNYYNNNNNYNNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYXYYNNNNYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNNYNNNNAYNYNNNNYNNNNYNYYNYYNNNNNNNNNNNNNNNNNYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion034/VOT_20241219162740.json"
+  },
+  {
+   "number": 35,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 240, 241 y 251.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 137,
+    "no": 210,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNNNNYNNYNNNNNNYYYNYYYYNNNYYYNNNNYYYNNYYYNNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNNNYNNNYNYNNNNYYYNYYYYNYNNNNYNYNNNYNNYNNNYNNNNNNYNYYNNYYNNNNYNNNNNYYNNNNNYNNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYXYYNNNNYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNNYNNNNAYNYNNNNYNNNNYNYYNYYNNNNNNNNNNNNNNNNNYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion035/VOT_20241219162742.json"
+  },
+  {
+   "number": 36,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 242.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 144,
+    "no": 204,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNNNNYNNYNNNNNNYYYNYYYYNNNYYYYNNNYYYNNYYYNNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNNNYNNNYNYNNNNYYYNYYYYNYNNNNYNYYNNYNNYNNNYNNNNNNYNYYNNYYNNNNYNNNNNYYNNNNNYNNNYYYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYYYYXYYNNNYYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNNYNNNNNYNYNNNNYNNNNYNYYNYYNNNNNNNNNNNNNNNNNYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion036/VOT_20241219162743.json"
+  },
+  {
+   "number": 37,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 243, 246 y 271.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 174,
+    "no": 174,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYYNYNYYYNNYYYNNYYYYNNYNYYNYNNYNYYYNYYYNYYYYNNNNNYNNNYNYNYYYYYYNYYYYNYYNNNYNYYNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYYYNYYYNNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYYYYXYYYNNYYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion037/VOT_20241219162744.json"
+  },
+  {
+   "number": 38,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 243, 246 y 271.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 178,
+    "no": 170,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYYNYNYYYNNYYYNNYYYYNNYNYYNYNNYNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYYNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYYYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYYYYXYYYNNYYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNYNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion038/VOT_20241219162746.json"
+  },
+  {
+   "number": 39,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 245 y 270.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 145,
+    "no": 166,
+    "abstain": 37,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNAYNNAYAANANYYNNNYYYNNNNYNNYANNANNYYYNYYYYNNNYYYYNANYYYNNYYYNNYAYYNNYNYYNYNNYNYYYNYYYAYAYYNNNANYNNNYAYNAAAYYYNYYYYNYANNNYNYYNAYNNYANNYNNNNNNYNYYNAYYNNNNYNNNNAYYNNANNYNNNYYYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYYYYXYYANNYYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNAYNNNNNYNYNNAAYANNNYNYYNYYNANANNNNAANANNNNAYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNAYYYYNYYYNNNY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion039/VOT_20241219162747.json"
+  },
+  {
+   "number": 40,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 247 y 275.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 151,
+    "no": 159,
+    "abstain": 38,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNAYNNAYAANANYYNNNYYYNYNNYNNYANNANNYYYNYYYYNNNYYYYNANYYYNNYYYNNYAYYNNYNYYNYNNYNYYYNYYYAYAYYNNNAYYNNNYAYNAAAYYYNYYYYNYANNNYNYYNAYNNYANYYNNNNNAYNYYNAYYNNNNYYNNNAYYNNANNYNNNYYYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYYYYXYYANNYYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNAYNNNNNYNYNNAAYANNNYNYYNYYNANAYNNNAANANNYNAYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNYAYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion040/VOT_20241219162748.json"
+  },
+  {
+   "number": 41,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 250.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYXYYYNNNYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion041/VOT_20241219162749.json"
+  },
+  {
+   "number": 42,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 259 y 263.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 171,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYYNYNYYYNNYYYNNYYYYNNYNYYNYNNYNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYYNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYYYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYYYYXYYYNNYYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion042/VOT_20241219162750.json"
+  },
+  {
+   "number": 43,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 262.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 345,
+    "yes": 169,
+    "no": 176,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYXNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYXNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYXYYYNNNYYNYYYYNNYYNYYXNNNNXYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion043/VOT_20241219162751.json"
+  },
+  {
+   "number": 44,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 264.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 171,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYYNYNYYYNNYYYNNYYYYNNYNYYNYNNYNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYYNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYYYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYYYYXYYYNNYYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion044/VOT_20241219162752.json"
+  },
+  {
+   "number": 45,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 266 y 267.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 137,
+    "no": 210,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YXNYNNNYNNNNNYYNNNYYYNNNNYNNYNNNNNNYYYNYYYYNNNYYYNNNNYYYNNYYYNNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNNNYNNNYNYNNNNYYYNYYYYNYNNNNYNYNNNYNNYNNNYNNNNNNYNYYNNYYNNNNYNNNNNYYNNNNNYNNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYXYYNNNNYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNNYNNNNNYNYNNNNYNNNNYNYYNYYNNNNNNNNNNNNNNNNNYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion045/VOT_20241219162753.json"
+  },
+  {
+   "number": 46,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 277.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 346,
+    "yes": 143,
+    "no": 203,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNNNNYNNYNNNNNNYYYNYYYYNNNYYYYNNNYYYNNYYYNNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNNNYNNNYNXNNNNYYYNYYYYNYNNNNYNYYNNYNNYNNNYNNNNNNYNYYNNYYNNNNYNNNNNYYNNNNNYNNNYYYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYYYYXYYNNNYYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNNYNNNNNYNYNNNNYNNNNYNYYNYYNNNNNNNNNNNNXNNNNYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion046/VOT_20241219162754.json"
+  },
+  {
+   "number": 47,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Resto de las enmiendas.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 345,
+    "yes": 134,
+    "no": 178,
+    "abstain": 33,
+    "absent": 5,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNNNNYNNYANNANNYYYNYYYYNNNYYYNNANYYYNNYYYNNNAYYNNYNYYNYNNNNYYYNYYYAYAXYNNNNNYNNNYAYNAAAYYYNYYYXNYANNNYNYNNAYNNYANNYNNNNNAYNYYNAYYNNNNYNNNNNYYNNANNYNNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYXYYANNNYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNAYNNNNNYNYNNAAYANNNYNYYNYXNANANNNNAANNNNNNAYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion047/VOT_20241219162755.json"
+  },
+  {
+   "number": 48,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Votos particulares Voto particular número 1 presentado por los Grupos Parlamentarios Socialista y Plurinacional SUMAR a la enmienda 273 del Grupo Parlamentario Popular en el Congreso.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NYNNYYYNNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNNYNYNNNYYNNNYYNNNNYYNYNNYNYYNYNNNYYNNNNNNNYYYYYNYYYNNNYNNNNNNYNNNNYNNYYYNYNNYNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYYNNYYNYYNYYYNNNYNNNNYNNYYYYNYNYYYYYNNNYNYNNYYNNYYNNYNYNNNNYYNNNNNXNNNYYNNNYNNNNYYNNYNNYYYYYXNYYNNNYYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNYNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYYNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion048/VOT_20241219162756.json"
+  },
+  {
+   "number": 49,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Votos particulares Voto particular número 2 presentado por los Grupos Parlamentarios Socialista y Plurinacional SUMAR a la enmienda 276 del Grupo Parlamentario Popular en el Congreso.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 346,
+    "yes": 164,
+    "no": 177,
+    "abstain": 5,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "NYNNYYANNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNNYNYNNNYYNNNYYNNNNYYNYNNYNYYNYNNNYNNNNNNNNYYYAYNYYYXNNYNNNNNNYNNNNYNNYYYNYNNYNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYXNNYYNYYNYYYNNNYNNNNYNNYYYYNYNYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNNNNXNNNYYNNNYNNNNYYNNYNNYYYYYXNNYNNNYYNYNNYYYYANYNYYNNNNYYYNYNNYNNYNYNYYYYNNYAYYYYNNYNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYANNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion049/VOT_20241219162757.json"
+  },
+  {
+   "number": 50,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Votos particulares Voto particular número 3 presentado por los Grupos Parlamentarios Socialista y Plurinacional SUMAR a la enmienda 278 del Grupo Parlamentario Popular en el Congreso.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 172,
+    "no": 176,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NYNNYYYNNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNNYNYNNNYYNNNYYNNNNYYNYNNYNYYNYNNNYNNNNNNNNYYYYYNYYYNNNYNNNNNNYNNNNYNNYYYNYNNYNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYYNNYYNYYNYYYNNNYNNNNYNNYYYYNYNYYYYYYNNYNYNNYYNNYYNNYNYNYNNYYNNNNNXNNNYYNNNYNNNNYYNNYNNYYYYYXNYYNNNYYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNYNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYYNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion050/VOT_20241219162758.json"
+  },
+  {
+   "number": 51,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Votos particulares Voto particular número 4 presentado por el Grupo Parlamentario Socialista a la enmienda 98 del Grupo Parlamentario Republicano.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 121,
+    "no": 222,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NYNNYYANNNNNYNNYYNNNNYNNYNYYNNYYNYNNNNNNNNNYNYNNNNYNYNNNYYNNNYYNNNNYYNNNNYNYYNYNNNYNNNNNNNNYYYANNYYYNNNNNNNNNNNNNNNYNNYYYNYNNNNNYNNNYNNYNYYYNNYNNYNNNNYNYNNNYYANNYYNNYNYYYNNNYNNNNYNNYYNNNNNYYYNYYNNYNYNNNYNNYYNNYNYNNNNYYNNNNNXNNNYYNNNYNNNNYYNNYNNNNYYYXNYNNNNYYNYNNYYNNNNYNNYNNNNYYYNYNNYNNYNYNNYYNNNYAYYNYNNYNNNNYYNNNYYNNNYYYNYYYYNNNNNYNNYNANNNNNNNNYNNY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion051/VOT_20241219162759.json"
+  },
+  {
+   "number": 52,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Votos particulares Voto particular número 5 presentado por el Grupo Parlamentario Socialista a la enmienda 272 del Grupo Parlamentario Popular en el Congreso.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 157,
+    "no": 176,
+    "abstain": 14,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NYNNYYANNNYNYNXYYYNNNYAYYNYYNNYYNYYNNNYNNNNYYYNNNNYNYNNNYYNNNYYNNNNYYNYNNYNYYNYNNNYNNNNNNNNYYYAANYYYNNNYNNNNNNYNNNNYNNYYYNYNNYNNYYNNYANYYYYYNNYNNYNNNYYYYNAYYYANNYYNYYNYYYNNNYNNNNYNNYYYYNYNYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNNNNXNNNYYNNNYNNNNYYNNYNNYYYYYXNYYNNNYYNYNNYYYYANYNYYNNNNYYYNYNNYNNYNYNAYYYNNYAYYAYNNYNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYAAANNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion052/VOT_20241219162800.json"
+  },
+  {
+   "number": 53,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Votos particulares Voto particular número 6 presentado por el Grupo Parlamentario Popular en el Congreso a la enmienda transaccional en Comisión número 37.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYXYYYNNNYYNYYYYNNYYNYYNNNNNXYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion053/VOT_20241219162801.json"
+  },
+  {
+   "number": 54,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas transaccionales Enmienda transaccional número 1 a la enmienda 29 del Grupo Parlamentario Mixto (Sra. Belarra).",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 348,
+    "yes": 173,
+    "no": 170,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NYNNYYANNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNNYNNNNNNNNYYYAYNYYYNNNYNNNNNNYNNNNYNNYYYNYNYYNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYANNYYNYYNYYYNYNYNNNNYNNYYYYNYNYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNXNNNYYYNNYNNNNYYNNYNNYYYYYXNYYNNNYYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYAYYYYNNYNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYANNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion054/VOT_20241219162803.json"
+  },
+  {
+   "number": 55,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario.",
+   "subtitle": "Enmiendas transaccionales Enmienda transaccional número 2 a las enmiendas 36 del Grupo Parlamentario Mixto (Sra. Belarra), 99 del Grupo Parlamentario Republicano y 147 del Grupo Parlamentario Plurinacional SUMAR.",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 346,
+    "yes": 177,
+    "no": 169,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "NYNNYYYNNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNNYNNNNNNNNYYYYYNYYYNNNYNNNNNNYNNNNYNNYYYNYNYYNNYYNNYYNYXYYYNNYNNYNNNYYYYNYYYYYNNYYNYYNYYYNYNYNNXNYNNYYYYNYNYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNXNNNYYYNNYNNNNYYNNYNNYYYYYXNYYNNNYYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNYNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYYNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion055/VOT_20241219162804.json"
+  },
+  {
+   "number": 56,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa al aumento de la indemnización por despido improcedente.",
+   "subtitle": "",
+   "expediente": "162/000382",
+   "totals": {
+    "present": 349,
+    "yes": 165,
+    "no": 172,
+    "abstain": 12,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "NXNNYYANNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNAYNYNNNYYNNNYYANNNYYNYNNYNYYAYNNNYNNNNNNNNYYYAYNYYYNNNYNNNNNNYNNNNYNNYYYNYNAYNNYYNNYYNYYYYYNNYNNYNNNYYYYNYYYYANNYYNYYNYYYNANYNNNNYNNYYYYNYNYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNANNNNNNYYANNYNNNNYYNNYNNYYYYYYNYYNNNYYNYNNYYYYYNYNYYNNNNNYYNYNNYNNYNYNYYYYNNYAYYYYNNYNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYANNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion056/VOT_20241219162805.json"
+  },
+  {
+   "number": 57,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a garantizar la dotación adecuada de recursos para asegurar el pleno cumplimiento de la \"Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible\".",
+   "subtitle": "",
+   "expediente": "162/000351",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion057/VOT_20241219162806.json"
+  },
+  {
+   "number": 58,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Vasco (EAJ-PNV), sobre las medidas que va a tomar el Gobierno para garantizar el acceso a la red y atender los nuevos suministros necesarios para la industria en sus procesos de reindustrialización y descarbonización.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "expediente": "173/000069",
+   "totals": {
+    "present": 349,
+    "yes": 164,
+    "no": 151,
+    "abstain": 34,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXAYNNYYAAYANYYNNNYYYNYNNYNNYANNANNYYYNYYYYNNNYYYYNANYYYNNYYYNNYAYYNNYNYYNYNNYNYYYNYYYAYAYYNNNYYYNNNYAYNAAAYYYYYYYYNYANNNYNYYNAYNNYANYYNNNNNAYNYYNAYYNNYNYYNNNYYYNNANNYNNNYYYNYYYANYYNNNNYNYNNNYNNAYNANYYNNYYNNYYNYNYYYYNNYYYYYYYYANNYYYNYYYYNNYYNYYNNNNNYYNNYYYNNYNAYNNNNAYNYNNAAYANNNYNYYNYYNANAYNNYAANYNNYNAYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNYYYYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion058/VOT_20241219162807.json"
+  },
+  {
+   "number": 59,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Vasco (EAJ-PNV), sobre las medidas que va a tomar el Gobierno para garantizar el acceso a la red y atender los nuevos suministros necesarios para la industria en sus procesos de reindustrialización y descarbonización.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "expediente": "173/000069",
+   "totals": {
+    "present": 347,
+    "yes": 164,
+    "no": 150,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YXAYNNYYAAYANYYNNNYYYNYNNYNNYANNANNYYYNYYYYNNNYYYYNANYYYNNYYYNNYXYYNNYNYYNYNNYNYYYNYYYAYAYYNNNYYYNNNYAYNAAAYYYYYYYYNYANNNYNYYNAYNNYANYYNNNNNAYNYYNAYYNNYNYYNNNYYYNNANNYNNNYYYNYYYANYYNNXNYNYNNNYNNAYNANYYNNYYNNYYNYNYYYYNNYYYYYYYYANNYYYNYYYYNNYYNYYNNNNNYYNNYYYNNYNAYNNNNAYNYNNAAYANNNYNYYNYYNANAYNNYAANYNNYNAYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNYYYYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion059/VOT_20241219162808.json"
+  },
+  {
+   "number": 60,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Vasco (EAJ-PNV), sobre las medidas que va a tomar el Gobierno para garantizar el acceso a la red y atender los nuevos suministros necesarios para la industria en sus procesos de reindustrialización y descarbonización.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "expediente": "173/000069",
+   "totals": {
+    "present": 349,
+    "yes": 192,
+    "no": 4,
+    "abstain": 153,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXAYAAYYAAYAAYYAAYYYYAYYAYAAYAAAAAYYYYNYYYYAYAYYYYAAAYYYAAYYYAAYAYYAAYYYYAYAAYAYYYAYYYAYAYYAYAYYYAAAYAYAAAAYYYYYYYYAYAAAAYAYYYAYAYYAAYYAYAAAAYAYYAAYYYAYAYYYAAYYYAAAYAYAAAYYYAYYYAAYYAAYYYYYAAAYAAAYAAAYYYAYYAAYYAYAYYYYAAYYYYYYYYAAAYYYAYYYYAAYYAYYYYAAAYYAYYYYAAYAAYAAYAYYAYYAAAYAAAAYAYYAYYAAAAYAAYAAAYAAYAAYAYNYYAANYYAAYYYAAAYAAAAYYYYYAYYYYYYYYYNYYYAYYA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion060/VOT_20241219162809.json"
+  },
+  {
+   "number": 61,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Vasco (EAJ-PNV), sobre las medidas que va a tomar el Gobierno para garantizar el acceso a la red y atender los nuevos suministros necesarios para la industria en sus procesos de reindustrialización y descarbonización.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "expediente": "173/000069",
+   "totals": {
+    "present": 349,
+    "yes": 192,
+    "no": 124,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXAYNNYYAAYANYYNNYYYYNYYNYNNYANNANYYYYNYYYYNYNYYYYNANYYYNNYYYNNYAYYNNYYYYNYNNYNYYYNYYYAYAYYNYNYYYNNNYAYNAAAYYYYYYYYNYANNNYNYYYAYNYYANYYNYNNNAYNYYNAYYYNYNYYYNNYYYNNAYNYNNNYYYNYYYANYYNNYYYYYNNNYNNAYNANYYYNYYNNYYNYNYYYYNNYYYYYYYYANNYYYNYYYYNNYYNYYYYNNNYYNYYYYNNYNAYNNYNYYNYYNAAYANNNYNYYNYYNANAYNNYAANYNNYNAYNYNYYNNNYYNNYYYNNNYNNNNYYYYYNYYYYYYYYYNYYYNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion061/VOT_20241219162810.json"
+  },
+  {
+   "number": 62,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Vasco (EAJ-PNV), sobre las medidas que va a tomar el Gobierno para garantizar el acceso a la red y atender los nuevos suministros necesarios para la industria en sus procesos de reindustrialización y descarbonización.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "expediente": "173/000069",
+   "totals": {
+    "present": 349,
+    "yes": 271,
+    "no": 38,
+    "abstain": 40,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXAYYYYYAAAAYYYYYNYYYYNNYYYYYAYYAYNYYYNYYYYYNYYYYYYAYYYYYYYYYYYYAYYYYYNYYYYYYYYYYYYYYYAYAYYYNYYNYYYYYAYYAAAYYYAYYYYYYAYYYYYYYNAYYNYAYNYYNYYYAYYYYYAYYNYAYYNNYYYYYYYANYYYYYYYYYYYYAYYYYYNNYNYYYYAYYAYYAYYYNYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYNNYYYAYYNYYYYYYYAYYYNYAYYYNYAAYAYYYYYYYYYYYAYANYYAAAYYYYNYAYYYNYYYYNNNYYYYYYYYNYYYYYYYYYYYNYNYYYYYNYYYYNNY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion062/VOT_20241219162811.json"
+  },
+  {
+   "number": 63,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Vasco (EAJ-PNV), sobre las medidas que va a tomar el Gobierno para garantizar el acceso a la red y atender los nuevos suministros necesarios para la industria en sus procesos de reindustrialización y descarbonización.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "expediente": "173/000069",
+   "totals": {
+    "present": 345,
+    "yes": 301,
+    "no": 4,
+    "abstain": 40,
+    "absent": 5,
+    "unanimous": false
+   },
+   "votes": "YXAYYYXYAAAAYYYYYYYYYYYYYYYYYAYYAYYYYYNYYYYYYYYYYYYAYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYAYAYYYYYYYYYYYYAYYAAAYYYAYYYYYYAXYYYYYYYAYYYYAYYYYYYYYAYYYYYAYYYYAYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYAYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYAYYYYYAYYYYYAAYAYYYYYYYYYYYAYAYYYAAAYYYYYYAYYYNYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYNXYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion063/VOT_20241219162812.json"
+  },
+  {
+   "number": 64,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Vasco (EAJ-PNV), sobre las medidas que va a tomar el Gobierno para garantizar el acceso a la red y atender los nuevos suministros necesarios para la industria en sus procesos de reindustrialización y descarbonización.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "expediente": "173/000069",
+   "totals": {
+    "present": 349,
+    "yes": 284,
+    "no": 31,
+    "abstain": 34,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXAYYYYYAAYAYYYYYNYYYYYNYYYYYAYYAYNYYYNYYYYYNYYYYYYAYYYYYYYYYYYYAYYYYYNYYYYYYYYYYYYYYYAYAYYYNYYYYYYYYAYYAAAYYYYYYYYYYAYYYYYYYNAYYNYAYYYYNYYYAYYYYYAYYNYYYYYNYYYYYYYANYYYYYYYYYYYYAYYYYYNNYNYYYYYYYAYYAYYYNYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYNNYYYYYYNYYYYYYYAYYYNYAYYYNYAAYAYYYYYYYYYYYAYAYYYYAAYYYYYYAYYYNYYYYNNNYYYYYYYYNYYYYYYYYYYYNYYYYYYYNYYYYNNY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion064/VOT_20241219162814.json"
+  },
+  {
+   "number": 65,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Vasco (EAJ-PNV), sobre las medidas que va a tomar el Gobierno para garantizar el acceso a la red y atender los nuevos suministros necesarios para la industria en sus procesos de reindustrialización y descarbonización.",
+   "subtitle": "Votación separada por puntos. Punto 8.",
+   "expediente": "173/000069",
+   "totals": {
+    "present": 349,
+    "yes": 311,
+    "no": 37,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXNYYYYYNNYNYYYYYYYYYYYYYYYYYNYYNYYYYYNYYYYYYYYYYYYNYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYNYNYYYYYYYYYYYYNYYNNNYYYYYYYYYYNYYYYYYYYNYYYYNYYYYYYYYNYYYYYNYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYAYYYYYNNYNYYYYYYYYYYYNYNYYYYNNYYYYYYNYYYNYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion065/VOT_20241219162815.json"
+  },
+  {
+   "number": 66,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuál va a ser la política del Gobierno en materia de agua y fuentes de energía y su impacto en la economía española.",
+   "subtitle": "",
+   "expediente": "173/000070",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 177,
+    "abstain": 138,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "AXYANNXAYYNYNAANNNAAANNNNANNAYNNYNNAAANAAAANNNAAANNYNAAANNAAANNNYAANNANAANANNNNAAANAAAYAYAANNNNNANNNAYANYYYAAANAAAANAYNNNANANNYANNAYNNANNNNNYANAANYAANNNNANNNNNAANNYNNANNNANANAAAYNAANNNNANANNNNNNYANYNAANNAANNAANANAAAANNAANAAAAAYNNNAANAAAANNAANAANNNNNNANNAAANNANYANNNNNANANNYYAYNNNANAANAANYNYNNNNYYNNNNNNYANANAANNNNNNNAAANNNNNNNNAAAAANANNNNAAAANAAANNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion066/VOT_20241219162816.json"
+  },
+  {
+   "number": 67,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 349,
+    "yes": 23,
+    "no": 147,
+    "abstain": 179,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "AXAANNYAAAYANAANNNAAANYNNANNAANNANNAAAYAAAANNNAAAANANAAANNAAANNAAAANNANAANANNANAAANAAAAAAAANNNYYANNNAAANAAAAAAYAAAANAANNNANAANAANNAANYANNNNNAANAANAAANNYNAYNNNYAANNANNANNNAAANAAAANAANNNNANANNNYNNAANANAANNAANNAANANAAAANNAAAAAAAAANNAAANAAAANNAANAANNNNNYANNAAANNANAANNNNYANANNAAAANNNANAANAANANAYNNYAANYNNYNAANAYAANNYNNNNAAANNNNNNNNAAAAANANAYYAAAAYAAANNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion067/VOT_20241219162817.json"
+  },
+  {
+   "number": 68,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 2.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 349,
+    "yes": 23,
+    "no": 147,
+    "abstain": 179,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "AXAANNYAAAYANAANNNAAANYNNANNAANNANNAAAYAAAANNNAAAANANAAANNAAANNAAAANNANAANANNANAAANAAAAAAAANNNYYANNNAAANAAAAAAYAAAANAANNNANAANAANNAANYANNNNNAANAANAAANNYNAYNNNYAANNANNANNNAAANAAAANAANNNNANANNNYNNAANANAANNAANNAANANAAAANNAAAAAAAAANNAAANAAAANNAANAANNNNNYANNAAANNANAANNNNYANANNAAAANNNANAANAANANAYNNYAANYNNYNAANAYAANNYNNNNAAANNNNNNNNAAAAANANAYYAAAAYAAANNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion068/VOT_20241219162819.json"
+  },
+  {
+   "number": 69,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 3.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 348,
+    "yes": 307,
+    "no": 0,
+    "abstain": 41,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXAYYYYYAAYAYYYYYYYYYYYYYYYYYAYYAYYYYYYYYYYYYYYYXAYAYYYYYYYYYYYAAYYYYYYYYYYYYAYYYYYYYYAYAYYYYYYYYYYYYAYYAAAYYYYYYYYYYAYYYYYYAYAYYYYAYYYYYYYYAYYYYYAYYYYYYYYYYYYYYYYAYYYYYYYAYYYYYAYYYYYYYYYYYYYYYYAYYAYYAYYYYYYYYYYYYYYYYYYYAYYYYYAYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYAAYAYYYYYYYYYYYAYAYYYYAAYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion069/VOT_20241219162820.json"
+  },
+  {
+   "number": 70,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 4.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 348,
+    "yes": 172,
+    "no": 0,
+    "abstain": 176,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "AXAAYYYAAAYAYAAYYYAAAYYYYAYYAAYYAYYAAAYAAAAYYYAAAAYAYAAAYYYAAYYAAAAYYAYAAYAYYAYAAAYAAAAAAAAYYYYYAYYYAAAYAAAAAAYAAAAYAAYYYAYAAYAAYYAAYYAYYYYYAAYAAYAAAYYYYAYYYYYAAYYAYYAYYYAAAYAAAAYAAYYYYAYAYYYYYYAAYAYAAYYAAYYAAYAYAAAAYYAAAAAAAAAYYAAAYAAAAYYAAYAAYYYYYYAYYAAAYYAYAAYYYYYAYAYYAAAXYYYAYAAYAAYAYAYYYYAAYYYYYYAAYAYAAYYYYYYYAAAYYYYYYYYAAAAAYAYYYYAAAAYAAAYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion070/VOT_20241219162820.json"
+  },
+  {
+   "number": 71,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 5.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 349,
+    "yes": 172,
+    "no": 0,
+    "abstain": 177,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "AXAAYYYAAAYAYAAYYYAAAYYYYAYYAAYYAYYAAAYAAAAYYYAAAAYAYAAAYYYAAYYAAAAYYAYAAYAYYAYAAAYAAAAAAAAYYYYYAYYYAAAYAAAAAAYAAAAYAAYYYAYAAYAAYYAAYYAYYYYYAAYAAYAAAYYYYAYYYYYAAYYAYYAYYYAAAYAAAAYAAYYYYAYAYYYYYYAAYAYAAYYAAYYAAYAYAAAAYYAAAAAAAAAYYAAAYAAAAYYAAYAAYYYYYYAYYAAAYYAYAAYYYYYAYAYYAAAAYYYAYAAYAAYAYAYYYYAAYYYYYYAAYAYAAYYYYYYYAAAYYYYYYYYAAAAAYAYYYYAAAAYAAAYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion071/VOT_20241219162821.json"
+  },
+  {
+   "number": 72,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 6.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 348,
+    "yes": 25,
+    "no": 0,
+    "abstain": 323,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "AXAAAAYAAAYAAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYYAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAXAYAAAAAAAAAAAAAAAAAYAAYAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAYAAYAAAYAAYAAAAAYAAAAYAAAAAAAAAAAAAAAAAAAAAAAYYYAAAAYAAAAAAA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion072/VOT_20241219162822.json"
+  },
+  {
+   "number": 73,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 7.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 349,
+    "yes": 28,
+    "no": 23,
+    "abstain": 298,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "AXANAAAAAAYAANAAAAAAAAYAAAAAAAAAAAAAAAYNNAAAAAAAAYAAAAAAAAYAAAAYAAAAAAAAAAAAAYAANAAAAAAAAAAAAAAYAAAAAAAAAAAAAAYAAAAAAAAAANANYAAAAAAAAYAAAAAAAAANAAAAAAAYANYAAAAAAAAAAAAAAAAYAAAAAAAANAAAANAAAAAYAAANAAANNAANAAAANANAAAAAAAAAYAAAAAAAAYNAAAAAAAAAAAANAAAAAYAAAAAAAAAAYAAAAAYAAAAAAAAAAAAAAAAAAAAAAAYAAYAAAAAAYAAAAAYAAAAYAAAAAAAAAAAAAAANANAAAAAYYAAANAYANAAAAA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion073/VOT_20241219162824.json"
+  },
+  {
+   "number": 74,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 8.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 349,
+    "yes": 18,
+    "no": 296,
+    "abstain": 35,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "NXANNNNNAAYANNNNNNNNNNYNNNNNNANNANNNNNYNNNNNNNNNNNNANNNNNNANNNNNANNNNNNNNNNNNNNNNNNNNNANANNNNNNYNNNNNANNAAANNNYNNNNNNANNNNNNNNANNNNANYNNNNNNANNNNNANNNNYNNYNNNNNNNNANNNNNNNNNNNNNANNNNNNNNNNNNNYNNANNANNNNNNNNNNNNNNNNNNNNNNNNNNNNANNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNANNNNNYNNNNNAANANNNNNNNNNNNANAYNNYAANNNNYNANNNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNAYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion074/VOT_20241219162825.json"
+  },
+  {
+   "number": 75,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 9.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 348,
+    "yes": 310,
+    "no": 0,
+    "abstain": 38,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXAYYYAYAAYAYYYYYYYYYYYYYYYYYAYYAYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYAYAYYYXYAYYYYYYAYYAAAYYYYYYYYYYAYYYYYYYYAYYYYAYYYYYYYYAYYYYYAYYYYYYYYYYYAYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYAYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYAAYAYYYYYYYYYYYAYAYYYYAAYAYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion075/VOT_20241219162827.json"
+  },
+  {
+   "number": 76,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 10.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 348,
+    "yes": 311,
+    "no": 0,
+    "abstain": 37,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXAYYYYYAAYAYYYYYYYYYYYYYYYYYAYYAYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYAYAYYYYYAYYYYYYAYYAAAYYYYYYYYYYAYYYYYYYYAYYYYAYYYYYYYYAYYYYYAYYYYYYYYYYYAYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYAYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYAAYAXYYYYYYYYYYAYAYYYYAAYAYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion076/VOT_20241219162828.json"
+  },
+  {
+   "number": 77,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 11.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 349,
+    "yes": 309,
+    "no": 0,
+    "abstain": 40,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXAYYYYYAAYAYYYYYYYYYYYYYYYYYAYYAYYYYYYYYYYYYYYYYAYAYYYYYYYYYYYAAYYYYYYYYYYYYAYYYYYYYYAYAYYYYYYYYYYYYAYYAAAYYYYYYYYYYAYYYYYYAYAYYYYAYYYYYYYYAYYYYYAYYYYYYYYYYYYYYYYAYYYYYYYAYYYYYAYYYYYYYYYYYYYYYYAYYAYYYYYYYYYYYYYYYYYYYYYYAYYYYYAYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYAAYAYYYYYYYYYYYAYAYYYYAAYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion077/VOT_20241219162829.json"
+  },
+  {
+   "number": 78,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 12.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 347,
+    "yes": 166,
+    "no": 3,
+    "abstain": 178,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "AXAAYYAAAAYAYAAYYYAAAYYYYAYYAAYYAYYAAAYAAAAYYYAAAAYAYAAAYYYAAYYAAAAYYAYAAYAYYAYAAAYAAAAAAAAYYYAYAYYYAAAYAAAAAAYAAAAYAAYYYAYAAYAAYYAAYYAYYYYYAAYAAYAAAYYYYAYYYYAAAYYAYYAYYYAAAYAAAAYAAYYYYAYAYYYYYYAAYAYAAYYAAYYAAYAYAAAAYYAAAAAAAAAYYAAAYNAAAYYAAYAAYYYYYYAYYAAAYYAYAAYYYYYAYAYYAAXAYYYAYANYAAYAYAYYYYAAYAYYYYAAYAXAAYYYYYYYAAAYYYYYYYYAAAAAYAYYYAAAANYAAAYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion078/VOT_20241219162830.json"
+  },
+  {
+   "number": 79,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la democratización del sistema de representatividad y la lucha contra la precariedad laboral y económica del sector del transporte de mercancías por carretera.",
+   "subtitle": "Votación separada por puntos Punto 13.",
+   "expediente": "173/000071",
+   "totals": {
+    "present": 349,
+    "yes": 23,
+    "no": 283,
+    "abstain": 43,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "NXANNNYNAAYANNNNNNNNNNYNNNNNNANNANNNNNYNNNNNNNNNNANANNNNNNANNNNAANNNNNNNNNNNNANNNNNNNNANANNNNNYYNNNNNANNAAANNNYNNNNNNANNNNNNANANNNNANYNNNNNNANNNNNANNNNYNNYNNNYNNNNANNNNNNNANNNNNANNNNNNNNNNNNNYNNANNANNNNNNNNNNNNNNNNNNNNNNANNNNNANNANNNNNNNNNNNNNNNNNNNYNNNNNNNNNNANNNNNYNNNNNAANANNNNNNNNNNNANAYNNYAANYNNYNANNNYANNNYNNNNNNNNNNNNNNNNNNNNNNNAYYNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion079/VOT_20241219162831.json"
+  },
+  {
+   "number": 80,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los escándalos que rodean la gestión del Ministro para la Transformación Digital y de la Función Pública.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "expediente": "173/000072",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion080/VOT_20241219162832.json"
+  },
+  {
+   "number": 81,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los escándalos que rodean la gestión del Ministro para la Transformación Digital y de la Función Pública.",
+   "subtitle": "Votación separada por puntos Punto 2.",
+   "expediente": "173/000072",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion081/VOT_20241219162834.json"
+  },
+  {
+   "number": 82,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los escándalos que rodean la gestión del Ministro para la Transformación Digital y de la Función Pública.",
+   "subtitle": "Votación separada por puntos Punto 3.",
+   "expediente": "173/000072",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion082/VOT_20241219162835.json"
+  },
+  {
+   "number": 83,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los escándalos que rodean la gestión del Ministro para la Transformación Digital y de la Función Pública.",
+   "subtitle": "Votación separada por puntos Punto 4.",
+   "expediente": "173/000072",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion083/VOT_20241219162835.json"
+  },
+  {
+   "number": 84,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los escándalos que rodean la gestión del Ministro para la Transformación Digital y de la Función Pública.",
+   "subtitle": "Votación separada por puntos Punto 5.",
+   "expediente": "173/000072",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNXYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion084/VOT_20241219162837.json"
+  },
+  {
+   "number": 85,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen del Proyecto de Ley de prevención de las pérdidas y el desperdicio alimentario, teniendo en cuenta las correcciones técnicas distribuidas.",
+   "subtitle": "",
+   "expediente": "121/000004",
+   "totals": {
+    "present": 347,
+    "yes": 176,
+    "no": 33,
+    "abstain": 138,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "AXNAYYYANNYNYAAYYYAAAYYYYAYYANYYNYYAAAYAAAAYYYAAAYYNYAAAYYAAAYYYNAAYYAYAAYAYYYYAAAYAAANANAAYYYYYAYYYANAYNNNAAAYAAAAYANYYYAYAYYNAYYANYYAYYYYYNAYAAYNAAYYYYAYYYYYAAYYNYYAYYYAYAYAAANYAAYYYYAYAYYYYYYNAYNYAAYYAAYYAAYAYAAAAYYAAYAAAAANYYYAAYAAAAYYAAYAAYYYYYXAYYAAAYYAYNAYYYYYAYAYYNNANYYYAYAAYAAYNYNXYYYNNYYYYYYNAYAYAAYYYYYYYAAAYYYYYYYYAAAAAYAYYYYAAAAYAAAYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion085/VOT_20241219162838.json"
+  },
+  {
+   "number": 86,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan medidas urgentes complementarias en el marco del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.",
+   "subtitle": "",
+   "expediente": "130/000011",
+   "totals": {
+    "present": 349,
+    "yes": 316,
+    "no": 33,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXNYYYYYNNYNYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYNYNYYYYYYYYYYYYNYYNNNYYYYYYYYYYNYYYYYYYYNYYYYNYYYYYYYYNYYYYYNYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYNNYNYYYYYYYYYYYNYNYYYYNNYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion086/VOT_20241219162839.json"
+  },
+  {
+   "number": 87,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan medidas urgentes complementarias en el marco del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.",
+   "subtitle": "",
+   "expediente": "130/000011",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion087/VOT_20241219162840.json"
+  },
+  {
+   "number": 88,
+   "heading": "Veto del Senado.",
+   "title": "Proyecto de Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia.",
+   "subtitle": "",
+   "expediente": "121/000016",
+   "totals": {
+    "present": 347,
+    "yes": 177,
+    "no": 170,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NXNNYYYNNNYNYNNYYYNNNYYYYNYYNNYYNYYNNNYNNNNYYYNNNYYNYNNNYYNNNYYYNNNYYNYNNYNYYYYNNNYNNNNNNNNYYYYYNYYYNNNYNNNNNNYNNNNYNNYYYNYNYYNNYYNNYXNYYYYYNNYNNYNNNYYYYNYYYYYNNYYNYYNYYYNYNYNNNNYNNYYYYNYXYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNYNNNNNNYYYNNYNNNNYYNNYNNYYYYYYNYYNNNYYNYNNYYYYYNYNYYNNNNYYYNYNNYNNYNYNYYYYNNYYYYYYNNYNYNNYYYYYYYNNNYYYYYYYYNNNNNYNYYYYNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion088/VOT_20241219162842.json"
+  },
+  {
+   "number": 89,
+   "heading": "Dictámenes de la Comisión del Estatuto de los Diputados.",
+   "title": "Dictamen de la Comisión del Estatuto de los Diputados sobre declaración de actividades de Excmos. Sres. Diputados.",
+   "subtitle": "",
+   "expediente": "042/000023",
+   "totals": {
+    "present": 349,
+    "yes": 348,
+    "no": 0,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion089/VOT_20241219162843.json"
+  },
+  {
+   "number": 90,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al Preámbulo, en lo relativo al apartado II, párrafo vigésimo primero.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 178,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXAYNNNYAANANYYNNNYYYNNNNYNNYANNANNYYYNYYYYNNNYYYNNANYYYNNYYYNNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNNNYNNNYAYNAAAYYYNYYYYNYANNNYNYNNAYNNYANNYNNNNNAYNYYNAYYNNNNYNNNNNYYNNANNYNNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYYYYANNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNAYNNNNNYNYNNAAYANNNYNYYNYYNANANNNNAANNNNNNAYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion090/VOT_20241219162845.json"
+  },
+  {
+   "number": 91,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al Preámbulo, en lo relativo al apartado II, párrafo sexagésimo séptimo.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 178,
+    "no": 171,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYYNYNYYYNNYYYNNYYYYNNYNYYNYNNYNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYYNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYYYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYYYYYYYYNNYYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion091/VOT_20241219162846.json"
+  },
+  {
+   "number": 92,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Resto de las enmiendas al Preámbulo.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNXNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion092/VOT_20241219162847.json"
+  },
+  {
+   "number": 93,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a los artículos 7 y 14.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 177,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXAYNNNYAANANYYNNNYYYNNNNYNNYANNANNYYYNYYYYNNNYYYNNANYYYNNYYYNNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNXNNNYNNNYAYNAAAYYYNYYYYNYANNNYNYNNAYNNYANNYNNNNNAYNYYNAYYNNNNYNNNNNYYNNANNYNNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYYYYANNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNAYNNNNNYNYNNAAYANNNYNYYNYYNANANNNNAANNNNNNAYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion093/VOT_20241219162849.json"
+  },
+  {
+   "number": 94,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional segunda.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 311,
+    "no": 38,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYYYYYYYNYYYYYYNYYYYYNYYYYYYYYYYNYYYNYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYNYYYNYYYYYYNYYYYYYYYYYYYNYNYYYNYYYYYYYYNYYYYYYYYYYYYYYYYYYNNYNYYYYNYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNNYYYNYYNYYYYYYYYYYYNYNYYYNYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYNYYYYNNNYYYYYYYYNYYYYYYYYYYYNYYYYYYYNYYYYNNY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion094/VOT_20241219162850.json"
+  },
+  {
+   "number": 95,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional (Nueva) relativa a las ayudas fiscales a los damnificados por la DANA.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion095/VOT_20241219162852.json"
+  },
+  {
+   "number": 96,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional (Nueva) relativa a las donaciones a trabajadores afectados por la DANA.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 181,
+    "no": 167,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNYNNYNNYYNNYNNYYYNYYYYNNNYYYYNYNYYYNNYYYNNYYYYNNYNYYNYNNYNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYYNYYNNYYNYYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYYYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYYYYYYYYNNYYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNAYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNYNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion096/VOT_20241219162854.json"
+  },
+  {
+   "number": 97,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional (Nueva) relativa a la modificación de la Ley 35/2006.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion097/VOT_20241219162855.json"
+  },
+  {
+   "number": 98,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional (Nueva) relativa a la modificación de la Ley 37/1992.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 179,
+    "no": 170,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYYNYNYYYNNYYYNNYYYYNNYNYYNYNNYNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYYNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYYYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYYYYYYYYNNYYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNYYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion098/VOT_20241219162856.json"
+  },
+  {
+   "number": 99,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición transitoria segunda y a la disposición final cuarta.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 178,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXAYNNNYAANANYYNNNYYYNNNNYNNYANNANNYYYNYYYYNNNYYYNNANYYYNNYYYNNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNNNYNNNYAYNAAAYYYNYYYYNYANNNYNYNNAYNNYANNYNNNNNAYNYYNAYYNNNNYNNNNNYYNNANNYNNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYYYYANNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNAYNNNNNYNYNNAAYANNNYNYYNYYNANANNNNAANNNNNNAYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion099/VOT_20241219162858.json"
+  },
+  {
+   "number": 100,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición final novena, en lo relativo a la modificación del apartado Dos.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNXNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion100/VOT_20241219162859.json"
+  },
+  {
+   "number": 101,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición final novena, en lo relativo a la modificación del apartado Veintiuno.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 211,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXNYNNNYNNNNNYYNNNYYYNNNNYNNYNNNNNNYYYNYYYYNNNYYYNNNNYYYNNYYYNNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNNNYNNNYNYNNNNYYYNYYYYNYNNNNYNYNNNYNNYNNNYNNNNNNYNYYNNYYNNNNYNNNNNYYNNNNNYNNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYYYYNNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNNYNNNNNYNYNNNNYNNNNYNYYNYYNNNNNNNNNNNNNNNNNYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion101/VOT_20241219162900.json"
+  },
+  {
+   "number": 102,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición final novena, en lo relativo a la introducción de un apartado Veintidós.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 177,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNANNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion102/VOT_20241219162901.json"
+  },
+  {
+   "number": 103,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a las disposiciones finales nuevas, en lo relativo a la modificación de la Ley 38/2022.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 183,
+    "no": 166,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNYYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYYNYNYYYNNYYYNNYYYYNNYNYYNYNNYNYYYNYYYYYYYYNNNYNYNNNYYYNYYYYYYNYYYYNYYNNNYNYYNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNYYYNNYNNYNNNYYYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYYYYYYYYNNYYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNYNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNYYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion103/VOT_20241219162903.json"
+  },
+  {
+   "number": 104,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Resto de las enmiendas a las disposiciones finales nuevas.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion104/VOT_20241219162904.json"
+  },
+  {
+   "number": 105,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias.",
+   "subtitle": "Votación separada de las enmiendas Resto de las enmiendas del Senado.",
+   "expediente": "121/000023",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YXYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYNYYYYYYNYYYYNYYNNNYNYNNYYNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYYYNNNYYNYYYYNNYYNYYNNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion105/VOT_20241219162906.json"
+  },
+  {
+   "number": 106,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea, presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "subtitle": "",
+   "expediente": "121/000020",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion106/VOT_20241219162907.json"
+  },
+  {
+   "number": 107,
+   "heading": "Propuestas de creación de Comisiones.",
+   "title": "Propuesta de la Comisión de Juventud e Infancia, de creación de una Subcomisión sobre el estudio de un Pacto de Estado para la erradicación de la Pobreza Infantil.",
+   "subtitle": "",
+   "expediente": "158/000012",
+   "totals": {
+    "present": 348,
+    "yes": 317,
+    "no": 31,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YXNYYYYYNNYNYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYNYYNNNYYYYYYYYYYNYYYYYYYYNYYYYNYYYYYYYYNYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYNNYNYYYYYYYYYYYNYNYYYYNNYYYYYYNYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion088/20241219/Votacion107/VOT_20241219162909.json"
+  }
+ ]
+}

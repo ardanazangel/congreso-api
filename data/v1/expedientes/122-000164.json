@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000164",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-06",
+   "session": 107,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica de modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para el endurecimiento de las penas del delito de matrimonio forzado.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 169,
+    "no": 175,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-06.json"
+  }
+ ]
+}

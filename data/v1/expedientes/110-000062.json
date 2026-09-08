@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000062",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-27",
+   "session": 151,
+   "number": 12,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo de extradición entre el Reino de España y el Reino Hachemí de Jordania, hecho en Madrid el 5 de junio de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 293,
+    "no": 0,
+    "abstain": 53,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-27.json"
+  }
+ ]
+}

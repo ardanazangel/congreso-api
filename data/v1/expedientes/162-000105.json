@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000105",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-21",
+   "session": 33,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre la adopción de medidas para garantizar unas condiciones de jubilación digna de abogados y procuradores adscritos a sus mutualidades de protección social.",
+   "subtitle": "",
+   "totals": {
+    "present": 341,
+    "yes": 178,
+    "no": 29,
+    "abstain": 134,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-21.json"
+  }
+ ]
+}

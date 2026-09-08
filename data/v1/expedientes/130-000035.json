@@ -1,0 +1,23 @@
+{
+ "expediente": "130/000035",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 25,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la accesibilidad equitativa a bienes y servicios en situaciones de emergencia.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 172,
+    "no": 177,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  }
+ ]
+}

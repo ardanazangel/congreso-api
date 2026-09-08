@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000134",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-11",
+   "session": 96,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, para la recuperación de la bonificación de las cuotas patronales de la Seguridad Social para los empresarios de las ciudades de Ceuta y Melilla, cuyas actividades estén encuadradas en los sectores recogidos en la presente ley, con cuentas de cotización y trabajadores asignados a dichas empresas.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 169,
+    "no": 44,
+    "abstain": 131,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-11.json"
+  }
+ ]
+}

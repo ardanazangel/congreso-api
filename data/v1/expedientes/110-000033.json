@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000033",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 20,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo entre el Reino de España y la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura relativo a la Conferencia del Decenio de los Océanos 2024, que se celebrará del 8 al 12 de abril de 2024, en Barcelona (España), hecho en París el 4 de abril de 2024.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 161,
+    "no": 33,
+    "abstain": 152,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  }
+ ]
+}

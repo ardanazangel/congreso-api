@@ -1,0 +1,23 @@
+{
+ "expediente": "130/000039",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-28",
+   "session": 175,
+   "number": 3,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 8/2026, de 20 de marzo, de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de Irán.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 166,
+    "no": 177,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-28.json"
+  }
+ ]
+}

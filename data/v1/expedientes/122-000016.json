@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000016",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-20",
+   "session": 21,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para la protección de los derechos humanos y la jurisdicción universal en España.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 178,
+    "no": 168,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-20.json"
+  }
+ ]
+}

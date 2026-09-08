@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000783",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre medidas para combatir los discursos de odio en el deporte español. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Republicano.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 176,
+    "no": 33,
+    "abstain": 138,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  }
+ ]
+}

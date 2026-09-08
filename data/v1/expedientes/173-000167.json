@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000167",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-30",
+   "session": 177,
+   "number": 4,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Valido García), sobre el impacto de la crisis generada por la guerra de Irán en Canarias y medidas urgentes a poner en marcha para enfrentar sus consecuencias en nuestra Región Ultraperiférica. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Plurinacional SUMAR.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 189,
+    "no": 119,
+    "abstain": 40,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-30.json"
+  }
+ ]
+}

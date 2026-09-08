@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000032",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 19,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo entre el Reino de España y la Corte Penal Internacional relativo a la ejecución de las penas de la Corte Penal Internacional, hecho en La Haya el 8 de diciembre de 2022.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 300,
+    "no": 33,
+    "abstain": 13,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  }
+ ]
+}

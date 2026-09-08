@@ -1,0 +1,91 @@
+{
+ "expediente": "173/000119",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-24",
+   "session": 134,
+   "number": 3,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Valido García), sobre los controles que se realizan actualmente en los puertos y aeropuertos canarios en materia de inspección fitosanitaria para prevenir la entrada de plagas y especies invasoras.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 348,
+    "yes": 344,
+    "no": 0,
+    "abstain": 4,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-24.json"
+  },
+  {
+   "date": "2025-09-24",
+   "session": 134,
+   "number": 4,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Valido García), sobre los controles que se realizan actualmente en los puertos y aeropuertos canarios en materia de inspección fitosanitaria para prevenir la entrada de plagas y especies invasoras.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 348,
+    "yes": 203,
+    "no": 0,
+    "abstain": 145,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-24.json"
+  },
+  {
+   "date": "2025-09-24",
+   "session": 134,
+   "number": 5,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Valido García), sobre los controles que se realizan actualmente en los puertos y aeropuertos canarios en materia de inspección fitosanitaria para prevenir la entrada de plagas y especies invasoras.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 348,
+    "yes": 191,
+    "no": 0,
+    "abstain": 157,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-24.json"
+  },
+  {
+   "date": "2025-09-24",
+   "session": 134,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Valido García), sobre los controles que se realizan actualmente en los puertos y aeropuertos canarios en materia de inspección fitosanitaria para prevenir la entrada de plagas y especies invasoras.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 347,
+    "yes": 347,
+    "no": 0,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-24.json"
+  },
+  {
+   "date": "2025-09-24",
+   "session": 134,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Valido García), sobre los controles que se realizan actualmente en los puertos y aeropuertos canarios en materia de inspección fitosanitaria para prevenir la entrada de plagas y especies invasoras.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 348,
+    "yes": 316,
+    "no": 0,
+    "abstain": 32,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-24.json"
+  }
+ ]
+}

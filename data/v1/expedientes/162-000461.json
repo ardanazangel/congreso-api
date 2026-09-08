@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000461",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-19",
+   "session": 148,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Plurinacional SUMAR, sobre el uso responsable de algoritmos en portales inmobiliarios. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Plurinacional SUMAR.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 175,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-19.json"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "expediente": "122/000124",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-22",
+   "session": 69,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, relativa a la regulación de las cláusulas Redito Ad Libitum en la contratación de préstamos y créditos hipotecarios.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 314,
+    "no": 31,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-22.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 27,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final de la Proposición de Ley relativa a la regulación de las cláusulas Redito Ad Libitum en la contratación de préstamos y créditos hipotecarios, presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 337,
+    "no": 11,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000108",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-26",
+   "session": 80,
+   "number": 3,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, para la garantía, a nivel estatal, del funcionamiento efectivo de la tarjeta sanitaria individual y de la plena interoperabilidad de las historias clínicas.",
+   "subtitle": "",
+   "totals": {
+    "present": 340,
+    "yes": 32,
+    "no": 174,
+    "abstain": 134,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-26.json"
+  }
+ ]
+}

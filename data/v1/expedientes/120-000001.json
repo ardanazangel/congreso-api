@@ -1,0 +1,23 @@
+{
+ "expediente": "120/000001",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-08",
+   "session": 64,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley de iniciativa popular.",
+   "title": "Proposición de Ley de modificación de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, en materia de participación en el coste de las prestaciones y servicios de las personas beneficiarias (corresponde a los números de expediente 120/000031/0000 de la X Legislatura, 120/000001/0000 de la XI Legislatura, 120/000001/0000 de la XII Legislatura, 120/000001/0000 de la XIII Legislatura y 120/000001/0000 de la XIV Legislatura).",
+   "subtitle": "",
+   "totals": {
+    "present": 341,
+    "yes": 341,
+    "no": 0,
+    "abstain": 0,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-08.json"
+  }
+ ]
+}

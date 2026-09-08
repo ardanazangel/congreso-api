@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000110",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-15",
+   "session": 67,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica de modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, relativa a las causas de inelegibilidad.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 169,
+    "no": 174,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-15.json"
+  }
+ ]
+}

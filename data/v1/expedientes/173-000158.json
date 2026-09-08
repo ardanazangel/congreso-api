@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000158",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 51,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para garantizar la asistencia sanitaria de los españoles.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 33,
+    "no": 179,
+    "abstain": 138,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  }
+ ]
+}

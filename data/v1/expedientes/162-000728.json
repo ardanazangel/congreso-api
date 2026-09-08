@@ -1,0 +1,125 @@
+{
+ "expediente": "162/000728",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 30,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Vasco (EAJ-PNV), para reforzar la competitividad y la resiliencia de la industria siderúrgica y electrointensiva.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 350,
+    "yes": 165,
+    "no": 37,
+    "abstain": 148,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 31,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Vasco (EAJ-PNV), para reforzar la competitividad y la resiliencia de la industria siderúrgica y electrointensiva.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 350,
+    "yes": 345,
+    "no": 4,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 32,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Vasco (EAJ-PNV), para reforzar la competitividad y la resiliencia de la industria siderúrgica y electrointensiva.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 349,
+    "yes": 190,
+    "no": 158,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 33,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Vasco (EAJ-PNV), para reforzar la competitividad y la resiliencia de la industria siderúrgica y electrointensiva.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 349,
+    "yes": 311,
+    "no": 4,
+    "abstain": 34,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 34,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Vasco (EAJ-PNV), para reforzar la competitividad y la resiliencia de la industria siderúrgica y electrointensiva.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 349,
+    "yes": 311,
+    "no": 33,
+    "abstain": 5,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 35,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Vasco (EAJ-PNV), para reforzar la competitividad y la resiliencia de la industria siderúrgica y electrointensiva.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 350,
+    "yes": 312,
+    "no": 33,
+    "abstain": 5,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 36,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Vasco (EAJ-PNV), para reforzar la competitividad y la resiliencia de la industria siderúrgica y electrointensiva.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 350,
+    "yes": 187,
+    "no": 121,
+    "abstain": 42,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000011",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-29",
+   "session": 26,
+   "number": 14,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, relativa a la escasez de medios para hacer frente al narcotráfico y la responsabilidad del Gobierno en el asesinato de dos guardias civiles en Barbate.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 171,
+    "no": 165,
+    "abstain": 11,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-29.json"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000048",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 52,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 17/2026, de 23 de junio, de medidas extraordinarias para el fortalecimiento y consolidación del Sistema para la Autonomía y Atención a la Dependencia.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 317,
+    "no": 33,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 53,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 17/2026, de 23 de junio, de medidas extraordinarias para el fortalecimiento y consolidación del Sistema para la Autonomía y Atención a la Dependencia.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 344,
+    "no": 0,
+    "abstain": 5,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  }
+ ]
+}

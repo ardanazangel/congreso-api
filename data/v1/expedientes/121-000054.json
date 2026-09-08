@@ -1,0 +1,91 @@
+{
+ "expediente": "121/000054",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 5,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud Pública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud Pública.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional tercera.",
+   "totals": {
+    "present": 349,
+    "yes": 142,
+    "no": 50,
+    "abstain": 157,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 6,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud Pública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud Pública.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional cuarta y a la disposición final tercera.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 177,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 7,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud Pública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud Pública.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional (nueva).",
+   "totals": {
+    "present": 349,
+    "yes": 298,
+    "no": 50,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 8,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud Pública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud Pública.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final primera.",
+   "totals": {
+    "present": 349,
+    "yes": 172,
+    "no": 177,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 9,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se crea la Agencia Estatal de Salud Pública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud Pública.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final segunda.",
+   "totals": {
+    "present": 349,
+    "yes": 146,
+    "no": 51,
+    "abstain": 152,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  }
+ ]
+}

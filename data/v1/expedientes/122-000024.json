@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000024",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-27",
+   "session": 24,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica por la que se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para la reforma del procedimiento de elección de los vocales del Consejo General del Poder Judicial.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-27.json"
+  }
+ ]
+}

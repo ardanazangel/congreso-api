@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000225",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-28",
+   "session": 142,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, sobre el buen uso de las zonas de estacionamiento reservadas a las personas con discapacidad.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 169,
+    "no": 0,
+    "abstain": 177,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-28.json"
+  }
+ ]
+}

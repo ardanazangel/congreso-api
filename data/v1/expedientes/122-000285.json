@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000285",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-16",
+   "session": 186,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, para la modificación de la Ley 16/1983, de 24 de octubre, de creación del Instituto de la Mujer y de determinadas leyes procesales dentro de su ámbito competencial.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 166,
+    "no": 174,
+    "abstain": 4,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-16.json"
+  }
+ ]
+}

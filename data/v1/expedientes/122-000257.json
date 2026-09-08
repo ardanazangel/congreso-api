@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000257",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-24",
+   "session": 167,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, Orgánica de modificación del artículo 379.1 del Código Penal, sobre conducción a velocidad superior a la permitida reglamentariamente.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 176,
+    "no": 33,
+    "abstain": 138,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-24.json"
+  }
+ ]
+}

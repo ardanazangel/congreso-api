@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000116",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-22",
+   "session": 69,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica relativa a la reforma de la Ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de ayuda militar al extranjero.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 174,
+    "no": 144,
+    "abstain": 30,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-22.json"
+  }
+ ]
+}

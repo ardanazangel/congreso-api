@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000176",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-27",
+   "session": 114,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, relativa a incrementar las medidas de prevención en el consumo de alcohol y drogas por los conductores, en especial por conductores profesionales de vehículos de transporte de pasajeros y mercancías.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 137,
+    "no": 175,
+    "abstain": 33,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-27.json"
+  }
+ ]
+}

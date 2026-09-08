@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000055",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Mixto, para una correcta imposición de los beneficios caídos del cielo de la gran banca.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 41,
+    "no": 294,
+    "abstain": 7,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  }
+ ]
+}

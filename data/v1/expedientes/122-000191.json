@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000191",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-16",
+   "session": 131,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica de modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, para restringir la regularización de inmigrantes ilegales a través del arraigo.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 169,
+    "no": 177,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-16.json"
+  }
+ ]
+}

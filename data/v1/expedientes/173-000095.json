@@ -1,0 +1,57 @@
+{
+ "expediente": "173/000095",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los planes del Gobierno para poder afrontar, sin Presupuestos Generales del Estado, retos y amenazas de enorme impacto socioeconómico en España.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 348,
+    "yes": 183,
+    "no": 158,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  },
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los planes del Gobierno para poder afrontar, sin Presupuestos Generales del Estado, retos y amenazas de enorme impacto socioeconómico en España.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 349,
+    "yes": 183,
+    "no": 153,
+    "abstain": 13,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  },
+  {
+   "date": "2025-05-08",
+   "session": 109,
+   "number": 12,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los planes del Gobierno para poder afrontar, sin Presupuestos Generales del Estado, retos y amenazas de enorme impacto socioeconómico en España.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 172,
+    "abstain": 7,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-08.json"
+  }
+ ]
+}

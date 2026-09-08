@@ -1,0 +1,108 @@
+{
+ "expediente": "173/000089",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-26",
+   "session": 103,
+   "number": 4,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre las causas y asunción de responsabilidades con relación a la agravación del caos ferroviario que sufrimos en Cataluña.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 346,
+    "yes": 56,
+    "no": 170,
+    "abstain": 120,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-26.json"
+  },
+  {
+   "date": "2025-03-26",
+   "session": 103,
+   "number": 5,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre las causas y asunción de responsabilidades con relación a la agravación del caos ferroviario que sufrimos en Cataluña.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 346,
+    "yes": 29,
+    "no": 155,
+    "abstain": 162,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-26.json"
+  },
+  {
+   "date": "2025-03-26",
+   "session": 103,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre las causas y asunción de responsabilidades con relación a la agravación del caos ferroviario que sufrimos en Cataluña.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 346,
+    "yes": 313,
+    "no": 33,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-26.json"
+  },
+  {
+   "date": "2025-03-26",
+   "session": 103,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre las causas y asunción de responsabilidades con relación a la agravación del caos ferroviario que sufrimos en Cataluña.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 346,
+    "yes": 49,
+    "no": 170,
+    "abstain": 127,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-26.json"
+  },
+  {
+   "date": "2025-03-26",
+   "session": 103,
+   "number": 8,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre las causas y asunción de responsabilidades con relación a la agravación del caos ferroviario que sufrimos en Cataluña.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 345,
+    "yes": 312,
+    "no": 33,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-26.json"
+  },
+  {
+   "date": "2025-03-26",
+   "session": 103,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre las causas y asunción de responsabilidades con relación a la agravación del caos ferroviario que sufrimos en Cataluña.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 346,
+    "yes": 313,
+    "no": 33,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-26.json"
+  }
+ ]
+}

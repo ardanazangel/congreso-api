@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000445",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-26",
+   "session": 103,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Vasco (EAJ-PNV), relativa al acceso al bono social. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Vasco (EAJ-PNV) y el Grupo Parlamentario Junts per Catalunya.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 168,
+    "no": 33,
+    "abstain": 145,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-26.json"
+  }
+ ]
+}

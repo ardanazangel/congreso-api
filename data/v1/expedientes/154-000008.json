@@ -1,0 +1,57 @@
+{
+ "expediente": "154/000008",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-19",
+   "session": 121,
+   "number": 10,
+   "heading": "Solicitud de prórroga de Subcomisiones.",
+   "title": "Solicitud de la Comisión de Juventud e Infancia, de prórroga del plazo para la conclusión de los trabajos de la Subcomisión sobre el estudio de un Pacto de Estado para la erradicación de la Pobreza Infantil, constituida en el seno de la citada Comisión, hasta el final del próximo periodo de sesiones (septiembre a diciembre 2025).",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 311,
+    "no": 34,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-19.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 30,
+   "heading": "Solicitud de prórroga de Subcomisiones.",
+   "title": "Solicitud de la Comisión de Juventud e Infancia, de prórroga del plazo para la conclusión de los trabajos de la Subcomisión sobre el estudio de un Pacto de Estado para la erradicación de la Pobreza Infantil, constituida en el seno de la citada Comisión, hasta el final del siguiente periodo de sesiones (febrero a junio 2026).",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 316,
+    "no": 32,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 30,
+   "heading": "Solicitud de prórroga de Subcomisiones.",
+   "title": "Solicitud de la Comisión de Juventud e Infancia, de prórroga del plazo para la conclusión de los trabajos de la Subcomisión sobre el estudio de un Pacto de Estado para la erradicación de la Pobreza Infantil, constituida en el seno de la citada Comisión, hasta el final del siguiente periodo de sesiones (septiembre a diciembre 2026).",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 317,
+    "no": 31,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  }
+ ]
+}

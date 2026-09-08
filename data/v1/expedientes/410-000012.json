@@ -1,0 +1,23 @@
+{
+ "expediente": "410/000012",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 41,
+   "heading": "Toma en consideración de Proposición de reforma del Reglamento del Congreso.",
+   "title": "Proposición del Grupo Parlamentario Socialista, de reforma de los artículos 101 y 104 del Reglamento del Congreso para actualizar y mejorar el régimen de la disciplina parlamentaria.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 179,
+    "no": 169,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000782",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-05-28",
+   "session": 183,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la eliminación de la cita previa en las oficinas de la Administración General del Estado.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 186,
+    "no": 2,
+    "abstain": 159,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-28.json"
+  }
+ ]
+}

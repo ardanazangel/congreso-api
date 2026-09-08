@@ -1,0 +1,108 @@
+{
+ "expediente": "173/000003",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-12-19",
+   "session": 13,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-19.json"
+  },
+  {
+   "date": "2023-12-19",
+   "session": 13,
+   "number": 8,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+   "subtitle": "Votación separada por puntos Punto 2.",
+   "totals": {
+    "present": 346,
+    "yes": 290,
+    "no": 56,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-19.json"
+  },
+  {
+   "date": "2023-12-19",
+   "session": 13,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+   "subtitle": "Votación separada por puntos Punto 3.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-19.json"
+  },
+  {
+   "date": "2023-12-19",
+   "session": 13,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+   "subtitle": "Votación separada por puntos Punto 4.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-19.json"
+  },
+  {
+   "date": "2023-12-19",
+   "session": 13,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+   "subtitle": "Votación separada por puntos Punto 5.",
+   "totals": {
+    "present": 346,
+    "yes": 137,
+    "no": 176,
+    "abstain": 33,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-19.json"
+  },
+  {
+   "date": "2023-12-19",
+   "session": 13,
+   "number": 12,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+   "subtitle": "Votación separada por puntos Punto 6.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-19.json"
+  }
+ ]
+}

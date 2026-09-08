@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000414",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-18",
+   "session": 161,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Plurinacional SUMAR, sobre una nueva regulación para los créditos rápidos en defensa del consumidor. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR, el Grupo Parlamentario Republicano y el Grupo Parlamentario Mixto (Sra. Valido García y Sra. Santana Perera).",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 176,
+    "no": 31,
+    "abstain": 137,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-18.json"
+  }
+ ]
+}

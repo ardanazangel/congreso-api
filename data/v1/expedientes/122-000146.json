@@ -1,0 +1,40 @@
+{
+ "expediente": "122/000146",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-18",
+   "session": 92,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley de los Grupos Parlamentarios Socialista y Mixto, de modificación de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, para la regulación de las inversiones en elementos patrimoniales afectos a la actividad de arrendamiento de vivienda en las Islas Canarias.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 299,
+    "no": 37,
+    "abstain": 6,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-18.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 10,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley de modificación de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, para la regulación de las inversiones en elementos patrimoniales afectos a la actividad de arrendamiento de vivienda en las Islas Canarias. Votación en bloque de las enmiendas.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 299,
+    "no": 31,
+    "abstain": 19,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  }
+ ]
+}

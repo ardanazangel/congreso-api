@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000142",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 3,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a tomar el Gobierno después de conocer la condena del Fiscal General del Estado.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  }
+ ]
+}

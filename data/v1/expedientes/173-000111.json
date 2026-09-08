@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000111",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-26",
+   "session": 124,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Junts per Catalunya, sobre la política fiscal y presupuestaria.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 176,
+    "no": 163,
+    "abstain": 6,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-26.json"
+  }
+ ]
+}

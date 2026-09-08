@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000236",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre lucha contra la violencia de género en el ámbito digital. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Junts per Catalunya.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 312,
+    "no": 33,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  }
+ ]
+}

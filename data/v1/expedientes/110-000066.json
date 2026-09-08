@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000066",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-18",
+   "session": 166,
+   "number": 9,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo por el que se modifica el Acuerdo entre el Reino de España y la República de Honduras sobre Transporte Aéreo y Anejo, firmado en Tegucigalpa el 30 de octubre de 1992, hecho en Sevilla el 1 de julio de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 268,
+    "no": 0,
+    "abstain": 80,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-18.json"
+  }
+ ]
+}

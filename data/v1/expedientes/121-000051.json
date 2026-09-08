@@ -1,0 +1,57 @@
+{
+ "expediente": "121/000051",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-04-08",
+   "session": 104,
+   "number": 3,
+   "heading": "Acuerdo de tramitación directa y en lectura única de iniciativas legislativas.",
+   "title": "Acuerdo de tramitación directa y en lectura única de Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo, por la que se aprueba el Concierto Económico con la Comunidad Autónoma del País Vasco.",
+   "subtitle": "",
+   "totals": {
+    "present": 341,
+    "yes": 306,
+    "no": 33,
+    "abstain": 2,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-08.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 19,
+   "heading": "Tramitación directa y en lectura única de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de devolución al Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo, por la que se aprueba el Concierto Económico con la Comunidad Autónoma del País Vasco, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 33,
+    "no": 316,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 20,
+   "heading": "Tramitación directa y en lectura única de iniciativas legislativas.",
+   "title": "Votación de conjunto del texto del Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo, por la que se aprueba el Concierto Económico con la Comunidad Autónoma del País Vasco, por tramitarse en lectura única, teniendo en cuenta las observaciones técnicas distribuidas.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 312,
+    "no": 34,
+    "abstain": 3,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  }
+ ]
+}

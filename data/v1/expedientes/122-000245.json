@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000245",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-17",
+   "session": 165,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Mixto, para la modificación del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público y de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 174,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-17.json"
+  }
+ ]
+}

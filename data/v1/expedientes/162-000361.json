@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000361",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-28",
+   "session": 82,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, para la activación inmediata de hasta 15.000 millones de euros para paliar los daños ocasionados por la DANA mediante la modificación de los actuales Presupuestos Generales del Estado.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 144,
+    "no": 33,
+    "abstain": 167,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-28.json"
+  }
+ ]
+}

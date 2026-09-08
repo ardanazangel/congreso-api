@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000057",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-22",
+   "session": 141,
+   "number": 10,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Convenio entre el Reino de España y el Estado Plurinacional de Bolivia sobre cooperación en materia de lucha contra la delincuencia y seguridad, hecho en Madrid el 12 de marzo de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 294,
+    "no": 0,
+    "abstain": 53,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-22.json"
+  }
+ ]
+}

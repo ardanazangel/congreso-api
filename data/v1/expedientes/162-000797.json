@@ -1,0 +1,74 @@
+{
+ "expediente": "162/000797",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 21,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley de los Grupos Parlamentarios Euskal Herria Bildu, Vasco (EAJ-PNV), Plurinacional SUMAR y Mixto, relativa al cese de actividad del polígono de tiro de Bardenas.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 348,
+    "yes": 51,
+    "no": 290,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 22,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley de los Grupos Parlamentarios Euskal Herria Bildu, Vasco (EAJ-PNV), Plurinacional SUMAR y Mixto, relativa al cese de actividad del polígono de tiro de Bardenas.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 348,
+    "yes": 51,
+    "no": 290,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 23,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley de los Grupos Parlamentarios Euskal Herria Bildu, Vasco (EAJ-PNV), Plurinacional SUMAR y Mixto, relativa al cese de actividad del polígono de tiro de Bardenas.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 348,
+    "yes": 51,
+    "no": 290,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 24,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley de los Grupos Parlamentarios Euskal Herria Bildu, Vasco (EAJ-PNV), Plurinacional SUMAR y Mixto, relativa al cese de actividad del polígono de tiro de Bardenas.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 347,
+    "yes": 51,
+    "no": 289,
+    "abstain": 7,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  }
+ ]
+}

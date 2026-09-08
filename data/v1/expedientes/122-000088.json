@@ -1,0 +1,91 @@
+{
+ "expediente": "122/000088",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-18",
+   "session": 47,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, Orgánica por la que se modifica el artículo 80 de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de Instituciones Penitenciarias.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 300,
+    "no": 14,
+    "abstain": 29,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-18.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica el artículo ochenta de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de la Administración Penitenciaria (antes denominada Proposición de Ley Orgánica por la que se modifica el artículo 80 de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de Instituciones Penitenciarias).",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Junts per Catalunya Enmienda 14.",
+   "totals": {
+    "present": 347,
+    "yes": 14,
+    "no": 325,
+    "abstain": 8,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica el artículo ochenta de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de la Administración Penitenciaria (antes denominada Proposición de Ley Orgánica por la que se modifica el artículo 80 de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de Instituciones Penitenciarias).",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario VOX Enmienda 3.",
+   "totals": {
+    "present": 346,
+    "yes": 33,
+    "no": 313,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 38,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica el artículo ochenta de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de la Administración Penitenciaria (antes denominada Proposición de Ley Orgánica por la que se modifica el artículo 80 de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de Instituciones Penitenciarias).",
+   "subtitle": "Votación del dictamen. Votación del dictamen.",
+   "totals": {
+    "present": 345,
+    "yes": 324,
+    "no": 19,
+    "abstain": 2,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 39,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica el artículo ochenta de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de la Administración Penitenciaria (antes denominada Proposición de Ley Orgánica por la que se modifica el artículo 80 de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de Instituciones Penitenciarias).",
+   "subtitle": "Votación de conjunto. Votación de conjunto de la Proposición de Ley Orgánica por la que se modifica el artículo ochenta de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de la Administración Penitenciaria (antes denominada Proposición de Ley Orgánica por la que se modifica el artículo 80 de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de Instituciones Penitenciarias), por tener la misma carácter orgánico.",
+   "totals": {
+    "present": 346,
+    "yes": 323,
+    "no": 21,
+    "abstain": 2,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  }
+ ]
+}

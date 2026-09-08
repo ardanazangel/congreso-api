@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000119",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-17",
+   "session": 59,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, relativa a la regulación de los contratos de alquiler de vivienda por temporada y alquiler de habitaciones.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 172,
+    "no": 178,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-17.json"
+  }
+ ]
+}

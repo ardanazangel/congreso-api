@@ -1,0 +1,108 @@
+{
+ "expediente": "410/000001",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-09-19",
+   "session": 2,
+   "number": 1,
+   "heading": "Toma en consideración de Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de los Grupos Parlamentarios Socialista, Plurinacional SUMAR, Republicano, Euskal Herria Bildu, Mixto y Vasco (EAJ-PNV), de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 176,
+    "no": 169,
+    "abstain": 2,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-09-19.json"
+  },
+  {
+   "date": "2023-09-19",
+   "session": 2,
+   "number": 2,
+   "heading": "Acuerdo de tramitación directa y en lectura única de Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Acuerdo de tramitación directa y en lectura única de la Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 179,
+    "no": 171,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-09-19.json"
+  },
+  {
+   "date": "2023-09-21",
+   "session": 3,
+   "number": 1,
+   "heading": "Tramitación directa y en lectura única de Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "Enmienda a la totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo número 1 presentada por el Grupo Parlamentario VOX.",
+   "totals": {
+    "present": 350,
+    "yes": 33,
+    "no": 179,
+    "abstain": 138,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-09-21.json"
+  },
+  {
+   "date": "2023-09-21",
+   "session": 3,
+   "number": 2,
+   "heading": "Tramitación directa y en lectura única de Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "Enmienda al articulado del Grupo Parlamentario Vasco (EAJ-PNV). Enmienda número 2.",
+   "totals": {
+    "present": 350,
+    "yes": 178,
+    "no": 33,
+    "abstain": 139,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-09-21.json"
+  },
+  {
+   "date": "2023-09-21",
+   "session": 3,
+   "number": 3,
+   "heading": "Tramitación directa y en lectura única de Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "Enmiendas al articulado del Grupo Parlamentario Popular en el Congreso. Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 179,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-09-21.json"
+  },
+  {
+   "date": "2023-09-21",
+   "session": 3,
+   "number": 4,
+   "heading": "Tramitación directa y en lectura única de Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "Votación de conjunto. Votación de conjunto de la Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "totals": {
+    "present": 350,
+    "yes": 180,
+    "no": 170,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-09-21.json"
+  }
+ ]
+}

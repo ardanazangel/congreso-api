@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000017",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-21",
+   "session": 33,
+   "number": 4,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las medidas que va a adoptar el Ministerio de Política Territorial y Memoria Democrática para no verse afectado por la responsabilidad de su Ministro en la gestión y control de la compra de material sanitario durante la pandemia derivada de la COVID-19 que está siendo investigada por la Fiscalía Europea.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 169,
+    "no": 173,
+    "abstain": 1,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-21.json"
+  }
+ ]
+}

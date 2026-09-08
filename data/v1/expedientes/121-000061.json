@@ -1,0 +1,57 @@
+{
+ "expediente": "121/000061",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-24",
+   "session": 122,
+   "number": 3,
+   "heading": "Acuerdo de tramitación directa y en lectura única de iniciativas legislativas.",
+   "title": "Acuerdo de tramitación directa y en lectura única del Proyecto de Ley por la que se modifica la Ley 28/1990, de 26 de diciembre, por la que se aprueba el Convenio Económico entre el Estado y la Comunidad Foral de Navarra.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 310,
+    "no": 33,
+    "abstain": 2,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-24.json"
+  },
+  {
+   "date": "2025-06-26",
+   "session": 124,
+   "number": 13,
+   "heading": "Tramitación directa y en lectura única de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de devolución al Proyecto de Ley por la que se modifica la Ley 28/1990, de 26 de diciembre, por la que se aprueba el Convenio Económico entre el Estado y la Comunidad Foral de Navarra, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 32,
+    "no": 313,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-26.json"
+  },
+  {
+   "date": "2025-06-26",
+   "session": 124,
+   "number": 14,
+   "heading": "Tramitación directa y en lectura única de iniciativas legislativas.",
+   "title": "Votación de conjunto del texto del Proyecto de Ley por la que se modifica la Ley 28/1990, de 26 de diciembre, por la que se aprueba el Convenio Económico entre el Estado y la Comunidad Foral de Navarra, por tramitarse en lectura única, teniendo en cuenta las observaciones técnicas distribuidas.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 310,
+    "no": 33,
+    "abstain": 2,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-26.json"
+  }
+ ]
+}

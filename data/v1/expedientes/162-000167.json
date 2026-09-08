@@ -1,0 +1,159 @@
+{
+ "expediente": "162/000167",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa a las medidas para asegurar el derecho efectivo a la vivienda.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "totals": {
+    "present": 342,
+    "yes": 160,
+    "no": 182,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa a las medidas para asegurar el derecho efectivo a la vivienda.",
+   "subtitle": "Votación separada por puntos Punto 2.1",
+   "totals": {
+    "present": 343,
+    "yes": 40,
+    "no": 303,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa a las medidas para asegurar el derecho efectivo a la vivienda.",
+   "subtitle": "Votación separada por puntos Punto 2.2",
+   "totals": {
+    "present": 343,
+    "yes": 41,
+    "no": 302,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 6,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa a las medidas para asegurar el derecho efectivo a la vivienda.",
+   "subtitle": "Votación separada por puntos Punto 2.3",
+   "totals": {
+    "present": 343,
+    "yes": 41,
+    "no": 302,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 7,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa a las medidas para asegurar el derecho efectivo a la vivienda.",
+   "subtitle": "Votación separada por puntos Punto 2.4",
+   "totals": {
+    "present": 342,
+    "yes": 160,
+    "no": 175,
+    "abstain": 7,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 8,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa a las medidas para asegurar el derecho efectivo a la vivienda.",
+   "subtitle": "Votación separada por puntos Punto 2.5",
+   "totals": {
+    "present": 343,
+    "yes": 167,
+    "no": 169,
+    "abstain": 7,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 9,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa a las medidas para asegurar el derecho efectivo a la vivienda.",
+   "subtitle": "Votación separada por puntos Punto 2.6",
+   "totals": {
+    "present": 343,
+    "yes": 53,
+    "no": 289,
+    "abstain": 1,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 10,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa a las medidas para asegurar el derecho efectivo a la vivienda.",
+   "subtitle": "Votación separada por puntos Punto 2.7",
+   "totals": {
+    "present": 343,
+    "yes": 160,
+    "no": 170,
+    "abstain": 13,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 11,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Euskal Herria Bildu, relativa a las medidas para asegurar el derecho efectivo a la vivienda.",
+   "subtitle": "Votación separada por puntos Punto 2.8",
+   "totals": {
+    "present": 342,
+    "yes": 160,
+    "no": 169,
+    "abstain": 13,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000443",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-20",
+   "session": 101,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a reafirmar el apoyo a Ucrania y fortalecer la relación transatlántica.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 136,
+    "no": 165,
+    "abstain": 45,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-20.json"
+  }
+ ]
+}

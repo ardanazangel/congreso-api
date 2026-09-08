@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000175",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-18",
+   "session": 147,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica por la que se modifica la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, para rebajar la edad penal y sancionar con más firmeza y eficacia los delitos cometidos por menores.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 33,
+    "no": 178,
+    "abstain": 136,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-18.json"
+  }
+ ]
+}

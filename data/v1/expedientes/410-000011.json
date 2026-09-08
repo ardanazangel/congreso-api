@@ -1,0 +1,159 @@
+{
+ "expediente": "410/000011",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-05-26",
+   "session": 181,
+   "number": 3,
+   "heading": "Toma en consideración de Proposición de reforma del Reglamento del Congreso.",
+   "title": "Proposición del Sr. Álvaro Vidal y otros 20 Diputados, de reforma del Reglamento del Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 178,
+    "no": 171,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-26.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 25,
+   "heading": "Debates de totalidad de iniciativas de reforma del Reglamento del Congreso.",
+   "title": "Proposición de reforma del Reglamento del Congreso.",
+   "subtitle": "Enmiendas a la totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo presentada por el Grupo Parlamentario VOX.",
+   "totals": {
+    "present": 349,
+    "yes": 32,
+    "no": 179,
+    "abstain": 138,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 26,
+   "heading": "Debates de totalidad de iniciativas de reforma del Reglamento del Congreso.",
+   "title": "Proposición de reforma del Reglamento del Congreso.",
+   "subtitle": "Enmiendas a la totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 179,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas de reforma del Reglamento del Congreso.",
+   "title": "Proposición de reforma del Reglamento del Congreso.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX. Enmienda 13.",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 315,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas de reforma del Reglamento del Congreso.",
+   "title": "Proposición de reforma del Reglamento del Congreso.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX. Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas de reforma del Reglamento del Congreso.",
+   "title": "Proposición de reforma del Reglamento del Congreso.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso. Enmienda 27.",
+   "totals": {
+    "present": 348,
+    "yes": 137,
+    "no": 178,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas de reforma del Reglamento del Congreso.",
+   "title": "Proposición de reforma del Reglamento del Congreso.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso. Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 177,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas de reforma del Reglamento del Congreso.",
+   "title": "Proposición de reforma del Reglamento del Congreso.",
+   "subtitle": "Votación del dictamen. Votación del dictamen.",
+   "totals": {
+    "present": 348,
+    "yes": 178,
+    "no": 170,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas de reforma del Reglamento del Congreso.",
+   "title": "Proposición de reforma del Reglamento del Congreso.",
+   "subtitle": "Votación de totalidad. Votación final de totalidad, a los efectos de la disposición final segunda del Reglamento.",
+   "totals": {
+    "present": 348,
+    "yes": 178,
+    "no": 169,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  }
+ ]
+}

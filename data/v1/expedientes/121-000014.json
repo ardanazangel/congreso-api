@@ -1,0 +1,584 @@
+{
+ "expediente": "121/000014",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-05-23",
+   "session": 40,
+   "number": 60,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de Ley básica de agentes forestales y medioambientales, presentada por el Grupo Parlamentario Republicano.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 344,
+    "no": 0,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-05-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmiendas 92 y 102.",
+   "totals": {
+    "present": 348,
+    "yes": 4,
+    "no": 323,
+    "abstain": 21,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmiendas 95, 98 y 101.",
+   "totals": {
+    "present": 346,
+    "yes": 4,
+    "no": 335,
+    "abstain": 7,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmiendas 99, 103 y 104.",
+   "totals": {
+    "present": 347,
+    "yes": 17,
+    "no": 192,
+    "abstain": 138,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 106.",
+   "totals": {
+    "present": 348,
+    "yes": 154,
+    "no": 160,
+    "abstain": 34,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 110.",
+   "totals": {
+    "present": 348,
+    "yes": 18,
+    "no": 161,
+    "abstain": 169,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 321,
+    "abstain": 8,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Enmienda 16.",
+   "totals": {
+    "present": 348,
+    "yes": 51,
+    "no": 296,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Enmienda 35.",
+   "totals": {
+    "present": 348,
+    "yes": 18,
+    "no": 302,
+    "abstain": 28,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Valido García) Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 18,
+    "no": 322,
+    "abstain": 8,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 74.",
+   "totals": {
+    "present": 348,
+    "yes": 156,
+    "no": 192,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 75.",
+   "totals": {
+    "present": 348,
+    "yes": 18,
+    "no": 290,
+    "abstain": 40,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 80.",
+   "totals": {
+    "present": 348,
+    "yes": 44,
+    "no": 167,
+    "abstain": 137,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 83.",
+   "totals": {
+    "present": 348,
+    "yes": 149,
+    "no": 159,
+    "abstain": 40,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 85.",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 184,
+    "abstain": 145,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Resto de las enmiendas.",
+   "totals": {
+    "present": 346,
+    "yes": 14,
+    "no": 321,
+    "abstain": 11,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 16,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 116.",
+   "totals": {
+    "present": 347,
+    "yes": 21,
+    "no": 284,
+    "abstain": 42,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 24,
+    "no": 322,
+    "abstain": 2,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Republicano Enmienda 71.",
+   "totals": {
+    "present": 348,
+    "yes": 25,
+    "no": 296,
+    "abstain": 27,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 19,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Plurinacional SUMAR Enmienda 118.",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 296,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 20,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Enmiendas 128 a 130.",
+   "totals": {
+    "present": 346,
+    "yes": 33,
+    "no": 313,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 21,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 177,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 22,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 134, 136 y 152.",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 202,
+    "abstain": 8,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 23,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 135.",
+   "totals": {
+    "present": 347,
+    "yes": 146,
+    "no": 187,
+    "abstain": 14,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 24,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 137, 151 y 157.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 177,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 25,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 138.",
+   "totals": {
+    "present": 347,
+    "yes": 138,
+    "no": 174,
+    "abstain": 35,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 26,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 139.",
+   "totals": {
+    "present": 348,
+    "yes": 144,
+    "no": 156,
+    "abstain": 48,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 27,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 141, 147, 153, 158 y 159.",
+   "totals": {
+    "present": 348,
+    "yes": 141,
+    "no": 206,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 28,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 176,
+    "abstain": 34,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 29,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Correcciones técnicas Enmienda de corrección técnica número 1 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 347,
+    "no": 0,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 30,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Correcciones técnicas Enmienda de corrección técnica número 2 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 31,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Correcciones técnicas Enmienda de corrección técnica número 3 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 32,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "Correcciones técnicas Enmienda de corrección técnica número 4 presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 66,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del Dictamen del Proyecto de Ley básica de agentes forestales y medioambientales.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 178,
+    "no": 0,
+    "abstain": 171,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000059",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 45,
+   "heading": "Votación de las Proposiciones no de Ley y mociones consecuencia de interpelaciones urgentes pendientes de la sesión plenaria de 29/10/2024.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la responsabilidad del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en los múltiples casos de corrupción que involucran al Presidente Sánchez y a más de la mitad de su Gobierno.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 167,
+    "no": 179,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "expediente": "122/000126",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-08",
+   "session": 64,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 314,
+    "no": 33,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-08.json"
+  },
+  {
+   "date": "2024-11-28",
+   "session": 82,
+   "number": 18,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de texto alternativo a la Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 34,
+    "no": 178,
+    "abstain": 135,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-28.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga). Enmienda 8.",
+   "totals": {
+    "present": 350,
+    "yes": 44,
+    "no": 305,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Catalán Higueras). Enmienda 2.",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 179,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil). Enmienda 3.",
+   "totals": {
+    "present": 350,
+    "yes": 52,
+    "no": 298,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil). Enmienda 5.",
+   "totals": {
+    "present": 350,
+    "yes": 52,
+    "no": 298,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil). Enmienda 6.",
+   "totals": {
+    "present": 350,
+    "yes": 52,
+    "no": 298,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso. Enmiendas 9 y 10.",
+   "totals": {
+    "present": 349,
+    "yes": 138,
+    "no": 178,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso. Enmienda 11.",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+   "subtitle": "Votación del dictamen. Votación del dictamen.",
+   "totals": {
+    "present": 349,
+    "yes": 179,
+    "no": 34,
+    "abstain": 136,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+   "subtitle": "Votación de conjunto. Votación de conjunto de la Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.",
+   "totals": {
+    "present": 348,
+    "yes": 178,
+    "no": 33,
+    "abstain": 137,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  },
+  {
+   "date": "2025-06-19",
+   "session": 121,
+   "number": 1,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley Orgánica de modificación del artículo 515 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal (antes denominada Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación). Votación en bloque de las enmiendas.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-19.json"
+  }
+ ]
+}

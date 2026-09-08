@@ -1,0 +1,23 @@
+{
+ "expediente": "062/000001",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-12-12",
+   "session": 11,
+   "number": 5,
+   "heading": "Dación de Cuentas de la Diputación Permanente.",
+   "title": "Dación de Cuentas de la Diputación Permanente del Congreso de los Diputados de la XIV Legislatura a la Cámara de la XV.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 343,
+    "no": 0,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-12.json"
+  }
+ ]
+}

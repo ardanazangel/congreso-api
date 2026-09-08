@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000607",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 57,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la modificación urgente de la regulación de los medios alternativos de solución de conflictos en la justicia y el establecimiento de criterios unificados para todos los órganos judiciales. Se vota en los términos resultantes de la incorporación de las enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV).",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 185,
+    "no": 16,
+    "abstain": 149,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  }
+ ]
+}

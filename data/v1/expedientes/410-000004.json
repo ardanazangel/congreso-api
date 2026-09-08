@@ -1,0 +1,74 @@
+{
+ "expediente": "410/000004",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-11-28",
+   "session": 9,
+   "number": 1,
+   "heading": "Toma en consideración de Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de los Grupos Parlamentarios Popular en el Congreso, Socialista y Plurinacional SUMAR, de reforma del Reglamento del Congreso de los Diputados por la que se modifica el artículo 46.1.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 311,
+    "no": 31,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-11-28.json"
+  },
+  {
+   "date": "2023-11-28",
+   "session": 9,
+   "number": 2,
+   "heading": "Acuerdo de tramitación directa y en lectura única de Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Acuerdo de tramitación directa y en lectura única de la Proposición de reforma del Reglamento del Congreso de los Diputados por la que se modifica el artículo 46.1.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 312,
+    "no": 31,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-11-28.json"
+  },
+  {
+   "date": "2023-11-28",
+   "session": 9,
+   "number": 3,
+   "heading": "Tramitación directa y en lectura única de Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Votación de la enmienda a la totalidad de texto alternativo a la Proposición de reforma del Reglamento del Congreso de los Diputados por la que se modifica el artículo 46.1, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 33,
+    "no": 314,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-11-28.json"
+  },
+  {
+   "date": "2023-11-28",
+   "session": 9,
+   "number": 5,
+   "heading": "Tramitación directa y en lectura única de Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Votación de conjunto de la Proposición de reforma del Reglamento del Congreso de los Diputados por la que se modifica el artículo 46.1.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 311,
+    "no": 33,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-11-28.json"
+  }
+ ]
+}

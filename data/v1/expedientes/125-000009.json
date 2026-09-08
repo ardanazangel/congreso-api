@@ -1,0 +1,23 @@
+{
+ "expediente": "125/000009",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-04-08",
+   "session": 104,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley de Comunidades y Ciudades Autónomas.",
+   "title": "Proposición de Ley del Parlamento de Andalucía, relativa a la gratuidad de los productos ópticos y de salud visual.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 342,
+    "no": 0,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-08.json"
+  }
+ ]
+}

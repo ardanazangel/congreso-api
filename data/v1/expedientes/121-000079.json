@@ -1,0 +1,23 @@
+{
+ "expediente": "121/000079",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 19,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación conjunta de las enmiendas a la totalidad de devolución al Proyecto de Ley Orgánica de medidas excepcionales de sostenibilidad financiera para las comunidades autónomas de régimen común, presentadas por los Grupos Parlamentarios VOX y Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  }
+ ]
+}

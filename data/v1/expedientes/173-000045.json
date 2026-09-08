@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000045",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-18",
+   "session": 60,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la crisis migratoria y la protección de nuestras fronteras.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 138,
+    "no": 209,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-18.json"
+  }
+ ]
+}

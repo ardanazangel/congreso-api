@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000196",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-05-23",
+   "session": 40,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre la garantía de la aplicación de las políticas de memoria democrática en España. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Plurinacional SUMAR.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 175,
+    "no": 167,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-05-23.json"
+  }
+ ]
+}

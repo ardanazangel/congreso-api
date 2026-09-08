@@ -1,0 +1,40 @@
+{
+ "expediente": "121/000040",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 16,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación conjunta de las enmiendas a la totalidad de devolución al Proyecto de Ley por la que se modifica la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, para regular el procedimiento de determinación de la edad, presentadas por los Grupos Parlamentarios VOX y Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 117,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de Ley por la que se modifica la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, para regular el procedimiento de determinación de la edad, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000203",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-14",
+   "session": 137,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, de Conciliación y Corresponsabilidad Familiar.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 175,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-14.json"
+  }
+ ]
+}

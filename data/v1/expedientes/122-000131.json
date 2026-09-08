@@ -1,0 +1,57 @@
+{
+ "expediente": "122/000131",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-29",
+   "session": 71,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley de los Grupos Parlamentarios Socialista, Plurinacional SUMAR, Euskal Herria Bildu y Vasco (EAJ-PNV), Orgánica de protección de las libertades y seguridad ciudadana.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 176,
+    "no": 170,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-29.json"
+  },
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "number": 8,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de protección de las libertades y seguridad ciudadana.",
+   "subtitle": "Enmiendas a la totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "totals": {
+    "present": 345,
+    "yes": 169,
+    "no": 176,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-12.json"
+  },
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "number": 9,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de protección de las libertades y seguridad ciudadana.",
+   "subtitle": "Enmiendas a la totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo presentada por el Grupo Parlamentario VOX.",
+   "totals": {
+    "present": 346,
+    "yes": 33,
+    "no": 176,
+    "abstain": 137,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-12.json"
+  }
+ ]
+}

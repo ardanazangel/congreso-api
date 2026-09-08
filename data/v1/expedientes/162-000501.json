@@ -1,0 +1,57 @@
+{
+ "expediente": "162/000501",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-15",
+   "session": 172,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, para documentar el \"bibliocausto español\" y reconocer el compromiso con la cultura de libreros, bibliotecarios, editores y autores durante el golpe de estado y la dictadura franquista.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 169,
+    "no": 169,
+    "abstain": 8,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-15.json"
+  },
+  {
+   "date": "2026-04-15",
+   "session": 172,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, para documentar el \"bibliocausto español\" y reconocer el compromiso con la cultura de libreros, bibliotecarios, editores y autores durante el golpe de estado y la dictadura franquista.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 169,
+    "no": 169,
+    "abstain": 8,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-15.json"
+  },
+  {
+   "date": "2026-04-15",
+   "session": 172,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, para documentar el \"bibliocausto español\" y reconocer el compromiso con la cultura de libreros, bibliotecarios, editores y autores durante el golpe de estado y la dictadura franquista.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 169,
+    "abstain": 7,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-15.json"
+  }
+ ]
+}

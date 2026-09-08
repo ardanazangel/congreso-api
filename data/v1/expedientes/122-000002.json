@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000002",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-24",
+   "session": 61,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley el Grupo Parlamentario Vasco (EAJ-PNV), de modificación de la Ley 11/2002, de 6 de mayo, reguladora del Centro Nacional de Inteligencia; y de la Ley Orgánica 2/2002, de 6 de mayo, reguladora del control judicial previo del Centro Nacional de Inteligencia.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 177,
+    "no": 170,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-24.json"
+  }
+ ]
+}

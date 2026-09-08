@@ -1,0 +1,23 @@
+{
+ "expediente": "130/000046",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-25",
+   "session": 191,
+   "number": 29,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 15/2026, de 9 de junio, de autorización de operaciones de crédito extraordinarias a organismos y entidades integrantes del sector público institucional estatal.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 173,
+    "no": 176,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-25.json"
+  }
+ ]
+}

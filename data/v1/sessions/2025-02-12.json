@@ -1,0 +1,2065 @@
+{
+ "date": "2025-02-12",
+ "session": 91,
+ "legislature": "XV",
+ "deputies": [
+  {
+   "name": "Abades Martínez, Cristina",
+   "group": "GP",
+   "seat": "3702"
+  },
+  {
+   "name": "Ábalos Meco, José Luis",
+   "group": "GMx",
+   "seat": "2701"
+  },
+  {
+   "name": "Abascal Conde, Santiago",
+   "group": "GVOX",
+   "seat": "3201"
+  },
+  {
+   "name": "Acedo Reyes, Sofía",
+   "group": "GP",
+   "seat": "3611"
+  },
+  {
+   "name": "Aceves Galindo, José Luis",
+   "group": "GS",
+   "seat": "1505"
+  },
+  {
+   "name": "Adrio Taracido, María",
+   "group": "GS",
+   "seat": "1707"
+  },
+  {
+   "name": "Agirretxea Urresti, Joseba Andoni",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2310"
+  },
+  {
+   "name": "Agüera Gago, Cristina",
+   "group": "GP",
+   "seat": "3712"
+  },
+  {
+   "name": "Aguirre Gil de Biedma, Rocío",
+   "group": "GVOX",
+   "seat": "2707"
+  },
+  {
+   "name": "Aizcorbe Torra, Juan José",
+   "group": "GVOX",
+   "seat": "2613"
+  },
+  {
+   "name": "Aizpurua Arzallus, Mertxe",
+   "group": "GEH Bildu",
+   "seat": "2501"
+  },
+  {
+   "name": "Alcaraz Martos, Francisco José",
+   "group": "GVOX",
+   "seat": "2611"
+  },
+  {
+   "name": "Alfonso Cendón, Javier",
+   "group": "GS",
+   "seat": "1204"
+  },
+  {
+   "name": "Alfonso Silvestre, Alma",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Alía Aguado, María Pilar",
+   "group": "GP",
+   "seat": "2713"
+  },
+  {
+   "name": "Almirón Ruiz, Oriol",
+   "group": "GS",
+   "seat": "1805"
+  },
+  {
+   "name": "Almodóvar Sánchez, Emilia",
+   "group": "GS",
+   "seat": "4601"
+  },
+  {
+   "name": "Alonso Cantorné, Fèlix",
+   "group": "GSUMAR",
+   "seat": "2405"
+  },
+  {
+   "name": "Alós López, Ana Isabel",
+   "group": "GP",
+   "seat": "3308"
+  },
+  {
+   "name": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+   "group": "GP",
+   "seat": "3413"
+  },
+  {
+   "name": "Álvarez Fanjul, Beatriz",
+   "group": "GP",
+   "seat": "3305"
+  },
+  {
+   "name": "Álvarez González, Alicia",
+   "group": "GS",
+   "seat": "1706"
+  },
+  {
+   "name": "Álvaro Vidal, Francesc-Marc",
+   "group": "GR",
+   "seat": "2515"
+  },
+  {
+   "name": "Andala Ubbi, Teslem",
+   "group": "GSUMAR",
+   "seat": "2303"
+  },
+  {
+   "name": "Andrés Añón, Carmen",
+   "group": "GS",
+   "seat": "1702"
+  },
+  {
+   "name": "Aragonés Mendiguchía, Carlos",
+   "group": "GP",
+   "seat": "3616"
+  },
+  {
+   "name": "Aranda Vargas, Francisco",
+   "group": "GS",
+   "seat": "1502"
+  },
+  {
+   "name": "Argota Castro, Trinidad Carmen",
+   "group": "GS",
+   "seat": "1712"
+  },
+  {
+   "name": "Argüelles García, Silverio",
+   "group": "GP",
+   "seat": "3603"
+  },
+  {
+   "name": "Armario González, Blanca",
+   "group": "GVOX",
+   "seat": "2705"
+  },
+  {
+   "name": "Armengol Socias, Francina",
+   "group": "GS",
+   "seat": "1"
+  },
+  {
+   "name": "Arribas Maroto, Manuel",
+   "group": "GS",
+   "seat": "1504"
+  },
+  {
+   "name": "Asarta Cuevas, Alberto",
+   "group": "GVOX",
+   "seat": "2803"
+  },
+  {
+   "name": "Azorín Salar, Lázaro",
+   "group": "GS",
+   "seat": "1609"
+  },
+  {
+   "name": "Badia Casas, Eloi",
+   "group": "GSUMAR",
+   "seat": "2404"
+  },
+  {
+   "name": "Barrio Baroja, Carmelo",
+   "group": "GP",
+   "seat": "5706"
+  },
+  {
+   "name": "Bayón Rolo, Juan Andrés",
+   "group": "GP",
+   "seat": "2818"
+  },
+  {
+   "name": "Beamonte Mesa, Luis María",
+   "group": "GP",
+   "seat": "3514"
+  },
+  {
+   "name": "Belarra Urteaga, Ione",
+   "group": "GMx",
+   "seat": "2510"
+  },
+  {
+   "name": "Belda Pérez-Pedrero, Enrique",
+   "group": "GP",
+   "seat": "3817"
+  },
+  {
+   "name": "Belmonte Gómez, Rafael Benigno",
+   "group": "GP",
+   "seat": "3808"
+  },
+  {
+   "name": "Bendodo Benasayag, Elías",
+   "group": "GP",
+   "seat": "3312"
+  },
+  {
+   "name": "Bermúdez de Castro Fernández, José Antonio",
+   "group": "GP",
+   "seat": "3"
+  },
+  {
+   "name": "Blanquer Alcaraz, Patricia",
+   "group": "GS",
+   "seat": "1205"
+  },
+  {
+   "name": "Boada Danés, Júlia",
+   "group": "GSUMAR",
+   "seat": "2302"
+  },
+  {
+   "name": "Bolaños García, Félix",
+   "group": "GS",
+   "seat": "1105"
+  },
+  {
+   "name": "Borrego Cortés, Isabel María",
+   "group": "GP",
+   "seat": "3404"
+  },
+  {
+   "name": "Bravo Baena, Juan",
+   "group": "GP",
+   "seat": "3310"
+  },
+  {
+   "name": "Cabezón Casas, Tomás",
+   "group": "GP",
+   "seat": "5802"
+  },
+  {
+   "name": "Calvo Gómez, Pilar",
+   "group": "GJxCAT",
+   "seat": "1616"
+  },
+  {
+   "name": "Camino Miñana, Víctor",
+   "group": "GS",
+   "seat": "1402"
+  },
+  {
+   "name": "Campos Asensi, Jorge",
+   "group": "GVOX",
+   "seat": "2605"
+  },
+  {
+   "name": "Canelo Matito, Andrea",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Cantalapiedra Álvarez, María de las Mercedes",
+   "group": "GP",
+   "seat": "5702"
+  },
+  {
+   "name": "Carazo Hermoso, Eduardo",
+   "group": "GP",
+   "seat": "2711"
+  },
+  {
+   "name": "Carballedo Berlanga, María Eugenia",
+   "group": "GP",
+   "seat": "2712"
+  },
+  {
+   "name": "Casares Hontañón, Pedro",
+   "group": "GS",
+   "seat": "1412"
+  },
+  {
+   "name": "Castilla Álvarez, María Carmen",
+   "group": "GS",
+   "seat": "1306"
+  },
+  {
+   "name": "Catalán Higueras, Alberto",
+   "group": "GMx",
+   "seat": "1715"
+  },
+  {
+   "name": "Cavacasillas Rodríguez, Antonio",
+   "group": "GP",
+   "seat": "5705"
+  },
+  {
+   "name": "Celaya Brey, Javier",
+   "group": "GP",
+   "seat": "2814"
+  },
+  {
+   "name": "Cercas Mena, Blanca",
+   "group": "GS",
+   "seat": "4704"
+  },
+  {
+   "name": "Cerdán León, Santos",
+   "group": "GS",
+   "seat": "1301"
+  },
+  {
+   "name": "Cervera Pinart, Josep Maria",
+   "group": "GJxCAT",
+   "seat": "1615"
+  },
+  {
+   "name": "Chamorro Delmo, Ricardo",
+   "group": "GVOX",
+   "seat": "2802"
+  },
+  {
+   "name": "Clavell López, Óscar",
+   "group": "GP",
+   "seat": "3505"
+  },
+  {
+   "name": "Clemente Muñoz, Raquel",
+   "group": "GP",
+   "seat": "3714"
+  },
+  {
+   "name": "Cobo Carmona, Ana",
+   "group": "GS",
+   "seat": "1605"
+  },
+  {
+   "name": "Cobo Pérez, Noelia",
+   "group": "GS",
+   "seat": "1513"
+  },
+  {
+   "name": "Cobo Vega, Manuel",
+   "group": "GP",
+   "seat": "3516"
+  },
+  {
+   "name": "Cofiño Fernández, Rafael",
+   "group": "GSUMAR",
+   "seat": "2505"
+  },
+  {
+   "name": "Conde Bajén, Agustín",
+   "group": "GP",
+   "seat": "3612"
+  },
+  {
+   "name": "Conde López, Francisco José",
+   "group": "GP",
+   "seat": "3405"
+  },
+  {
+   "name": "Conesa Coma, Ignasi",
+   "group": "GS",
+   "seat": "4706"
+  },
+  {
+   "name": "Cortés Carballo, Mario",
+   "group": "GP",
+   "seat": "3708"
+  },
+  {
+   "name": "Corujo Berriel, María Dolores",
+   "group": "GS",
+   "seat": "1410"
+  },
+  {
+   "name": "Crespín Rubio, Rafaela",
+   "group": "GS",
+   "seat": "1312"
+  },
+  {
+   "name": "Cruset Domènech, Josep Maria",
+   "group": "GJxCAT",
+   "seat": "1516"
+  },
+  {
+   "name": "Cruz Santana, Gabriel",
+   "group": "GS",
+   "seat": "1711"
+  },
+  {
+   "name": "Cruz-Guzmán García, María Soledad",
+   "group": "GP",
+   "seat": "3711"
+  },
+  {
+   "name": "Cuesta Rodríguez, María del Socorro",
+   "group": "GP",
+   "seat": "3802"
+  },
+  {
+   "name": "Cuevas Larrosa, Raúl",
+   "group": "GP",
+   "seat": "3705"
+  },
+  {
+   "name": "De la Rosa Baena, Olvido",
+   "group": "GS",
+   "seat": "1814"
+  },
+  {
+   "name": "De las Cuevas Cortés, Félix",
+   "group": "GP",
+   "seat": "3819"
+  },
+  {
+   "name": "De los Santos González, Jaime Miguel",
+   "group": "GP",
+   "seat": "3506"
+  },
+  {
+   "name": "De Luna Tobarra, Llanos",
+   "group": "GP",
+   "seat": "3503"
+  },
+  {
+   "name": "De Meer Méndez, Rocío",
+   "group": "GVOX",
+   "seat": "3401"
+  },
+  {
+   "name": "De Rosa Torner, Fernando",
+   "group": "GP",
+   "seat": "5604"
+  },
+  {
+   "name": "Del Valle Rodríguez, Emilio Jesús",
+   "group": "GVOX",
+   "seat": "2616"
+  },
+  {
+   "name": "Delgado Arce, Celso Luis",
+   "group": "GP",
+   "seat": "5606"
+  },
+  {
+   "name": "Delgado-Taramona Hernández, Jimena",
+   "group": "GP",
+   "seat": "2808"
+  },
+  {
+   "name": "Díaz Marín, Raúl",
+   "group": "GS",
+   "seat": "1802"
+  },
+  {
+   "name": "Díaz Pérez, Yolanda",
+   "group": "GSUMAR",
+   "seat": "-1"
+  },
+  {
+   "name": "Diouf Dioh, Luc Andre",
+   "group": "GS",
+   "seat": "1403"
+  },
+  {
+   "name": "Esteban Bravo, Aitor",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2207"
+  },
+  {
+   "name": "Estrems Fayos, Etna",
+   "group": "GR",
+   "seat": "2409"
+  },
+  {
+   "name": "Fabra Part, Alberto",
+   "group": "GP",
+   "seat": "3407"
+  },
+  {
+   "name": "Fagúndez Campo, Antidio",
+   "group": "GS",
+   "seat": "1501"
+  },
+  {
+   "name": "Faneca López, María Luisa",
+   "group": "GS",
+   "seat": "1507"
+  },
+  {
+   "name": "Fernández Benéitez, Andrea",
+   "group": "GS",
+   "seat": "1607"
+  },
+  {
+   "name": "Fernández González, María Mercedes",
+   "group": "GP",
+   "seat": "3515"
+  },
+  {
+   "name": "Fernández Hernández, Pedro",
+   "group": "GVOX",
+   "seat": "3502"
+  },
+  {
+   "name": "Fernández Herranz, Sandra",
+   "group": "GP",
+   "seat": "5601"
+  },
+  {
+   "name": "Fernández Ríos, Tomás",
+   "group": "GVOX",
+   "seat": "2706"
+  },
+  {
+   "name": "Figaredo Álvarez-Sala, José María",
+   "group": "GVOX",
+   "seat": "3203"
+  },
+  {
+   "name": "Flores Juberías, Carlos",
+   "group": "GVOX",
+   "seat": "2704"
+  },
+  {
+   "name": "Floriano Corrales, Carlos Javier",
+   "group": "GP",
+   "seat": "3615"
+  },
+  {
+   "name": "Folch Blanc, Javier José",
+   "group": "GP",
+   "seat": "3601"
+  },
+  {
+   "name": "Franco González, Silvia",
+   "group": "GP",
+   "seat": "2817"
+  },
+  {
+   "name": "Fullaondo la Cruz, Marije",
+   "group": "GEH Bildu",
+   "seat": "2602"
+  },
+  {
+   "name": "Fúnez de Gregorio, Carmen",
+   "group": "GP",
+   "seat": "3311"
+  },
+  {
+   "name": "Gallardo Barrena, Pedro Ignacio",
+   "group": "GP",
+   "seat": "3602"
+  },
+  {
+   "name": "Gamarra Ruiz-Clavijo, Concepción",
+   "group": "GP",
+   "seat": "3209"
+  },
+  {
+   "name": "García Adanero, Carlos",
+   "group": "GP",
+   "seat": "5605"
+  },
+  {
+   "name": "García Chavarría, María Montserrat",
+   "group": "GS",
+   "seat": "1708"
+  },
+  {
+   "name": "García Félix, Manuel",
+   "group": "GP",
+   "seat": "3815"
+  },
+  {
+   "name": "García Gomis, David",
+   "group": "GVOX",
+   "seat": "2806"
+  },
+  {
+   "name": "García Gurrutxaga, María Luisa",
+   "group": "GS",
+   "seat": "1709"
+  },
+  {
+   "name": "García López, Maribel",
+   "group": "GS",
+   "seat": "1206"
+  },
+  {
+   "name": "García Morís, Roberto",
+   "group": "GS",
+   "seat": "1411"
+  },
+  {
+   "name": "Garre Murcia, Cristóbal",
+   "group": "GP",
+   "seat": "3809"
+  },
+  {
+   "name": "Garrido Jiménez, Elisa",
+   "group": "GS",
+   "seat": "1401"
+  },
+  {
+   "name": "Garrido Valenzuela, Irene",
+   "group": "GP",
+   "seat": "3605"
+  },
+  {
+   "name": "Gavin i Valls, Isidre",
+   "group": "GJxCAT",
+   "seat": "1514"
+  },
+  {
+   "name": "Gil de Reboleño Lastortres, Esther",
+   "group": "GSUMAR",
+   "seat": "4"
+  },
+  {
+   "name": "Gil Lázaro, Ignacio",
+   "group": "GVOX",
+   "seat": "2614"
+  },
+  {
+   "name": "Gil Santiago, Carlos",
+   "group": "GP",
+   "seat": "3812"
+  },
+  {
+   "name": "Gómez Piña, Luis Antonio",
+   "group": "GS",
+   "seat": "1810"
+  },
+  {
+   "name": "González Gracia, Juan Antonio",
+   "group": "GS",
+   "seat": "1510"
+  },
+  {
+   "name": "González López, Nahuel",
+   "group": "GSUMAR",
+   "seat": "2407"
+  },
+  {
+   "name": "González Vázquez, Marta",
+   "group": "GP",
+   "seat": "5"
+  },
+  {
+   "name": "González-Robatto Perote, Jacobo",
+   "group": "GVOX",
+   "seat": "2604"
+  },
+  {
+   "name": "Gracia Blanco, Marta",
+   "group": "GS",
+   "seat": "4603"
+  },
+  {
+   "name": "Granollers Cunillera, Inés",
+   "group": "GR",
+   "seat": "2516"
+  },
+  {
+   "name": "Guardiola Salmerón, Mirian",
+   "group": "GP",
+   "seat": "3206"
+  },
+  {
+   "name": "Guijarro Ceballos, María",
+   "group": "GS",
+   "seat": "1407"
+  },
+  {
+   "name": "Guijarro García, Txema",
+   "group": "GSUMAR",
+   "seat": "2401"
+  },
+  {
+   "name": "Guinart Moreno, Lídia",
+   "group": "GS",
+   "seat": "1307"
+  },
+  {
+   "name": "Gutiérrez Prieto, Sergio",
+   "group": "GS",
+   "seat": "1606"
+  },
+  {
+   "name": "Gutiérrez Santiago, Víctor",
+   "group": "GS",
+   "seat": "1305"
+  },
+  {
+   "name": "Hernández Quero, Carlos",
+   "group": "GVOX",
+   "seat": "2703"
+  },
+  {
+   "name": "Hernando Fraile, Rafael Antonio",
+   "group": "GP",
+   "seat": "3409"
+  },
+  {
+   "name": "Herrera García, Milena",
+   "group": "GS",
+   "seat": "1409"
+  },
+  {
+   "name": "Herrero Bono, José Alberto",
+   "group": "GP",
+   "seat": "3609"
+  },
+  {
+   "name": "Hispán Iglesias de Ussel, Pablo",
+   "group": "GP",
+   "seat": "3513"
+  },
+  {
+   "name": "Hita Téllez, Guillermo",
+   "group": "GS",
+   "seat": "1310"
+  },
+  {
+   "name": "Hoces Íñiguez, Ignacio",
+   "group": "GVOX",
+   "seat": "2612"
+  },
+  {
+   "name": "Hoyo Juliá, Belén",
+   "group": "GP",
+   "seat": "3614"
+  },
+  {
+   "name": "Ibáñez Hernando, Ángel",
+   "group": "GP",
+   "seat": "2714"
+  },
+  {
+   "name": "Ibáñez Mezquita, Alberto",
+   "group": "GSUMAR",
+   "seat": "2305"
+  },
+  {
+   "name": "Iniesta Egido, Isabel",
+   "group": "GS",
+   "seat": "4804"
+  },
+  {
+   "name": "Iñarritu García, Jon",
+   "group": "GEH Bildu",
+   "seat": "2603"
+  },
+  {
+   "name": "Jerez Antequera, Juan Carlos",
+   "group": "GS",
+   "seat": "4606"
+  },
+  {
+   "name": "Jiménez Linuesa, Beatriz",
+   "group": "GP",
+   "seat": "3608"
+  },
+  {
+   "name": "Jordà i Roura, Teresa",
+   "group": "GR",
+   "seat": "2411"
+  },
+  {
+   "name": "Lago Peñas, Manuel",
+   "group": "GSUMAR",
+   "seat": "2307"
+  },
+  {
+   "name": "Lamuà Estañol, Marc",
+   "group": "GS",
+   "seat": "1503"
+  },
+  {
+   "name": "Leal Fernández, Isaura",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Legarda Uriarte, Mikel",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2206"
+  },
+  {
+   "name": "Lima García, Laura María",
+   "group": "GP",
+   "seat": "3801"
+  },
+  {
+   "name": "Llamazares Domingo, Esther",
+   "group": "GP",
+   "seat": "2810"
+  },
+  {
+   "name": "López Álvarez, Patxi",
+   "group": "GS",
+   "seat": "1201"
+  },
+  {
+   "name": "López Cano, Ignacio",
+   "group": "GS",
+   "seat": "1508"
+  },
+  {
+   "name": "López Maraver, Ángel",
+   "group": "GVOX",
+   "seat": "2615"
+  },
+  {
+   "name": "López Tagliafico, Candela",
+   "group": "GSUMAR",
+   "seat": "2403"
+  },
+  {
+   "name": "López Zamora, Cristina",
+   "group": "GS",
+   "seat": "4805"
+  },
+  {
+   "name": "Lorente Anaya, Macarena",
+   "group": "GP",
+   "seat": "3813"
+  },
+  {
+   "name": "Lorenzo Cazorla, Juan Antonio",
+   "group": "GS",
+   "seat": "1612"
+  },
+  {
+   "name": "Losada Fernández, José",
+   "group": "GS",
+   "seat": "1818"
+  },
+  {
+   "name": "Lucas Ayala, Francisco",
+   "group": "GS",
+   "seat": "1304"
+  },
+  {
+   "name": "Macías Gata, Alfonso Carlos",
+   "group": "GP",
+   "seat": "2812"
+  },
+  {
+   "name": "Madrenas i Mir, Marta",
+   "group": "GJxCAT",
+   "seat": "1515"
+  },
+  {
+   "name": "Madrid Olmo, Bartolomé",
+   "group": "GP",
+   "seat": "2813"
+  },
+  {
+   "name": "Maldonado López, Adriana",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Marcos Ortega, Milagros",
+   "group": "GP",
+   "seat": "5602"
+  },
+  {
+   "name": "Marí Bosó, José Vicente",
+   "group": "GP",
+   "seat": "3411"
+  },
+  {
+   "name": "Mariscal Anaya, Guillermo",
+   "group": "GP",
+   "seat": "8"
+  },
+  {
+   "name": "Mariscal Zabala, Manuel",
+   "group": "GVOX",
+   "seat": "3501"
+  },
+  {
+   "name": "Marqués Atés, Amador",
+   "group": "GS",
+   "seat": "1703"
+  },
+  {
+   "name": "Martín Blanco, Nacho",
+   "group": "GP",
+   "seat": "2708"
+  },
+  {
+   "name": "Martín García, Pedro Samuel",
+   "group": "GP",
+   "seat": "3805"
+  },
+  {
+   "name": "Martín Martínez, Andreu",
+   "group": "GS",
+   "seat": "4705"
+  },
+  {
+   "name": "Martín Rodríguez, Margarita",
+   "group": "GS",
+   "seat": "4602"
+  },
+  {
+   "name": "Martín Urriza, Carlos",
+   "group": "GSUMAR",
+   "seat": "2306"
+  },
+  {
+   "name": "Martínez Barbero, Verónica",
+   "group": "GSUMAR",
+   "seat": "2201"
+  },
+  {
+   "name": "Martínez Gómez, Antonio",
+   "group": "GP",
+   "seat": "3804"
+  },
+  {
+   "name": "Martínez Hierro, Lander",
+   "group": "GSUMAR",
+   "seat": "2402"
+  },
+  {
+   "name": "Martínez Labella, Ana",
+   "group": "GP",
+   "seat": "3811"
+  },
+  {
+   "name": "Martínez Ramírez, Carmen",
+   "group": "GS",
+   "seat": "1512"
+  },
+  {
+   "name": "Martínez Salmerón, Joaquín",
+   "group": "GS",
+   "seat": "4806"
+  },
+  {
+   "name": "Martínez Seijo, María Luz",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Matute García de Jalón, Oskar",
+   "group": "GEH Bildu",
+   "seat": "2502"
+  },
+  {
+   "name": "Mayoral de Lamo, Alberto",
+   "group": "GS",
+   "seat": "1613"
+  },
+  {
+   "name": "Mayoral Pérez, Jesús",
+   "group": "GS",
+   "seat": "4802"
+  },
+  {
+   "name": "Mejías Sánchez, Carina",
+   "group": "GVOX",
+   "seat": "2805"
+  },
+  {
+   "name": "Melgarejo Moreno, Joaquín",
+   "group": "GP",
+   "seat": "3716"
+  },
+  {
+   "name": "Mellado Sierra, Valle",
+   "group": "GS",
+   "seat": "1602"
+  },
+  {
+   "name": "Méndez Monasterio, Lourdes",
+   "group": "GVOX",
+   "seat": "2610"
+  },
+  {
+   "name": "Mercadal Baquero, Pepe",
+   "group": "GS",
+   "seat": "1808"
+  },
+  {
+   "name": "Merino Martínez, Javier",
+   "group": "GP",
+   "seat": "3607"
+  },
+  {
+   "name": "Mesquida Mayans, Joan",
+   "group": "GP",
+   "seat": "3713"
+  },
+  {
+   "name": "Micó Micó, Àgueda",
+   "group": "GSUMAR",
+   "seat": "2203"
+  },
+  {
+   "name": "Mínguez García, Montse",
+   "group": "GS",
+   "seat": "1202"
+  },
+  {
+   "name": "Molina León, Ainhoa",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Moneo Díez, María Sandra",
+   "group": "GP",
+   "seat": "3517"
+  },
+  {
+   "name": "Montávez Aguillaume, Vicente",
+   "group": "GS",
+   "seat": "1819"
+  },
+  {
+   "name": "Montero Cuadrado, María Jesús",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Montesinos de Miguel, Macarena",
+   "group": "GP",
+   "seat": "3207"
+  },
+  {
+   "name": "Moraleja Gómez, Tristana María",
+   "group": "GP",
+   "seat": "3710"
+  },
+  {
+   "name": "Morales Álvarez, Álvaro",
+   "group": "GS",
+   "seat": "1809"
+  },
+  {
+   "name": "Moreno Borrás, Cristina",
+   "group": "GP",
+   "seat": "3806"
+  },
+  {
+   "name": "Moreno Fernández, Mª Isabel",
+   "group": "GS",
+   "seat": "1816"
+  },
+  {
+   "name": "Moro Almaraz, María Jesús",
+   "group": "GP",
+   "seat": "3508"
+  },
+  {
+   "name": "Muñoz Abrines, Pedro",
+   "group": "GP",
+   "seat": "3410"
+  },
+  {
+   "name": "Muñoz de la Iglesia, Ester",
+   "group": "GP",
+   "seat": "3309"
+  },
+  {
+   "name": "Nacarino-Brabo Jiménez, Aurora",
+   "group": "GP",
+   "seat": "2715"
+  },
+  {
+   "name": "Narbona Ruiz, Cristina",
+   "group": "GS",
+   "seat": "1207"
+  },
+  {
+   "name": "Nasarre Oliva, Begoña",
+   "group": "GS",
+   "seat": "1203"
+  },
+  {
+   "name": "Navarro Lacoba, Carmen",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Navarro López, Pedro",
+   "group": "GP",
+   "seat": "3504"
+  },
+  {
+   "name": "Nogueras i Camero, Míriam",
+   "group": "GJxCAT",
+   "seat": "1517"
+  },
+  {
+   "name": "Noriega Gómez, Javier",
+   "group": "GP",
+   "seat": "2819"
+  },
+  {
+   "name": "Núñez Feijóo, Alberto",
+   "group": "GP",
+   "seat": "3210"
+  },
+  {
+   "name": "Núñez González, Noelia",
+   "group": "GP",
+   "seat": "3306"
+  },
+  {
+   "name": "Núñez Guijarro, José Enrique",
+   "group": "GP",
+   "seat": "3510"
+  },
+  {
+   "name": "Ogou i Corbi, Viviane",
+   "group": "GSUMAR",
+   "seat": "2507"
+  },
+  {
+   "name": "Olano Vela, Jaime Eduardo de",
+   "group": "GP",
+   "seat": "3204"
+  },
+  {
+   "name": "Ortega Smith-Molina, Francisco Javier",
+   "group": "GVOX",
+   "seat": "3302"
+  },
+  {
+   "name": "Otero García, Mercedes",
+   "group": "GS",
+   "seat": "1812"
+  },
+  {
+   "name": "Otero Rodríguez, Patricia",
+   "group": "GS",
+   "seat": "1604"
+  },
+  {
+   "name": "Pagès i Massó, Josep",
+   "group": "GJxCAT",
+   "seat": "1614"
+  },
+  {
+   "name": "Palencia Rubio, Héctor",
+   "group": "GP",
+   "seat": "3610"
+  },
+  {
+   "name": "Paniagua Núñez, Miguel Ángel",
+   "group": "GP",
+   "seat": "3701"
+  },
+  {
+   "name": "Paré Aregall, Josep",
+   "group": "GS",
+   "seat": "4703"
+  },
+  {
+   "name": "Parra Aparicio, Julia",
+   "group": "GP",
+   "seat": "2809"
+  },
+  {
+   "name": "Parra Gallego, Agustín",
+   "group": "GP",
+   "seat": "2807"
+  },
+  {
+   "name": "Pascual Rocamora, Sandra",
+   "group": "GP",
+   "seat": "2821"
+  },
+  {
+   "name": "Pedreño Molina, Juan Luis",
+   "group": "GP",
+   "seat": "3709"
+  },
+  {
+   "name": "Peña Camarero, Esther",
+   "group": "GS",
+   "seat": "1303"
+  },
+  {
+   "name": "Perea i Conillas, María Mercè",
+   "group": "GS",
+   "seat": "1309"
+  },
+  {
+   "name": "Pérez Coronado, Pablo",
+   "group": "GP",
+   "seat": "3706"
+  },
+  {
+   "name": "Pérez López, Álvaro",
+   "group": "GP",
+   "seat": "3205"
+  },
+  {
+   "name": "Pérez Ortiz, Isabel María",
+   "group": "GS",
+   "seat": "1817"
+  },
+  {
+   "name": "Pérez Osma, Daniel",
+   "group": "GP",
+   "seat": "2815"
+  },
+  {
+   "name": "Pérez Recuerda, Isabel Gema",
+   "group": "GP",
+   "seat": "3807"
+  },
+  {
+   "name": "Pisarello Prados, Gerardo",
+   "group": "GSUMAR",
+   "seat": "6"
+  },
+  {
+   "name": "Plaza García, Inés",
+   "group": "GS",
+   "seat": "1705"
+  },
+  {
+   "name": "Poblador Pacheco, María Araceli",
+   "group": "GS",
+   "seat": "1813"
+  },
+  {
+   "name": "Pose Mesura, Modesto",
+   "group": "GS",
+   "seat": "1801"
+  },
+  {
+   "name": "Pozueta Fernández, Isabel",
+   "group": "GEH Bildu",
+   "seat": "2503"
+  },
+  {
+   "name": "Prieto Serrano, María Isabel",
+   "group": "GP",
+   "seat": "3606"
+  },
+  {
+   "name": "Puente Santiago, Óscar",
+   "group": "GS",
+   "seat": "1108"
+  },
+  {
+   "name": "Pueyo Sanz, Jorge",
+   "group": "GSUMAR",
+   "seat": "2308"
+  },
+  {
+   "name": "Puy Fraga, Pedro",
+   "group": "GP",
+   "seat": "3406"
+  },
+  {
+   "name": "Quintana Carballo, Rosa",
+   "group": "GP",
+   "seat": "5603"
+  },
+  {
+   "name": "Quintanilla Navarro, Miguel Ángel",
+   "group": "GP",
+   "seat": "5704"
+  },
+  {
+   "name": "Quintero Hernández, Jonay",
+   "group": "GS",
+   "seat": "1807"
+  },
+  {
+   "name": "Rallo Lombarte, Artemi",
+   "group": "GS",
+   "seat": "1413"
+  },
+  {
+   "name": "Ramajo Prada, Óscar",
+   "group": "GP",
+   "seat": "3810"
+  },
+  {
+   "name": "Ramírez Carner, Arnau",
+   "group": "GS",
+   "seat": "1603"
+  },
+  {
+   "name": "Ramírez del Río, José",
+   "group": "GVOX",
+   "seat": "2609"
+  },
+  {
+   "name": "Ramírez Martín, María Lourdes",
+   "group": "GP",
+   "seat": "2811"
+  },
+  {
+   "name": "Ramírez Moreno, María de las Nieves",
+   "group": "GS",
+   "seat": "1414"
+  },
+  {
+   "name": "Ramos Esteban, César Joaquín",
+   "group": "GS",
+   "seat": "1509"
+  },
+  {
+   "name": "Recas Martín, Alda",
+   "group": "GSUMAR",
+   "seat": "2508"
+  },
+  {
+   "name": "Redondo Cárdenas, Gonzalo",
+   "group": "GS",
+   "seat": "4803"
+  },
+  {
+   "name": "Rego Candamil, Néstor",
+   "group": "GMx",
+   "seat": "2513"
+  },
+  {
+   "name": "Requena Ruiz, Juan Diego",
+   "group": "GP",
+   "seat": "3507"
+  },
+  {
+   "name": "Rey de las Heras, Luis Alfonso",
+   "group": "GS",
+   "seat": "1714"
+  },
+  {
+   "name": "Reynal Reillo, Esperanza",
+   "group": "GP",
+   "seat": "3704"
+  },
+  {
+   "name": "Rivera Arias, Engracia",
+   "group": "GSUMAR",
+   "seat": "2406"
+  },
+  {
+   "name": "Rives Arcayna, Caridad",
+   "group": "GS",
+   "seat": "4807"
+  },
+  {
+   "name": "Robles López, Joaquín",
+   "group": "GVOX",
+   "seat": "2608"
+  },
+  {
+   "name": "Rodríguez Almeida, Andrés Alberto",
+   "group": "GVOX",
+   "seat": "2804"
+  },
+  {
+   "name": "Rodríguez Calleja, Patricia",
+   "group": "GP",
+   "seat": "3408"
+  },
+  {
+   "name": "Rodríguez de Millán Parro, María José",
+   "group": "GVOX",
+   "seat": "3202"
+  },
+  {
+   "name": "Rodríguez Gómez de Celis, Alfonso",
+   "group": "GS",
+   "seat": "2"
+  },
+  {
+   "name": "Rodríguez Palacios, Javier",
+   "group": "GS",
+   "seat": "1608"
+  },
+  {
+   "name": "Rodríguez Salas, José Antonio",
+   "group": "GS",
+   "seat": "1404"
+  },
+  {
+   "name": "Rodríguez Serra, Santi",
+   "group": "GP",
+   "seat": "3820"
+  },
+  {
+   "name": "Rodríguez Suárez, Esther",
+   "group": "GS",
+   "seat": "4701"
+  },
+  {
+   "name": "Rojas García, Carlos",
+   "group": "GP",
+   "seat": "3613"
+  },
+  {
+   "name": "Rojas Manrique, Juan Antonio",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Rojo Blas, Alberto",
+   "group": "GS",
+   "seat": "1701"
+  },
+  {
+   "name": "Román Jasanada, Antonio",
+   "group": "GP",
+   "seat": "3512"
+  },
+  {
+   "name": "Romaní Cantera, José Ignacio",
+   "group": "GP",
+   "seat": "5703"
+  },
+  {
+   "name": "Romero Pozo, Rafaela",
+   "group": "GS",
+   "seat": "1803"
+  },
+  {
+   "name": "Romero Vilches, María de los Reyes",
+   "group": "GVOX",
+   "seat": "3303"
+  },
+  {
+   "name": "Ros Martínez, Susana",
+   "group": "GS",
+   "seat": "1308"
+  },
+  {
+   "name": "Rueda Perelló, Patricia",
+   "group": "GVOX",
+   "seat": "2606"
+  },
+  {
+   "name": "Rufián Romero, Gabriel",
+   "group": "GR",
+   "seat": "2412"
+  },
+  {
+   "name": "Ruiz Boix, Juan Carlos",
+   "group": "GS",
+   "seat": "1311"
+  },
+  {
+   "name": "Ruiz de Diego, Víctor Javier",
+   "group": "GS",
+   "seat": "4604"
+  },
+  {
+   "name": "Ruiz de Pinedo Undiano, Iñaki",
+   "group": "GEH Bildu",
+   "seat": "2601"
+  },
+  {
+   "name": "Ruiz Solás, María de la Cabeza",
+   "group": "GVOX",
+   "seat": "3301"
+  },
+  {
+   "name": "Sáez Alonso-Muñumer, Pablo",
+   "group": "GVOX",
+   "seat": "3402"
+  },
+  {
+   "name": "Sáez Cruz, Emilio",
+   "group": "GS",
+   "seat": "1601"
+  },
+  {
+   "name": "Sagastizabal Unzetabarrenetxea, Idoia",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2309"
+  },
+  {
+   "name": "Sahuquillo García, Luis Carlos",
+   "group": "GS",
+   "seat": "1408"
+  },
+  {
+   "name": "Sainz Martín, María",
+   "group": "GS",
+   "seat": "1815"
+  },
+  {
+   "name": "Salvador i Duch, Jordi",
+   "group": "GR",
+   "seat": "2410"
+  },
+  {
+   "name": "Sánchez Díaz, María Carmen",
+   "group": "GS",
+   "seat": "1511"
+  },
+  {
+   "name": "Sánchez García, José María",
+   "group": "GVOX",
+   "seat": "2607"
+  },
+  {
+   "name": "Sánchez Ojeda, Carlos Alberto",
+   "group": "GP",
+   "seat": "2709"
+  },
+  {
+   "name": "Sánchez Pérez-Castejón, Pedro",
+   "group": "GS",
+   "seat": "1101"
+  },
+  {
+   "name": "Sánchez Pérez, César",
+   "group": "GP",
+   "seat": "3715"
+  },
+  {
+   "name": "Sánchez Serna, Javier",
+   "group": "GMx",
+   "seat": "2509"
+  },
+  {
+   "name": "Sánchez Sierra, María del Mar",
+   "group": "GP",
+   "seat": "3414"
+  },
+  {
+   "name": "Sánchez Torregrosa, Maribel",
+   "group": "GP",
+   "seat": "3511"
+  },
+  {
+   "name": "Sancho Íñiguez, Herminio Rufino",
+   "group": "GS",
+   "seat": "1611"
+  },
+  {
+   "name": "Santana Aguilera, Ada",
+   "group": "GS",
+   "seat": "4702"
+  },
+  {
+   "name": "Santana Perera, Noemí",
+   "group": "GMx",
+   "seat": "2511"
+  },
+  {
+   "name": "Santiago Romero, Enrique Fernando",
+   "group": "GSUMAR",
+   "seat": "2204"
+  },
+  {
+   "name": "Santos Maraver, Agustín",
+   "group": "GSUMAR",
+   "seat": "2301"
+  },
+  {
+   "name": "Sanz Martínez, Luisa",
+   "group": "GS",
+   "seat": "1713"
+  },
+  {
+   "name": "Sarrià Morell, Vicent Manuel",
+   "group": "GS",
+   "seat": "1710"
+  },
+  {
+   "name": "Sastre Uyá, Miguel Ángel",
+   "group": "GP",
+   "seat": "3703"
+  },
+  {
+   "name": "Sayas López, Sergio",
+   "group": "GP",
+   "seat": "3304"
+  },
+  {
+   "name": "Sémper Pascual, Borja",
+   "group": "GP",
+   "seat": "3307"
+  },
+  {
+   "name": "Senderos Oraá, Daniel",
+   "group": "GS",
+   "seat": "1610"
+  },
+  {
+   "name": "Serrada Pariente, David",
+   "group": "GS",
+   "seat": "1506"
+  },
+  {
+   "name": "Serrano Martínez, Juan Francisco",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Sierra Caballero, Francisco",
+   "group": "GSUMAR",
+   "seat": "2506"
+  },
+  {
+   "name": "Simancas Simancas, Rafael",
+   "group": "GS",
+   "seat": "1210"
+  },
+  {
+   "name": "Soldevilla Novials, Alba",
+   "group": "GS",
+   "seat": "4605"
+  },
+  {
+   "name": "Soler Mur, Alejandro",
+   "group": "GS",
+   "seat": "1208"
+  },
+  {
+   "name": "Taboadela Álvarez, Obdulia",
+   "group": "GS",
+   "seat": "1406"
+  },
+  {
+   "name": "Tarno Blanco, Ricardo",
+   "group": "GP",
+   "seat": "5801"
+  },
+  {
+   "name": "Tellado Filgueira, Miguel",
+   "group": "GP",
+   "seat": "3208"
+  },
+  {
+   "name": "Teniente Sánchez, Cristina",
+   "group": "GP",
+   "seat": "5701"
+  },
+  {
+   "name": "Tomás Olivares, Violante",
+   "group": "GP",
+   "seat": "2716"
+  },
+  {
+   "name": "Torres Tejada, María",
+   "group": "GP",
+   "seat": "2820"
+  },
+  {
+   "name": "Trenzano Rubio, Marta",
+   "group": "GS",
+   "seat": "1806"
+  },
+  {
+   "name": "Uriarte Bengoechea, Edurne",
+   "group": "GP",
+   "seat": "3403"
+  },
+  {
+   "name": "Valero Morales, Juan Antonio",
+   "group": "GSUMAR",
+   "seat": "2304"
+  },
+  {
+   "name": "Valido García, Cristina",
+   "group": "GMx",
+   "seat": "1716"
+  },
+  {
+   "name": "Vallugera Balañà, Pilar",
+   "group": "GR",
+   "seat": "2514"
+  },
+  {
+   "name": "Vaquero Montero, Maribel",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2205"
+  },
+  {
+   "name": "Varela Pazos, Marta",
+   "group": "GP",
+   "seat": "3415"
+  },
+  {
+   "name": "Vázquez Blanco, Ana Belén",
+   "group": "GP",
+   "seat": "3509"
+  },
+  {
+   "name": "Vázquez Jiménez, María del Mar",
+   "group": "GP",
+   "seat": "3707"
+  },
+  {
+   "name": "Vedrina Conesa, María Elisa",
+   "group": "GP",
+   "seat": "2816"
+  },
+  {
+   "name": "Velarde Gómez, Martina",
+   "group": "GMx",
+   "seat": "2512"
+  },
+  {
+   "name": "Velasco Morillo, Elvira",
+   "group": "GP",
+   "seat": "2710"
+  },
+  {
+   "name": "Velasco Retamosa, José Manuel",
+   "group": "GP",
+   "seat": "3816"
+  },
+  {
+   "name": "Verano Domínguez, Bella",
+   "group": "GP",
+   "seat": "3412"
+  },
+  {
+   "name": "Verdejo Vicente, Ferran",
+   "group": "GS",
+   "seat": "1704"
+  },
+  {
+   "name": "Vidal Matas, Vicenç",
+   "group": "GSUMAR",
+   "seat": "2408"
+  },
+  {
+   "name": "Vidal Sáez, Aina",
+   "group": "GSUMAR",
+   "seat": "2202"
+  },
+  {
+   "name": "Zaragoza Alonso, José",
+   "group": "GS",
+   "seat": "1209"
+  }
+ ],
+ "votings": [
+  {
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre el cierre programado de la generación nuclear en España.",
+   "subtitle": "",
+   "expediente": "162/000359",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 164,
+    "abstain": 14,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNANNYNNYYNNYNNYYYNYYYYNNNYYYANYNYYYNNYYYNNAYYYNNYNYYNYNNANYYYNYYYYYYYYNNNNAYNNNYYYYYYYYYNYYYYNYYNNNYNYANYYNNNYYNAYNNNNNYYNYYNYYYNNNNYANNNNYYNNYNNYNNNYAYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYAYYYYNYYNNAYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYANNNYYNNNNANYYXYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNANYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion001/VOT_20250212154036.json"
+  },
+  {
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre la menopausia. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Mixto (Sr. Javier Sánchez Serna).",
+   "subtitle": "",
+   "expediente": "162/000362",
+   "totals": {
+    "present": 349,
+    "yes": 316,
+    "no": 33,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YYNYYYYYNNYNYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYNYNYYYYYYYYYYYYNYNNNYYYYYYYYYYNYYYYYYYYNYYYYYNYYYYYYYYNYYYYYNYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYNNYNYYYYYYYYYYYNYNYYYYNNYYYYYYNYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion002/VOT_20250212154037.json"
+  },
+  {
+   "number": 3,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Valido García), sobre la atención sanitaria a los miles de migrantes que llegan a las costas canarias cada mes.",
+   "subtitle": "",
+   "expediente": "173/000073",
+   "totals": {
+    "present": 348,
+    "yes": 315,
+    "no": 33,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YYNYYYYYNNYNYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYNYNYYYYYYYYYYYYNYNNNYYYYYYYYYYNYYYYYYYYNYYYYYNYYYYYYYYNYYYYYNYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYNNYNYYYYYYYYYYYNYNYYYYNNYYYYYYNYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion003/VOT_20250212154038.json"
+  },
+  {
+   "number": 4,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuáles son los planes del Gobierno para hacer frente al invierno demográfico que amenaza el futuro de España.",
+   "subtitle": "",
+   "expediente": "173/000074",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 177,
+    "abstain": 138,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "ANYANNNAYYNYNAANNNAAANNNNANNAYNNYNNAAANAAAANNNAAANNYNAAANNAAANNNYAANNANAANANNNNAAANAAAYAYAANNNNNANNNAYAYYYAAANAAAANAYNNNANANNYANNNAYNNANNNNNYANAANYAANNNNANNNNNAANNYNNANNNANANAAAYNAANNNNANANNNNNNYANYNAANNAANNAANANAAAANNAANAAAANAYNNNAANAAAANNAANAANNNNNANNAAANNANYANNNNNANANNYYAYNNNANAANAANYNYNNNNYYNNNNNNYAXANAANNNNNNNAAANNNNNNNNAAAAANANNXNAAAANAAANNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion004/VOT_20250212154039.json"
+  },
+  {
+   "number": 5,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el balance de las actuaciones del Gobierno que han provocado el deterioro democrático actual.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "expediente": "173/000075",
+   "totals": {
+    "present": 347,
+    "yes": 169,
+    "no": 178,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYXYNNNNNYNNNYYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYXYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYNYYNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYXYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion005/VOT_20250212154040.json"
+  },
+  {
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el balance de las actuaciones del Gobierno que han provocado el deterioro democrático actual.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "expediente": "173/000075",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYNYYNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYXYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYXNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion006/VOT_20250212154041.json"
+  },
+  {
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el balance de las actuaciones del Gobierno que han provocado el deterioro democrático actual.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "expediente": "173/000075",
+   "totals": {
+    "present": 347,
+    "yes": 171,
+    "no": 176,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNXYYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYNYYNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYXYNYYNNXNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion007/VOT_20250212154042.json"
+  },
+  {
+   "number": 8,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el balance de las actuaciones del Gobierno que han provocado el deterioro democrático actual.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "expediente": "173/000075",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYNYYNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYXYNYYNYNNNNNXYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion008/VOT_20250212154043.json"
+  },
+  {
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el balance de las actuaciones del Gobierno que han provocado el deterioro democrático actual.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "expediente": "173/000075",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYNYYNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYXYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion009/VOT_20250212154044.json"
+  },
+  {
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el balance de las actuaciones del Gobierno que han provocado el deterioro democrático actual.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "expediente": "173/000075",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYNNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYNYYNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYXYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion010/VOT_20250212154045.json"
+  },
+  {
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el balance de las actuaciones del Gobierno que han provocado el deterioro democrático actual.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "expediente": "173/000075",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNYNNYYNNYNNYYYNYYYYNNNYYYNNYNYYYNNYYYNNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNNYNNNYYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNNYYNYYNYYYNNNNYNNNNNYYNNYXNYNNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYYNYYNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNYNYNNYYYYNNNYNYYNYYNYNYNNNNYYNNNNNNYYXYNYYNNNNNNNYYYNNNNNNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion011/VOT_20250212154046.json"
+  },
+  {
+   "number": 12,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 1/2025, de 28 de enero, por el que se aprueban medidas urgentes en materia económica, de transporte, de Seguridad Social, y para hacer frente a situaciones de vulnerabilidad.",
+   "subtitle": "",
+   "expediente": "130/000015",
+   "totals": {
+    "present": 349,
+    "yes": 315,
+    "no": 33,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YYNYYYYYNNYNYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYNYYYYYYAYYYYYNYYYYYYYYYYYYYYYYYYYYYNYNYYYYYYYYYYYYNYNNNYYYYYYYYYYNYYYYYYYYNYYYYYNYYYYYYYYNYYYYYNYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYNNYNYYYYYYYYYYYNYNYYYYNNYYYYYYNYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion012/VOT_20250212154047.json"
+  },
+  {
+   "number": 13,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 1/2025, de 28 de enero, por el que se aprueban medidas urgentes en materia económica, de transporte, de Seguridad Social, y para hacer frente a situaciones de vulnerabilidad.",
+   "subtitle": "",
+   "expediente": "130/000015",
+   "totals": {
+    "present": 348,
+    "yes": 347,
+    "no": 1,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion013/VOT_20250212154048.json"
+  },
+  {
+   "number": 14,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo de cooperación científica entre el Reino de España y los Estados Unidos de América sobre la estación de seguimiento de la NASA, hecho en Madrid el 10 de junio de 2024.",
+   "subtitle": "",
+   "expediente": "110/000037",
+   "totals": {
+    "present": 348,
+    "yes": 327,
+    "no": 1,
+    "abstain": 20,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YYYYYYYYYYAYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYAYYYYYYYYYYYYYYYYYAYYAYYYYYYYNYYYYYYYYAYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYAYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYAYYAYYYYYYAYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion014/VOT_20250212154049.json"
+  },
+  {
+   "number": 15,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Protocolo común relativo a la aplicación de la Convención de Viena y del Convenio de París, hecho en Viena el 21 de septiembre de 1988.",
+   "subtitle": "",
+   "expediente": "110/000038",
+   "totals": {
+    "present": 347,
+    "yes": 327,
+    "no": 0,
+    "abstain": 20,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YYYYYYYYXYAYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYAYYYYYYYYYYYYYYYYYAYYAYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYAYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYAYYAYYYYYYAYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion015/VOT_20250212154050.json"
+  },
+  {
+   "number": 16,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo Global de Transporte Aéreo entre los Estados miembros de la Asociación de Naciones del Asia Sudoriental y la Unión Europea y sus Estados miembros, hecho en Bali, Indonesia, el 17 de octubre de 2022, y Declaración que España desea formular.",
+   "subtitle": "",
+   "expediente": "110/000039",
+   "totals": {
+    "present": 347,
+    "yes": 294,
+    "no": 0,
+    "abstain": 53,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YYAYYYYYAAAAYYYYYYYYYYAYYYYYYAYYAYYYYYYYYYYYYYYYYAYAYYYYYYYYYYYAAYYYYYYYYYYYYAYYYYYYYXAYAYYYYYYAYYYYYAYAAAYYYAYYYYYYAYYYYYYAYAYYYYYAYAYYYYYYAYYYYYAYYYYAYYAYYYYYYYYAYYYYYYYAYYYYYAYYYYYYYYYYYYYAYYAYYAYYYYYYYYYYYYYYYYYYYYYYAYYYYYYAYYAYYYYYYYYYYYYYYYYYYAYYYYYYYYYYAYYYYYXYYYYYAAYAYYYYYYYYYYYAYAAYYAAAYYYYAYAYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion016/VOT_20250212154051.json"
+  },
+  {
+   "number": 17,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Canje de Notas constitutivo de Acuerdo entre el Reino de España y la Agencia Espacial Europea por el que se enmienda el Acuerdo entre el Reino de España y la Agencia Espacial Europea relativo a los emplazamientos de la Agencia Espacial Europea en el Reino de España, hecho en Madrid el 10 y 17 de julio de 2024.",
+   "subtitle": "",
+   "expediente": "110/000040",
+   "totals": {
+    "present": 348,
+    "yes": 328,
+    "no": 0,
+    "abstain": 20,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YYYYYYYYYYAYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYYYYYAYYYYYYYYYAYYYYYYYYYYYYYYYYYAYYAYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYAYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYAYYAYYYYYYAYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion017/VOT_20250212154052.json"
+  },
+  {
+   "number": 18,
+   "heading": "Solicitud de prórroga de Subcomisiones.",
+   "title": "Solicitud de la Comisión de Sanidad, de prórroga del plazo para la conclusión de los trabajos de la Subcomisión para mejorar la protección, la promoción y la atención integral de la salud mental, constituida en el seno de la citada Comisión, hasta el final del próximo periodo de sesiones.",
+   "subtitle": "",
+   "expediente": "154/000002",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion018/VOT_20250212154053.json"
+  }
+ ]
+}

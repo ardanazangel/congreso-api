@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000241",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 43,
+   "heading": "Votación de las Proposiciones no de Ley y mociones consecuencia de interpelaciones urgentes pendientes de la sesión plenaria de 29/10/2024.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, reclamando el cese del Fiscal General del Estado.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 168,
+    "no": 178,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  }
+ ]
+}

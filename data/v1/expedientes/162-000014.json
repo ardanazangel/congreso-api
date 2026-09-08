@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000014",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-12-19",
+   "session": 13,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Plurinacional SUMAR, sobre la reapertura de la línea ferroviaria internacional Pau-Canfranc-Zaragoza. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Plurinacional SUMAR.",
+   "subtitle": "",
+   "totals": {
+    "present": 341,
+    "yes": 301,
+    "no": 7,
+    "abstain": 33,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-19.json"
+  }
+ ]
+}

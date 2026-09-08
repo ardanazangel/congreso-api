@@ -1,0 +1,40 @@
+{
+ "expediente": "162/000685",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-12",
+   "session": 159,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, para la defensa de la legalidad internacional.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 169,
+    "no": 169,
+    "abstain": 7,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-12.json"
+  },
+  {
+   "date": "2026-02-12",
+   "session": 159,
+   "number": 6,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, para la defensa de la legalidad internacional.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 168,
+    "no": 171,
+    "abstain": 7,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-12.json"
+  }
+ ]
+}

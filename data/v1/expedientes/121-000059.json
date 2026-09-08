@@ -1,0 +1,23 @@
+{
+ "expediente": "121/000059",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 18,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación conjunta de las enmiendas a la totalidad de devolución al Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal, para la ampliación y fortalecimiento de las carreras judicial y fiscal, presentadas por los Grupos Parlamentarios VOX y Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 177,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  }
+ ]
+}

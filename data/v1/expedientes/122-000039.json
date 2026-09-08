@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000039",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-18",
+   "session": 92,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, de modificación de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, con el fin de modificar el padrón municipal en los casos de ocupación y de inmigración ilegal.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 169,
+    "no": 174,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-18.json"
+  }
+ ]
+}

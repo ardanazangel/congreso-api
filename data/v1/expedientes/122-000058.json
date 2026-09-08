@@ -1,0 +1,40 @@
+{
+ "expediente": "122/000058",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-19",
+   "session": 31,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Junts per Catalunya, para mejorar la calidad de vida de las personas con esclerosis lateral amiotrófica.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 342,
+    "no": 0,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-19.json"
+  },
+  {
+   "date": "2024-06-20",
+   "session": 49,
+   "number": 24,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de texto alternativo a la Proposición de Ley para mejorar la calidad de vida de las personas con esclerosis lateral amiotrófica, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 315,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-20.json"
+  }
+ ]
+}

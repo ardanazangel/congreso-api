@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000054",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 14,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las múltiples incidencias y problemas ocurridos durante los últimos meses en la red ferroviaria española.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 186,
+    "no": 156,
+    "abstain": 3,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  }
+ ]
+}

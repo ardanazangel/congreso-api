@@ -1,0 +1,890 @@
+{
+ "expediente": "121/000064",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 25,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de devolución al Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española, presentada por el Grupo Parlamentario Junts per Catalunya.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 7,
+    "no": 171,
+    "abstain": 169,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2026-02-12",
+   "session": 159,
+   "number": 25,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española, presentada por el Grupo Parlamentario Junts per Catalunya.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 338,
+    "no": 0,
+    "abstain": 6,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-12.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmiendas 41, 45 y 46.",
+   "totals": {
+    "present": 341,
+    "yes": 26,
+    "no": 315,
+    "abstain": 0,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmiendas 50 y 51.",
+   "totals": {
+    "present": 350,
+    "yes": 24,
+    "no": 319,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmiendas 55 y 61.",
+   "totals": {
+    "present": 350,
+    "yes": 11,
+    "no": 331,
+    "abstain": 8,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 59.",
+   "totals": {
+    "present": 350,
+    "yes": 167,
+    "no": 176,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 64.",
+   "totals": {
+    "present": 350,
+    "yes": 12,
+    "no": 324,
+    "abstain": 14,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 65.",
+   "totals": {
+    "present": 348,
+    "yes": 10,
+    "no": 324,
+    "abstain": 14,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Resto de las enmiendas.",
+   "totals": {
+    "present": 349,
+    "yes": 19,
+    "no": 323,
+    "abstain": 7,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Mixto (Sr. Catalán Higueras) Enmienda 3.",
+   "totals": {
+    "present": 350,
+    "yes": 2,
+    "no": 335,
+    "abstain": 13,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 101.",
+   "totals": {
+    "present": 349,
+    "yes": 26,
+    "no": 318,
+    "abstain": 5,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Resto de las enmiendas.",
+   "totals": {
+    "present": 349,
+    "yes": 25,
+    "no": 323,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmiendas 9 y 11.",
+   "totals": {
+    "present": 350,
+    "yes": 29,
+    "no": 317,
+    "abstain": 4,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 14.",
+   "totals": {
+    "present": 350,
+    "yes": 27,
+    "no": 284,
+    "abstain": 39,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 19.",
+   "totals": {
+    "present": 350,
+    "yes": 28,
+    "no": 317,
+    "abstain": 5,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 25.",
+   "totals": {
+    "present": 348,
+    "yes": 26,
+    "no": 283,
+    "abstain": 39,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 26.",
+   "totals": {
+    "present": 350,
+    "yes": 19,
+    "no": 317,
+    "abstain": 14,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 16,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 27.",
+   "totals": {
+    "present": 350,
+    "yes": 48,
+    "no": 284,
+    "abstain": 18,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda transaccional en Comisión nº1.",
+   "totals": {
+    "present": 349,
+    "yes": 62,
+    "no": 283,
+    "abstain": 4,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda transaccional en Comisión nº2.",
+   "totals": {
+    "present": 349,
+    "yes": 66,
+    "no": 283,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 19,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Resto de las enmiendas.",
+   "totals": {
+    "present": 349,
+    "yes": 65,
+    "no": 284,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 20,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu Enmienda 270.",
+   "totals": {
+    "present": 349,
+    "yes": 19,
+    "no": 330,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 21,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu Enmienda 281.",
+   "totals": {
+    "present": 349,
+    "yes": 19,
+    "no": 323,
+    "abstain": 7,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 22,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu Enmienda 304.",
+   "totals": {
+    "present": 350,
+    "yes": 31,
+    "no": 319,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 23,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu Resto de las enmiendas.",
+   "totals": {
+    "present": 349,
+    "yes": 25,
+    "no": 324,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 24,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 158 y 217.",
+   "totals": {
+    "present": 349,
+    "yes": 15,
+    "no": 323,
+    "abstain": 11,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 25,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 159 y 180.",
+   "totals": {
+    "present": 350,
+    "yes": 15,
+    "no": 335,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 26,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 160, 164 y 169.",
+   "totals": {
+    "present": 350,
+    "yes": 11,
+    "no": 338,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 27,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 161, 163, 185 y 196.",
+   "totals": {
+    "present": 350,
+    "yes": 30,
+    "no": 319,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 28,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 173, 192 y 208.",
+   "totals": {
+    "present": 350,
+    "yes": 7,
+    "no": 330,
+    "abstain": 13,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 29,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 174.",
+   "totals": {
+    "present": 350,
+    "yes": 57,
+    "no": 287,
+    "abstain": 6,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 30,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 178.",
+   "totals": {
+    "present": 350,
+    "yes": 52,
+    "no": 291,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 31,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 181.",
+   "totals": {
+    "present": 350,
+    "yes": 16,
+    "no": 297,
+    "abstain": 37,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 32,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 182.",
+   "totals": {
+    "present": 349,
+    "yes": 7,
+    "no": 301,
+    "abstain": 41,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 33,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 183.",
+   "totals": {
+    "present": 350,
+    "yes": 7,
+    "no": 342,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 34,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 194 y 203.",
+   "totals": {
+    "present": 350,
+    "yes": 7,
+    "no": 309,
+    "abstain": 34,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 35,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 195, 206, 210 a 212, 218 y 223.",
+   "totals": {
+    "present": 350,
+    "yes": 26,
+    "no": 291,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 36,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 214.",
+   "totals": {
+    "present": 350,
+    "yes": 31,
+    "no": 286,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 37,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Resto de las enmiendas.",
+   "totals": {
+    "present": 350,
+    "yes": 21,
+    "no": 324,
+    "abstain": 5,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 38,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmiendas 133, 142 y 150.",
+   "totals": {
+    "present": 350,
+    "yes": 31,
+    "no": 319,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 39,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 147.",
+   "totals": {
+    "present": 348,
+    "yes": 19,
+    "no": 322,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 40,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Resto de las enmiendas.",
+   "totals": {
+    "present": 349,
+    "yes": 26,
+    "no": 323,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 41,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano, el Grupo Parlamentario Euskal Herria Bildu y el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 112.",
+   "totals": {
+    "present": 348,
+    "yes": 31,
+    "no": 317,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 42,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano, el Grupo Parlamentario Euskal Herria Bildu y el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 310.",
+   "totals": {
+    "present": 349,
+    "yes": 26,
+    "no": 323,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 43,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano, el Grupo Parlamentario Euskal Herria Bildu y el Grupo Parlamentario Mixto (Sr. Rego Candamil) Resto de las enmiendas.",
+   "totals": {
+    "present": 350,
+    "yes": 19,
+    "no": 324,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 44,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 35.",
+   "totals": {
+    "present": 349,
+    "yes": 33,
+    "no": 301,
+    "abstain": 15,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 45,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 82.",
+   "totals": {
+    "present": 348,
+    "yes": 44,
+    "no": 297,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 46,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Resto de las enmiendas.",
+   "totals": {
+    "present": 350,
+    "yes": 52,
+    "no": 298,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 47,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 349,
+    "yes": 32,
+    "no": 317,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 48,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Plurinacional SUMAR. Enmienda transaccional en Comisión nº12.",
+   "totals": {
+    "present": 350,
+    "yes": 179,
+    "no": 169,
+    "abstain": 2,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 49,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "Corrección técnica. Enmienda de corrección técnica nº1 presentada por el Grupo Parlamentario Plurinacional SUMAR.",
+   "totals": {
+    "present": 349,
+    "yes": 178,
+    "no": 171,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 54,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen del Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 179,
+    "no": 33,
+    "abstain": 137,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  }
+ ]
+}

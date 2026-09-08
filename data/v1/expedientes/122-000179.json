@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000179",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-17",
+   "session": 119,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, para garantizar la aportación de la energía nuclear en la descarbonización del sistema energético.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 171,
+    "no": 166,
+    "abstain": 7,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-17.json"
+  }
+ ]
+}

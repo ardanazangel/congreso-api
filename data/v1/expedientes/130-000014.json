@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000014",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-01-22",
+   "session": 89,
+   "number": 3,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 11/2024, de 23 de diciembre, para la mejora de la compatibilidad de la pensión de jubilación con el trabajo.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 298,
+    "no": 51,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-01-22.json"
+  },
+  {
+   "date": "2025-01-22",
+   "session": 89,
+   "number": 4,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 11/2024, de 23 de diciembre, para la mejora de la compatibilidad de la pensión de jubilación con el trabajo.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 349,
+    "no": 0,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-01-22.json"
+  }
+ ]
+}

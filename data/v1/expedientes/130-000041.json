@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000041",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "number": 12,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 10/2026, de 28 de abril, por el que se aprueban medidas tributarias urgentes y otras medidas de apoyo en respuesta a los daños causados a las víctimas de siniestros de la DANA y otras situaciones de emergencia.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 315,
+    "no": 0,
+    "abstain": 32,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-20.json"
+  },
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "number": 13,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 10/2026, de 28 de abril, por el que se aprueban medidas tributarias urgentes y otras medidas de apoyo en respuesta a los daños causados a las víctimas de siniestros de la DANA y otras situaciones de emergencia.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 347,
+    "no": 0,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-20.json"
+  }
+ ]
+}

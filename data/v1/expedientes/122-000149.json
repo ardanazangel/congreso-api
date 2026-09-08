@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000149",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-25",
+   "session": 102,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica para garantizar el funcionamiento de las secciones de los Tribunales de Instancia y de las Audiencias provinciales en materia de violencia sobre la mujer, así como la especialización de los jueces y magistrados destinados en ellas.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 149,
+    "no": 196,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-25.json"
+  }
+ ]
+}

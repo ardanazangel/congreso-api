@@ -1,0 +1,23 @@
+{
+ "expediente": "250/000004",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-14",
+   "session": 76,
+   "number": 35,
+   "heading": "Declaración sobre la Cuenta General del Estado.",
+   "title": "Dictamen de la Comisión Mixta para las Relaciones con el Tribunal de Cuentas en relación con la Declaración sobre la Cuenta General del Estado del ejercicio 2022, así como la Resolución adoptada por dicha Comisión.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 291,
+    "no": 39,
+    "abstain": 14,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-14.json"
+  }
+ ]
+}

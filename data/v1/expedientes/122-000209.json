@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000209",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-28",
+   "session": 175,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, de modificación del Código Civil, para la protección de los menores tutelados en situación de desamparo.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 33,
+    "no": 178,
+    "abstain": 138,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-28.json"
+  }
+ ]
+}

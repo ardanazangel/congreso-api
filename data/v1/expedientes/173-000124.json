@@ -1,0 +1,159 @@
+{
+ "expediente": "173/000124",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 107,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las actuaciones que piensa acometer el Gobierno en apoyo al medio rural y al sistema agroalimentario, en particular al sector primario y al forestal, por su contribución en la lucha contra los incendios, en un contexto de cambio climático.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 152,
+    "abstain": 19,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 108,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las actuaciones que piensa acometer el Gobierno en apoyo al medio rural y al sistema agroalimentario, en particular al sector primario y al forestal, por su contribución en la lucha contra los incendios, en un contexto de cambio climático.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 169,
+    "abstain": 9,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 109,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las actuaciones que piensa acometer el Gobierno en apoyo al medio rural y al sistema agroalimentario, en particular al sector primario y al forestal, por su contribución en la lucha contra los incendios, en un contexto de cambio climático.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 345,
+    "yes": 176,
+    "no": 164,
+    "abstain": 5,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 110,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las actuaciones que piensa acometer el Gobierno en apoyo al medio rural y al sistema agroalimentario, en particular al sector primario y al forestal, por su contribución en la lucha contra los incendios, en un contexto de cambio climático.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 348,
+    "yes": 183,
+    "no": 20,
+    "abstain": 145,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 111,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las actuaciones que piensa acometer el Gobierno en apoyo al medio rural y al sistema agroalimentario, en particular al sector primario y al forestal, por su contribución en la lucha contra los incendios, en un contexto de cambio climático.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 348,
+    "yes": 142,
+    "no": 44,
+    "abstain": 162,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 112,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las actuaciones que piensa acometer el Gobierno en apoyo al medio rural y al sistema agroalimentario, en particular al sector primario y al forestal, por su contribución en la lucha contra los incendios, en un contexto de cambio climático.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 177,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 113,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las actuaciones que piensa acometer el Gobierno en apoyo al medio rural y al sistema agroalimentario, en particular al sector primario y al forestal, por su contribución en la lucha contra los incendios, en un contexto de cambio climático.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 346,
+    "yes": 136,
+    "no": 169,
+    "abstain": 41,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 114,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las actuaciones que piensa acometer el Gobierno en apoyo al medio rural y al sistema agroalimentario, en particular al sector primario y al forestal, por su contribución en la lucha contra los incendios, en un contexto de cambio climático.",
+   "subtitle": "Votación separada por puntos. Punto 8.",
+   "totals": {
+    "present": 348,
+    "yes": 266,
+    "no": 54,
+    "abstain": 28,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 115,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las actuaciones que piensa acometer el Gobierno en apoyo al medio rural y al sistema agroalimentario, en particular al sector primario y al forestal, por su contribución en la lucha contra los incendios, en un contexto de cambio climático.",
+   "subtitle": "Votación separada por puntos. Punto 9.",
+   "totals": {
+    "present": 348,
+    "yes": 142,
+    "no": 166,
+    "abstain": 40,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  }
+ ]
+}

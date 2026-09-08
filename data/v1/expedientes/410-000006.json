@@ -1,0 +1,23 @@
+{
+ "expediente": "410/000006",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-04-08",
+   "session": 104,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición del Grupo Parlamentario Popular en el Congreso, de reforma del Reglamento del Congreso de los Diputados relativa a la regulación del debate de política general sobre el estado de la Nación.",
+   "subtitle": "",
+   "totals": {
+    "present": 340,
+    "yes": 324,
+    "no": 6,
+    "abstain": 10,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-08.json"
+  }
+ ]
+}

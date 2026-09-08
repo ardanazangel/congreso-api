@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000359",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-12",
+   "session": 91,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre el cierre programado de la generación nuclear en España.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 164,
+    "abstain": 14,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-12.json"
+  }
+ ]
+}

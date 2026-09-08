@@ -1,0 +1,91 @@
+{
+ "expediente": "101/000002",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-10",
+   "session": 157,
+   "number": 1,
+   "heading": "Toma en consideración de Proposición de reforma constitucional.",
+   "title": "Proposición del Parlamento de las Illes Balears, de Ley para la reforma del artículo 69.3 de la Constitución española a los efectos de que la isla de Formentera elija un senador propio, con independencia del que elija la isla de Eivissa (corresponde a los números de expediente 101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII Legislatura y 101/000002/0000 de la XIV Legislatura).",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 176,
+    "no": 33,
+    "abstain": 138,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-10.json"
+  },
+  {
+   "date": "2026-03-18",
+   "session": 166,
+   "number": 10,
+   "heading": "Acuerdo de tramitación directa y en lectura única de Proposición de reforma constitucional.",
+   "title": "Acuerdo de tramitación directa y en lectura única de la Proposición de reforma del artículo 69.3 de la Constitución española a los efectos de que la isla de Formentera elija un senador propio, con independencia del que elija la isla de Eivissa (corresponde a los números de expediente 101/000004/0000 de la XII Legislatura, 101/000004/0000 de la XIII Legislatura y 101/000002/0000 de la XIV Legislatura).",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 178,
+    "no": 33,
+    "abstain": 137,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-18.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 1,
+   "heading": "Tramitación directa y en lectura única de Proposición de reforma constitucional.",
+   "title": "Proposición de reforma del artículo 69.3 de la Constitución española a los efectos de que la isla de Formentera elija un senador propio, con independencia del que elija la isla de Eivissa.",
+   "subtitle": "Enmiendas al articulado del Grupo Parlamentario VOX. Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 315,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 2,
+   "heading": "Tramitación directa y en lectura única de Proposición de reforma constitucional.",
+   "title": "Proposición de reforma del artículo 69.3 de la Constitución española a los efectos de que la isla de Formentera elija un senador propio, con independencia del que elija la isla de Eivissa.",
+   "subtitle": "Enmiendas al articulado del Grupo Parlamentario Popular en el Congreso. Enmienda 17.",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 86,
+    "abstain": 124,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 55,
+   "heading": "Tramitación directa y en lectura única de Proposición de reforma constitucional.",
+   "title": "Votación de conjunto de la Proposición de reforma del artículo 69.3 de la Constitución española a los efectos de que la isla de Formentera elija un senador propio, con independencia del que elija la isla de Eivissa, por tramitarse en lectura única y tratarse de una Proposición de reforma constitucional, teniendo en cuenta las correcciones técnicas distribuidas.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 312,
+    "no": 33,
+    "abstain": 5,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000503",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-20",
+   "session": 112,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre la atención a los pasajeros en caso de incidencias extraordinarias.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 163,
+    "abstain": 13,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-20.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000270",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-18",
+   "session": 60,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Plurinacional SUMAR, relativa a la creación de una empresa pública para la gestión pública de las concesiones administrativas y centrales hidroeléctricas. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Mixto (Sr. Rego Candamil).",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 44,
+    "no": 302,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-18.json"
+  }
+ ]
+}

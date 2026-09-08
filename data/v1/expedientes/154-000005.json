@@ -1,0 +1,40 @@
+{
+ "expediente": "154/000005",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-28",
+   "session": 115,
+   "number": 8,
+   "heading": "Solicitud de prórroga de Subcomisiones.",
+   "title": "Solicitud de la Comisión de Educación, Formación Profesional y Deportes, de prórroga de seis meses del plazo para la conclusión de los trabajos de la Subcomisión relativa al Estatuto del Deportista, constituida en el seno de la citada Comisión.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 314,
+    "no": 0,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-28.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 27,
+   "heading": "Solicitud de prórroga de Subcomisiones.",
+   "title": "Solicitud de la Comisión de Educación, Formación Profesional y Deportes, de nueva prórroga de seis meses del plazo para la conclusión de los trabajos de la Subcomisión relativa al Estatuto del Deportista, constituida en el seno de la citada Comisión.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "expediente": "100/000001",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-01-16",
+   "session": 16,
+   "number": 1,
+   "heading": "Toma en consideración de Proposición de reforma constitucional.",
+   "title": "Proposición de los Grupos Parlamentarios Popular en el Congreso y Socialista, de Reforma del artículo 49 de la Constitución Española.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 315,
+    "no": 0,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-16.json"
+  },
+  {
+   "date": "2024-01-16",
+   "session": 16,
+   "number": 2,
+   "heading": "Acuerdo de tramitación directa y en lectura única de Proposición de reforma constitucional.",
+   "title": "Acuerdo de tramitación directa y en lectura única de la Proposición de Reforma del artículo 49 de la Constitución Española.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 310,
+    "no": 33,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-16.json"
+  }
+ ]
+}

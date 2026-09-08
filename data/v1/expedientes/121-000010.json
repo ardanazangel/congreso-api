@@ -1,0 +1,244 @@
+{
+ "expediente": "121/000010",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-05-23",
+   "session": 40,
+   "number": 59,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil, presentada por el Grupo Parlamentario Republicano.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 344,
+    "no": 0,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-05-23.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 16,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 89.",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 322,
+    "abstain": 7,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 92.",
+   "totals": {
+    "present": 347,
+    "yes": 25,
+    "no": 322,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Resto de las enmiendas.",
+   "totals": {
+    "present": 345,
+    "yes": 18,
+    "no": 327,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 19,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmiendas 70 y 83.",
+   "totals": {
+    "present": 347,
+    "yes": 25,
+    "no": 322,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 20,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 17,
+    "no": 324,
+    "abstain": 6,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 21,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Popular en el Congreso Enmienda 136.",
+   "totals": {
+    "present": 347,
+    "yes": 168,
+    "no": 177,
+    "abstain": 2,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 45,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen del Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 178,
+    "no": 137,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 69,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al Preámbulo, párrafo sexto del apartado I (punto 1A del mensaje motivado)",
+   "totals": {
+    "present": 349,
+    "yes": 342,
+    "no": 1,
+    "abstain": 6,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 70,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al Preámbulo, párrafo decimocuarto del apartado III, en lo relativo a la supresión de la disposición adicional novena.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 71,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al Preámbulo, párrafo decimocuarto del apartado III, en lo relativo a la incorporación de una nueva disposición adicional.",
+   "totals": {
+    "present": 349,
+    "yes": 316,
+    "no": 0,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 72,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas a los artículos primero y segundo (puntos 2 y 3 del mensaje motivado)",
+   "totals": {
+    "present": 349,
+    "yes": 349,
+    "no": 0,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 73,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al artículo veintisiete y a la disposición adicional novena del texto remitido por el Congreso de los Diputados (puntos 4 y 8 del mensaje motivado)",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 74,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas a los artículos treinta y cinco y treinta y ocho, a las disposiciones adicionales octava y novena (nueva) y a la disposición transitoria única (puntos 5, 6, 7, 9 y 10 del mensaje motivado)",
+   "totals": {
+    "present": 349,
+    "yes": 316,
+    "no": 0,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  }
+ ]
+}

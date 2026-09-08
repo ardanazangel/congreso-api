@@ -1,0 +1,40 @@
+{
+ "expediente": "162/000756",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-30",
+   "session": 177,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a los retrasos del Estado en infraestructuras y actuaciones hídricas en Andalucía.",
+   "subtitle": "",
+   "totals": {
+    "present": 341,
+    "yes": 170,
+    "no": 170,
+    "abstain": 1,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-30.json"
+  },
+  {
+   "date": "2026-04-30",
+   "session": 177,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a los retrasos del Estado en infraestructuras y actuaciones hídricas en Andalucía.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 172,
+    "no": 171,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-30.json"
+  }
+ ]
+}

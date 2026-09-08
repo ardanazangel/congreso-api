@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000087",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 31,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa al impulso de la red ferroviaria de Alta Velocidad-Y vasca. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Mixto (Sr. Catalán Higueras).",
+   "subtitle": "",
+   "totals": {
+    "present": 339,
+    "yes": 181,
+    "no": 16,
+    "abstain": 142,
+    "absent": 11,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  }
+ ]
+}

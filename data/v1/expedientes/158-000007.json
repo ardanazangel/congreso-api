@@ -1,0 +1,23 @@
+{
+ "expediente": "158/000007",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-04-23",
+   "session": 36,
+   "number": 38,
+   "heading": "Propuestas de creación de Subcomisiones.",
+   "title": "Propuesta de la Comisión de seguimiento y evaluación de los acuerdos del Pacto de Estado en materia de Violencia de Género, de creación de una Subcomisión para la renovación y actualización del Pacto de Estado en materia de violencia de género.",
+   "subtitle": "",
+   "totals": {
+    "present": 341,
+    "yes": 306,
+    "no": 35,
+    "abstain": 0,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-23.json"
+  }
+ ]
+}

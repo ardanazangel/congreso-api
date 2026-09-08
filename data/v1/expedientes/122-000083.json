@@ -1,0 +1,210 @@
+{
+ "expediente": "122/000083",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-17",
+   "session": 59,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Junts per Catalunya, Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y el Real Decreto de 14 de septiembre de 1882, por el que se aprueba la Ley de Enjuiciamiento Criminal.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 304,
+    "no": 38,
+    "abstain": 8,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-17.json"
+  },
+  {
+   "date": "2026-02-12",
+   "session": 159,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y el Real Decreto de 14 de septiembre de 1882, por el que se aprueba la Ley de Enjuiciamiento Criminal).",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Mixto (Sra. Valido García) Enmienda 1.",
+   "totals": {
+    "present": 345,
+    "yes": 49,
+    "no": 289,
+    "abstain": 7,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-12.json"
+  },
+  {
+   "date": "2026-02-12",
+   "session": 159,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y el Real Decreto de 14 de septiembre de 1882, por el que se aprueba la Ley de Enjuiciamiento Criminal).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 33.",
+   "totals": {
+    "present": 345,
+    "yes": 22,
+    "no": 322,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-12.json"
+  },
+  {
+   "date": "2026-02-12",
+   "session": 159,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y el Real Decreto de 14 de septiembre de 1882, por el que se aprueba la Ley de Enjuiciamiento Criminal).",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Resto de las enmiendas.",
+   "totals": {
+    "present": 345,
+    "yes": 44,
+    "no": 300,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-12.json"
+  },
+  {
+   "date": "2026-02-12",
+   "session": 159,
+   "number": 22,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y el Real Decreto de 14 de septiembre de 1882, por el que se aprueba la Ley de Enjuiciamiento Criminal).",
+   "subtitle": "Votación del dictamen. Votación del dictamen.",
+   "totals": {
+    "present": 345,
+    "yes": 302,
+    "no": 35,
+    "abstain": 8,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-12.json"
+  },
+  {
+   "date": "2026-02-12",
+   "session": 159,
+   "number": 23,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y el Real Decreto de 14 de septiembre de 1882, por el que se aprueba la Ley de Enjuiciamiento Criminal).",
+   "subtitle": "Votación de conjunto. Votación de conjunto de la Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y el Real Decreto de 14 de septiembre de 1882, por el que se aprueba la Ley de Enjuiciamiento Criminal).",
+   "totals": {
+    "present": 346,
+    "yes": 302,
+    "no": 36,
+    "abstain": 8,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-12.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 3,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 y la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882).",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al Título de la Proposición de Ley Orgánica.",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 177,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 4,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 y la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882).",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al Artículo Segundo, apartado Siete bis (nuevo).",
+   "totals": {
+    "present": 348,
+    "yes": 265,
+    "no": 50,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 5,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 y la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882).",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al Artículo Segundo, apartado Ocho.",
+   "totals": {
+    "present": 348,
+    "yes": 324,
+    "no": 16,
+    "abstain": 8,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 6,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 y la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882).",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas a la disposición final cuarta.",
+   "totals": {
+    "present": 348,
+    "yes": 297,
+    "no": 51,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 7,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 y la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882).",
+   "subtitle": "Votación separada de las enmiendas. Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 56,
+   "heading": "Enmiendas del Senado.",
+   "title": "Votación de conjunto de la Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882 y la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social (antes denominada Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882), por tener la misma carácter orgánico.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 272,
+    "no": 71,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  }
+ ]
+}

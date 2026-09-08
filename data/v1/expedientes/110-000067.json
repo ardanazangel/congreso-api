@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000067",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-18",
+   "session": 166,
+   "number": 8,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo entre la Unión Europea y la Comunidad Europea de la Energía Atómica, por una parte, y el Reino de España, por otra, relativo al establecimiento del Centro Común de Investigación de la Comisión Europea en Sevilla, hecho en Sevilla el 30 de junio de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 301,
+    "no": 0,
+    "abstain": 47,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-18.json"
+  }
+ ]
+}

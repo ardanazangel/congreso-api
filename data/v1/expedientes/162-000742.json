@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000742",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-15",
+   "session": 172,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Republicano, sobre el reconocimiento de las víctimas del Patronato de Protección a la Mujer. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Republicano y el Grupo Parlamentario Junts per Catalunya.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 176,
+    "no": 170,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-15.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000114",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-25",
+   "session": 94,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Vasco (EAJ-PNV), por la que se modifica el texto refundido de la Ley de Suelo y Rehabilitación Urbana, aprobado por el Real Decreto Legislativo 7/2015, de 30 de octubre.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 124,
+    "no": 186,
+    "abstain": 34,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-25.json"
+  }
+ ]
+}

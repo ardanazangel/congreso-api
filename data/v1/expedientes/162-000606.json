@@ -1,0 +1,91 @@
+{
+ "expediente": "162/000606",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-28",
+   "session": 142,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa al rechazo de la integración de la Política Agraria Común (PAC) en un fondo presupuestario único de la Unión Europea en defensa de su carácter estratégico, autónomo y nacionalmente gestionable.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 345,
+    "yes": 172,
+    "no": 173,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-28.json"
+  },
+  {
+   "date": "2025-10-28",
+   "session": 142,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa al rechazo de la integración de la Política Agraria Común (PAC) en un fondo presupuestario único de la Unión Europea en defensa de su carácter estratégico, autónomo y nacionalmente gestionable.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 345,
+    "yes": 172,
+    "no": 173,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-28.json"
+  },
+  {
+   "date": "2025-10-28",
+   "session": 142,
+   "number": 6,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa al rechazo de la integración de la Política Agraria Común (PAC) en un fondo presupuestario único de la Unión Europea en defensa de su carácter estratégico, autónomo y nacionalmente gestionable.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 346,
+    "yes": 172,
+    "no": 174,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-28.json"
+  },
+  {
+   "date": "2025-10-28",
+   "session": 142,
+   "number": 7,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa al rechazo de la integración de la Política Agraria Común (PAC) en un fondo presupuestario único de la Unión Europea en defensa de su carácter estratégico, autónomo y nacionalmente gestionable.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 346,
+    "yes": 33,
+    "no": 176,
+    "abstain": 137,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-28.json"
+  },
+  {
+   "date": "2025-10-28",
+   "session": 142,
+   "number": 8,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa al rechazo de la integración de la Política Agraria Común (PAC) en un fondo presupuestario único de la Unión Europea en defensa de su carácter estratégico, autónomo y nacionalmente gestionable.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 346,
+    "yes": 33,
+    "no": 174,
+    "abstain": 139,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-28.json"
+  }
+ ]
+}

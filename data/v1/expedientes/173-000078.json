@@ -1,0 +1,108 @@
+{
+ "expediente": "173/000078",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-19",
+   "session": 93,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el fracaso de la política del Gobierno en materia de vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 344,
+    "yes": 173,
+    "no": 170,
+    "abstain": 1,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-19.json"
+  },
+  {
+   "date": "2025-02-19",
+   "session": 93,
+   "number": 12,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el fracaso de la política del Gobierno en materia de vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 343,
+    "yes": 292,
+    "no": 26,
+    "abstain": 25,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-19.json"
+  },
+  {
+   "date": "2025-02-19",
+   "session": 93,
+   "number": 13,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el fracaso de la política del Gobierno en materia de vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 343,
+    "yes": 293,
+    "no": 50,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-19.json"
+  },
+  {
+   "date": "2025-02-19",
+   "session": 93,
+   "number": 14,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el fracaso de la política del Gobierno en materia de vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 342,
+    "yes": 172,
+    "no": 163,
+    "abstain": 7,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-19.json"
+  },
+  {
+   "date": "2025-02-19",
+   "session": 93,
+   "number": 15,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el fracaso de la política del Gobierno en materia de vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 344,
+    "yes": 169,
+    "no": 175,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-19.json"
+  },
+  {
+   "date": "2025-02-19",
+   "session": 93,
+   "number": 16,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el fracaso de la política del Gobierno en materia de vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 342,
+    "yes": 180,
+    "no": 162,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-19.json"
+  }
+ ]
+}

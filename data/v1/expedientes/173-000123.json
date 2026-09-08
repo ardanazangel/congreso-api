@@ -1,0 +1,125 @@
+{
+ "expediente": "173/000123",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 100,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Ministerio de Hacienda en relación con el impacto en la Hacienda Pública de las relaciones económicas con el Estado de Israel.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 303,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 101,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Ministerio de Hacienda en relación con el impacto en la Hacienda Pública de las relaciones económicas con el Estado de Israel.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 347,
+    "yes": 45,
+    "no": 302,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 102,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Ministerio de Hacienda en relación con el impacto en la Hacienda Pública de las relaciones económicas con el Estado de Israel.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 348,
+    "yes": 43,
+    "no": 305,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 103,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Ministerio de Hacienda en relación con el impacto en la Hacienda Pública de las relaciones económicas con el Estado de Israel.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 346,
+    "yes": 44,
+    "no": 302,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 104,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Ministerio de Hacienda en relación con el impacto en la Hacienda Pública de las relaciones económicas con el Estado de Israel.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 303,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 105,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Ministerio de Hacienda en relación con el impacto en la Hacienda Pública de las relaciones económicas con el Estado de Israel.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 347,
+    "yes": 45,
+    "no": 302,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 106,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Ministerio de Hacienda en relación con el impacto en la Hacienda Pública de las relaciones económicas con el Estado de Israel.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 303,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  }
+ ]
+}

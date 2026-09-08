@@ -1,0 +1,23 @@
+{
+ "expediente": "158/000001",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-21",
+   "session": 33,
+   "number": 15,
+   "heading": "Propuestas de creación de Subcomisiones.",
+   "title": "Propuesta de la Comisión de Sanidad, de creación de una Subcomisión para mejorar la protección, la promoción y la atención integral de la salud mental.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 343,
+    "no": 0,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-21.json"
+  }
+ ]
+}

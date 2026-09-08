@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000347",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-20",
+   "session": 101,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, para adaptar la Ley 49/60, de 21 de julio, sobre propiedad horizontal, a la Convención sobre los derechos de las personas con discapacidad de la ONU.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 166,
+    "no": 33,
+    "abstain": 147,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-20.json"
+  }
+ ]
+}

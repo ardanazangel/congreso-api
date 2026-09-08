@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000172",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-23",
+   "session": 133,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley de los Grupos Parlamentarios Socialista y Junts per Catalunya, Orgánica de delegación en la Comunidad Autónoma de Cataluña de competencias estatales en materia de inmigración.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 173,
+    "no": 177,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-23.json"
+  }
+ ]
+}

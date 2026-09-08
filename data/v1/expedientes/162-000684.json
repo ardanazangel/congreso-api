@@ -1,0 +1,125 @@
+{
+ "expediente": "162/000684",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la ejecución efectiva de las órdenes de expulsión de extranjeros nacionales de terceros países sin derecho a permanecer en la Unión Europea.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 350,
+    "yes": 178,
+    "no": 166,
+    "abstain": 6,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la ejecución efectiva de las órdenes de expulsión de extranjeros nacionales de terceros países sin derecho a permanecer en la Unión Europea.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 171,
+    "abstain": 8,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la ejecución efectiva de las órdenes de expulsión de extranjeros nacionales de terceros países sin derecho a permanecer en la Unión Europea.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 171,
+    "abstain": 8,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la ejecución efectiva de las órdenes de expulsión de extranjeros nacionales de terceros países sin derecho a permanecer en la Unión Europea.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 171,
+    "abstain": 8,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 6,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la ejecución efectiva de las órdenes de expulsión de extranjeros nacionales de terceros países sin derecho a permanecer en la Unión Europea.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 350,
+    "yes": 172,
+    "no": 173,
+    "abstain": 5,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 7,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la ejecución efectiva de las órdenes de expulsión de extranjeros nacionales de terceros países sin derecho a permanecer en la Unión Europea.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 166,
+    "abstain": 13,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 8,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la ejecución efectiva de las órdenes de expulsión de extranjeros nacionales de terceros países sin derecho a permanecer en la Unión Europea.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 350,
+    "yes": 172,
+    "no": 178,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  }
+ ]
+}

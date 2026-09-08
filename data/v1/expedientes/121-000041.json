@@ -1,0 +1,23 @@
+{
+ "expediente": "121/000041",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 17,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación conjunta de las enmiendas a la totalidad de devolución al Proyecto de Ley Orgánica por la que se modifica la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, complementaria de la Ley por la que se modifica la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, para regular el procedimiento de determinación de la edad, presentadas por los Grupos Parlamentarios VOX y Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 170,
+    "no": 175,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  }
+ ]
+}

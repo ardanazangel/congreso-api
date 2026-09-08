@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000194",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-21",
+   "session": 140,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, de compensación económica para las personas celíacas.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 338,
+    "no": 3,
+    "abstain": 4,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-21.json"
+  }
+ ]
+}

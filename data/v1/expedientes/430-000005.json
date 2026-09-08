@@ -1,0 +1,23 @@
+{
+ "expediente": "430/000005",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 77,
+   "heading": "Debate relativo al objetivo de estabilidad presupuestaria.",
+   "title": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad presupuestaria y de deuda pública para el conjunto de Administraciones Públicas y de cada uno de sus subsectores para el periodo 2025-2027 y el límite de gasto no financiero del presupuesto del Estado para el año 2025. Se votan los objetivos de estabilidad presupuestaria y de deuda pública propuestos por el Gobierno.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  }
+ ]
+}

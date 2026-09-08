@@ -1,0 +1,23 @@
+{
+ "expediente": "430/000009",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 50,
+   "heading": "Debate relativo al objetivo de estabilidad presupuestaria.",
+   "title": "Acuerdo del Gobierno por el que se fijan los objetivos de estabilidad presupuestaria y de deuda pública para el conjunto de Administraciones Públicas y de cada uno de sus subsectores para el periodo 2027-2029 y el límite de gasto no financiero del presupuesto del Estado para el año 2027. Se votan los objetivos de estabilidad presupuestaria y de deuda pública propuestos por el Gobierno.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 167,
+    "no": 178,
+    "abstain": 5,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000054",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-26",
+   "session": 124,
+   "number": 16,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Convenio relativo a la revisión del Convenio sobre la protección de la maternidad (revisado), 1952, hecho en Ginebra el 15 de junio de 2000.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 345,
+    "no": 0,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-26.json"
+  }
+ ]
+}

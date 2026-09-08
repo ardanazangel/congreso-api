@@ -1,0 +1,23 @@
+{
+ "expediente": "155/000002",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-11-28",
+   "session": 9,
+   "number": 4,
+   "heading": "Propuestas de creación de Comisiones.",
+   "title": "Solicitud de los Grupos Parlamentarios Popular en el Congreso, Socialista y Plurinacional SUMAR, de creación de una Comisión de seguimiento y evaluación de los acuerdos del Pacto de Toledo.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 311,
+    "no": 33,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-11-28.json"
+  }
+ ]
+}

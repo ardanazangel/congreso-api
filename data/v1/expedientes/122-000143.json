@@ -1,0 +1,482 @@
+{
+ "expediente": "122/000143",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-06",
+   "session": 107,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 311,
+    "no": 0,
+    "abstain": 32,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-06.json"
+  },
+  {
+   "date": "2025-06-19",
+   "session": 121,
+   "number": 9,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de texto alternativo a la Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 33,
+    "no": 176,
+    "abstain": 136,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-19.json"
+  },
+  {
+   "date": "2025-09-24",
+   "session": 134,
+   "number": 10,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final de la Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª, presentada por el Grupo Parlamentario Mixto.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 343,
+    "no": 0,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-24.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 1.",
+   "totals": {
+    "present": 347,
+    "yes": 54,
+    "no": 260,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 28.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 328,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Resto de las enmiendas.",
+   "totals": {
+    "present": 346,
+    "yes": 42,
+    "no": 304,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 8.",
+   "totals": {
+    "present": 346,
+    "yes": 19,
+    "no": 294,
+    "abstain": 33,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Resto de las enmiendas.",
+   "totals": {
+    "present": 346,
+    "yes": 42,
+    "no": 304,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu Enmienda 16.",
+   "totals": {
+    "present": 347,
+    "yes": 42,
+    "no": 304,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu Enmienda 20.",
+   "totals": {
+    "present": 346,
+    "yes": 19,
+    "no": 327,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 34.",
+   "totals": {
+    "present": 347,
+    "yes": 48,
+    "no": 156,
+    "abstain": 143,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 35.",
+   "totals": {
+    "present": 347,
+    "yes": 40,
+    "no": 164,
+    "abstain": 143,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 24.",
+   "totals": {
+    "present": 346,
+    "yes": 41,
+    "no": 305,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 26.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 328,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Plurinacional SUMAR Enmienda 12.",
+   "totals": {
+    "present": 347,
+    "yes": 41,
+    "no": 306,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Plurinacional SUMAR, Grupo Parlamentario Republicano, Grupo Parlamentario Euskal Herria Bildu, Grupo Parlamentario Vasco (EAJ-PNV) y Grupo Parlamentario Mixto (Sra. Valido García) Enmienda transaccional en Comisión nº 23 (votada en Comisión como enmienda transaccional en Comisión nº 10)",
+   "totals": {
+    "present": 345,
+    "yes": 54,
+    "no": 291,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 16,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 32,
+    "no": 177,
+    "abstain": 138,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 47.",
+   "totals": {
+    "present": 347,
+    "yes": 171,
+    "no": 168,
+    "abstain": 8,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 48.",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 176,
+    "abstain": 34,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 19,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 20,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Corrección técnica Enmienda de corrección técnica nº 1 presentada por el Grupo Parlamentario Junts per Catalunya.",
+   "totals": {
+    "present": 348,
+    "yes": 194,
+    "no": 154,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 40,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen de la Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 180,
+    "no": 0,
+    "abstain": 168,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 12,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Votación separada de las enmiendas. Enmiendas al último párrafo del apartado I y al párrafo sexto del apartado II del Preámbulo.",
+   "totals": {
+    "present": 347,
+    "yes": 334,
+    "no": 0,
+    "abstain": 13,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 13,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al párrafo quinto del apartado II del Preámbulo.",
+   "totals": {
+    "present": 348,
+    "yes": 324,
+    "no": 24,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 14,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al Artículo Único, Uno, que afecta al párrafo final del apartado 1 de la disposición adicional decimoctava del texto refundido de la Ley General de la Seguridad Social.",
+   "totals": {
+    "present": 346,
+    "yes": 326,
+    "no": 0,
+    "abstain": 20,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 15,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al Artículo Único, Seis, que afecta al apartado 1 de la nueva disposición transitoria 47ª del texto refundido de la Ley General de la Seguridad Social.",
+   "totals": {
+    "present": 347,
+    "yes": 290,
+    "no": 57,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 16,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Votación separada de las enmiendas. Enmienda al Artículo Único, Seis, que afecta al apartado 2 de la nueva disposición transitoria 47ª del texto refundido de la Ley General de la Seguridad Social.",
+   "totals": {
+    "present": 348,
+    "yes": 347,
+    "no": 1,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  },
+  {
+   "date": "2026-07-23",
+   "session": 193,
+   "number": 17,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18ª y 19ª.",
+   "subtitle": "Votación separada de las enmiendas. Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-23.json"
+  }
+ ]
+}

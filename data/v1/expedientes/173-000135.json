@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000135",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 61,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la estrategia fiscal del Gobierno para evitar que los trabajadores autónomos se extingan en España.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 177,
+    "abstain": 138,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  }
+ ]
+}

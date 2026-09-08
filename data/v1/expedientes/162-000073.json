@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000073",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 12,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para deflactar el IRPF ajustándolo a la inflación para ayudar a las familias.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 169,
+    "no": 160,
+    "abstain": 14,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  }
+ ]
+}

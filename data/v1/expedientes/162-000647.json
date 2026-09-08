@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000647",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para ayudar a las familias ante la escalada del precio de los alimentos básicos.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 178,
+    "no": 159,
+    "abstain": 10,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  }
+ ]
+}

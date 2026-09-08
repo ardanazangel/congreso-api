@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000143",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 4,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para que el Ministro de la Presidencia, Justicia y Relaciones con las Cortes rinda cuentas del deterioro sin precedentes al que este Gobierno ha sometido a las instituciones del Estado, en particular, tras la sentencia condenatoria al Fiscal General del Estado.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 169,
+    "no": 179,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  }
+ ]
+}

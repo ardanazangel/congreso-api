@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000539",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, relativa a garantizar la igualdad de oportunidades y no discriminación de las personas con discapacidad ante la inteligencia artificial.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 172,
+    "no": 32,
+    "abstain": 144,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  }
+ ]
+}

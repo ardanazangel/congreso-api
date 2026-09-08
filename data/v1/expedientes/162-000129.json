@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000129",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-22",
+   "session": 23,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario SUMAR, relativa a la reducción de la jornada máxima legal de trabajo ordinario.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 169,
+    "no": 33,
+    "abstain": 142,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-22.json"
+  }
+ ]
+}

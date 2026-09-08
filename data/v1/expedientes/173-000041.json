@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000041",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-11",
+   "session": 58,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para que el Gobierno dé cuenta de las previsiones y compromisos adquiridos en torno a la financiación autonómica y la defensa de la igualdad entre todos los españoles.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 139,
+    "no": 171,
+    "abstain": 33,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-11.json"
+  }
+ ]
+}

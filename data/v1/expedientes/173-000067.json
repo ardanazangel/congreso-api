@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000067",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la política que va a desarrollar el Gobierno para afrontar la regularización de 900.000 inmigrantes.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 33,
+    "no": 176,
+    "abstain": 137,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-12.json"
+  }
+ ]
+}

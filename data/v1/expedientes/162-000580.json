@@ -1,0 +1,159 @@
+{
+ "expediente": "162/000580",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 89,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Republicano, de medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 347,
+    "yes": 48,
+    "no": 177,
+    "abstain": 122,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 90,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Republicano, de medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 347,
+    "yes": 45,
+    "no": 302,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 91,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Republicano, de medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 347,
+    "yes": 45,
+    "no": 291,
+    "abstain": 11,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 92,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Republicano, de medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 347,
+    "yes": 56,
+    "no": 291,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 93,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Republicano, de medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 348,
+    "yes": 56,
+    "no": 292,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 94,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Republicano, de medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 348,
+    "yes": 49,
+    "no": 178,
+    "abstain": 121,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 95,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Republicano, de medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 348,
+    "yes": 53,
+    "no": 170,
+    "abstain": 125,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 96,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Republicano, de medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 8.",
+   "totals": {
+    "present": 348,
+    "yes": 58,
+    "no": 169,
+    "abstain": 121,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 97,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Republicano, de medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda.",
+   "subtitle": "Votación separada por puntos. Punto 9.",
+   "totals": {
+    "present": 348,
+    "yes": 57,
+    "no": 170,
+    "abstain": 121,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  }
+ ]
+}

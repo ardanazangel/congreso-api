@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000007",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-21",
+   "session": 33,
+   "number": 12,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Actas del XXVII Congreso de la Unión Postal Universal (UPU), adoptadas en Abidjan el 27 de agosto de 2021.",
+   "subtitle": "",
+   "totals": {
+    "present": 340,
+    "yes": 300,
+    "no": 33,
+    "abstain": 7,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-21.json"
+  }
+ ]
+}

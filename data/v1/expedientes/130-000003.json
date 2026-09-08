@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000003",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-01-10",
+   "session": 15,
+   "number": 4,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 8/2023, de 27 de diciembre, por el que se adoptan medidas para afrontar las consecuencias económicas y sociales derivadas de los conflictos en Ucrania y Oriente Próximo, así como para paliar los efectos de la sequía.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 171,
+    "no": 171,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-10.json"
+  },
+  {
+   "date": "2024-01-10",
+   "session": 15,
+   "number": 10,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como proyecto de ley por el procedimiento de urgencia del Real Decreto-ley 8/2023, de 27 de diciembre, por el que se adoptan medidas para afrontar las consecuencias económicas y sociales derivadas de los conflictos en Ucrania y Oriente Próximo, así como para paliar los efectos de la sequía.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 204,
+    "no": 1,
+    "abstain": 137,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-01-10.json"
+  }
+ ]
+}

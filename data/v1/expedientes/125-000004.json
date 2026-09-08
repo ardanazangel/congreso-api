@@ -1,0 +1,23 @@
+{
+ "expediente": "125/000004",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-13",
+   "session": 110,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley de Comunidades y Ciudades Autónomas.",
+   "title": "Proposición de Ley de la Asamblea Regional de Murcia, relativa al mantenimiento del trasvase Tajo-Segura (corresponde al número de expediente 125/000022/0000 de la XIV Legislatura).",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 170,
+    "no": 171,
+    "abstain": 4,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-13.json"
+  }
+ ]
+}

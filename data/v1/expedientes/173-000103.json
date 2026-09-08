@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000103",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-12",
+   "session": 118,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a la posición del Gobierno sobre la necesidad de destinar los fondos del plan de rearme a fortalecer la educación pública. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Euskal Herria Bildu.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 296,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-12.json"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "expediente": "162/000242",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre equiparación salarial real y total de la Policía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 345,
+    "yes": 171,
+    "no": 174,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  },
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre equiparación salarial real y total de la Policía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 344,
+    "yes": 170,
+    "no": 174,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  },
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre equiparación salarial real y total de la Policía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 345,
+    "yes": 171,
+    "no": 173,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  },
+  {
+   "date": "2024-10-16",
+   "session": 68,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre equiparación salarial real y total de la Policía Nacional y la Guardia Civil, así como su jubilación anticipada.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 344,
+    "yes": 199,
+    "no": 21,
+    "abstain": 124,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-16.json"
+  }
+ ]
+}

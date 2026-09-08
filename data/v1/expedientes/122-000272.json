@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000272",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-14",
+   "session": 171,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, sobre la habilitación legal de la Comisión Nacional de los Mercados y la Competencia como coordinador de servicios digitales en España.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 163,
+    "no": 174,
+    "abstain": 8,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-14.json"
+  }
+ ]
+}

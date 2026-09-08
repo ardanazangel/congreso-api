@@ -1,0 +1,40 @@
+{
+ "expediente": "122/000130",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-19",
+   "session": 77,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, de modificación de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico y la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos para armonizar la información a incluir en las páginas web, contratos y facturas de electricidad y gas en relación a la resolución alternativa de litigios en materia de consumo.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 176,
+    "no": 33,
+    "abstain": 136,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-19.json"
+  },
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 21,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final de la Proposición de Ley de modificación de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico y la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos para armonizar la información a incluir en las páginas web, contratos y facturas de electricidad y gas en relación a la resolución alternativa de litigios en materia de consumo, presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 349,
+    "no": 0,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  }
+ ]
+}

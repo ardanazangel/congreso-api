@@ -1,0 +1,40 @@
+{
+ "expediente": "121/000018",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 63,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se crea la Autoridad Administrativa Independiente de Defensa del Cliente Financiero para la resolución extrajudicial de conflictos entre las entidades financieras y sus clientes.",
+   "subtitle": "Enmienda a la totalidad de devolución. Enmienda a la totalidad de devolución presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "totals": {
+    "present": 349,
+    "yes": 170,
+    "no": 178,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  },
+  {
+   "date": "2024-11-21",
+   "session": 79,
+   "number": 64,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se crea la Autoridad Administrativa Independiente de Defensa del Cliente Financiero para la resolución extrajudicial de conflictos entre las entidades financieras y sus clientes.",
+   "subtitle": "Solicitud de avocación. Solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de ley, presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "totals": {
+    "present": 349,
+    "yes": 342,
+    "no": 7,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-21.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "156/000009",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-28",
+   "session": 115,
+   "number": 6,
+   "heading": "Solicitudes de creación de Comisiones de Investigación.",
+   "title": "Solicitud del Sr. Tellado Filgueira y otros 130 Diputados, de creación de una Comisión de Investigación sobre la interrupción del suministro eléctrico y de las comunicaciones el 28 de abril de 2025 que afectó al territorio nacional, con el fin de analizar las causas del grave incidente, la eficacia de las medidas de prevención que lo hubieran evitado, las graves consecuencias de la emergencia nacional y promover las medidas legales y de todo tipo que deban adoptarse para garantizar que en el futuro no vuelvan a producirse hechos similares. Se vota en sus términos.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 180,
+    "no": 165,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-28.json"
+  }
+ ]
+}

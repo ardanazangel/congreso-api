@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000132",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-12-17",
+   "session": 86,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, de modificación del Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, para prevenir la práctica de la reduflación y proteger los derechos de las personas consumidoras.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 311,
+    "no": 33,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-17.json"
+  }
+ ]
+}

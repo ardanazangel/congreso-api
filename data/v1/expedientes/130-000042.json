@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000042",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-05-28",
+   "session": 183,
+   "number": 12,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 11/2026, de 12 de mayo, por el que se modifica la aportación de los usuarios y sus beneficiarios en la prestación farmacéutica ambulatoria.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 164,
+    "no": 33,
+    "abstain": 149,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-28.json"
+  },
+  {
+   "date": "2026-05-28",
+   "session": 183,
+   "number": 13,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 11/2026, de 12 de mayo, por el que se modifica la aportación de los usuarios y sus beneficiarios en la prestación farmacéutica ambulatoria.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 347,
+    "no": 0,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-28.json"
+  }
+ ]
+}

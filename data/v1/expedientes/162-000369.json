@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000369",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, para el reconocimiento a las mujeres constituyentes.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 287,
+    "no": 33,
+    "abstain": 26,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-12.json"
+  }
+ ]
+}

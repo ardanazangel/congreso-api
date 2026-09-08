@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000115",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-17",
+   "session": 132,
+   "number": 4,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Catalán Higueras), sobre los trámites, plazos y presupuestos para la licitación de las obras de construcción de las nuevas estaciones ferroviarias de Pamplona y Tudela enmarcadas en el Corredor Navarro de Alta Velocidad.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 172,
+    "no": 163,
+    "abstain": 12,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-17.json"
+  }
+ ]
+}

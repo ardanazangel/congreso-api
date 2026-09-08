@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000438",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-26",
+   "session": 103,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, relativa a la posición de España y la Unión Europea respecto al desmantelamiento de la cooperación al desarrollo a nivel internacional y sus graves consecuencias para millones de personas en situaciones extremas en todo el mundo. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Vasco (EAJ-PNV).",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 175,
+    "no": 33,
+    "abstain": 138,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-26.json"
+  }
+ ]
+}

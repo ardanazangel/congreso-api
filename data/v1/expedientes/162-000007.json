@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000007",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-12-12",
+   "session": 11,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, para impedir que miembros del Gobierno o cualquier autoridad o funcionario, colaboren, negocien o pacten con prófugos o condenados por la Justicia. Se vota en sus términos.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 167,
+    "no": 182,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-12.json"
+  }
+ ]
+}

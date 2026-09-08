@@ -1,0 +1,57 @@
+{
+ "expediente": "173/000165",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 14,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el infierno fiscal al que ha condenado el Gobierno a todos los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 345,
+    "yes": 177,
+    "no": 163,
+    "abstain": 5,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 15,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el infierno fiscal al que ha condenado el Gobierno a todos los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 345,
+    "yes": 214,
+    "no": 125,
+    "abstain": 6,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  },
+  {
+   "date": "2026-04-22",
+   "session": 174,
+   "number": 16,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el infierno fiscal al que ha condenado el Gobierno a todos los españoles.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 345,
+    "yes": 161,
+    "no": 178,
+    "abstain": 6,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-22.json"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "expediente": "173/000072",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 80,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los escándalos que rodean la gestión del Ministro para la Transformación Digital y de la Función Pública.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 81,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los escándalos que rodean la gestión del Ministro para la Transformación Digital y de la Función Pública.",
+   "subtitle": "Votación separada por puntos Punto 2.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 82,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los escándalos que rodean la gestión del Ministro para la Transformación Digital y de la Función Pública.",
+   "subtitle": "Votación separada por puntos Punto 3.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 83,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los escándalos que rodean la gestión del Ministro para la Transformación Digital y de la Función Pública.",
+   "subtitle": "Votación separada por puntos Punto 4.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  },
+  {
+   "date": "2024-12-19",
+   "session": 88,
+   "number": 84,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los escándalos que rodean la gestión del Ministro para la Transformación Digital y de la Función Pública.",
+   "subtitle": "Votación separada por puntos Punto 5.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-19.json"
+  }
+ ]
+}

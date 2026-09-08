@@ -1,0 +1,3714 @@
+{
+ "date": "2025-11-13",
+ "session": 146,
+ "legislature": "XV",
+ "deputies": [
+  {
+   "name": "Abades Martínez, Cristina",
+   "group": "GP",
+   "seat": "2716"
+  },
+  {
+   "name": "Ábalos Meco, José Luis",
+   "group": "GMx",
+   "seat": "2701"
+  },
+  {
+   "name": "Abascal Conde, Santiago",
+   "group": "GVOX",
+   "seat": "3201"
+  },
+  {
+   "name": "Acedo Reyes, Sofía",
+   "group": "GP",
+   "seat": "3412"
+  },
+  {
+   "name": "Aceves Galindo, José Luis",
+   "group": "GS",
+   "seat": "1505"
+  },
+  {
+   "name": "Adrio Taracido, María",
+   "group": "GS",
+   "seat": "1707"
+  },
+  {
+   "name": "Agirretxea Urresti, Joseba Andoni",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2310"
+  },
+  {
+   "name": "Agüera Gago, Cristina",
+   "group": "GP",
+   "seat": "3708"
+  },
+  {
+   "name": "Aguirre Gil de Biedma, Rocío",
+   "group": "GVOX",
+   "seat": "2707"
+  },
+  {
+   "name": "Aizcorbe Torra, Juan José",
+   "group": "GVOX",
+   "seat": "2613"
+  },
+  {
+   "name": "Aizpurua Arzallus, Mertxe",
+   "group": "GEH Bildu",
+   "seat": "2501"
+  },
+  {
+   "name": "Alcaraz Martos, Francisco José",
+   "group": "GVOX",
+   "seat": "2611"
+  },
+  {
+   "name": "Alfonso Cendón, Javier",
+   "group": "GS",
+   "seat": "1204"
+  },
+  {
+   "name": "Alfonso Silvestre, Alma",
+   "group": "GP",
+   "seat": "3715"
+  },
+  {
+   "name": "Alía Aguado, María Pilar",
+   "group": "GP",
+   "seat": "2711"
+  },
+  {
+   "name": "Almirón Ruiz, Oriol",
+   "group": "GS",
+   "seat": "1804"
+  },
+  {
+   "name": "Almodóvar Sánchez, Emilia",
+   "group": "GS",
+   "seat": "4601"
+  },
+  {
+   "name": "Alonso Cantorné, Fèlix",
+   "group": "GSUMAR",
+   "seat": "2405"
+  },
+  {
+   "name": "Alós López, Ana Isabel",
+   "group": "GP",
+   "seat": "3410"
+  },
+  {
+   "name": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+   "group": "GP",
+   "seat": "3413"
+  },
+  {
+   "name": "Álvarez Fanjul, Beatriz",
+   "group": "GP",
+   "seat": "3306"
+  },
+  {
+   "name": "Álvarez González, Alicia",
+   "group": "GS",
+   "seat": "1706"
+  },
+  {
+   "name": "Álvaro Vidal, Francesc-Marc",
+   "group": "GR",
+   "seat": "2515"
+  },
+  {
+   "name": "Andala Ubbi, Teslem",
+   "group": "GSUMAR",
+   "seat": "2303"
+  },
+  {
+   "name": "Andrés Añón, Carmen",
+   "group": "GS",
+   "seat": "1702"
+  },
+  {
+   "name": "Antuñano Colina, Pablo",
+   "group": "GS",
+   "seat": "1412"
+  },
+  {
+   "name": "Aragonés Mendiguchía, Carlos",
+   "group": "GP",
+   "seat": "3616"
+  },
+  {
+   "name": "Aranda Vargas, Francisco",
+   "group": "GS",
+   "seat": "1502"
+  },
+  {
+   "name": "Argota Castro, Trinidad Carmen",
+   "group": "GS",
+   "seat": "1712"
+  },
+  {
+   "name": "Argüelles García, Silverio",
+   "group": "GP",
+   "seat": "3614"
+  },
+  {
+   "name": "Armario González, Blanca",
+   "group": "GVOX",
+   "seat": "2705"
+  },
+  {
+   "name": "Armengol Socias, Francina",
+   "group": "GS",
+   "seat": "1"
+  },
+  {
+   "name": "Arribas Maroto, Manuel",
+   "group": "GS",
+   "seat": "1504"
+  },
+  {
+   "name": "Asarta Cuevas, Alberto",
+   "group": "GVOX",
+   "seat": "2803"
+  },
+  {
+   "name": "Azorín Salar, Lázaro",
+   "group": "GS",
+   "seat": "1609"
+  },
+  {
+   "name": "Badia Casas, Eloi",
+   "group": "GSUMAR",
+   "seat": "2404"
+  },
+  {
+   "name": "Barrio Baroja, Carmelo",
+   "group": "GP",
+   "seat": "5706"
+  },
+  {
+   "name": "Bayón Rolo, Juan Andrés",
+   "group": "GP",
+   "seat": "2818"
+  },
+  {
+   "name": "Beamonte Mesa, Luis María",
+   "group": "GP",
+   "seat": "3514"
+  },
+  {
+   "name": "Belarra Urteaga, Ione",
+   "group": "GMx",
+   "seat": "2510"
+  },
+  {
+   "name": "Belda Pérez-Pedrero, Enrique",
+   "group": "GP",
+   "seat": "3714"
+  },
+  {
+   "name": "Belmonte Gómez, Rafael Benigno",
+   "group": "GP",
+   "seat": "3809"
+  },
+  {
+   "name": "Bendodo Benasayag, Elías",
+   "group": "GP",
+   "seat": "3311"
+  },
+  {
+   "name": "Bermúdez de Castro Fernández, José Antonio",
+   "group": "GP",
+   "seat": "3"
+  },
+  {
+   "name": "Blanco Arrúe, Gabriel",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Blanquer Alcaraz, Patricia",
+   "group": "GS",
+   "seat": "1205"
+  },
+  {
+   "name": "Boada Danés, Júlia",
+   "group": "GSUMAR",
+   "seat": "-1"
+  },
+  {
+   "name": "Bolaños García, Félix",
+   "group": "GS",
+   "seat": "1105"
+  },
+  {
+   "name": "Borrego Cortés, Isabel María",
+   "group": "GP",
+   "seat": "3404"
+  },
+  {
+   "name": "Bravo Baena, Juan",
+   "group": "GP",
+   "seat": "3309"
+  },
+  {
+   "name": "Cabezón Casas, Tomás",
+   "group": "GP",
+   "seat": "3612"
+  },
+  {
+   "name": "Cacho Isla, Iván",
+   "group": "GS",
+   "seat": "1808"
+  },
+  {
+   "name": "Calvo Gómez, Pilar",
+   "group": "GJxCAT",
+   "seat": "1616"
+  },
+  {
+   "name": "Camino Miñana, Víctor",
+   "group": "GS",
+   "seat": "1401"
+  },
+  {
+   "name": "Campos Asensi, Jorge",
+   "group": "GVOX",
+   "seat": "2605"
+  },
+  {
+   "name": "Canelo Matito, Andrea",
+   "group": "GS",
+   "seat": "1803"
+  },
+  {
+   "name": "Cantalapiedra Álvarez, María de las Mercedes",
+   "group": "GP",
+   "seat": "5802"
+  },
+  {
+   "name": "Carazo Hermoso, Eduardo",
+   "group": "GP",
+   "seat": "3615"
+  },
+  {
+   "name": "Carballedo Berlanga, María Eugenia",
+   "group": "GP",
+   "seat": "2710"
+  },
+  {
+   "name": "Castilla Álvarez, María Carmen",
+   "group": "GS",
+   "seat": "1306"
+  },
+  {
+   "name": "Catalán Higueras, Alberto",
+   "group": "GMx",
+   "seat": "1715"
+  },
+  {
+   "name": "Cavacasillas Rodríguez, Antonio",
+   "group": "GP",
+   "seat": "5704"
+  },
+  {
+   "name": "Celaya Brey, Javier",
+   "group": "GP",
+   "seat": "2815"
+  },
+  {
+   "name": "Cercas Mena, Blanca",
+   "group": "GS",
+   "seat": "4704"
+  },
+  {
+   "name": "Cervera Pinart, Josep Maria",
+   "group": "GJxCAT",
+   "seat": "1615"
+  },
+  {
+   "name": "Chamorro Delmo, Ricardo",
+   "group": "GVOX",
+   "seat": "2802"
+  },
+  {
+   "name": "Clavell López, Óscar",
+   "group": "GP",
+   "seat": "3504"
+  },
+  {
+   "name": "Clemente Muñoz, Raquel",
+   "group": "GP",
+   "seat": "3709"
+  },
+  {
+   "name": "Cobo Carmona, Ana",
+   "group": "GS",
+   "seat": "1605"
+  },
+  {
+   "name": "Cobo Pérez, Noelia",
+   "group": "GS",
+   "seat": "1513"
+  },
+  {
+   "name": "Cobo Vega, Manuel",
+   "group": "GP",
+   "seat": "3516"
+  },
+  {
+   "name": "Cofiño Fernández, Rafael",
+   "group": "GSUMAR",
+   "seat": "2505"
+  },
+  {
+   "name": "Conde Bajén, Agustín",
+   "group": "GP",
+   "seat": "3606"
+  },
+  {
+   "name": "Conde López, Francisco José",
+   "group": "GP",
+   "seat": "3405"
+  },
+  {
+   "name": "Conesa Coma, Ignasi",
+   "group": "GS",
+   "seat": "4706"
+  },
+  {
+   "name": "Cortés Carballo, Mario",
+   "group": "GP",
+   "seat": "3705"
+  },
+  {
+   "name": "Corujo Berriel, María Dolores",
+   "group": "GS",
+   "seat": "1410"
+  },
+  {
+   "name": "Crespín Rubio, Rafaela",
+   "group": "GS",
+   "seat": "1312"
+  },
+  {
+   "name": "Cruset Domènech, Josep Maria",
+   "group": "GJxCAT",
+   "seat": "1516"
+  },
+  {
+   "name": "Cruz Santana, Gabriel",
+   "group": "GS",
+   "seat": "1711"
+  },
+  {
+   "name": "Cruz-Guzmán García, María Soledad",
+   "group": "GP",
+   "seat": "3505"
+  },
+  {
+   "name": "Cuesta Rodríguez, María del Socorro",
+   "group": "GP",
+   "seat": "3802"
+  },
+  {
+   "name": "Cuevas Larrosa, Raúl",
+   "group": "GP",
+   "seat": "2807"
+  },
+  {
+   "name": "De la Rosa Baena, Olvido",
+   "group": "GS",
+   "seat": "1814"
+  },
+  {
+   "name": "De las Cuevas Cortés, Félix",
+   "group": "GP",
+   "seat": "3611"
+  },
+  {
+   "name": "De los Santos González, Jaime Miguel",
+   "group": "GP",
+   "seat": "3307"
+  },
+  {
+   "name": "De Luna Tobarra, Llanos",
+   "group": "GP",
+   "seat": "2715"
+  },
+  {
+   "name": "De Meer Méndez, Rocío",
+   "group": "GVOX",
+   "seat": "3401"
+  },
+  {
+   "name": "De Rosa Torner, Fernando",
+   "group": "GP",
+   "seat": "5603"
+  },
+  {
+   "name": "Del Valle Rodríguez, Emilio Jesús",
+   "group": "GVOX",
+   "seat": "2616"
+  },
+  {
+   "name": "Delgado Arce, Celso Luis",
+   "group": "GP",
+   "seat": "5605"
+  },
+  {
+   "name": "Delgado-Taramona Hernández, Jimena",
+   "group": "GP",
+   "seat": "2809"
+  },
+  {
+   "name": "Díaz Marín, Raúl",
+   "group": "GS",
+   "seat": "1802"
+  },
+  {
+   "name": "Díaz Pérez, Yolanda",
+   "group": "GSUMAR",
+   "seat": "-1"
+  },
+  {
+   "name": "Diouf Dioh, Luc Andre",
+   "group": "GS",
+   "seat": "1402"
+  },
+  {
+   "name": "Estrems Fayos, Etna",
+   "group": "GR",
+   "seat": "2409"
+  },
+  {
+   "name": "Fabra Part, Alberto",
+   "group": "GP",
+   "seat": "3407"
+  },
+  {
+   "name": "Fagúndez Campo, Antidio",
+   "group": "GS",
+   "seat": "1501"
+  },
+  {
+   "name": "Faneca López, María Luisa",
+   "group": "GS",
+   "seat": "1507"
+  },
+  {
+   "name": "Fernández Benéitez, Andrea",
+   "group": "GS",
+   "seat": "1607"
+  },
+  {
+   "name": "Fernández González, María Mercedes",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Fernández Hernández, Pedro",
+   "group": "GVOX",
+   "seat": "2805"
+  },
+  {
+   "name": "Fernández Ríos, Tomás",
+   "group": "GVOX",
+   "seat": "2706"
+  },
+  {
+   "name": "Figaredo Álvarez-Sala, José María",
+   "group": "GVOX",
+   "seat": "-1"
+  },
+  {
+   "name": "Flores Juberías, Carlos",
+   "group": "GVOX",
+   "seat": "2704"
+  },
+  {
+   "name": "Floriano Corrales, Carlos Javier",
+   "group": "GP",
+   "seat": "3605"
+  },
+  {
+   "name": "Folch Blanc, Javier José",
+   "group": "GP",
+   "seat": "3712"
+  },
+  {
+   "name": "Franco González, Silvia",
+   "group": "GP",
+   "seat": "5701"
+  },
+  {
+   "name": "Fullaondo la Cruz, Marije",
+   "group": "GEH Bildu",
+   "seat": "2602"
+  },
+  {
+   "name": "Fúnez de Gregorio, Carmen",
+   "group": "GP",
+   "seat": "3310"
+  },
+  {
+   "name": "Gallardo Barrena, Pedro Ignacio",
+   "group": "GP",
+   "seat": "3713"
+  },
+  {
+   "name": "Gamarra Ruiz-Clavijo, Concepción",
+   "group": "GP",
+   "seat": "3312"
+  },
+  {
+   "name": "García Adanero, Carlos",
+   "group": "GP",
+   "seat": "5604"
+  },
+  {
+   "name": "García Chavarría, María Montserrat",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "García Félix, Manuel",
+   "group": "GP",
+   "seat": "3815"
+  },
+  {
+   "name": "García Gomis, David",
+   "group": "GVOX",
+   "seat": "2806"
+  },
+  {
+   "name": "García Gurrutxaga, María Luisa",
+   "group": "GS",
+   "seat": "1709"
+  },
+  {
+   "name": "García López, Maribel",
+   "group": "GS",
+   "seat": "1206"
+  },
+  {
+   "name": "García Morís, Roberto",
+   "group": "GS",
+   "seat": "1411"
+  },
+  {
+   "name": "Garre Murcia, Cristóbal",
+   "group": "GP",
+   "seat": "3808"
+  },
+  {
+   "name": "Garrido Jiménez, Elisa",
+   "group": "GS",
+   "seat": "1303"
+  },
+  {
+   "name": "Garrido Valenzuela, Irene",
+   "group": "GP",
+   "seat": "3507"
+  },
+  {
+   "name": "Gavin i Valls, Isidre",
+   "group": "GJxCAT",
+   "seat": "1514"
+  },
+  {
+   "name": "Gil de Reboleño Lastortres, Esther",
+   "group": "GSUMAR",
+   "seat": "4"
+  },
+  {
+   "name": "Gil Lázaro, Ignacio",
+   "group": "GVOX",
+   "seat": "2614"
+  },
+  {
+   "name": "Gil Santiago, Carlos",
+   "group": "GP",
+   "seat": "3812"
+  },
+  {
+   "name": "Gómez Piña, Luis Antonio",
+   "group": "GS",
+   "seat": "1810"
+  },
+  {
+   "name": "González Gracia, Juan Antonio",
+   "group": "GS",
+   "seat": "1510"
+  },
+  {
+   "name": "González López, Nahuel",
+   "group": "GSUMAR",
+   "seat": "2407"
+  },
+  {
+   "name": "González Vázquez, Marta",
+   "group": "GP",
+   "seat": "5"
+  },
+  {
+   "name": "González-Robatto Perote, Jacobo",
+   "group": "GVOX",
+   "seat": "2604"
+  },
+  {
+   "name": "Gracia Blanco, Marta",
+   "group": "GS",
+   "seat": "4603"
+  },
+  {
+   "name": "Granollers Cunillera, Inés",
+   "group": "GR",
+   "seat": "2516"
+  },
+  {
+   "name": "Guardiola Salmerón, Mirian",
+   "group": "GP",
+   "seat": "3409"
+  },
+  {
+   "name": "Guijarro García, Txema",
+   "group": "GSUMAR",
+   "seat": "2401"
+  },
+  {
+   "name": "Guinart Moreno, Lídia",
+   "group": "GS",
+   "seat": "1307"
+  },
+  {
+   "name": "Gutiérrez Prieto, Sergio",
+   "group": "GS",
+   "seat": "1606"
+  },
+  {
+   "name": "Gutiérrez Santiago, Víctor",
+   "group": "GS",
+   "seat": "1304"
+  },
+  {
+   "name": "Hernández Quero, Carlos",
+   "group": "GVOX",
+   "seat": "3302"
+  },
+  {
+   "name": "Hernando Fraile, Rafael Antonio",
+   "group": "GP",
+   "seat": "3305"
+  },
+  {
+   "name": "Herrera García, Milena",
+   "group": "GS",
+   "seat": "1409"
+  },
+  {
+   "name": "Herrero Bono, José Alberto",
+   "group": "GP",
+   "seat": "3602"
+  },
+  {
+   "name": "Hispán Iglesias de Ussel, Pablo",
+   "group": "GP",
+   "seat": "3513"
+  },
+  {
+   "name": "Hita Téllez, Guillermo",
+   "group": "GS",
+   "seat": "1310"
+  },
+  {
+   "name": "Hoces Íñiguez, Ignacio",
+   "group": "GVOX",
+   "seat": "2612"
+  },
+  {
+   "name": "Hoyo Juliá, Belén",
+   "group": "GP",
+   "seat": "3604"
+  },
+  {
+   "name": "Ibáñez Hernando, Ángel",
+   "group": "GP",
+   "seat": "3206"
+  },
+  {
+   "name": "Ibáñez Mezquita, Alberto",
+   "group": "GSUMAR",
+   "seat": "2203"
+  },
+  {
+   "name": "Iniesta Egido, Isabel",
+   "group": "GS",
+   "seat": "4804"
+  },
+  {
+   "name": "Iñarritu García, Jon",
+   "group": "GEH Bildu",
+   "seat": "2603"
+  },
+  {
+   "name": "Jerez Antequera, Juan Carlos",
+   "group": "GS",
+   "seat": "4606"
+  },
+  {
+   "name": "Jiménez Linuesa, Beatriz",
+   "group": "GP",
+   "seat": "5705"
+  },
+  {
+   "name": "Jódar Pérez, Irene",
+   "group": "GS",
+   "seat": "4806"
+  },
+  {
+   "name": "Jordà i Roura, Teresa",
+   "group": "GR",
+   "seat": "2411"
+  },
+  {
+   "name": "Lago Peñas, Manuel",
+   "group": "GSUMAR",
+   "seat": "2307"
+  },
+  {
+   "name": "Lamuà Estañol, Marc",
+   "group": "GS",
+   "seat": "1503"
+  },
+  {
+   "name": "Leal Fernández, Isaura",
+   "group": "GS",
+   "seat": "7"
+  },
+  {
+   "name": "Legarda Uriarte, Mikel",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2206"
+  },
+  {
+   "name": "Lima García, Laura María",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Llamazares Domingo, Esther",
+   "group": "GP",
+   "seat": "2811"
+  },
+  {
+   "name": "López Álvarez, Patxi",
+   "group": "GS",
+   "seat": "1201"
+  },
+  {
+   "name": "López Cano, Ignacio",
+   "group": "GS",
+   "seat": "1508"
+  },
+  {
+   "name": "López Maraver, Ángel",
+   "group": "GVOX",
+   "seat": "2615"
+  },
+  {
+   "name": "López Tagliafico, Candela",
+   "group": "GSUMAR",
+   "seat": "2403"
+  },
+  {
+   "name": "López Zamora, Cristina",
+   "group": "GS",
+   "seat": "4805"
+  },
+  {
+   "name": "Lorente Anaya, Macarena",
+   "group": "GP",
+   "seat": "3813"
+  },
+  {
+   "name": "Lorenzo Cazorla, Juan Antonio",
+   "group": "GS",
+   "seat": "1612"
+  },
+  {
+   "name": "Losada Fernández, José",
+   "group": "GS",
+   "seat": "1818"
+  },
+  {
+   "name": "Macías Gata, Alfonso Carlos",
+   "group": "GP",
+   "seat": "2813"
+  },
+  {
+   "name": "Madrenas i Mir, Marta",
+   "group": "GJxCAT",
+   "seat": "1515"
+  },
+  {
+   "name": "Madrid Olmo, Bartolomé",
+   "group": "GP",
+   "seat": "2814"
+  },
+  {
+   "name": "Maldonado López, Adriana",
+   "group": "GS",
+   "seat": "1405"
+  },
+  {
+   "name": "Marcos Ortega, Milagros",
+   "group": "GP",
+   "seat": "5602"
+  },
+  {
+   "name": "Marí Bosó, José Vicente",
+   "group": "GP",
+   "seat": "3411"
+  },
+  {
+   "name": "Mariscal Anaya, Guillermo",
+   "group": "GP",
+   "seat": "8"
+  },
+  {
+   "name": "Mariscal Zabala, Manuel",
+   "group": "GVOX",
+   "seat": "3501"
+  },
+  {
+   "name": "Marqués Atés, Amador",
+   "group": "GS",
+   "seat": "1703"
+  },
+  {
+   "name": "Martín Blanco, Nacho",
+   "group": "GP",
+   "seat": "5606"
+  },
+  {
+   "name": "Martín García, Pedro Samuel",
+   "group": "GP",
+   "seat": "3805"
+  },
+  {
+   "name": "Martín Martínez, Andreu",
+   "group": "GS",
+   "seat": "4705"
+  },
+  {
+   "name": "Martín Rodríguez, Margarita",
+   "group": "GS",
+   "seat": "4602"
+  },
+  {
+   "name": "Martín Urriza, Carlos",
+   "group": "GSUMAR",
+   "seat": "2306"
+  },
+  {
+   "name": "Martínez Barbero, Verónica",
+   "group": "GSUMAR",
+   "seat": "2201"
+  },
+  {
+   "name": "Martínez Gómez, Antonio",
+   "group": "GP",
+   "seat": "3804"
+  },
+  {
+   "name": "Martínez Hierro, Lander",
+   "group": "GSUMAR",
+   "seat": "2402"
+  },
+  {
+   "name": "Martínez Labella, Ana",
+   "group": "GP",
+   "seat": "3811"
+  },
+  {
+   "name": "Martínez Ramírez, Carmen",
+   "group": "GS",
+   "seat": "1512"
+  },
+  {
+   "name": "Martínez Salmerón, Joaquín",
+   "group": "GS",
+   "seat": "1305"
+  },
+  {
+   "name": "Martínez Seijo, María Luz",
+   "group": "GS",
+   "seat": "1415"
+  },
+  {
+   "name": "Matute García de Jalón, Oskar",
+   "group": "GEH Bildu",
+   "seat": "2502"
+  },
+  {
+   "name": "Mayoral de Lamo, Alberto",
+   "group": "GS",
+   "seat": "1613"
+  },
+  {
+   "name": "Mayoral Pérez, Jesús",
+   "group": "GS",
+   "seat": "4802"
+  },
+  {
+   "name": "Mejías Sánchez, Carina",
+   "group": "GVOX",
+   "seat": "2703"
+  },
+  {
+   "name": "Melgarejo Moreno, Joaquín",
+   "group": "GP",
+   "seat": "3711"
+  },
+  {
+   "name": "Mellado Sierra, Valle",
+   "group": "GS",
+   "seat": "1602"
+  },
+  {
+   "name": "Méndez Monasterio, Lourdes",
+   "group": "GVOX",
+   "seat": "2610"
+  },
+  {
+   "name": "Mercadal Baquero, Pepe",
+   "group": "GS",
+   "seat": "1608"
+  },
+  {
+   "name": "Merino Martínez, Javier",
+   "group": "GP",
+   "seat": "3601"
+  },
+  {
+   "name": "Mesquida Mayans, Joan",
+   "group": "GP",
+   "seat": "2708"
+  },
+  {
+   "name": "Micó Micó, Àgueda",
+   "group": "GMx",
+   "seat": "2508"
+  },
+  {
+   "name": "Mínguez García, Montse",
+   "group": "GS",
+   "seat": "1202"
+  },
+  {
+   "name": "Molina León, Ainhoa",
+   "group": "GP",
+   "seat": "3803"
+  },
+  {
+   "name": "Moneo Díez, María Sandra",
+   "group": "GP",
+   "seat": "3517"
+  },
+  {
+   "name": "Montávez Aguillaume, Vicente",
+   "group": "GS",
+   "seat": "1819"
+  },
+  {
+   "name": "Montero Cuadrado, María Jesús",
+   "group": "GS",
+   "seat": "1102"
+  },
+  {
+   "name": "Montesinos de Miguel, Macarena",
+   "group": "GP",
+   "seat": "3207"
+  },
+  {
+   "name": "Moraleja Gómez, Tristana María",
+   "group": "GP",
+   "seat": "3707"
+  },
+  {
+   "name": "Morales Álvarez, Álvaro",
+   "group": "GS",
+   "seat": "1809"
+  },
+  {
+   "name": "Moreno Borrás, Cristina",
+   "group": "GP",
+   "seat": "3806"
+  },
+  {
+   "name": "Moreno Fernández, Mª Isabel",
+   "group": "GS",
+   "seat": "1816"
+  },
+  {
+   "name": "Moro Almaraz, María Jesús",
+   "group": "GP",
+   "seat": "3511"
+  },
+  {
+   "name": "Muñoz Abrines, Pedro",
+   "group": "GP",
+   "seat": "3408"
+  },
+  {
+   "name": "Muñoz de la Iglesia, Ester",
+   "group": "GP",
+   "seat": "3209"
+  },
+  {
+   "name": "Nacarino-Brabo Jiménez, Aurora",
+   "group": "GP",
+   "seat": "2712"
+  },
+  {
+   "name": "Narbona Ruiz, Cristina",
+   "group": "GS",
+   "seat": "1207"
+  },
+  {
+   "name": "Nasarre Oliva, Begoña",
+   "group": "GS",
+   "seat": "1203"
+  },
+  {
+   "name": "Navarro Lacoba, Carmen",
+   "group": "GP",
+   "seat": "9"
+  },
+  {
+   "name": "Navarro López, Pedro",
+   "group": "GP",
+   "seat": "3703"
+  },
+  {
+   "name": "Nogueras i Camero, Míriam",
+   "group": "GJxCAT",
+   "seat": "1517"
+  },
+  {
+   "name": "Noriega Gómez, Javier",
+   "group": "GP",
+   "seat": "2819"
+  },
+  {
+   "name": "Núñez Feijóo, Alberto",
+   "group": "GP",
+   "seat": "3210"
+  },
+  {
+   "name": "Núñez Guijarro, José Enrique",
+   "group": "GP",
+   "seat": "3512"
+  },
+  {
+   "name": "Ogou i Corbi, Viviane",
+   "group": "GSUMAR",
+   "seat": "-1"
+  },
+  {
+   "name": "Olano Vela, Jaime Eduardo de",
+   "group": "GP",
+   "seat": "3204"
+  },
+  {
+   "name": "Ortega Smith-Molina, Francisco Javier",
+   "group": "GVOX",
+   "seat": "3502"
+  },
+  {
+   "name": "Otero Gabirondo, Mikel",
+   "group": "GEH Bildu",
+   "seat": "2601"
+  },
+  {
+   "name": "Otero García, Mercedes",
+   "group": "GS",
+   "seat": "1812"
+  },
+  {
+   "name": "Otero Rodríguez, Patricia",
+   "group": "GS",
+   "seat": "1604"
+  },
+  {
+   "name": "Pagès i Massó, Josep",
+   "group": "GJxCAT",
+   "seat": "1614"
+  },
+  {
+   "name": "Palencia Rubio, Héctor",
+   "group": "GP",
+   "seat": "3603"
+  },
+  {
+   "name": "Paniagua Núñez, Miguel Ángel",
+   "group": "GP",
+   "seat": "2714"
+  },
+  {
+   "name": "Paré Aregall, Josep",
+   "group": "GS",
+   "seat": "4703"
+  },
+  {
+   "name": "Parra Aparicio, Julia",
+   "group": "GP",
+   "seat": "2810"
+  },
+  {
+   "name": "Parra Gallego, Agustín",
+   "group": "GP",
+   "seat": "2808"
+  },
+  {
+   "name": "Pascual Rocamora, Sandra",
+   "group": "GP",
+   "seat": "2821"
+  },
+  {
+   "name": "Pedreño Molina, Juan Luis",
+   "group": "GP",
+   "seat": "3706"
+  },
+  {
+   "name": "Peña Camarero, Esther",
+   "group": "GS",
+   "seat": "1301"
+  },
+  {
+   "name": "Perea i Conillas, María Mercè",
+   "group": "GS",
+   "seat": "1309"
+  },
+  {
+   "name": "Pérez Coronado, Pablo",
+   "group": "GP",
+   "seat": "3613"
+  },
+  {
+   "name": "Pérez López, Álvaro",
+   "group": "GP",
+   "seat": "3205"
+  },
+  {
+   "name": "Pérez Ortiz, Isabel María",
+   "group": "GS",
+   "seat": "1817"
+  },
+  {
+   "name": "Pérez Osma, Daniel",
+   "group": "GP",
+   "seat": "2816"
+  },
+  {
+   "name": "Pérez Recuerda, Isabel Gema",
+   "group": "GP",
+   "seat": "3807"
+  },
+  {
+   "name": "Pisarello Prados, Gerardo",
+   "group": "GSUMAR",
+   "seat": "6"
+  },
+  {
+   "name": "Plaza García, Inés",
+   "group": "GS",
+   "seat": "1705"
+  },
+  {
+   "name": "Poblador Pacheco, María Araceli",
+   "group": "GS",
+   "seat": "1813"
+  },
+  {
+   "name": "Pose Mesura, Modesto",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Pozueta Fernández, Isabel",
+   "group": "GEH Bildu",
+   "seat": "-1"
+  },
+  {
+   "name": "Prieto Serrano, María Isabel",
+   "group": "GP",
+   "seat": "3716"
+  },
+  {
+   "name": "Puente Santiago, Óscar",
+   "group": "GS",
+   "seat": "1108"
+  },
+  {
+   "name": "Pueyo Sanz, Jorge",
+   "group": "GSUMAR",
+   "seat": "2308"
+  },
+  {
+   "name": "Puy Fraga, Pedro",
+   "group": "GP",
+   "seat": "3406"
+  },
+  {
+   "name": "Quintana Carballo, Rosa",
+   "group": "GP",
+   "seat": "5601"
+  },
+  {
+   "name": "Quintanilla Navarro, Miguel Ángel",
+   "group": "GP",
+   "seat": "5703"
+  },
+  {
+   "name": "Quintero Hernández, Jonay",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Rallo Lombarte, Artemi",
+   "group": "GS",
+   "seat": "1413"
+  },
+  {
+   "name": "Ramajo Prada, Óscar",
+   "group": "GP",
+   "seat": "3810"
+  },
+  {
+   "name": "Ramírez Carner, Arnau",
+   "group": "GS",
+   "seat": "1603"
+  },
+  {
+   "name": "Ramírez del Río, José",
+   "group": "GVOX",
+   "seat": "2609"
+  },
+  {
+   "name": "Ramírez Martín, María Lourdes",
+   "group": "GP",
+   "seat": "2812"
+  },
+  {
+   "name": "Ramírez Moreno, María de las Nieves",
+   "group": "GS",
+   "seat": "1414"
+  },
+  {
+   "name": "Ramos Esteban, César Joaquín",
+   "group": "GS",
+   "seat": "1509"
+  },
+  {
+   "name": "Recas Martín, Alda",
+   "group": "GSUMAR",
+   "seat": "2408"
+  },
+  {
+   "name": "Redondo Cárdenas, Gonzalo",
+   "group": "GS",
+   "seat": "4803"
+  },
+  {
+   "name": "Rego Candamil, Néstor",
+   "group": "GMx",
+   "seat": "2513"
+  },
+  {
+   "name": "Renteria Lasanta, Nerea",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2309"
+  },
+  {
+   "name": "Requena Ruiz, Juan Diego",
+   "group": "GP",
+   "seat": "3506"
+  },
+  {
+   "name": "Rey de las Heras, Luis Alfonso",
+   "group": "GS",
+   "seat": "1714"
+  },
+  {
+   "name": "Reynal Reillo, Esperanza",
+   "group": "GP",
+   "seat": "3702"
+  },
+  {
+   "name": "Rivera Arias, Engracia",
+   "group": "GSUMAR",
+   "seat": "2406"
+  },
+  {
+   "name": "Rives Arcayna, Caridad",
+   "group": "GS",
+   "seat": "4807"
+  },
+  {
+   "name": "Robles López, Joaquín",
+   "group": "GVOX",
+   "seat": "2608"
+  },
+  {
+   "name": "Rodríguez Almeida, Andrés Alberto",
+   "group": "GVOX",
+   "seat": "2804"
+  },
+  {
+   "name": "Rodríguez Calleja, Patricia",
+   "group": "GP",
+   "seat": "3610"
+  },
+  {
+   "name": "Rodríguez de Millán Parro, María José",
+   "group": "GVOX",
+   "seat": "3202"
+  },
+  {
+   "name": "Rodríguez Gómez de Celis, Alfonso",
+   "group": "GS",
+   "seat": "2"
+  },
+  {
+   "name": "Rodríguez Herrer, María Elvira",
+   "group": "GP",
+   "seat": "3607"
+  },
+  {
+   "name": "Rodríguez Palacios, Javier",
+   "group": "GS",
+   "seat": "1404"
+  },
+  {
+   "name": "Rodríguez Salas, José Antonio",
+   "group": "GS",
+   "seat": "1403"
+  },
+  {
+   "name": "Rodríguez Serra, Santi",
+   "group": "GP",
+   "seat": "3820"
+  },
+  {
+   "name": "Rodríguez Suárez, Esther",
+   "group": "GS",
+   "seat": "4701"
+  },
+  {
+   "name": "Rojas García, Carlos",
+   "group": "GP",
+   "seat": "3510"
+  },
+  {
+   "name": "Rojas Manrique, Juan Antonio",
+   "group": "GP",
+   "seat": "3818"
+  },
+  {
+   "name": "Rojo Blas, Alberto",
+   "group": "GS",
+   "seat": "1701"
+  },
+  {
+   "name": "Román Jasanada, Antonio",
+   "group": "GP",
+   "seat": "3509"
+  },
+  {
+   "name": "Romaní Cantera, José Ignacio",
+   "group": "GP",
+   "seat": "5702"
+  },
+  {
+   "name": "Romero Pozo, Rafaela",
+   "group": "GS",
+   "seat": "1407"
+  },
+  {
+   "name": "Romero Vilches, María de los Reyes",
+   "group": "GVOX",
+   "seat": "3303"
+  },
+  {
+   "name": "Ros Martínez, Susana",
+   "group": "GS",
+   "seat": "1308"
+  },
+  {
+   "name": "Rueda Perelló, Patricia",
+   "group": "GVOX",
+   "seat": "2606"
+  },
+  {
+   "name": "Rufián Romero, Gabriel",
+   "group": "GR",
+   "seat": "2412"
+  },
+  {
+   "name": "Ruiz Boix, Juan Carlos",
+   "group": "GS",
+   "seat": "1311"
+  },
+  {
+   "name": "Ruiz de Diego, Víctor Javier",
+   "group": "GS",
+   "seat": "4604"
+  },
+  {
+   "name": "Ruiz Solás, María de la Cabeza",
+   "group": "GVOX",
+   "seat": "3301"
+  },
+  {
+   "name": "Sáez Alonso-Muñumer, Pablo",
+   "group": "GVOX",
+   "seat": "3402"
+  },
+  {
+   "name": "Sáez Cruz, Emilio",
+   "group": "GS",
+   "seat": "-1"
+  },
+  {
+   "name": "Sagastizabal Unzetabarrenetxea, Idoia",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2205"
+  },
+  {
+   "name": "Sahuquillo García, Luis Carlos",
+   "group": "GS",
+   "seat": "1408"
+  },
+  {
+   "name": "Sainz Martín, María",
+   "group": "GS",
+   "seat": "1815"
+  },
+  {
+   "name": "Salvador i Duch, Jordi",
+   "group": "GR",
+   "seat": "2410"
+  },
+  {
+   "name": "Sánchez Díaz, María Carmen",
+   "group": "GS",
+   "seat": "1511"
+  },
+  {
+   "name": "Sánchez García, José María",
+   "group": "GVOX",
+   "seat": "2607"
+  },
+  {
+   "name": "Sánchez Ojeda, Carlos Alberto",
+   "group": "GP",
+   "seat": "3819"
+  },
+  {
+   "name": "Sánchez Pérez-Castejón, Pedro",
+   "group": "GS",
+   "seat": "1101"
+  },
+  {
+   "name": "Sánchez Pérez, César",
+   "group": "GP",
+   "seat": "3710"
+  },
+  {
+   "name": "Sánchez Serna, Javier",
+   "group": "GMx",
+   "seat": "2509"
+  },
+  {
+   "name": "Sánchez Sierra, María del Mar",
+   "group": "GP",
+   "seat": "3414"
+  },
+  {
+   "name": "Sánchez Torregrosa, Maribel",
+   "group": "GP",
+   "seat": "3508"
+  },
+  {
+   "name": "Sancho Íñiguez, Herminio Rufino",
+   "group": "GS",
+   "seat": "1611"
+  },
+  {
+   "name": "Santana Aguilera, Ada",
+   "group": "GS",
+   "seat": "4702"
+  },
+  {
+   "name": "Santana Perera, Noemí",
+   "group": "GMx",
+   "seat": "2511"
+  },
+  {
+   "name": "Santiago Romero, Enrique Fernando",
+   "group": "GSUMAR",
+   "seat": "2204"
+  },
+  {
+   "name": "Santos Maraver, Agustín",
+   "group": "GSUMAR",
+   "seat": "2301"
+  },
+  {
+   "name": "Sanz Martínez, Luisa",
+   "group": "GS",
+   "seat": "1713"
+  },
+  {
+   "name": "Sarrià Morell, Vicent Manuel",
+   "group": "GS",
+   "seat": "1710"
+  },
+  {
+   "name": "Sastre Uyá, Miguel Ángel",
+   "group": "GP",
+   "seat": "3701"
+  },
+  {
+   "name": "Sayas López, Sergio",
+   "group": "GP",
+   "seat": "3304"
+  },
+  {
+   "name": "Sémper Pascual, Borja",
+   "group": "GP",
+   "seat": "-1"
+  },
+  {
+   "name": "Senderos Oraá, Daniel",
+   "group": "GS",
+   "seat": "1610"
+  },
+  {
+   "name": "Serrada Pariente, David",
+   "group": "GS",
+   "seat": "1506"
+  },
+  {
+   "name": "Serrano Martínez, Juan Francisco",
+   "group": "GS",
+   "seat": "1302"
+  },
+  {
+   "name": "Sierra Caballero, Francisco",
+   "group": "GSUMAR",
+   "seat": "2506"
+  },
+  {
+   "name": "Simancas Simancas, Rafael",
+   "group": "GS",
+   "seat": "1210"
+  },
+  {
+   "name": "Simarro Vicens, Carlos",
+   "group": "GP",
+   "seat": "3817"
+  },
+  {
+   "name": "Soldevilla Novials, Alba",
+   "group": "GS",
+   "seat": "4605"
+  },
+  {
+   "name": "Soler Mur, Alejandro",
+   "group": "GS",
+   "seat": "1208"
+  },
+  {
+   "name": "Taboadela Álvarez, Obdulia",
+   "group": "GS",
+   "seat": "1406"
+  },
+  {
+   "name": "Tarno Blanco, Ricardo",
+   "group": "GP",
+   "seat": "5801"
+  },
+  {
+   "name": "Tellado Filgueira, Miguel",
+   "group": "GP",
+   "seat": "3208"
+  },
+  {
+   "name": "Teniente Sánchez, Cristina",
+   "group": "GP",
+   "seat": "3503"
+  },
+  {
+   "name": "Tomás Olivares, Violante",
+   "group": "GP",
+   "seat": "2713"
+  },
+  {
+   "name": "Torres Tejada, María",
+   "group": "GP",
+   "seat": "2820"
+  },
+  {
+   "name": "Trenzano Rubio, Marta",
+   "group": "GS",
+   "seat": "1805"
+  },
+  {
+   "name": "Uriarte Bengoechea, Edurne",
+   "group": "GP",
+   "seat": "3403"
+  },
+  {
+   "name": "Valero Morales, Juan Antonio",
+   "group": "GSUMAR",
+   "seat": "2304"
+  },
+  {
+   "name": "Valido García, Cristina",
+   "group": "GMx",
+   "seat": "1716"
+  },
+  {
+   "name": "Vallugera Balañà, Pilar",
+   "group": "GR",
+   "seat": "2514"
+  },
+  {
+   "name": "Vaquero Montero, Maribel",
+   "group": "GV (EAJ-PNV)",
+   "seat": "2207"
+  },
+  {
+   "name": "Varela Pazos, Marta",
+   "group": "GP",
+   "seat": "3415"
+  },
+  {
+   "name": "Vázquez Blanco, Ana Belén",
+   "group": "GP",
+   "seat": "3608"
+  },
+  {
+   "name": "Vázquez Jiménez, María del Mar",
+   "group": "GP",
+   "seat": "2709"
+  },
+  {
+   "name": "Vedrina Conesa, María Elisa",
+   "group": "GP",
+   "seat": "2817"
+  },
+  {
+   "name": "Velarde Gómez, Martina",
+   "group": "GMx",
+   "seat": "2512"
+  },
+  {
+   "name": "Velasco Morillo, Elvira",
+   "group": "GP",
+   "seat": "3704"
+  },
+  {
+   "name": "Velasco Retamosa, José Manuel",
+   "group": "GP",
+   "seat": "3816"
+  },
+  {
+   "name": "Verano Domínguez, Bella",
+   "group": "GP",
+   "seat": "3609"
+  },
+  {
+   "name": "Verdejo Vicente, Ferran",
+   "group": "GS",
+   "seat": "1704"
+  },
+  {
+   "name": "Vidal Matas, Vicenç",
+   "group": "GSUMAR",
+   "seat": "2305"
+  },
+  {
+   "name": "Vidal Sáez, Aina",
+   "group": "GSUMAR",
+   "seat": "2202"
+  },
+  {
+   "name": "Zaragoza Alonso, José",
+   "group": "GS",
+   "seat": "1209"
+  }
+ ],
+ "votings": [
+  {
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 79.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 161,
+    "no": 186,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNYNNYYNNNYYYNYNNNYNNYNNNNNNYYYYYYYYNNNNYXYNYNNNYYYNNYYNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNYYNNNYNNNNYYYYYYYYNYNNNNYNYYNNYNNNYNNYYNNNNNYNYYNNYYNNYNYNYNNNNYYNNNNNYNNYYYNYYYNNYYNNNNYNYNNNYNNNYNNNYYYNYYNNYYNYNYYYYNNYYYYXYNYNYNNYYYNYYYYNNYYNYYNNNNYYNNYYYNNYNNYNNNNYNYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNNNNYNNYXYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNYNYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion001/VOT_20251113131219.json"
+  },
+  {
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 90.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 346,
+    "yes": 26,
+    "no": 320,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNXNNYNNNNNNNNNNNYNNNNXNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNYNXNNNNYNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion002/VOT_20251113131221.json"
+  },
+  {
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Resto de las enmiendas.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 328,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNXNNNNYNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion003/VOT_20251113131222.json"
+  },
+  {
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 43, 44, 54 y 64.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 26,
+    "no": 316,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNANNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNXNNYNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNYNNNANNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNYNXNNNNYNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYANNNNNNNNNNNNNNNNNNNNNNNNYNNNNNANNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYANNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion004/VOT_20251113131223.json"
+  },
+  {
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 46, 48 y 74.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 31,
+    "no": 316,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNYNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNXNNYNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNYNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNYNXNNNNYNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYYNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion005/VOT_20251113131224.json"
+  },
+  {
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 55, 60, 69 y 73.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 321,
+    "abstain": 7,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNXNNANNNNNNNNNNNANNNNNNNNNNNNNANNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNANNNNNNNNNYNNNNNNNNNNNNNNNNYNNNYNNNNNNNNNNNNNNNANNNNNNNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNANXNNNNYNNANNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion006/VOT_20251113131225.json"
+  },
+  {
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 57.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 153,
+    "no": 186,
+    "abstain": 8,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNYNNYYNNNYYYNANNNYNNYNNNNNNYYYYYYYYNNNNYXYNYNNNYYYNNYYNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNAYNNNYNNNNYYYYYYYYNYNNNNYNYYNNYNNNYNNAYNNNNNYNYYNNYYNNYNYNANNNNYYNNNNNYNNYYYNYYYNNYYNNNNYNYNNNYNNNYNNNYYANYYNNYYNYNYYYYNNYYYYXYNYNYNNYYYNYYYYNNYYNYYNNNNYYNNYYYNNYNNYNNNNYNYNYNNNNYNNYNNYNYYNYYNNNNANNNNNNNNANNYXYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNANYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion007/VOT_20251113131226.json"
+  },
+  {
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 58.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 154,
+    "no": 193,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNYNNYYNNNYYYNYNNNYNNYNNNNNNYYYYYYYYNNNNYXYNNNNNYYYNNYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNYYNNNYNNNNYYYYYYYYNYNNNNYNYNNNYNNNYNNYYNNNNNYNYYNNYYNNYNYNYNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNYNNNYNNNYYYNYYNNYYNYNYYYYNNYYNYXYNYNYNNNYYNYYYYNNYYNYYNNNNYYNNYYYNNYNNYNNNNYNYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNNNNYNNYXYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNYNYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion008/VOT_20251113131228.json"
+  },
+  {
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 59, 61 y 75.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 328,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNXNNNNYNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion009/VOT_20251113131229.json"
+  },
+  {
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 67.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 316,
+    "abstain": 12,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNANNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNANNNNNNNNNNNANNNNNNNNNNNNNANNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNANNNNNNNNNYNNNNNXNNNNNNNNNNYNNNYNNNANNNNNNNNNNNANNNNNNNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNANXNNNNYNNANNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYANNNNNNNNNNNNNNNNNNNNNNNNYNNNNNANNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYANNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion010/VOT_20251113131231.json"
+  },
+  {
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Resto de las enmiendas.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 26,
+    "no": 322,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNYNXNNNNYNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion011/VOT_20251113131232.json"
+  },
+  {
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 37.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 13,
+    "no": 335,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNXNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNYNNNNNNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion012/VOT_20251113131233.json"
+  },
+  {
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Resto de las enmiendas.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 27,
+    "no": 320,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNYNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNXNNYNNNYNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNXNNNNYNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNYNNNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYNNNNNNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion013/VOT_20251113131235.json"
+  },
+  {
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 12 y 24.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 26,
+    "no": 321,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNYNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNYNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNXNNNNYNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNYXNNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNNNNNNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion014/VOT_20251113131237.json"
+  },
+  {
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 13 y 26.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 149,
+    "no": 198,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNNYNNYYNNNNNYYNNNYYYNNNNNYNNYNNNNNNYYYNYYYYNNNNYYYNYNNNYYYNYYYNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNNYNNNYNNNNYYYNYYYYNYNNNNYNYYNNYNNNYNNNYNNNNNYNYYNNYYNNNNYNNNNNYYYNNNNNYNNYYYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYYYXYNYNNNNYYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNAYYNYNNNNYNNYNNYNYYNYYNNNNNNNNNNYNNNNNYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNYYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion015/VOT_20251113131238.json"
+  },
+  {
+   "number": 16,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 19 y 27.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 7,
+    "no": 340,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNXNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion016/VOT_20251113131240.json"
+  },
+  {
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 29.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 21,
+    "no": 327,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNXNNNNYNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNYNNNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion017/VOT_20251113131241.json"
+  },
+  {
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 30.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 155,
+    "no": 185,
+    "abstain": 8,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNNYNNYYNNYNNYYNNNYYYNANNNYNNYNNNNNNYYYNYYYYNNNNYYYNYNNNYYYNYYYNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNAYNNNYNNNNYYYYYYYYNYNNNNYNYYNNYNNNYNNAYNNNNNYNYYNNYYNNYNYNANNNYYYNNNNNYNNYYYNYYYNNYYNNNNYNYNNNYNNNYNNNYYNNYYNNYYNYNYYYYNNYYYYXYNYNYNNYYYNYYYYNNYYNYYNNNNYYNNYYYNNYNNYNNNNAYYNYNNNNYNNYNNYNYYNYYNNNNANNNNNYNNANNYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNAYYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion018/VOT_20251113131242.json"
+  },
+  {
+   "number": 19,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 31.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 7,
+    "no": 322,
+    "abstain": 19,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNANNNANNNNNNNNNNNANNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNANNNNNNNNNNNNANNNNNNNNNNNNNYNNNNNNNNNANNNNNNNNNNNNNNNNANNNANNNANNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNANNNNNNNNNNNNNNNNNNNNNNNNNNNNYNXNNNNANNYNNNNNNNNNNNNNNNNNNANNNNNNNNNNNNNNNNAANNNNNNNNNNNNNNNNNNNNNNNNANNNNNANNANNNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNAANNNNNNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion019/VOT_20251113131243.json"
+  },
+  {
+   "number": 20,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 32.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 12,
+    "no": 334,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNXNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNAYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion020/VOT_20251113131244.json"
+  },
+  {
+   "number": 21,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Resto de las enmiendas.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 156,
+    "no": 185,
+    "abstain": 6,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNNYNNAYNNYNNYYNNNYYYNYNNNYNNYNNNNNNYYYNYYYYNNNNYYYNYNNNYYYNYYYNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNYYNNNYNNNNYYYYYYXYNYNNNNYNYYNNYNNNYNNYYNNNNNYNYYNNYYNNYNYNYNNNAYYNNNNNYNNYYYNYYYNNYYNNNNYNYNNNYNNNYNNNYYNNYYNNYYNYNYYYYNNYYYYXYNYNYNNYYYNYYYYNNYYNYYNNNNYYNNYYYNNYNNYNNNNAAYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNANNYNNYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNYAYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion021/VOT_20251113131246.json"
+  },
+  {
+   "number": 22,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmiendas 95 y 116.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 27,
+    "no": 320,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNNXNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNYNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNYNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNYNXNNNNYNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion022/VOT_20251113131247.json"
+  },
+  {
+   "number": 23,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 101.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 154,
+    "no": 188,
+    "abstain": 6,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNNYNNAYNNYNNYYNNNYYYNYNNNYNNYNNNNNNYYNYYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNYYNNNYNNNNYYYYYYYYNYNNNNYNYNNNYNNNYNNYYNNNNNYNYYNNYYNNYNYNYNNNAYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNYNNNYNNNYYYNYYNNYYNYNYYYYNNYYNYXYNYNYNNNYYNYYYYNNYYNYYNNNNYYNNYYYNNYNNYNNNNAAYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNANNYNNYXYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNYAYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion023/VOT_20251113131248.json"
+  },
+  {
+   "number": 24,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 106.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 161,
+    "no": 184,
+    "abstain": 2,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNYNNYYNNNYYYNYNNNYNNYNNNNNNYYYYYYYYNNNNYYYNYNNNYYYNAYYNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNYYNNNYNNNNYYYYYYYYNYNNNNYNYYNNYNNNYNNYYNNNNNYNYYNNYYNNYNYNYNNNNYYNNNNNYNNYYYNYYYNNYYNNNNYNYNNNYNNNYNNNYYYNYYNNYYNYNYYYYNNYYYYXYNYNYNNYYYNYYYYNXYYNYYNNNNYYNNYYYNNYNNYNNNNANYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNNNNYNNYXYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNYNYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion024/VOT_20251113131249.json"
+  },
+  {
+   "number": 25,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Resto de las enmiendas.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 31,
+    "no": 317,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNYNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNNNNNNNNNNYNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNYNNNYNNNYNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNYNXNNNNYNNYNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNYYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNYNNYNNNXNYNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNYYNNNNYNNNNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion025/VOT_20251113131250.json"
+  },
+  {
+   "number": 26,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 131.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 298,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNANNNYNNNNNNYNNNNYYNNNNNNNNNNNYNNNYNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNYNYNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNYNNNYNYNNNNNNNNNNNNYNYNNNYYNNANNNNNYNNNNNNNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNXNYNNYNNNNNNNNNNNNNNNNNYNNNYNNYNNNNNNNNNNNYNYANNNYNNNNNNNNNNNNNNNNNNNNYNNNNNANNYNNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNNYNYANNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion026/VOT_20251113131251.json"
+  },
+  {
+   "number": 27,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 132.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 44,
+    "no": 298,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "NNNNNNANNNYNNNNNNYNNNNYYNNNNNNNNNNNYNNNYNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNYNYNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNYNNNYNYNNNNNNNNNNNNYNYNNNYYNNANNNNNYNNNNNNNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNXNYNNYNNNNNNNNNNNNNNNNNYNNNYNNYNNNNNNNNNNNYNXANNNYNNNNNNNNNNNNNNNNNNNNYNNNNNANNYNNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNNYNYANNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion027/VOT_20251113131252.json"
+  },
+  {
+   "number": 28,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 143.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 166,
+    "no": 182,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NYNNYYNNNNYNYNNYYYNNNYYYYYNYYNNYYNYYNNNYNNNNYYYYNNNYNYNYNNNYNNNYNNNNYYNYNNYNYYNYNNNYNNNNNNNNYYYYNYYYNNNNNNNNYNNNNYNNYYYNYNNYNNYYYNNYYNYYYYNNYNNYNNNYYYYNYYYYYNNNYYNYYNYYNNNYNNNNYNNYYYYNYNYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNNNXNYNNYYYNNNYNNNNYYNNYNNYYYYYNYYNNNYYNYNNYYYYYNNYNYYNNNNYNYYNYNNYNNYNYNYYYNNYNYYYYNNXNYNNYYYYYYYNNNYYYYYNYYYNNNNNYNYYYNNNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion028/VOT_20251113131253.json"
+  },
+  {
+   "number": 29,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 145.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 50,
+    "no": 298,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNYNNNYNNNNNNYNNNNYYNNNNNNNNNNNYNNNYNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNYNYNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNYNNNYNYNNNNNNNNNNNNYNYNNNYYNNYNNNNNYNNNNNNNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNXNYNNYNNNNNNNNNNNNNNNNNYNNNYNNYNNNNNNNNNNNYNYYNNNYNNNNNNNNNNNNNNNNNNNNYNNNNNYNNYNNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNNYNYYNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion029/VOT_20251113131254.json"
+  },
+  {
+   "number": 30,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 146.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 166,
+    "no": 177,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NYNNYYANNNYNYNNYYYNNNYYYYYNYYNNYYNYYNNNYNNNNYYYYNNNYNYNYNNNYNNNYNNNNYYNYNNYNYYNYNNNYNNNNNNNNYYYYNYYYNNNNNNNNYNNNNYNNYYYNYNNYNNYYYNNYYNYYYYNNYNNYNNNYYYYNYYYYYANNYYNYYNYYNNNYNNNNYNNYYYYNYNYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNNNXNYNNYYYNNNYNNNNYYNNYNNYYYYYNYYNNNYYNYNNYYYYYANYNYYNNNNYNYYNYNNYNNYNYNYYYNNYAYYYYNNXNYNNYYYYYYYNNNYYYYYNYYYNNNNNYNYYYANNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion030/VOT_20251113131256.json"
+  },
+  {
+   "number": 31,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda transaccional en Comisión nº 1.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 298,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNANNNYNNNNNNYNNNNYYNNNNNNNNNNNYNNNYNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNYNYNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNYNNNYNYNNNNNNNNNNNNYNYNNNYYNNANNNNNYNNNNNNNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNXNYNNYNNNNNNNNNNNNNNNNNYNNNYNNYNNNNNNNNNNNYNYANNNYNNNNNNNNNNNNNNNNNNNNYNNNNNANNYNNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNNYNYANNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion031/VOT_20251113131257.json"
+  },
+  {
+   "number": 32,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda transaccional en Comisión nº 2.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 46,
+    "no": 302,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNNNNNYNNNNNNYNNNNYYNNNNNNNNNNNYNNNYNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNYNYNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNYNNNYNYNNNNNNNNNNNNYNYNNNYYNNNNNNNNYNNNNNNNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNXNYNNYNNNNNNNNNNNNNNNNNYNNNYNNYNNNNNNNNNNNYNYNYNNYNNNNNNNNNNNNNNNNNNNNYNNNNNNNNYNNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNNYNYNNNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion032/VOT_20251113131259.json"
+  },
+  {
+   "number": 33,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda transaccional en Comisión nº 7.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 167,
+    "no": 176,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NYNNYYANNNYNYNNYYYNNNYYYYYNYYNNYYNYYNNNYNNNNYYYYNNNYNYNYNNNYNNNYNNNNYYNYNNYNYYNYNNNYNNNNNNNNYYYYNYYYNNNNNNNNYNNNNYNNYYYNYNNYNNYYYNNYYNYYYYNYYNNYNNNYYYYNYYYYYANNYYNYYNYYNNNYNNNNYNNYYYYNYNYYYYYYNNYNYNNYYNNYYNNYNYNNNNYYNNNNXNYNNYYYNNNYNNNNYYNNYNNYYYYYNYYNNNYYNYNNYYYYYANYNYYNNNNYNYYNYNNYNNYNYNYYYNNYAYYYYNNXNYNNYYYYYYYNNNYYYYYNYYYNNNNNYNYYYANNNNYNNNYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion033/VOT_20251113131300.json"
+  },
+  {
+   "number": 34,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Resto de las enmiendas.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 298,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "NNNNNNANNNYNNNNNNYNNNNYYNNNNNNNNNNNYNNNYNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNYNYNNNNNNNNNNNNYNNNNNNNNNNNNNNYNNNNYNNNYNYNNNNNNNNNNNNYNYNNNYYNNANNNNNYNNNNNNNNNNNNNNNNNYYNYNNNNYNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNXNYNNYNNNNNNNNNNNNNNNNNYNNNYNNYNNNNNNNNNNNYNYANNNYNNNNNNNNNNNNNNNNNNNNYNNNNNANNYNNNXNYNNNNYYYNNNNNNNNYNNNNNNNNNNNNYNYANNNNYNNNNYYN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion034/VOT_20251113131301.json"
+  },
+  {
+   "number": 35,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 178, 181, 187 y 222.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 173,
+    "no": 174,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNYYNNYYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNYYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYXYNYYNNNNYYNYYYYNNYNNYYNNNNNYNNYYYNNYNYYNNNNNYYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNYNNNNYYXYNYYNNNNNNNYYXNNNNNYNNNYYYYYNYNNNYYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion035/VOT_20251113131303.json"
+  },
+  {
+   "number": 36,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 182, 183, 189, 194 y 201.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 171,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNANNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNAYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNAYNNNNYYNYYNYYYNNNNYNANNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYXYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYANNYYNNNNANYYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNANYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion036/VOT_20251113131304.json"
+  },
+  {
+   "number": 37,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 195, 223 y 226.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 346,
+    "yes": 137,
+    "no": 176,
+    "abstain": 33,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNNNNNYNNYANNANNYYYNYYYYNNNNYYYNNNANYYYNYYYNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYNNAYNNNYANNYNNNNAYNYYNAYYNNNNYNNNNNXYYNNANNYNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYXYNYANNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNNNYNYNNAAYANYNNYNYYNYYNANANNNAANNNNNNAYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNXNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion037/VOT_20251113131305.json"
+  },
+  {
+   "number": 38,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 197.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 160,
+    "abstain": 18,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNAYYYAYNYYNNNYYYNANNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNAYNNNYYYYYYYYAYYYYNYYNNNYNYNNYYNNNYYNAYNNNNYYNYYNYYYNNANYNANNNAYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNANNYYNYNYYNNYYNNYYNYNYYYYNNYYNYXYNYYANNNYYNYYYYNNYYNYYNNNNAYNNYYYNNYNYYNNNNNAYNYNNYYYYNYNNYNYYNYYNYNYANNYYNANNANYYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNAAYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion038/VOT_20251113131307.json"
+  },
+  {
+   "number": 39,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 199.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 174,
+    "no": 166,
+    "abstain": 8,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNANNNYNNYYNNYNNYYYYYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNAYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNAYNNNNYYNYYNYYYNNNNYNANNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYXYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNANYNYNNYYYYNYNNYNYYNYYNYNYANNYYNNNNANYYXYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNANYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion039/VOT_20251113131309.json"
+  },
+  {
+   "number": 40,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 203.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 137,
+    "no": 173,
+    "abstain": 38,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNAYNNAYAANANYYNNNYYYNNNNNYNNYANNANNYYYNYYYYNNNNYYYNNNANYYYNYYYNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYNNAYNNNYANNYNNNNAYNYYNAYYNNNNYNNNNNAYYNNANNYNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYXYNYANNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNNAYNYNNAAYANYNNYNYYNYYNANANNNAANANNNNAYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNAYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion040/VOT_20251113131310.json"
+  },
+  {
+   "number": 41,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 204, 218, 221, 227 y 228.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 137,
+    "no": 211,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNNNNNYNNYNNNNNNYYYNYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNNYNNNYNNNNYYYNYYYYNYNNNNYNYNNNYNNNYNNNYNNNNNYNYYNNYYNNNNYNNNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYXYNYNNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNNNYNYNNNNYNNYNNYNYYNYYNNNNNNNNNNNNNNNNYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion041/VOT_20251113131311.json"
+  },
+  {
+   "number": 42,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 205 y 211.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 172,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNYYNNAYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYXYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNAYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYXYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNAYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNANNNNYYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNAYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion042/VOT_20251113131312.json"
+  },
+  {
+   "number": 43,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 212.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 346,
+    "yes": 176,
+    "no": 162,
+    "abstain": 8,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "YNYYNNYYYYNYNYYNNNYYYNANNNYNNYYNNYNNYYYYYYYNNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNAYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNAYNNNNYYNYYNYYXNNNNYNANNNYYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYXYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNAYYNYNNYYYYNYNNYNYYNYYNYNYANNYYNYNNANYYXYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNAYXYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion043/VOT_20251113131313.json"
+  },
+  {
+   "number": 44,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 220.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 169,
+    "no": 166,
+    "abstain": 12,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNYYNNAYYYNYNYYNNNYYYNANNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNAYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNAYNNNNYYNYYNYYYNNNNYNANNNAYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYXYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNAYNYNNYYYYNYNNYNYYNYYNYNYANNXYNANNANYYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNAAYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion044/VOT_20251113131314.json"
+  },
+  {
+   "number": 45,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 232 y 233.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 346,
+    "yes": 169,
+    "no": 165,
+    "abstain": 12,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "YNYXNNNYYYAYNYYNNNYYYNANNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNAYNNNYYYYYYYYAYYYYNYYNNNYNYNNYYNNNYYNAYNNNNYYNYYNYYYNNNNYNANNNXYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNANNYYNYNYYNNYYNNYYNYNYYYYNNYYNYXYNYYANNNYYNYYYYNNYYNYYNNNNAYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYANNYYNNNNANYYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNANYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion045/VOT_20251113131315.json"
+  },
+  {
+   "number": 46,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 3.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 148,
+    "no": 166,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNAYNNYYAANANYYNNNYYYNNNNNYNNYANNANNYYYNYYYYNNNNYYYNYNANYYYNYYYNYAYYNNYNYYNYNNYNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYYNAYNNNYANNYNNNNAYNYYNAYYNNNNYNNNNNYYYNNANNYNNYYYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYYYXYNYANNNYYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNNYYNYNNAAYANYNNYNYYNYYNANANNNAANYNNNNAYXYNYYNNNNNNNYYYNNNNNYNNNXYYYYNYNNNYYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion046/VOT_20251113131316.json"
+  },
+  {
+   "number": 47,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 4.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 144,
+    "no": 171,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNNNNNYNNYANNANNYYYNYYYYNNNNYYYNYNANYYYNYYYNYAYYNNYNYYNYNNYNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYYNAYNNNYANNYNNNNAYNYYNAYYNNNNYNNNNNNYYNNANNYNNYYYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYYYXYNYANNNYYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNNNYNYNNAAYANYNNYNYYNYYNANANNNAANNNNNNAYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion047/VOT_20251113131317.json"
+  },
+  {
+   "number": 48,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 8.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 142,
+    "no": 172,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNAYNNYYAANANYYNNNYYYNNNNNYNNYANNANNYYYNYYYYNNNNYYYNNNANYYYNYYYNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYNNAYNNNYANNYNNNNAYNYYNAYYNNNNYNNNNNYYYNNANNYNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYXYNYANNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNNYYNYNNAAYANYNNYNYYNYYNANANNNAANYNNNNAYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYXNNYYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion048/VOT_20251113131318.json"
+  },
+  {
+   "number": 49,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 9.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 169,
+    "no": 178,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNXNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYXYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion049/VOT_20251113131319.json"
+  },
+  {
+   "number": 50,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 10.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYXYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion050/VOT_20251113131321.json"
+  },
+  {
+   "number": 51,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 11.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 346,
+    "yes": 144,
+    "no": 169,
+    "abstain": 33,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNNNNNYNNYANNANNYYYNYYYYNNNNYYYNYNANYYYNYYYNYAYYNNYNYYNYNNYNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYYNAYNNNYANNYNNNNAYNYYNAYYXNNNYNNNNNNYYNNANNYNNYYYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYYYXYNYANNNYYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNNNYNYNNAAYANYNNYNYYNYYNANANNNAANNNNNNAYXYNYYNNXNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion051/VOT_20251113131322.json"
+  },
+  {
+   "number": 52,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Resto de las enmiendas.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 347,
+    "yes": 171,
+    "no": 176,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNXYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYXYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNYNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYXYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion052/VOT_20251113131323.json"
+  },
+  {
+   "number": 53,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica nº 1 presentada por los Grupos Parlamentarios Popular en el Congreso y Plurinacional SUMAR.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion053/VOT_20251113131324.json"
+  },
+  {
+   "number": 54,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica nº 2 presentada por los Grupos Parlamentarios Popular en el Congreso y Plurinacional SUMAR.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 346,
+    "yes": 346,
+    "no": 0,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "votes": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion054/VOT_20251113131325.json"
+  },
+  {
+   "number": 55,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica nº 3 presentada por los Grupos Parlamentarios Popular en el Congreso y Plurinacional SUMAR.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion055/VOT_20251113131326.json"
+  },
+  {
+   "number": 56,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica nº 4 presentada por los Grupos Parlamentarios Popular en el Congreso y Plurinacional SUMAR.",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 345,
+    "yes": 345,
+    "no": 0,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "votes": "YYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion056/VOT_20251113131327.json"
+  },
+  {
+   "number": 57,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para la modificación urgente de la regulación de los medios alternativos de solución de conflictos en la justicia y el establecimiento de criterios unificados para todos los órganos judiciales. Se vota en los términos resultantes de la incorporación de las enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV).",
+   "subtitle": "",
+   "expediente": "162/000607",
+   "totals": {
+    "present": 350,
+    "yes": 185,
+    "no": 16,
+    "abstain": 149,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YAYYAAYYYYNYAYYAAAYYYANAAAYAAYYAAYAAYYYNYYYYAAAAYYYAYAYAYYYAYYYAYYYYAAYAYYAYAAYAYYYAYYYYYYYAAAANYAAAYYYYYYYYYYYYYAYYAAAYAYYAYYAAAYYANYAAAAYYAYYAYYYAANAYANAAAYYYAAYAAYAAYYYAYYYYAYYAAAAYAYAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYYYYYAYYYAAYYYAYYYYAAYYAYYAAAANYAAYYYAAYAYYAAAAAYYAYAAYYYYAYAAYAYYAYYAYAYNAAYYAYAANAYYAYNYYAANAAAAYYYAAAAAYAAAYYYYYAYAYNYYYYYNYYYAAAA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion057/VOT_20251113131328.json"
+  },
+  {
+   "number": 58,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre el 40 aniversario de la aprobación de la Ley General de Sanidad y de reconocimiento a la figura de Ernest Lluch.",
+   "subtitle": "",
+   "expediente": "162/000615",
+   "totals": {
+    "present": 348,
+    "yes": 308,
+    "no": 33,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YYNYYYYYNNYNYYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYAYNYYYYYYYYYANYYYYYYYYYYYYAYYYYYYYYNYNYYYYYYYYYYYNNNNYYYYYYYYYYNYYYYYYAYNYYYYYNYYYYYYYNYYYYYNYYYYYYYYYYYYXYYYYNYYYYYYAYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYAYYYYXNYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYNNYNYYYYYYYYYYYYNYNYYYNNYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion058/VOT_20251113131329.json"
+  },
+  {
+   "number": 59,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Catalán Higueras), sobre la planificación eléctrica 2030 y su impacto en Navarra.",
+   "subtitle": "",
+   "expediente": "173/000133",
+   "totals": {
+    "present": 350,
+    "yes": 149,
+    "no": 0,
+    "abstain": 201,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YAAYAAYYAAYAAYYAAAYYYAAAAAYAAYAAAAAAYYYYYYYYAAAAYYYAAAAAYYYAYYYAAAYYAAYAYYAYAAAAYYYAYYYAYAYYAAAAYAAAYAAAAYYYAYYYYAYAAAAYAYAAAYAAAYAAAYAAAAAYAYYAAYYAAAAYAAAAAYYYAAAAAYAAYAYAYYYAAYYAAAAYAYAAAAAAAYAAAYYAAYYAAYYAYAYYYYAAYYAYYYAYAAAAAYYAYYYYAAYYAYYAAAAAYAAYYYAAYAAYAAAAAYYAYAAAAYAAYAAYAYYAYYAAAAAAAAAAYAAAAAYAYYYYAAYAAAAYYYAAAAAYAAAYYYYYAYAYAYYYYYYYYYAAAA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion059/VOT_20251113131330.json"
+  },
+  {
+   "number": 60,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Gobierno para facilitar la jubilación de trabajadores y trabajadoras con más de 40 años cotizados sin penalización.",
+   "subtitle": "",
+   "expediente": "173/000134",
+   "totals": {
+    "present": 350,
+    "yes": 180,
+    "no": 0,
+    "abstain": 170,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "AYAAYYYAAAYAYAAYYYAAAYYYYYAYYAAYYAYYAAAYAAAAYYYYAAAYYYAYAAAYYAAYYAAAYYAYAAYAYYYYAAAYAAAAAAAAYYYYAYYYAAAAAAAAYAAAAYAAYYYAYAYYAAYYYAAYYAYYYYAAYAAYAAAYYYYAYYYYYYAAYYAYYAYYAYAYAAAAYAAYYYYAYAYYYYYYAAYAYAAYYAAYYAAYAYAAAAYYAAYAAAYAAYYYYAAYAAAAYYAAYAAYYYYYAYYAAAYYAYAAYYYYYYAYAYYAAAAYAYYAYAAYAAYAYAYYYAAYYYYYYAAYAYAAYYYYYYYAAAYYYYYAYYYAAAAAYAYYYYAAAAYAAAYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion060/VOT_20251113131331.json"
+  },
+  {
+   "number": 61,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la estrategia fiscal del Gobierno para evitar que los trabajadores autónomos se extingan en España.",
+   "subtitle": "",
+   "expediente": "173/000135",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 177,
+    "abstain": 138,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "ANYAXNNAYYNYNAANNNAAANNNNNANNAYNNYNNAAANAAAANNNNAAANNNYNAAANYAANNYAANNANAANANNNNAAANAAAYAYAANNNNANNNAYYYYAAANAAAANAYNNNANANNYANNNAYNNANNNNXANAANYAANNNNANNNNNNAANNYNNANNANANAAAYNAANNNNANANNNNNNYANYNAANNAANNAANANAAAANNAANAAANAYNNNNAANAAAANNAANAANNNNNANNAAANNANYANNNNNNANANNYYAYNANNANAANAANYNYNNNYYNNNNNNYANANAANNNNNNNAAANNNNNANNNAAAAANANANNAAAANAAANNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion061/VOT_20251113131332.json"
+  },
+  {
+   "number": 62,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la política fiscal del Gobierno y su falta de coherencia con los intereses y necesidades de los españoles.",
+   "subtitle": "",
+   "expediente": "173/000136",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 166,
+    "abstain": 12,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNAYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNANYNYYYNYYYNAYYYNNYNYYNYNNANYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYXNYYNNNYNYANYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNAYYNNYNNYNNYAYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYAYYYNYYNNNAYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNAYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNANNNNYYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNYNAYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion062/VOT_20251113131334.json"
+  },
+  {
+   "number": 63,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen del Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "",
+   "expediente": "121/000012",
+   "totals": {
+    "present": 350,
+    "yes": 179,
+    "no": 33,
+    "abstain": 138,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "AYNAYYYANNYNYAAYYYAAAYYYYYAYYANYYNYYAAAYAAAAYYYYAAAYYYNYAAAYAAAYYNAAYYAYAAYAYYYYAAAYAAANANAAYYYYAYYYANNNNAAAYAAAAYANYYYAYAYYNAYYYANYYAYYYYNAYAAYNAAYYYYAYYYYYYAAYYNYYAYYAYAYAAANYAAYYYYAYAYYYYYYNAYNYAAYYAAYYAAYAYAAAAYYAAYAAAYANYYYYAAYAAAAYYAAYAAYYYYYAYYAAAYYAYNAYYYYYYAYAYYNNANYAYYAYAAYAAYNYNYYYNNYYYYYYNAYAYAAYYYYYYYAAAYYYYYAYYYAAAAAYAYYYYAAAAYAAAYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion063/VOT_20251113131335.json"
+  },
+  {
+   "number": 64,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al Índice.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 337,
+    "no": 6,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYAYYYYYNYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYNYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion064/VOT_20251113131337.json"
+  },
+  {
+   "number": 65,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a los puntos A, B, C y D del Preámbulo, al artículo 1, al artículo 5, al artículo 11, al artículo 16, al artículo 19, al artículo 25, al artículo 28, al artículo 29, al punto A del artículo 32, al artículo 35, al artículo 36, al artículo 39, al artículo 43, al artículo 44, al artículo 52, al artículo 99, a la disposición adicional novena, a la disposición transitoria tercera y a la disposición final vigesimosegunda (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 138,
+    "no": 212,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNNNNNYNNYNNNNNNYYYNYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNNYNNNYNNNNYYYNYYYYNYNNNNYNYNNNYNNNYNNNYNNNNNYNYYNNYYNNNNYNNNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYYNYNNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNNNYNYNNNNYNNYNNYNYYNYYNNNNNNNNNNNNNNNNYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion065/VOT_20251113131338.json"
+  },
+  {
+   "number": 66,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al punto E del Preámbulo, al punto B del artículo 32, al punto C del artículo 58, al punto A del artículo 73, al punto B del artículo 80, a la disposición adicional vigesimosexta, a la disposición adicional trigésimo primera y a la disposición final octava.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 339,
+    "no": 4,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYAYYYYYNYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYNYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion066/VOT_20251113131340.json"
+  },
+  {
+   "number": 67,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto A del artículo 2.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 139,
+    "no": 211,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNNNNNYNNYNNNNNNYYYNYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNNYNNNYNNNNYYYNYYYYNYNNNNYNYNNNYNNNYNNNYNNNNNYNYYNNYYNNNNYNNNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYYNYNNNNNYYNYYYYNNYYNYYNNNNYYNNYYYNNYNNYNNNNNNYNYNNNNYNNYNNYNYYNYYNNNNNNNNNNNNNNNNYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion067/VOT_20251113131341.json"
+  },
+  {
+   "number": 68,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto B del artículo 2.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 348,
+    "yes": 151,
+    "no": 197,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNNYNNYYNNNNNYYNNNYYYNNNNNYNNYNNNNNNYYYNYYYYNNNNYYYNYNNNYYYNYYYNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNNYNNNYNNNNYYYNYYYYNYNNNNYNYYNNYNNNYNNNYNNNNNYNYYNNYYNNNNYNNNNNYYYNNNNNYNNYYYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYYYYYNYXNNNYYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNNYYNYNNNNYNNYNNYNYYNYYNNNNNNNNNNYNNNNNYNYNYYNNXNNNNYYYNNNNNYNNNYYYYYNYNYNYYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion068/VOT_20251113131343.json"
+  },
+  {
+   "number": 69,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 4, al artículo 18, al artículo 42, al artículo 51, al artículo 57, al artículo 87, a la disposición adicional trigésimo cuarta (nueva), a la disposición adicional trigésimo novena (nueva), a la disposición transitoria segunda y a la disposición final cuarta.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 139,
+    "no": 178,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNNNNNYNNYANNANNYYYNYYYYNNNNYYYNNNANYYYNYYYNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYNNAYNNNYANNYNNNNAYNYYNAYYNNNNYNNNNNNYYNNANNYNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYYNYANNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNNNYNYNNAAYANYNNYNYYNYYNANANNNAANNNNNNAYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion069/VOT_20251113131344.json"
+  },
+  {
+   "number": 70,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 7, al artículo 12 y al artículo 14.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 139,
+    "no": 178,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNNNNNYNNYANNANNYYYNYYYYNNNNYYYNNNANYYYNYYYNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYNNAYNNNYANNYNNNNAYNYYNAYYNNNNYNNNNNNYYNNANNYNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYYNYANNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNNNYNYNNAAYANYNNYNYYNYYNANANNNAANNNNNNAYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion070/VOT_20251113131345.json"
+  },
+  {
+   "number": 71,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a los puntos A y D del artículo 13, al artículo 82 y al punto B de la disposición final vigésima.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 164,
+    "no": 181,
+    "abstain": 5,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNNYNNAYNNYNNYYNNNYYYNYNNNYNNYNNNYNNYYYYYYYYNNNNYYYNYNNNYYYNYYYNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNYYNNNYNNNNYYYYYYYYNYNNNNYNYYNNYNNNYNNYYNNNNNYNYYNNYYNNYNYNYNNNAYYNNNNNYNNYYYNYYYNNYYNNNNYNYNNNYNNNYNNNYYNNYYNNYYNYNYYYYNNYYYYYYNYNYNNYYYNYYYYNNYYNYYNNNNYYNNYYYNNYNNYNNNNYAYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNANNYNNYNYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNYAYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion071/VOT_20251113131346.json"
+  },
+  {
+   "number": 72,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto B del artículo 13.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 144,
+    "no": 205,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNNNNNYNNYNNNNNNYYYNYYYYNNNNYYYNYNNNYYYNYYYNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNNYNNNYNNNNYYYNYYYYNYNNNNYNYYNNYNNNYNNNYNNNNNYNYYNNYYNNNNYNNNNNNYYNNNNNYNNYYYNYYXNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYYYYYNYNNNNYYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNNNYNYNNNNYNNYNNYNYYNYYNNNNNNNNNNNNNNNNYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion072/VOT_20251113131347.json"
+  },
+  {
+   "number": 73,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto C del artículo 13.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 305,
+    "no": 44,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YYNYYYYYNNYNYYYYYYYYYYNYYYYYYYNYYNYYYYYNYYYYYYYYYYYYYYNYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYNYNYYYYYNYYYYYNNNNYYYYYYYYYYNYYYYYYYYNYYYYYNYNYYYYYNYYYYYNXYYYYYYYNYYYYYYYYNYYYYYYYYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYNNYNYYYYYYYYYYYYNYNNYYNNYYYYNYNYYYNYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYNYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion073/VOT_20251113131348.json"
+  },
+  {
+   "number": 74,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 15 y al artículo 96.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 146,
+    "no": 203,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNYNNNYNNYNNNNNNYYYNYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNYYNNNYNNNNYYYNYYYYNYNNNNYNYNNNYNNNYNNYYNNNNNYNYYNNYYNNNNYNYNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYYNYYNNYYNYNYYYYNNYYNYYYNYNNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNANYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNNNNYNNYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNYNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion074/VOT_20251113131350.json"
+  },
+  {
+   "number": 75,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 22.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 137,
+    "no": 208,
+    "abstain": 4,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNNNNNYNNYNNNNNNYYYAYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNNYNNNYNNNNYYYNYYYYNYNNNNYNYNNNYNNNYNNNYNNNNNYNYYNNYYNNNNYNNNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYXNYNYYYYNNYYNYYYNYNNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNANYNYNNNNYNNYNNYNYYNYYNNNNNNNNNNNNNNNNYNYNYYNNANNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYAYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion075/VOT_20251113131351.json"
+  },
+  {
+   "number": 76,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 23 y al artículo 24.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 146,
+    "no": 171,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNYNNNYNNYANNANNYYYNYYYYNNNNYYYNNNANYYYNYYYNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNYYNNNYAAAAYYYNYYYYNYANNNYNYNNAYNNNYANYYNNNNAYNYYNAYYNNNNYNYNNNNYYNNANNYNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYYNYANNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNYNYNYNNAAYANYNNYNYYNYYNANAYNNAANNNNYNAYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNYNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion076/VOT_20251113131352.json"
+  },
+  {
+   "number": 77,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 26, al artículo 55 y al punto A del artículo 60.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 175,
+    "no": 174,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYYYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYYNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYXYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYNYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion077/VOT_20251113131353.json"
+  },
+  {
+   "number": 78,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 33, al artículo 37, al artículo 38, a la disposición adicional trigésimo tercera (nueva) y al punto B de la disposición final sexta.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 138,
+    "no": 211,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNNNNNYNNYNNNNNNYYYNYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNNYNNNYNNNNYYYNYYYYNYNNNNYNYNNNYNNNYNNNYNNNNNYNYYNNYYNNNNYNNNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYYNYNNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNNNYNYNNNNYNNYNNYNYYNYYNNNNNNNNNNNNNNNNYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNANNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion078/VOT_20251113131354.json"
+  },
+  {
+   "number": 79,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 40.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 182,
+    "no": 21,
+    "abstain": 146,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYAANYYYNYAYYAAAYYYANAAAYAAYYAAYAAYYYYYYYYAAAAYYYAYAYAYYYAYYYAYYYYAAYAYYAYAAYAYYYAYYYYYYYYAAANYAAAYYYYYYYYNYYYYAYYAAAYAYYAYYAAAYYANYAAAAYYAYYAYYYAANAYANAAANYYAAYAAYAAYYYAYYYYAYYAAAAYAYAAANAAYYAYAYYNAYYAAYYAYAYYYYAAYYYYYYAYYNAAYYYAYYYYAAYYAYYAAAANYAAYYYAAYAYYAAAANNYAYAAYYYYAYAAYAYYAYYAYAYNXAYYANAANAYYAYYYYAAYAAAAYYYAAAAAYAAAYYYYYAYAANNYYYYYYYYAAAA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion079/VOT_20251113131355.json"
+  },
+  {
+   "number": 80,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 41.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 175,
+    "no": 175,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYYYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYNYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion080/VOT_20251113131356.json"
+  },
+  {
+   "number": 81,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 41.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 175,
+    "no": 174,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYYYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNXNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYNYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion081/VOT_20251113131357.json"
+  },
+  {
+   "number": 82,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 45, al artículo 46, al punto B del artículo 58, al artículo 62 y al artículo 76.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNXNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion082/VOT_20251113131358.json"
+  },
+  {
+   "number": 83,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 47, a la disposición adicional sexta, a la disposición adicional séptima y al Anexo I.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 138,
+    "no": 179,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNNNNNYNNYANNANNYYYNYYYYNNNNYYYNNNANYYYNYYYNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYNNAYNNNYANNYNNNNAYNYYNAYYNNNNYNNNNNNYYNNANNYNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYYNYANNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNNNYNYNNAAYANYNNYNYYNYYNANANNNAANNNNNNAYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion083/VOT_20251113131359.json"
+  },
+  {
+   "number": 84,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 48.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 186,
+    "no": 162,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNYYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYYYYYYNNNNYYYNYNYNYYYNYYYNYYYYNNYNYYNYNNYNYYYNXYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYYNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNYYYNNYNNYNNYYYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYYYYYNYYNNNYYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNAYYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNYNNNNYYNYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNNYYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion084/VOT_20251113131400.json"
+  },
+  {
+   "number": 85,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 49, al artículo 63, al punto A del artículo 65, al artículo 66, al artículo 67, al artículo 68, al punto B del artículo 73, al artículo 75, al artículo 77, al artículo 78, al artículo 79 y al punto A del artículo 80.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 348,
+    "yes": 166,
+    "no": 181,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "votes": "YNNYNNYYNNYNNYYNNNYYYNYNNNYNNYNNNNNNYYYYYYYYNNNNYYYNYNNNYYYNXYYNYNYYNNYNYYNYNNYNYYYNYYYNYNYYNNNYYNNNYNNNNYYYYYYYYNYNNNNYNYYNNYNNNYNNYYNNNNNYNYYNNYYNNYNYNYNNNYYYNNNNNYNNYYYNYYYNNYYNNNNYNYNNNYNNNYNNNYYNNYYNNYYNYNYYYYNNYYYYYYNXNYNNYYYNYYYYNNYYNYYNNNNYYNNYYYNNYNNYNNNNYYYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNYNNYNNYNYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNAYYYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion085/VOT_20251113131402.json"
+  },
+  {
+   "number": 86,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 50.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 146,
+    "no": 17,
+    "abstain": 186,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNAYAANYAAAAAYYAAAYYYAYAAAYAAYAAAAAAYYYNYYYYAAAAYYYANAAAYYYAYYYANAYYAAYAYYAYAANAYYYAYYYAYAYYAAAYYAAAYAAAAYYYAYYYYAYAAAAYAYNAAYAAAYAAYYAAAAAYAYYAAYXAAAAYAYAAANYYAAAAAYAAYNYAYYYAAYYAAAAYAYAAAAAAAYAAAYYYAYYAAYYAYAYYYYAAYYNYYYAYAAAANYYAYYYYAAYYAYYAAAAAYAAYYYAAYAAYAAAAYNYAYAAAAYAAYAAYAYYAYYAAAAYAAAAANAAYAAYAYNYYAANAAAAYYYAAAAAYAAAYYYYYAYAAYNYYYYNYYYAAAA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion086/VOT_20251113131403.json"
+  },
+  {
+   "number": 87,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al punto A del artículo 58 y a la disposición adicional cuadragésimo sexta (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 305,
+    "no": 45,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YYNYYYNYNNYNYYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYNYNYYYYYYYYYNNYYYYYYYYYYYYNYYYYYYYYNYNYYYYYYYYYYYNNNNYYYYYYYYYYNYYYYYYNYNYYYYYNYYYYYYYNYYYYYNYYYYYYYYYYYYNYYYYNYYYYYYNYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYNYYYYYNYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYNYYYYYNNYNYYYYYYYYYYYYNYNYYYNNYNYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion087/VOT_20251113131405.json"
+  },
+  {
+   "number": 88,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 59.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 179,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion088/VOT_20251113131407.json"
+  },
+  {
+   "number": 89,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto B del artículo 60.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 157,
+    "no": 193,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNYNNYYNNNYYYNYNNNYNNYNNNNNNYYYYYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNYYNNNYNNNNYYYYYYYYNYNNNNYNYNNNYNNNYNNYYNNNNNYNYYNNYYNNYNYNYNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNYNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYYNYNYNNNYYNYYYYNNYYNYYNNNNYYNNYYYNNYNNYNNNNYNYNYNNYNYNNYNNYNYYNYYNNNNYNNNNNNNNYNNYNYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNNYNYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion089/VOT_20251113131410.json"
+  },
+  {
+   "number": 90,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto B del artículo 65.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 138,
+    "no": 212,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNNNNNYNNYNNNNNNYYYNYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNNYNNNYNNNNYYYNYYYYNYNNNNYNYNNNYNNNYNNNYNNNNNYNYYNNYYNNNNYNNNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYYNYNNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNNNYNYNNNNYNNYNNYNYYNYYNNNNNNNNNNNNNNNNYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion090/VOT_20251113131411.json"
+  },
+  {
+   "number": 91,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 95 bis (nuevo).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 180,
+    "no": 24,
+    "abstain": 146,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNYYAANYYYNYAYYAAAYYYAYAAAYAAYYAAYAAYYYNYYYYAAAAYYYANAYAYYYAYYYNNYYYAAYAYYAYAANAYYYAYYYYYYYYAAAYYAAAYYYYYYYYNYYYYAYYAAAYAYNAYYAAAYYAYYAAAAYYAYYAYYYAANAYAYAAANYYAAYAAYAAYNYAYYYYAYYAAAAYAYAAANAAYYAYAYYYAYYAAYYAYAYYYYAAYYNYYYAYYNAANYYAYYYYAAYYAYYAAAANYAAYYYAAYAYYAAAAYNYAYAAYYYYAYAAYAYYAYYAYAYYAAYYANAAYAYYAYNYYAANAAAAYYYAAAAAYAAAYYYYYAYAAYNYYYYNYYYAAAA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion091/VOT_20251113131412.json"
+  },
+  {
+   "number": 92,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 110 (nuevo).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 341,
+    "yes": 155,
+    "no": 186,
+    "abstain": 0,
+    "absent": 9,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNYNNNYNNYNNNNNNYYYYYYYYNNNNYYYNYNNNYYYNYYYNYNYYNNYXYYNYNNYNYYYXYYYNYNYYNNNYYNNNYNNNNYYYNYYYYNYNNNNYNYYNNYNNNYNNYYNNNNNYXYYNNYYNNXNYNYNNNNYYNNNNNYNNYYYNYXYNNYYNNNNYNYNNXNNNNYNNNYYNNYYNNYYNYNYYYYNNYYYYYYNYNNNNYYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNYNYNYXNNNYNNYNNYNYYNYYNNNNYNNNNNNNNYNNYNYYYYNNYNNNNYYYNNNNNYNNNYXYYYNYNYYNYYYYYYYXNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion092/VOT_20251113131413.json"
+  },
+  {
+   "number": 93,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional decimoquinta como consecuencia de la aprobación de la enmienda número 129 del Senado.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 179,
+    "no": 171,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNYYNNYYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNYNYNYYYNYYYNYYYYNNYNYYNYNNYNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYYNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYYYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYYYYYNYYNNNYYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion093/VOT_20251113131415.json"
+  },
+  {
+   "number": 94,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional decimoquinta como consecuencia de la aprobación de la enmienda número 61 del Senado.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 317,
+    "no": 33,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YYNYYYYYNNYNYYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYNYNYYYYYYYYYYYNNNNYYYYYYYYYYNYYYYYYYYNYYYYYNYYYYYYYNYYYYYNYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYNNYNYYYYYYYYYYYYNYNYYYNNYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion094/VOT_20251113131416.json"
+  },
+  {
+   "number": 95,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional decimoséptima.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 172,
+    "no": 178,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNYYNNYYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion095/VOT_20251113131418.json"
+  },
+  {
+   "number": 96,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional vigésima.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 179,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion096/VOT_20251113131419.json"
+  },
+  {
+   "number": 97,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional trigésimo segunda (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 145,
+    "no": 171,
+    "abstain": 34,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNYNNNYNNYANNANNYYYNYYYYNNNNYYYNNNANYYYNYYYNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNYYNNNYAAAAYYYNYYYYNYANNNYNYNNAYNNNYANYYNNNNAYNYYNAYYNNNNYNYNNNNYYNNANNYNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYYNYANNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNANYNYNNAAYANYNNYNYYNYYNANAYNNAANNNNYNAYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNYNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion097/VOT_20251113131421.json"
+  },
+  {
+   "number": 98,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional trigésimo quinta (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 146,
+    "no": 203,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNYNNNYNNYNNNNNNYYYNYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNYYNNNYNNNNYYYNYYYYNYNNNNYNYNNNYNNNYNNYYNNNNNYNYYNNYYNNNNYNYNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYYNYNNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNYNYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNNNNYNNYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNYYNYXYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion098/VOT_20251113131422.json"
+  },
+  {
+   "number": 99,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional trigésimo sexta (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 143,
+    "no": 173,
+    "abstain": 34,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNNNNNYNNYANNANNYYYYYYYYNNNNYYYNNNANYYYNYYYNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYNNAYNNNYANNYNNNNAYNYYNAYYNNNNYNNNNNNYYNNANNYNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYYNYANNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNANYNYNNAAYANYNNYNYYNYYNANANNNAANNNNNNAYNYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNYNNYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion099/VOT_20251113131423.json"
+  },
+  {
+   "number": 100,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional trigésimo séptima (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 191,
+    "no": 158,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNYNNNYNNYYNNYNNYYYYYYYYNNNNYYYNYNYNYYYNYYYNYYYYNNYNYYNYNNYNYYYNYYYYYYYYNNNYYNNNYYYYYYYYNYYYYNYYNNNYNYYNYYNNNYYNYYNNNNYYNYYNYYYNNNNYNYNNNNYYNNYNNYNNYYYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNYYYNYNYYYYNNYYYYYYNYYNNNYYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNYNYNYNNYYYYNYNNYNYYNYYNYNYYNNYYNNNNYNYYNYYYYNNYXNNNYYYNNNNNYNNNYYYYYNYNNYNYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion100/VOT_20251113131425.json"
+  },
+  {
+   "number": 101,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional trigésimo octava (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 155,
+    "no": 48,
+    "abstain": 147,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNNYAANYNNNNAYYAAAYYYAYAAAYAAYNAANAAYYYNYYYYAAAAYYYAYANAYYYAYYYAYNYYAAYAYYAYAAYAYYYAYYYNYNYYAAAYYAAAYNANNYYYNYYYYAYNAAAYAYYANYAAAYNAYYAAAANYAYYANYYAANAYAYAAANYYAANAAYAAYYYAYYYNAYYAAAAYAYAAANAANYANAYYYAYYAAYYAYAYYYYAAYYYYYYAYNNAAYYYAYYYYAAYYAYYAAAANYAAYYYAAYANYAAAAYNYAYAANNYNAYAAYAYYAYYANANYAANNANAAYANYAYNYYAANAAAAYYYAAAAAYAAAYYYYYAYAYYNYYYYNYYYAAAA",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion101/VOT_20251113131426.json"
+  },
+  {
+   "number": 102,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional cuadragésima (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 169,
+    "no": 178,
+    "abstain": 2,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNANYNYNNXYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNANNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion102/VOT_20251113131427.json"
+  },
+  {
+   "number": 103,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional cuadragésimo primera (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 184,
+    "no": 165,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNYYYYNYNYYNNNYYYNYNNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYXYNNNYYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNYYNNNNYYNYYNYYYNNNNYNYNNNYYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNYYYNYNNYYYYNYNNYNYYNYYNYNYYNNYYNYNNYNYYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNYYYYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion103/VOT_20251113131429.json"
+  },
+  {
+   "number": 104,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional cuadragésimo segunda (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 137,
+    "no": 179,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNNNNNYNNYANNANNYYYNYYYYNNNNYYYNNNANYYYNYYYNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYNNAYNNNYANNYNNNNAYNYYNAYYNNNNYNNNNNNYYNNANNYNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYXYNYANNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNNNYNYNNAAYANYNNYNYYNYYNANANNNAANNNNNNAYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion104/VOT_20251113131430.json"
+  },
+  {
+   "number": 105,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional cuadragésimo tercera (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 337,
+    "no": 6,
+    "abstain": 6,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYNYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion105/VOT_20251113131431.json"
+  },
+  {
+   "number": 106,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional cuadragésimo cuarta (nueva) y a la disposición adicional cuadragésimo quinta (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 311,
+    "no": 38,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YYNYYYNYNNYNYYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYNYNYYYYYYYYYYYNNNNYYYYYYYYYYNYYYYYYXYNYYYYYNYYYYYYYNYYYYYNYYYYYYYYYYYYNYYYYNYYYYYYYYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYNYYYYYNNYNYYYYYYYYYYYYNYNYYYNNYNYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion106/VOT_20251113131433.json"
+  },
+  {
+   "number": 107,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional cuadragésimo séptima (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 346,
+    "no": 4,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion107/VOT_20251113131434.json"
+  },
+  {
+   "number": 108,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final segunda.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 179,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNNNYNYYYNYYYNNYYYNNYNYYNYNNNNYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYNNYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYNYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYNYYYNYYNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion108/VOT_20251113131435.json"
+  },
+  {
+   "number": 109,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto A de la disposición final sexta.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 310,
+    "no": 40,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YYNYYYYYNNYNYYYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYNYNYYYYYYYYYNNYYYYYYYYYYYYNYYYYYYYYNYNYYYYYYYYYYYNNNNYYYYYYYYYYNYYYYYYNYNYYYYYNYYYYYYYNYYYYYNYYYYYYYYYYYYYYYYYNYYYYYYNYYYYYNYYYYYYYYYYYYYYYYNYYNYYYYYYYYYYYYYYYYYYYYYYNYYYYYNYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYYNNYNYYYYYYYYYYYYNYNYYYNNYYYYYYNYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion109/VOT_20251113131436.json"
+  },
+  {
+   "number": 110,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final decimosexta.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 197,
+    "no": 151,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNYYNNYYYYYYNYYNNNYYYNYNNNYNNYYNNYNNYYYNYYYYNNNNYYYNYNYNYYYNYYYNYYYYNNYNYYNYNNYNYYYNYYYYYYYYNNNYYNNNYYYYYYYYYYYYYNYYNNNYNYYNYYNNNYYNYYNNNNYYNYYNYYYXNYNYNYNNNYYYNNYNNYNNYYYNYYYYNYYNNNNYNYNNNYNNYYNYNYYNNYYNNYYNYNYYYYNNYYYYYYNYYYNNYYYNYYYYNNYYNYYNNNNYYNNYYYNNYNYYNNNNAYYNYNNYYYYNYNNYNYYNYYNYNYYNNYYNYNNYNYYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNYYYYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion110/VOT_20251113131438.json"
+  },
+  {
+   "number": 111,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto A de la disposición final vigésima.",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 146,
+    "no": 204,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNYNNNYNNYNNNNNNYYYNYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNYYNNNYNNNNYYYNYYYYNYNNNNYNYNNNYNNNYNNYYNNNNNYNYYNNYYNNNNYNYNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYYNYNNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNYNYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNNNNYNNYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNYNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion111/VOT_20251113131439.json"
+  },
+  {
+   "number": 112,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final vigesimotercera (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 349,
+    "yes": 142,
+    "no": 173,
+    "abstain": 34,
+    "absent": 1,
+    "unanimous": false
+   },
+   "votes": "YNAYNNNYAANANYYNNNYYYNNNNNYNNYANNANNYYYYYYYYNNNNYYYNNNANYYYNYYYNNAYYNNYNYYNYNNNNYYYNYYYAYAYYNNNNYNNNYAAAAYYYNYYYYNYANNNYNYNNAYNNNYANNYNNNNAYNYYNAYYNNNNYNNNNNNYYNNANNYNNYNYNYYYANYYNNNNYNYNNNNNNAYNANYYNNYYNNYYNYNYYYYNNYYNYYYNYANNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNAYNNNNANXNYNNAAYANYNNYNYYNYYNANANNNAANNNNNNAYNYYYYNNYNNNNYYYNNNNNYNNNYYYYYNYNYNNYYYYYYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion112/VOT_20251113131440.json"
+  },
+  {
+   "number": 113,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final vigesimocuarta (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 172,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNYYNNNYYYNYNYYNNNYYYNNNNNYNNYYNNYNNYYYNYYYYNNNNYYYNANYNYYYNYYYNAYYYNNYNYYNYNNANYYYNYYYYYYYYNNNNYNNNYYYYYYYYNYYYYNYYNNNYNYANYYNNNYYNNYNNNNYYNYYNYYYNNNNYNNNNNNYYNNYNNYNNYAYNYYYYNYYNNNNYNYNNNNNNYYNYNYYNNYYNNYYNYNYYYYNNYYAYYYNYYNNNAYYNYYYYNNYYNYYNNNNNYNNYYYNNYNYYNNNNNNYNYNNYYYYNYNNYNYYNYYNYNYNNNYYNNNNNNYYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNNNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion113/VOT_20251113131441.json"
+  },
+  {
+   "number": 114,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final vigesimoquinta (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 145,
+    "no": 204,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYNNNNNYYNNNYYYNYNNNYNNYNNNNNNYYYNYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNYYNNNYNNNNYYYNYYYYNYNNNNYNYNNNYNNNYNNYYNNNNNYNYYNNYYNNNNYNYNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYYNYNNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNANYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNNNNYNNYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNYNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion114/VOT_20251113131442.json"
+  },
+  {
+   "number": 115,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final vigesimosexta (nueva).",
+   "expediente": "121/000009",
+   "totals": {
+    "present": 350,
+    "yes": 146,
+    "no": 203,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "votes": "YNNYNNNYYNNNNYYNNNYYYNYNNNYNNYNNNNNNYYYNYYYYNNNNYYYNNNNNYYYNYYYNNNYYNNYNYYNYNNNNYYYNYYYNYNYYNNNYYNNNYNNNNYYYNYYYYNYNNNNYNYNNNYNNNYNNYYNNNNNYNYYNNYYNNNNYNYNNNNYYNNNNNYNNYNYNYYYNNYYNNNNYNYNNNNNNNYNNNYYNNYYNNYYNYNYYYYNNYYNYYYNYNNNNNYYNYYYYNNYYNYYNNNNNYNNYYYNNYNNYNNNNANYNYNNNNYNNYNNYNYYNYYNNNNYNNNNNNNNYNNYNYNYYNNNNNNNYYYNNNNNYNNNYYYYYNYNNYNYYYYNYYYNNNN",
+   "source": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion115/VOT_20251113131443.json"
+  }
+ ]
+}

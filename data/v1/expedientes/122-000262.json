@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000262",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-28",
+   "session": 175,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Republicano, para la constitución de un consorcio de inversiones entre la Administración General del Estado y la Generalitat de Cataluña.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 168,
+    "no": 181,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-28.json"
+  }
+ ]
+}

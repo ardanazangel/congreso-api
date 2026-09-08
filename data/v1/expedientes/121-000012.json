@@ -1,0 +1,1145 @@
+{
+ "expediente": "121/000012",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-20",
+   "session": 101,
+   "number": 65,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de Ley por la que se regulan los servicios de atención a la clientela, presentada por el Grupo Parlamentario Republicano.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 340,
+    "no": 0,
+    "abstain": 5,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-20.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 79.",
+   "totals": {
+    "present": 347,
+    "yes": 161,
+    "no": 186,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 90.",
+   "totals": {
+    "present": 346,
+    "yes": 26,
+    "no": 320,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 328,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 43, 44, 54 y 64.",
+   "totals": {
+    "present": 347,
+    "yes": 26,
+    "no": 316,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 46, 48 y 74.",
+   "totals": {
+    "present": 347,
+    "yes": 31,
+    "no": 316,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 55, 60, 69 y 73.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 321,
+    "abstain": 7,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 57.",
+   "totals": {
+    "present": 347,
+    "yes": 153,
+    "no": 186,
+    "abstain": 8,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 58.",
+   "totals": {
+    "present": 347,
+    "yes": 154,
+    "no": 193,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 59, 61 y 75.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 328,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 67.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 316,
+    "abstain": 12,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 26,
+    "no": 322,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 37.",
+   "totals": {
+    "present": 348,
+    "yes": 13,
+    "no": 335,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 27,
+    "no": 320,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 12 y 24.",
+   "totals": {
+    "present": 347,
+    "yes": 26,
+    "no": 321,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 13 y 26.",
+   "totals": {
+    "present": 348,
+    "yes": 149,
+    "no": 198,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 16,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 19 y 27.",
+   "totals": {
+    "present": 347,
+    "yes": 7,
+    "no": 340,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 29.",
+   "totals": {
+    "present": 348,
+    "yes": 21,
+    "no": 327,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 30.",
+   "totals": {
+    "present": 348,
+    "yes": 155,
+    "no": 185,
+    "abstain": 8,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 19,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 31.",
+   "totals": {
+    "present": 348,
+    "yes": 7,
+    "no": 322,
+    "abstain": 19,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 20,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 32.",
+   "totals": {
+    "present": 347,
+    "yes": 12,
+    "no": 334,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 21,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 156,
+    "no": 185,
+    "abstain": 6,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 22,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmiendas 95 y 116.",
+   "totals": {
+    "present": 347,
+    "yes": 27,
+    "no": 320,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 23,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 101.",
+   "totals": {
+    "present": 348,
+    "yes": 154,
+    "no": 188,
+    "abstain": 6,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 24,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 106.",
+   "totals": {
+    "present": 347,
+    "yes": 161,
+    "no": 184,
+    "abstain": 2,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 25,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 31,
+    "no": 317,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 26,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 131.",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 298,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 27,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 132.",
+   "totals": {
+    "present": 347,
+    "yes": 44,
+    "no": 298,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 28,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 143.",
+   "totals": {
+    "present": 348,
+    "yes": 166,
+    "no": 182,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 29,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 145.",
+   "totals": {
+    "present": 348,
+    "yes": 50,
+    "no": 298,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 30,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda 146.",
+   "totals": {
+    "present": 348,
+    "yes": 166,
+    "no": 177,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 31,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda transaccional en Comisión nº 1.",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 298,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 32,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda transaccional en Comisión nº 2.",
+   "totals": {
+    "present": 348,
+    "yes": 46,
+    "no": 302,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 33,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Enmienda transaccional en Comisión nº 7.",
+   "totals": {
+    "present": 348,
+    "yes": 167,
+    "no": 176,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 34,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR Resto de las enmiendas.",
+   "totals": {
+    "present": 348,
+    "yes": 45,
+    "no": 298,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 35,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 178, 181, 187 y 222.",
+   "totals": {
+    "present": 347,
+    "yes": 173,
+    "no": 174,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 36,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 182, 183, 189, 194 y 201.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 171,
+    "abstain": 7,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 37,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 195, 223 y 226.",
+   "totals": {
+    "present": 346,
+    "yes": 137,
+    "no": 176,
+    "abstain": 33,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 38,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 197.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 160,
+    "abstain": 18,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 39,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 199.",
+   "totals": {
+    "present": 348,
+    "yes": 174,
+    "no": 166,
+    "abstain": 8,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 40,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 203.",
+   "totals": {
+    "present": 348,
+    "yes": 137,
+    "no": 173,
+    "abstain": 38,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 41,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 204, 218, 221, 227 y 228.",
+   "totals": {
+    "present": 348,
+    "yes": 137,
+    "no": 211,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 42,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 205 y 211.",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 172,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 43,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 212.",
+   "totals": {
+    "present": 346,
+    "yes": 176,
+    "no": 162,
+    "abstain": 8,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 44,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 220.",
+   "totals": {
+    "present": 347,
+    "yes": 169,
+    "no": 166,
+    "abstain": 12,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 45,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 232 y 233.",
+   "totals": {
+    "present": 346,
+    "yes": 169,
+    "no": 165,
+    "abstain": 12,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 46,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 3.",
+   "totals": {
+    "present": 347,
+    "yes": 148,
+    "no": 166,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 47,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 4.",
+   "totals": {
+    "present": 348,
+    "yes": 144,
+    "no": 171,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 48,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 8.",
+   "totals": {
+    "present": 347,
+    "yes": 142,
+    "no": 172,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 49,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 9.",
+   "totals": {
+    "present": 347,
+    "yes": 169,
+    "no": 178,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 50,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 10.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 178,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 51,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 11.",
+   "totals": {
+    "present": 346,
+    "yes": 144,
+    "no": 169,
+    "abstain": 33,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 52,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 171,
+    "no": 176,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 53,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica nº 1 presentada por los Grupos Parlamentarios Popular en el Congreso y Plurinacional SUMAR.",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 54,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica nº 2 presentada por los Grupos Parlamentarios Popular en el Congreso y Plurinacional SUMAR.",
+   "totals": {
+    "present": 346,
+    "yes": 346,
+    "no": 0,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 55,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica nº 3 presentada por los Grupos Parlamentarios Popular en el Congreso y Plurinacional SUMAR.",
+   "totals": {
+    "present": 348,
+    "yes": 348,
+    "no": 0,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 56,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "Correcciones técnicas. Enmienda de corrección técnica nº 4 presentada por los Grupos Parlamentarios Popular en el Congreso y Plurinacional SUMAR.",
+   "totals": {
+    "present": 345,
+    "yes": 345,
+    "no": 0,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 63,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen del Proyecto de Ley por la que se regulan los servicios de atención a la clientela.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 179,
+    "no": 33,
+    "abstain": 138,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 16,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención al cliente (antes denominado Proyecto de Ley por la que se regulan los servicios de atención a la clientela).",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al apartado II, párrafos primero, tercero y cuarto, y al apartado III, párrafo decimoquinto del Preámbulo; al artículo 21.6 (nuevo); y a la disposición final novena.",
+   "totals": {
+    "present": 347,
+    "yes": 138,
+    "no": 178,
+    "abstain": 31,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 17,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención al cliente (antes denominado Proyecto de Ley por la que se regulan los servicios de atención a la clientela).",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al apartado III, párrafo quinto del Preámbulo; al nuevo párrafo del artículo 3.2; y al artículo 10.3.",
+   "totals": {
+    "present": 347,
+    "yes": 169,
+    "no": 173,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 18,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención al cliente (antes denominado Proyecto de Ley por la que se regulan los servicios de atención a la clientela).",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 3.8 y al artículo 7.4.",
+   "totals": {
+    "present": 348,
+    "yes": 170,
+    "no": 173,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 19,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención al cliente (antes denominado Proyecto de Ley por la que se regulan los servicios de atención a la clientela).",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 3, apartados 15 y 16 (nuevos); al artículo 7.2; al artículo 12.3; al artículo 13.6; y al artículo 17.2.",
+   "totals": {
+    "present": 348,
+    "yes": 138,
+    "no": 210,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 20,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención al cliente (antes denominado Proyecto de Ley por la que se regulan los servicios de atención a la clientela).",
+   "subtitle": "Votación separada de las enmiendas Enmienda al primer párrafo del artículo 9.1, por la que se sustituye \"adoptar\" por \"adaptar\".",
+   "totals": {
+    "present": 348,
+    "yes": 323,
+    "no": 20,
+    "abstain": 5,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 21,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención al cliente (antes denominado Proyecto de Ley por la que se regulan los servicios de atención a la clientela).",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 22.",
+   "totals": {
+    "present": 347,
+    "yes": 145,
+    "no": 171,
+    "abstain": 31,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 22,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención al cliente (antes denominado Proyecto de Ley por la que se regulan los servicios de atención a la clientela).",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final cuarta.",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 171,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 23,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención al cliente (antes denominado Proyecto de Ley por la que se regulan los servicios de atención a la clientela).",
+   "subtitle": "Votación separada de las enmiendas Enmienda al apartado 4 de la disposición transitoria única.",
+   "totals": {
+    "present": 348,
+    "yes": 290,
+    "no": 26,
+    "abstain": 32,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2025-12-11",
+   "session": 154,
+   "number": 24,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley por la que se regulan los servicios de atención al cliente (antes denominado Proyecto de Ley por la que se regulan los servicios de atención a la clientela).",
+   "subtitle": "Votación separada de las enmiendas Resto de enmiendas.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-11.json"
+  }
+ ]
+}

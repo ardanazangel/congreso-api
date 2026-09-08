@@ -1,0 +1,159 @@
+{
+ "expediente": "162/000793",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la defensa del transporte en España ante los incumplimientos de la Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 347,
+    "yes": 180,
+    "no": 31,
+    "abstain": 136,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la defensa del transporte en España ante los incumplimientos de la Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 346,
+    "yes": 180,
+    "no": 31,
+    "abstain": 135,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la defensa del transporte en España ante los incumplimientos de la Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 347,
+    "yes": 186,
+    "no": 31,
+    "abstain": 130,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la defensa del transporte en España ante los incumplimientos de la Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 347,
+    "yes": 185,
+    "no": 31,
+    "abstain": 131,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 6,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la defensa del transporte en España ante los incumplimientos de la Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 347,
+    "yes": 185,
+    "no": 152,
+    "abstain": 10,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 7,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la defensa del transporte en España ante los incumplimientos de la Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 347,
+    "yes": 185,
+    "no": 152,
+    "abstain": 10,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 8,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la defensa del transporte en España ante los incumplimientos de la Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 347,
+    "yes": 180,
+    "no": 37,
+    "abstain": 130,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 9,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la defensa del transporte en España ante los incumplimientos de la Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada por puntos. Punto 8.",
+   "totals": {
+    "present": 347,
+    "yes": 180,
+    "no": 31,
+    "abstain": 136,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 10,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la defensa del transporte en España ante los incumplimientos de la Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada por puntos. Punto 9.",
+   "totals": {
+    "present": 345,
+    "yes": 158,
+    "no": 31,
+    "abstain": 156,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  }
+ ]
+}

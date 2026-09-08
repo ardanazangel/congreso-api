@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000315",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-10",
+   "session": 66,
+   "number": 6,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, para reducir la tasa máxima de alcohol en sangre permitida a todos los conductores de vehículos motorizados y no motorizados.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 175,
+    "no": 33,
+    "abstain": 138,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-10.json"
+  }
+ ]
+}

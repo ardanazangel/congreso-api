@@ -1,0 +1,159 @@
+{
+ "expediente": "173/000079",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 8,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que adoptará el Gobierno para evitar que el Pacto Verde europeo arrase el campo español.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 177,
+    "abstain": 138,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que adoptará el Gobierno para evitar que el Pacto Verde europeo arrase el campo español.",
+   "subtitle": "Votación separada por puntos Punto 2.",
+   "totals": {
+    "present": 347,
+    "yes": 32,
+    "no": 315,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que adoptará el Gobierno para evitar que el Pacto Verde europeo arrase el campo español.",
+   "subtitle": "Votación separada por puntos Punto 3.",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 176,
+    "abstain": 139,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que adoptará el Gobierno para evitar que el Pacto Verde europeo arrase el campo español.",
+   "subtitle": "Votación separada por puntos Punto 4.",
+   "totals": {
+    "present": 341,
+    "yes": 32,
+    "no": 174,
+    "abstain": 135,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 12,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que adoptará el Gobierno para evitar que el Pacto Verde europeo arrase el campo español.",
+   "subtitle": "Votación separada por puntos Punto 5.",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 177,
+    "abstain": 138,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 13,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que adoptará el Gobierno para evitar que el Pacto Verde europeo arrase el campo español.",
+   "subtitle": "Votación separada por puntos Punto 6.",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 177,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 14,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que adoptará el Gobierno para evitar que el Pacto Verde europeo arrase el campo español.",
+   "subtitle": "Votación separada por puntos Punto 7.",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 15,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que adoptará el Gobierno para evitar que el Pacto Verde europeo arrase el campo español.",
+   "subtitle": "Votación separada por puntos Punto 8.",
+   "totals": {
+    "present": 348,
+    "yes": 171,
+    "no": 177,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 16,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que adoptará el Gobierno para evitar que el Pacto Verde europeo arrase el campo español.",
+   "subtitle": "Votación separada por puntos Punto 9.",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 177,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  }
+ ]
+}

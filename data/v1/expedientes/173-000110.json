@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000110",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-26",
+   "session": 124,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las acciones que va a adoptar el Gobierno para recuperar la dignidad de las instituciones y restablecer la imprescindible estabilidad política.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 170,
+    "no": 174,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-26.json"
+  }
+ ]
+}

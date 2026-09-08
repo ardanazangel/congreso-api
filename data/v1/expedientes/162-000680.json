@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000680",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-12",
+   "session": 159,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre actuaciones urgentes para corregir el caos ferroviario. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 156,
+    "abstain": 20,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-12.json"
+  }
+ ]
+}

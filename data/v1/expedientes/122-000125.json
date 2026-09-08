@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000125",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-29",
+   "session": 71,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, para garantizar la representación internacional de las federaciones deportivas españolas en las actividades y competiciones deportivas de carácter internacional.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-29.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "127/000002",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-11",
+   "session": 144,
+   "number": 1,
+   "heading": "Debate de totalidad de Propuestas de Reforma de Estatutos de Autonomía.",
+   "title": "Propuesta de reforma del Estatuto de Autonomía para Castilla-La Mancha.",
+   "subtitle": "",
+   "totals": {
+    "present": 335,
+    "yes": 288,
+    "no": 34,
+    "abstain": 13,
+    "absent": 15,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-11.json"
+  }
+ ]
+}

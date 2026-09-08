@@ -1,0 +1,74 @@
+{
+ "expediente": "162/000770",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, relativa al parque público de vivienda y al refuerzo de la transparencia y los mecanismos de control en los procesos de adjudicación de vivienda protegida.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 347,
+    "yes": 173,
+    "no": 32,
+    "abstain": 142,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-20.json"
+  },
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, relativa al parque público de vivienda y al refuerzo de la transparencia y los mecanismos de control en los procesos de adjudicación de vivienda protegida.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 347,
+    "yes": 310,
+    "no": 32,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-20.json"
+  },
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, relativa al parque público de vivienda y al refuerzo de la transparencia y los mecanismos de control en los procesos de adjudicación de vivienda protegida.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 347,
+    "yes": 310,
+    "no": 32,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-20.json"
+  },
+  {
+   "date": "2026-05-20",
+   "session": 180,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, relativa al parque público de vivienda y al refuerzo de la transparencia y los mecanismos de control en los procesos de adjudicación de vivienda protegida.",
+   "subtitle": "Votación separada por puntos. Resto de la Proposición no de Ley.",
+   "totals": {
+    "present": 346,
+    "yes": 164,
+    "no": 175,
+    "abstain": 7,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-20.json"
+  }
+ ]
+}

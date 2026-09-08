@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000134",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 60,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Gobierno para facilitar la jubilación de trabajadores y trabajadoras con más de 40 años cotizados sin penalización.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 180,
+    "no": 0,
+    "abstain": 170,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  }
+ ]
+}

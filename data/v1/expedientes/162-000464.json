@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000464",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-04-10",
+   "session": 106,
+   "number": 9,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre reconocimiento y apoyo al pueblo gitano.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 312,
+    "no": 0,
+    "abstain": 33,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-04-10.json"
+  }
+ ]
+}

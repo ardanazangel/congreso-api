@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000273",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-16",
+   "session": 186,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para regular el procedimiento de designación de candidaturas a juez titular y jueces ad hoc del Tribunal Europeo de Derechos Humanos y a jueces y abogados generales del Tribunal de Justicia y del Tribunal General de la Unión Europea, que corresponde proponer al Reino de España.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 170,
+    "no": 174,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-16.json"
+  }
+ ]
+}

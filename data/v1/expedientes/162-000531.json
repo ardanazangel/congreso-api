@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000531",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-22",
+   "session": 141,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, de desarrollo de medidas que incentiven el teletrabajo para fijar población joven en entornos rurales.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 172,
+    "no": 33,
+    "abstain": 143,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-22.json"
+  }
+ ]
+}

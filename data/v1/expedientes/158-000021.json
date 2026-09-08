@@ -1,0 +1,23 @@
+{
+ "expediente": "158/000021",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-05-28",
+   "session": 183,
+   "number": 15,
+   "heading": "Propuestas de creación de Subcomisiones.",
+   "title": "Propuesta de la Comisión Constitucional, de creación de una Subcomisión al objeto de analizar la eventual adopción de medidas legislativas relativas al uso de prendas que cubran totalmente el rostro, como el velo integral femenino, en espacios y establecimientos públicos, así como sus consecuencias.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 303,
+    "no": 31,
+    "abstain": 14,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-28.json"
+  }
+ ]
+}

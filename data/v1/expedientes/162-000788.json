@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000788",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-11",
+   "session": 185,
+   "number": 25,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, de defensa del derecho a la participación en los asuntos públicos. Se vota en sus términos.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 176,
+    "no": 28,
+    "abstain": 144,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-11.json"
+  }
+ ]
+}

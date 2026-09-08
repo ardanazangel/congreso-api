@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000496",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-19",
+   "session": 121,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, relativa a la condena de la prohibición de la marcha del orgullo LGTBI en Hungría y en defensa de los derechos humanos.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 176,
+    "no": 33,
+    "abstain": 136,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-19.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000005",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-06",
+   "session": 19,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Del Grupo Parlamentario VOX, sobre la planificación y asistencia sanitaria que va a desarrollar la Ministra de Sanidad para asegurar el derecho a la protección de la salud de todos los españoles, y en particular la de aquellos que padecen enfermedades crónicas gravemente limitantes. Se vota en sus términos.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 33,
+    "no": 174,
+    "abstain": 137,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-06.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000150",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-18",
+   "session": 99,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Junts per Catalunya, de medidas urgentes para hacer frente a la ocupación ilegal de inmuebles (Orgánica).",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 300,
+    "no": 44,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-18.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000084",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-20",
+   "session": 101,
+   "number": 12,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que adoptará el Gobierno para la restauración de las zonas arrasadas por la gota fría en Valencia.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 33,
+    "no": 177,
+    "abstain": 136,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-20.json"
+  }
+ ]
+}

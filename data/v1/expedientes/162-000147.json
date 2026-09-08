@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000147",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-21",
+   "session": 33,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre una Estrategia Nacional frente a la soledad no deseada. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Popular en el Congreso y el Grupo Parlamentario Socialista.",
+   "subtitle": "",
+   "totals": {
+    "present": 341,
+    "yes": 285,
+    "no": 0,
+    "abstain": 56,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-21.json"
+  }
+ ]
+}

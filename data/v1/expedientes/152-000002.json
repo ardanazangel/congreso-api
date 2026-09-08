@@ -1,0 +1,23 @@
+{
+ "expediente": "152/000002",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-23",
+   "session": 70,
+   "number": 31,
+   "heading": "Solicitud de prórroga de Comisiones de Investigación.",
+   "title": "Solicitud de prórroga, hasta la finalización de los trabajos que tiene atribuidos, del plazo para la realización del Dictamen de la Comisión de Investigación sobre el derecho a saber la verdad y las implicaciones derivadas de los atentados de Barcelona y Cambrils del 17 de agosto de 2017.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 177,
+    "no": 171,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-23.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000409",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-02-19",
+   "session": 93,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa a la precariedad que están sufriendo las familias españolas ante el aumento de los precios y de los impuestos que gravan la cesta de la compra.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 32,
+    "no": 175,
+    "abstain": 137,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-19.json"
+  }
+ ]
+}

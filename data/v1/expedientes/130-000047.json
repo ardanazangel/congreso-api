@@ -1,0 +1,23 @@
+{
+ "expediente": "130/000047",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 51,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 16/2026, de 16 de junio, de medidas para garantizar la prestación del servicio público encomendado a la Corporación Radio Televisión Española, S.A., S.M.E.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 172,
+    "no": 178,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  }
+ ]
+}

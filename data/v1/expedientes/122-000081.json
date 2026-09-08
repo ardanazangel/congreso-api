@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000081",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-19",
+   "session": 77,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica de modificación de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, para el reconocimiento del carácter de agentes de la autoridad a los funcionarios de cuerpos penitenciarios en el ejercicio de sus funciones.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 295,
+    "no": 40,
+    "abstain": 11,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-19.json"
+  }
+ ]
+}

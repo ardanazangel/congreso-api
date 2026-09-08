@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000633",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-19",
+   "session": 148,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para defender en el Consejo de la Unión Europea una financiación adecuada para la Política Agraria Común y la Política Pesquera Común en el Marco Financiero Plurianual 2028-2034.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 140,
+    "no": 5,
+    "abstain": 201,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-19.json"
+  }
+ ]
+}

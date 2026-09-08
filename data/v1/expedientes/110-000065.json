@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000065",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-18",
+   "session": 166,
+   "number": 7,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo entre el Reino de España y la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura relativo al IV Foro Global contra el Racismo y la Discriminación, Barcelona, Reino de España, del 9 al 11 de diciembre de 2024, hecho en París el 6 de diciembre de 2024.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 163,
+    "no": 170,
+    "abstain": 15,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-18.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000061",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-12-12",
+   "session": 11,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre la ampliación norte del Puerto de Valencia. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Socialista.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 260,
+    "no": 52,
+    "abstain": 38,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-12.json"
+  }
+ ]
+}

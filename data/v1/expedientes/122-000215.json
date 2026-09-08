@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000215",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-09",
+   "session": 129,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, para el impulso de la inclusión laboral de las personas con discapacidad a través de la cuota de reserva de empleo en las empresas.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 313,
+    "no": 33,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-09.json"
+  }
+ ]
+}

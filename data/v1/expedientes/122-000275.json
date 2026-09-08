@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000275",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-05-26",
+   "session": 181,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, para la promoción del consumo de alimentos y bebidas saludables.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 166,
+    "no": 178,
+    "abstain": 5,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-05-26.json"
+  }
+ ]
+}

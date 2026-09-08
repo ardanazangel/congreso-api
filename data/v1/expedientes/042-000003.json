@@ -1,0 +1,23 @@
+{
+ "expediente": "042/000003",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-12-19",
+   "session": 13,
+   "number": 13,
+   "heading": "Dictámenes de la Comisión del Estatuto de los Diputados.",
+   "title": "Dictamen de la Comisión del Estatuto de los Diputados sobre declaración de actividades de Excmos. Sres. Diputados.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 341,
+    "no": 2,
+    "abstain": 3,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-19.json"
+  }
+ ]
+}

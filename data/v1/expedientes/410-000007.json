@@ -1,0 +1,142 @@
+{
+ "expediente": "410/000007",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-20",
+   "session": 112,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de los Grupos Parlamentarios Socialista y Vasco (EAJ-PNV), de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 176,
+    "no": 170,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-20.json"
+  },
+  {
+   "date": "2025-07-08",
+   "session": 125,
+   "number": 1,
+   "heading": "Debates de totalidad de iniciativas de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "Enmiendas de totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo presentada por el Grupo Parlamentario VOX.",
+   "totals": {
+    "present": 340,
+    "yes": 166,
+    "no": 174,
+    "abstain": 0,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-08.json"
+  },
+  {
+   "date": "2025-07-08",
+   "session": 125,
+   "number": 2,
+   "heading": "Debates de totalidad de iniciativas de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "Enmiendas de totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "totals": {
+    "present": 340,
+    "yes": 166,
+    "no": 174,
+    "abstain": 0,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-08.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Enmienda 13",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 177,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Votación en bloque de las enmiendas.",
+   "totals": {
+    "present": 345,
+    "yes": 169,
+    "no": 175,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "Correcciones técnicas Enmienda de corrección técnica presentada por el Grupo Parlamentario Socialista.",
+   "totals": {
+    "present": 347,
+    "yes": 177,
+    "no": 170,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "Votación del dictamen. Votación del dictamen.",
+   "totals": {
+    "present": 347,
+    "yes": 177,
+    "no": 170,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  },
+  {
+   "date": "2025-07-22",
+   "session": 128,
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas de reforma del Reglamento del Congreso de los Diputados.",
+   "title": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+   "subtitle": "Votación de totalidad. Votación final de totalidad, a los efectos de la disposición final segunda del Reglamento.",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 171,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-07-22.json"
+  }
+ ]
+}

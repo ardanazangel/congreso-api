@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000021",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-04-23",
+   "session": 36,
+   "number": 23,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Valido), sobre la solución que va a dar el Gobierno a la actual situación de incompatibilidad para recibir una pensión no contributiva con el complemento de la Renta Canaria de Ciudadanía. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Plurinacional SUMAR.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 310,
+    "no": 0,
+    "abstain": 33,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-23.json"
+  }
+ ]
+}

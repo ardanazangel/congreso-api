@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000016",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-21",
+   "session": 33,
+   "number": 3,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Republicano, sobre la rendición de cuentas por las negligencias cometidas contra trabajadoras y trabajadores de los órganos pertenecientes al Ministerio de Ciencia, Innovación y Universidades. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Republicano.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 311,
+    "no": 33,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-21.json"
+  }
+ ]
+}

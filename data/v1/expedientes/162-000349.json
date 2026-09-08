@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000349",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-28",
+   "session": 82,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre la aplicación de la Tasa en relación con los residuos municipales que deben implantar las entidades locales por los servicios que prestan.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 167,
+    "no": 177,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-28.json"
+  }
+ ]
+}

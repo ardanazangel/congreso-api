@@ -1,0 +1,125 @@
+{
+ "expediente": "173/000036",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 29,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 346,
+    "yes": 174,
+    "no": 172,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 30,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 347,
+    "yes": 181,
+    "no": 166,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 31,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 169,
+    "abstain": 6,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 32,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 163,
+    "abstain": 13,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 33,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 348,
+    "yes": 176,
+    "no": 170,
+    "abstain": 2,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 34,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 348,
+    "yes": 137,
+    "no": 178,
+    "abstain": 33,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  },
+  {
+   "date": "2024-06-27",
+   "session": 52,
+   "number": 35,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 348,
+    "yes": 182,
+    "no": 166,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-27.json"
+  }
+ ]
+}

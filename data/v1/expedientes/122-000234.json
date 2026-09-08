@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000234",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-17",
+   "session": 160,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, sobre la evaluación del impacto en el ámbito de la juventud de las políticas públicas.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 172,
+    "no": 174,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-17.json"
+  }
+ ]
+}

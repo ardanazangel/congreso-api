@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000102",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-06",
+   "session": 19,
+   "number": 3,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Del Grupo Parlamentario Popular en el Congreso, relativa a las actuaciones que el Gobierno debe tomar en relación con las infraestructuras y el transporte en la Comunidad Autónoma de Galicia. Se vota en sus términos.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 171,
+    "no": 3,
+    "abstain": 169,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-06.json"
+  }
+ ]
+}

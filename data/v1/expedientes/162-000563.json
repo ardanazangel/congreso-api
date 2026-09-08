@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000563",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-24",
+   "session": 134,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Junts per Catalunya, sobre la modificación del artículo 30.2 del RD 295/2009 referente a la solicitud de la prestación económica por paternidad y resolución de la misma.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 176,
+    "no": 171,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-24.json"
+  }
+ ]
+}

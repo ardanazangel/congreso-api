@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000091",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-11",
+   "session": 44,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica de modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, en materia de multirreincidencia en los delitos de hurto y estafa.",
+   "subtitle": "",
+   "totals": {
+    "present": 342,
+    "yes": 302,
+    "no": 40,
+    "abstain": 0,
+    "absent": 8,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-11.json"
+  }
+ ]
+}

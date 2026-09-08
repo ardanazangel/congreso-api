@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000044",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-14",
+   "session": 111,
+   "number": 7,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo Marco Avanzado entre la Unión Europea y sus Estados miembros, por una parte, y la República de Chile, por otra, hecho ad referendum en Bruselas el 13 de diciembre de 2023.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 263,
+    "no": 61,
+    "abstain": 20,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-14.json"
+  }
+ ]
+}

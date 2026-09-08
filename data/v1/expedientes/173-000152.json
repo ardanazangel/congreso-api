@@ -1,0 +1,142 @@
+{
+ "expediente": "173/000152",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 11,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Micó Micó), relativa al deterioro y a la insuficiencia estructural del servicio de Rodalies en el País Valencià.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 350,
+    "yes": 53,
+    "no": 290,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 12,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Micó Micó), relativa al deterioro y a la insuficiencia estructural del servicio de Rodalies en el País Valencià.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 349,
+    "yes": 188,
+    "no": 0,
+    "abstain": 161,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 13,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Micó Micó), relativa al deterioro y a la insuficiencia estructural del servicio de Rodalies en el País Valencià.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 349,
+    "yes": 316,
+    "no": 0,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 14,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Micó Micó), relativa al deterioro y a la insuficiencia estructural del servicio de Rodalies en el País Valencià.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 349,
+    "yes": 316,
+    "no": 0,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 15,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Micó Micó), relativa al deterioro y a la insuficiencia estructural del servicio de Rodalies en el País Valencià.",
+   "subtitle": "Votación separada por puntos. Punto 5.",
+   "totals": {
+    "present": 350,
+    "yes": 188,
+    "no": 0,
+    "abstain": 162,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 16,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Micó Micó), relativa al deterioro y a la insuficiencia estructural del servicio de Rodalies en el País Valencià.",
+   "subtitle": "Votación separada por puntos. Punto 6.",
+   "totals": {
+    "present": 350,
+    "yes": 189,
+    "no": 0,
+    "abstain": 161,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 17,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Micó Micó), relativa al deterioro y a la insuficiencia estructural del servicio de Rodalies en el País Valencià.",
+   "subtitle": "Votación separada por puntos. Punto 7.",
+   "totals": {
+    "present": 350,
+    "yes": 54,
+    "no": 291,
+    "abstain": 5,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  },
+  {
+   "date": "2026-02-26",
+   "session": 164,
+   "number": 18,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Micó Micó), relativa al deterioro y a la insuficiencia estructural del servicio de Rodalies en el País Valencià.",
+   "subtitle": "Votación separada por puntos. Punto 8.",
+   "totals": {
+    "present": 350,
+    "yes": 312,
+    "no": 0,
+    "abstain": 38,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-02-26.json"
+  }
+ ]
+}

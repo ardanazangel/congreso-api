@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000139",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-19",
+   "session": 148,
+   "number": 5,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre los principios democráticos, éticos y de transparencia que rigen la actividad política del Ministro de Política Territorial y Memoria Democrática.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 145,
+    "no": 168,
+    "abstain": 33,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-19.json"
+  }
+ ]
+}

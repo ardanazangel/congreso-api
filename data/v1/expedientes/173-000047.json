@@ -1,0 +1,40 @@
+{
+ "expediente": "173/000047",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-26",
+   "session": 63,
+   "number": 4,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para que el Gobierno explique si va a cumplir la obligación de presentar un Plan Fiscal Estructural antes del 20 de septiembre y cuándo va a someterlo a validación en el Congreso de los Diputados.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 175,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-26.json"
+  },
+  {
+   "date": "2024-09-26",
+   "session": 63,
+   "number": 5,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para que el Gobierno explique si va a cumplir la obligación de presentar un Plan Fiscal Estructural antes del 20 de septiembre y cuándo va a someterlo a validación en el Congreso de los Diputados.",
+   "subtitle": "Votación separada por puntos Punto 2.",
+   "totals": {
+    "present": 345,
+    "yes": 137,
+    "no": 164,
+    "abstain": 44,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-26.json"
+  }
+ ]
+}

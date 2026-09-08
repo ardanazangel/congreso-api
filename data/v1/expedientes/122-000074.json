@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000074",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-23",
+   "session": 189,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica por la que se modifica la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para reforzar la prevención del fraude electoral.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 33,
+    "no": 176,
+    "abstain": 138,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-23.json"
+  }
+ ]
+}

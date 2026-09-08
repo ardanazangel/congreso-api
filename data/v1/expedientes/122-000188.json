@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000188",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-18",
+   "session": 147,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, para garantizar la prestación de los servicios públicos esenciales a los municipios rurales de pequeño tamaño en situaciones de emergencia de interés nacional.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 177,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-18.json"
+  }
+ ]
+}

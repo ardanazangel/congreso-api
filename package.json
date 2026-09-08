@@ -1,0 +1,16 @@
+{
+  "name": "congreso-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Open JSON API of the Spanish Congress: legislative initiatives and roll-call votes, cross-referenced by expediente",
+  "scripts": {
+    "build:initiatives": "node src/initiatives.ts",
+    "build:votes": "node src/votes.ts",
+    "build": "pnpm run build:initiatives && pnpm run build:votes",
+    "check:freshness": "node src/freshness.ts"
+  },
+  "engines": {
+    "node": ">=22.18"
+  }
+}

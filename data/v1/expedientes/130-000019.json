@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000019",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-06-26",
+   "session": 124,
+   "number": 11,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 5/2025, de 10 de junio, de medidas de promoción del uso del transporte público colectivo por parte de la juventud para los viajes realizados en el periodo estival de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 177,
+    "no": 33,
+    "abstain": 136,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-26.json"
+  },
+  {
+   "date": "2025-06-26",
+   "session": 124,
+   "number": 12,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 5/2025, de 10 de junio, de medidas de promoción del uso del transporte público colectivo por parte de la juventud para los viajes realizados en el periodo estival de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 339,
+    "no": 6,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-06-26.json"
+  }
+ ]
+}

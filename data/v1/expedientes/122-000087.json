@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000087",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-25",
+   "session": 50,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica de modificación de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional.",
+   "subtitle": "",
+   "totals": {
+    "present": 340,
+    "yes": 167,
+    "no": 173,
+    "abstain": 0,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-25.json"
+  }
+ ]
+}

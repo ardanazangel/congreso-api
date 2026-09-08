@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000062",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-25",
+   "session": 50,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, relativa a la delimitación de las competencias de la Audiencia Nacional para el enjuiciamiento de los delitos de narcotráfico, blanqueo de capitales, trata y tráfico de personas por organizaciones criminales.",
+   "subtitle": "",
+   "totals": {
+    "present": 340,
+    "yes": 167,
+    "no": 173,
+    "abstain": 0,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-25.json"
+  }
+ ]
+}

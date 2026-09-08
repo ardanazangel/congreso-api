@@ -1,0 +1,2403 @@
+{
+ "expediente": "121/000009",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-09-26",
+   "session": 63,
+   "number": 6,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmienda a la totalidad de devolución. Enmienda a la totalidad de devolución presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "totals": {
+    "present": 345,
+    "yes": 168,
+    "no": 176,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-26.json"
+  },
+  {
+   "date": "2024-09-26",
+   "session": 63,
+   "number": 7,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Solicitudes de avocación. Solicitudes de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de ley, presentadas por el Grupo Parlamentario Popular en el Congreso y por el Grupo Parlamentario Republicano.",
+   "totals": {
+    "present": 346,
+    "yes": 346,
+    "no": 0,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-09-26.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmiendas 77, 85 y 137.",
+   "totals": {
+    "present": 347,
+    "yes": 10,
+    "no": 327,
+    "abstain": 10,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmiendas 78, 80, 86, 89 y 90.",
+   "totals": {
+    "present": 346,
+    "yes": 4,
+    "no": 341,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmiendas 81, 87, 95 y 97.",
+   "totals": {
+    "present": 345,
+    "yes": 4,
+    "no": 340,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 4,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 83.",
+   "totals": {
+    "present": 347,
+    "yes": 10,
+    "no": 336,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 5,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmiendas 88, 91, 93, 96, 101, 104, 110, 117, 118, 121, 123, 128 y 136.",
+   "totals": {
+    "present": 347,
+    "yes": 12,
+    "no": 334,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 6,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 92.",
+   "totals": {
+    "present": 347,
+    "yes": 13,
+    "no": 197,
+    "abstain": 137,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 7,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 107.",
+   "totals": {
+    "present": 347,
+    "yes": 147,
+    "no": 199,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 8,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmiendas 113 y 125.",
+   "totals": {
+    "present": 347,
+    "yes": 12,
+    "no": 330,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 9,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 126.",
+   "totals": {
+    "present": 347,
+    "yes": 20,
+    "no": 327,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 10,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Enmienda 130.",
+   "totals": {
+    "present": 346,
+    "yes": 12,
+    "no": 326,
+    "abstain": 8,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 11,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga) Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 11,
+    "no": 328,
+    "abstain": 8,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 12,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 153, 186, 201 y 212.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 323,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 13,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 158, 160, 161, 163, 175, 180 y 191.",
+   "totals": {
+    "present": 346,
+    "yes": 26,
+    "no": 320,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 14,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 162.",
+   "totals": {
+    "present": 347,
+    "yes": 11,
+    "no": 331,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 15,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 168 y 210.",
+   "totals": {
+    "present": 347,
+    "yes": 31,
+    "no": 316,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 16,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 173, 217, 219, 221 y 225.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 321,
+    "abstain": 7,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 17,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 178.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 295,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 18,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 209 y 226.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 288,
+    "abstain": 40,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 19,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 214.",
+   "totals": {
+    "present": 347,
+    "yes": 13,
+    "no": 327,
+    "abstain": 7,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 20,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 227.",
+   "totals": {
+    "present": 347,
+    "yes": 20,
+    "no": 327,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 21,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 228.",
+   "totals": {
+    "present": 347,
+    "yes": 13,
+    "no": 334,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 22,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Mixto (Sr. Rego Candamil) Resto de las enmiendas.",
+   "totals": {
+    "present": 345,
+    "yes": 18,
+    "no": 327,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 23,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 418.",
+   "totals": {
+    "present": 347,
+    "yes": 150,
+    "no": 197,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 24,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 427.",
+   "totals": {
+    "present": 347,
+    "yes": 27,
+    "no": 183,
+    "abstain": 137,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 25,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmiendas 430 y 462.",
+   "totals": {
+    "present": 347,
+    "yes": 25,
+    "no": 185,
+    "abstain": 137,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 26,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 457.",
+   "totals": {
+    "present": 347,
+    "yes": 21,
+    "no": 320,
+    "abstain": 6,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 27,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 472.",
+   "totals": {
+    "present": 347,
+    "yes": 25,
+    "no": 178,
+    "abstain": 144,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 28,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Enmienda 483.",
+   "totals": {
+    "present": 346,
+    "yes": 30,
+    "no": 316,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 29,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV) Resto de las enmiendas.",
+   "totals": {
+    "present": 346,
+    "yes": 24,
+    "no": 314,
+    "abstain": 8,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 30,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Euskal Herria Bildu Enmienda 65.",
+   "totals": {
+    "present": 347,
+    "yes": 20,
+    "no": 327,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 31,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 341, 354 y 391.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 322,
+    "abstain": 6,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 32,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 344, 346, 379 y 396.",
+   "totals": {
+    "present": 347,
+    "yes": 163,
+    "no": 184,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 33,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmiendas 368, 397 y 403.",
+   "totals": {
+    "present": 347,
+    "yes": 16,
+    "no": 327,
+    "abstain": 4,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 34,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 375.",
+   "totals": {
+    "present": 347,
+    "yes": 156,
+    "no": 191,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 35,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 383.",
+   "totals": {
+    "present": 347,
+    "yes": 25,
+    "no": 185,
+    "abstain": 137,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 36,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 392.",
+   "totals": {
+    "present": 347,
+    "yes": 26,
+    "no": 321,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 37,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 407.",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 317,
+    "abstain": 12,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 38,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Enmienda 408.",
+   "totals": {
+    "present": 347,
+    "yes": 13,
+    "no": 192,
+    "abstain": 142,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 39,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 20,
+    "no": 326,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 40,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmiendas 623, 624, 641, 659, 669, 678, 698 y 708.",
+   "totals": {
+    "present": 347,
+    "yes": 19,
+    "no": 328,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 41,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmiendas 625, 691, 702, 703 y 716.",
+   "totals": {
+    "present": 346,
+    "yes": 25,
+    "no": 316,
+    "abstain": 5,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 42,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmiendas 626 y 727.",
+   "totals": {
+    "present": 346,
+    "yes": 18,
+    "no": 316,
+    "abstain": 12,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 43,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 658.",
+   "totals": {
+    "present": 347,
+    "yes": 156,
+    "no": 184,
+    "abstain": 7,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 44,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmiendas 661, 670, 672, 723 y 724.",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 322,
+    "abstain": 7,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 45,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 673.",
+   "totals": {
+    "present": 347,
+    "yes": 20,
+    "no": 316,
+    "abstain": 11,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 46,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 674.",
+   "totals": {
+    "present": 347,
+    "yes": 13,
+    "no": 321,
+    "abstain": 13,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 47,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 685.",
+   "totals": {
+    "present": 346,
+    "yes": 25,
+    "no": 320,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 48,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 709.",
+   "totals": {
+    "present": 346,
+    "yes": 162,
+    "no": 184,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 49,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 710.",
+   "totals": {
+    "present": 347,
+    "yes": 156,
+    "no": 158,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 50,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 732.",
+   "totals": {
+    "present": 346,
+    "yes": 19,
+    "no": 287,
+    "abstain": 40,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 51,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 736.",
+   "totals": {
+    "present": 347,
+    "yes": 163,
+    "no": 151,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 52,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 745.",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 191,
+    "abstain": 138,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 53,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Enmienda 748.",
+   "totals": {
+    "present": 346,
+    "yes": 25,
+    "no": 287,
+    "abstain": 34,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 54,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano Resto de las enmiendas.",
+   "totals": {
+    "present": 346,
+    "yes": 25,
+    "no": 321,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 55,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano y el Grupo Parlamentario Euskal Herria Bildu Enmienda 305.",
+   "totals": {
+    "present": 347,
+    "yes": 27,
+    "no": 320,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 56,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Republicano y el Grupo Parlamentario Euskal Herria Bildu Enmienda 306.",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 328,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 57,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Republicano y el Grupo Parlamentario Plurinacional SUMAR. Enmienda 525.",
+   "totals": {
+    "present": 347,
+    "yes": 41,
+    "no": 305,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 58,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR, el Grupo Parlamentario Euskal Herria Bildu, el Grupo Parlamentario Republicano y el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmiendas 287, 290, 291, 301 y 302.",
+   "totals": {
+    "present": 346,
+    "yes": 44,
+    "no": 302,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 59,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR, el Grupo Parlamentario Euskal Herria Bildu, el Grupo Parlamentario Republicano y el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 293.",
+   "totals": {
+    "present": 346,
+    "yes": 43,
+    "no": 296,
+    "abstain": 7,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 60,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR, el Grupo Parlamentario Euskal Herria Bildu, el Grupo Parlamentario Republicano y el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 294.",
+   "totals": {
+    "present": 346,
+    "yes": 43,
+    "no": 296,
+    "abstain": 7,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 61,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR, el Grupo Parlamentario Euskal Herria Bildu, el Grupo Parlamentario Republicano y el Grupo Parlamentario Mixto (Sr. Rego Candamil) Enmienda 296.",
+   "totals": {
+    "present": 347,
+    "yes": 51,
+    "no": 296,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 62,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR, el Grupo Parlamentario Euskal Herria Bildu, el Grupo Parlamentario Republicano y el Grupo Parlamentario Mixto (Sr. Rego Candamil) Resto de las enmiendas.",
+   "totals": {
+    "present": 345,
+    "yes": 44,
+    "no": 301,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 63,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Plurinacional SUMAR, el Grupo Parlamentario Euskal Herria Bildu y el Grupo Parlamentario Republicano. Enmiendas 303, 307, 308, 310, 311, 313 y 314.",
+   "totals": {
+    "present": 347,
+    "yes": 43,
+    "no": 304,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 64,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmienda presentada por el Grupo Parlamentario Plurinacional SUMAR, el Grupo Parlamentario Mixto (Sr. Rego Candamil) y el Grupo Parlamentario Republicano. Enmienda 320.",
+   "totals": {
+    "present": 345,
+    "yes": 44,
+    "no": 301,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 65,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Enmiendas 254, 268, 271, 275 a 277 y 279 a 281.",
+   "totals": {
+    "present": 346,
+    "yes": 171,
+    "no": 175,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 66,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Enmiendas 257 a 260, 263, 265, 270, 273, 278 y 283.",
+   "totals": {
+    "present": 347,
+    "yes": 33,
+    "no": 177,
+    "abstain": 137,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 67,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario VOX Resto de las enmiendas.",
+   "totals": {
+    "present": 346,
+    "yes": 33,
+    "no": 313,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 68,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 527, 531 y 541.",
+   "totals": {
+    "present": 346,
+    "yes": 137,
+    "no": 209,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 69,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 536, 538, 542, 543, 557, 568, 573, 575, 576, 579, 591, 599, 600, 602, 606, 616 y 621.",
+   "totals": {
+    "present": 347,
+    "yes": 137,
+    "no": 177,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 70,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 544.",
+   "totals": {
+    "present": 347,
+    "yes": 150,
+    "no": 164,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 71,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 547, 552 y 553.",
+   "totals": {
+    "present": 347,
+    "yes": 137,
+    "no": 177,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 72,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 550, 555, 566, 571, 572, 574, 578, 582, 589 y 615.",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 176,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 73,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 580, 581 y 597.",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 177,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 74,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 583, 592 y 603.",
+   "totals": {
+    "present": 347,
+    "yes": 177,
+    "no": 170,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 75,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 609 y 610.",
+   "totals": {
+    "present": 345,
+    "yes": 141,
+    "no": 165,
+    "abstain": 39,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 76,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda 620.",
+   "totals": {
+    "present": 345,
+    "yes": 135,
+    "no": 177,
+    "abstain": 33,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 77,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 19 a la enmienda número 526.",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 15,
+    "abstain": 162,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 78,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 20 a la enmienda número 590.",
+   "totals": {
+    "present": 347,
+    "yes": 137,
+    "no": 209,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 79,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 21 a la enmienda número 611.",
+   "totals": {
+    "present": 346,
+    "yes": 140,
+    "no": 172,
+    "abstain": 34,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 80,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 22 a la enmienda número 535.",
+   "totals": {
+    "present": 346,
+    "yes": 135,
+    "no": 176,
+    "abstain": 35,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 81,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 23 a la enmienda número 532.",
+   "totals": {
+    "present": 347,
+    "yes": 169,
+    "no": 176,
+    "abstain": 2,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 82,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 24 a la enmienda número 549.",
+   "totals": {
+    "present": 345,
+    "yes": 137,
+    "no": 207,
+    "abstain": 1,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 83,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 25 a la enmienda número 587.",
+   "totals": {
+    "present": 346,
+    "yes": 137,
+    "no": 175,
+    "abstain": 34,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 84,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmienda transaccional en Comisión nº 26 a la enmienda número 607.",
+   "totals": {
+    "present": 347,
+    "yes": 136,
+    "no": 210,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 85,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 137,
+    "no": 210,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 86,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Voto particular. Voto particular nº 1 presentado por el Grupo Parlamentario Socialista a la enmienda nº 605 del Grupo Parlamentario Popular en el Congreso.",
+   "totals": {
+    "present": 347,
+    "yes": 157,
+    "no": 178,
+    "abstain": 12,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-10-08",
+   "session": 136,
+   "number": 116,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen del Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 174,
+    "no": 170,
+    "abstain": 4,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-08.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 64,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al Índice.",
+   "totals": {
+    "present": 350,
+    "yes": 337,
+    "no": 6,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 65,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a los puntos A, B, C y D del Preámbulo, al artículo 1, al artículo 5, al artículo 11, al artículo 16, al artículo 19, al artículo 25, al artículo 28, al artículo 29, al punto A del artículo 32, al artículo 35, al artículo 36, al artículo 39, al artículo 43, al artículo 44, al artículo 52, al artículo 99, a la disposición adicional novena, a la disposición transitoria tercera y a la disposición final vigesimosegunda (nueva).",
+   "totals": {
+    "present": 350,
+    "yes": 138,
+    "no": 212,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 66,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al punto E del Preámbulo, al punto B del artículo 32, al punto C del artículo 58, al punto A del artículo 73, al punto B del artículo 80, a la disposición adicional vigesimosexta, a la disposición adicional trigésimo primera y a la disposición final octava.",
+   "totals": {
+    "present": 350,
+    "yes": 339,
+    "no": 4,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 67,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto A del artículo 2.",
+   "totals": {
+    "present": 350,
+    "yes": 139,
+    "no": 211,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 68,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto B del artículo 2.",
+   "totals": {
+    "present": 348,
+    "yes": 151,
+    "no": 197,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 69,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 4, al artículo 18, al artículo 42, al artículo 51, al artículo 57, al artículo 87, a la disposición adicional trigésimo cuarta (nueva), a la disposición adicional trigésimo novena (nueva), a la disposición transitoria segunda y a la disposición final cuarta.",
+   "totals": {
+    "present": 350,
+    "yes": 139,
+    "no": 178,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 70,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 7, al artículo 12 y al artículo 14.",
+   "totals": {
+    "present": 350,
+    "yes": 139,
+    "no": 178,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 71,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a los puntos A y D del artículo 13, al artículo 82 y al punto B de la disposición final vigésima.",
+   "totals": {
+    "present": 350,
+    "yes": 164,
+    "no": 181,
+    "abstain": 5,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 72,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto B del artículo 13.",
+   "totals": {
+    "present": 349,
+    "yes": 144,
+    "no": 205,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 73,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto C del artículo 13.",
+   "totals": {
+    "present": 349,
+    "yes": 305,
+    "no": 44,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 74,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 15 y al artículo 96.",
+   "totals": {
+    "present": 350,
+    "yes": 146,
+    "no": 203,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 75,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 22.",
+   "totals": {
+    "present": 349,
+    "yes": 137,
+    "no": 208,
+    "abstain": 4,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 76,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 23 y al artículo 24.",
+   "totals": {
+    "present": 350,
+    "yes": 146,
+    "no": 171,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 77,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 26, al artículo 55 y al punto A del artículo 60.",
+   "totals": {
+    "present": 349,
+    "yes": 175,
+    "no": 174,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 78,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 33, al artículo 37, al artículo 38, a la disposición adicional trigésimo tercera (nueva) y al punto B de la disposición final sexta.",
+   "totals": {
+    "present": 350,
+    "yes": 138,
+    "no": 211,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 79,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 40.",
+   "totals": {
+    "present": 349,
+    "yes": 182,
+    "no": 21,
+    "abstain": 146,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 80,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 41.",
+   "totals": {
+    "present": 350,
+    "yes": 175,
+    "no": 175,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 81,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 41.",
+   "totals": {
+    "present": 349,
+    "yes": 175,
+    "no": 174,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 82,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 45, al artículo 46, al punto B del artículo 58, al artículo 62 y al artículo 76.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 83,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 47, a la disposición adicional sexta, a la disposición adicional séptima y al Anexo I.",
+   "totals": {
+    "present": 350,
+    "yes": 138,
+    "no": 179,
+    "abstain": 33,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 84,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 48.",
+   "totals": {
+    "present": 349,
+    "yes": 186,
+    "no": 162,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 85,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al artículo 49, al artículo 63, al punto A del artículo 65, al artículo 66, al artículo 67, al artículo 68, al punto B del artículo 73, al artículo 75, al artículo 77, al artículo 78, al artículo 79 y al punto A del artículo 80.",
+   "totals": {
+    "present": 348,
+    "yes": 166,
+    "no": 181,
+    "abstain": 1,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 86,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 50.",
+   "totals": {
+    "present": 349,
+    "yes": 146,
+    "no": 17,
+    "abstain": 186,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 87,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas al punto A del artículo 58 y a la disposición adicional cuadragésimo sexta (nueva).",
+   "totals": {
+    "present": 350,
+    "yes": 305,
+    "no": 45,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 88,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 59.",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 179,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 89,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto B del artículo 60.",
+   "totals": {
+    "present": 350,
+    "yes": 157,
+    "no": 193,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 90,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto B del artículo 65.",
+   "totals": {
+    "present": 350,
+    "yes": 138,
+    "no": 212,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 91,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 95 bis (nuevo).",
+   "totals": {
+    "present": 350,
+    "yes": 180,
+    "no": 24,
+    "abstain": 146,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 92,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al artículo 110 (nuevo).",
+   "totals": {
+    "present": 341,
+    "yes": 155,
+    "no": 186,
+    "abstain": 0,
+    "absent": 9,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 93,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional decimoquinta como consecuencia de la aprobación de la enmienda número 129 del Senado.",
+   "totals": {
+    "present": 350,
+    "yes": 179,
+    "no": 171,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 94,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional decimoquinta como consecuencia de la aprobación de la enmienda número 61 del Senado.",
+   "totals": {
+    "present": 350,
+    "yes": 317,
+    "no": 33,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 95,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional decimoséptima.",
+   "totals": {
+    "present": 350,
+    "yes": 172,
+    "no": 178,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 96,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional vigésima.",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 179,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 97,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional trigésimo segunda (nueva).",
+   "totals": {
+    "present": 350,
+    "yes": 145,
+    "no": 171,
+    "abstain": 34,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 98,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional trigésimo quinta (nueva).",
+   "totals": {
+    "present": 349,
+    "yes": 146,
+    "no": 203,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 99,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional trigésimo sexta (nueva).",
+   "totals": {
+    "present": 350,
+    "yes": 143,
+    "no": 173,
+    "abstain": 34,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 100,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional trigésimo séptima (nueva).",
+   "totals": {
+    "present": 349,
+    "yes": 191,
+    "no": 158,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 101,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional trigésimo octava (nueva).",
+   "totals": {
+    "present": 350,
+    "yes": 155,
+    "no": 48,
+    "abstain": 147,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 102,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional cuadragésima (nueva).",
+   "totals": {
+    "present": 349,
+    "yes": 169,
+    "no": 178,
+    "abstain": 2,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 103,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional cuadragésimo primera (nueva).",
+   "totals": {
+    "present": 349,
+    "yes": 184,
+    "no": 165,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 104,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional cuadragésimo segunda (nueva).",
+   "totals": {
+    "present": 349,
+    "yes": 137,
+    "no": 179,
+    "abstain": 33,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 105,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional cuadragésimo tercera (nueva).",
+   "totals": {
+    "present": 349,
+    "yes": 337,
+    "no": 6,
+    "abstain": 6,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 106,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmiendas a la disposición adicional cuadragésimo cuarta (nueva) y a la disposición adicional cuadragésimo quinta (nueva).",
+   "totals": {
+    "present": 349,
+    "yes": 311,
+    "no": 38,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 107,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición adicional cuadragésimo séptima (nueva).",
+   "totals": {
+    "present": 350,
+    "yes": 346,
+    "no": 4,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 108,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final segunda.",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 179,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 109,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto A de la disposición final sexta.",
+   "totals": {
+    "present": 350,
+    "yes": 310,
+    "no": 40,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 110,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final decimosexta.",
+   "totals": {
+    "present": 349,
+    "yes": 197,
+    "no": 151,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 111,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda al punto A de la disposición final vigésima.",
+   "totals": {
+    "present": 350,
+    "yes": 146,
+    "no": 204,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 112,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final vigesimotercera (nueva).",
+   "totals": {
+    "present": 349,
+    "yes": 142,
+    "no": 173,
+    "abstain": 34,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 113,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final vigesimocuarta (nueva).",
+   "totals": {
+    "present": 350,
+    "yes": 171,
+    "no": 172,
+    "abstain": 7,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 114,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final vigesimoquinta (nueva).",
+   "totals": {
+    "present": 350,
+    "yes": 145,
+    "no": 204,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  },
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 115,
+   "heading": "Enmiendas del Senado.",
+   "title": "Proyecto de Ley de Movilidad Sostenible.",
+   "subtitle": "Votación separada de las enmiendas Enmienda a la disposición final vigesimosexta (nueva).",
+   "totals": {
+    "present": 350,
+    "yes": 146,
+    "no": 203,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000137",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-05-13",
+   "session": 110,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, de modificación de la Ley 39/1995, de 19 de diciembre, de Organización del Centro de Investigaciones Sociológicas, para reforzar su independencia.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 178,
+    "no": 167,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-05-13.json"
+  }
+ ]
+}

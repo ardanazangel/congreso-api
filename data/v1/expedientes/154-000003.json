@@ -1,0 +1,142 @@
+{
+ "expediente": "154/000003",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-12-12",
+   "session": 85,
+   "number": 14,
+   "heading": "Solicitud de prórroga de Subcomisiones.",
+   "title": "Solicitud de la Comisión de seguimiento y evaluación de los acuerdos del Pacto de Estado en materia de Violencia de Género, de prórroga del plazo para la conclusión de los trabajos de la Subcomisión para la renovación y actualización del Pacto de Estado en materia de violencia de género, constituida en el seno de la citada Comisión, hasta el día 31 de marzo de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 313,
+    "no": 33,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-12-12.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 1,
+   "heading": "Acuerdos de Comisiones relativos a Informes de Subcomisiones y Ponencias.",
+   "title": "Informe de la Subcomisión para la renovación y actualización del Pacto de Estado en materia de violencia de género.",
+   "subtitle": "Votos particulares del Grupo Parlamentario Mixto (Sra. Belarra Urteaga). Voto particular 10.",
+   "totals": {
+    "present": 347,
+    "yes": 51,
+    "no": 296,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 2,
+   "heading": "Acuerdos de Comisiones relativos a Informes de Subcomisiones y Ponencias.",
+   "title": "Informe de la Subcomisión para la renovación y actualización del Pacto de Estado en materia de violencia de género.",
+   "subtitle": "Votos particulares del Grupo Parlamentario Mixto (Sra. Belarra Urteaga). Resto de votos particulares del Grupo Parlamentario Mixto (Sra. Belarra Urteaga).",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 296,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 3,
+   "heading": "Acuerdos de Comisiones relativos a Informes de Subcomisiones y Ponencias.",
+   "title": "Informe de la Subcomisión para la renovación y actualización del Pacto de Estado en materia de violencia de género.",
+   "subtitle": "Votos particulares del Grupo Parlamentario Mixto (Sr. Rego Candamil). Voto particular 21.",
+   "totals": {
+    "present": 347,
+    "yes": 51,
+    "no": 263,
+    "abstain": 33,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 4,
+   "heading": "Acuerdos de Comisiones relativos a Informes de Subcomisiones y Ponencias.",
+   "title": "Informe de la Subcomisión para la renovación y actualización del Pacto de Estado en materia de violencia de género.",
+   "subtitle": "Votos particulares del Grupo Parlamentario Mixto (Sr. Rego Candamil). Voto particular 22.",
+   "totals": {
+    "present": 347,
+    "yes": 11,
+    "no": 305,
+    "abstain": 31,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 5,
+   "heading": "Acuerdos de Comisiones relativos a Informes de Subcomisiones y Ponencias.",
+   "title": "Informe de la Subcomisión para la renovación y actualización del Pacto de Estado en materia de violencia de género.",
+   "subtitle": "Votos particulares del Grupo Parlamentario Mixto (Sr. Rego Candamil). Resto de votos particulares del Grupo Parlamentario Mixto (Sr. Rego Candamil).",
+   "totals": {
+    "present": 347,
+    "yes": 18,
+    "no": 291,
+    "abstain": 38,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 6,
+   "heading": "Acuerdos de Comisiones relativos a Informes de Subcomisiones y Ponencias.",
+   "title": "Informe de la Subcomisión para la renovación y actualización del Pacto de Estado en materia de violencia de género.",
+   "subtitle": "Votos particulares del Grupo Parlamentario VOX. Voto particular 1.",
+   "totals": {
+    "present": 347,
+    "yes": 34,
+    "no": 313,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  },
+  {
+   "date": "2025-02-26",
+   "session": 95,
+   "number": 22,
+   "heading": "Acuerdos de Comisiones relativos a Informes de Subcomisiones y Ponencias.",
+   "title": "Informe de la Subcomisión para la renovación y actualización del Pacto de Estado en materia de violencia de género.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 315,
+    "no": 33,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-02-26.json"
+  }
+ ]
+}

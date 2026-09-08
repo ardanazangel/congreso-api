@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000249",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-24",
+   "session": 167,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la modificación de la Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados, para establecer seguros sobre los ingresos y las rentas, y reforzar la sostenibilidad de las producciones agrarias.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 192,
+    "no": 154,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-24.json"
+  }
+ ]
+}

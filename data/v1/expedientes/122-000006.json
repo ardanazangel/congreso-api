@@ -1,0 +1,57 @@
+{
+ "expediente": "122/000006",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-12-19",
+   "session": 13,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, Orgánica de reforma de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal para la protección de la libertad de expresión.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 177,
+    "no": 169,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-19.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 55,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal para la protección de la libertad de expresión.",
+   "subtitle": "Enmiendas a la totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo presentada por el Grupo Parlamentario VOX.",
+   "totals": {
+    "present": 350,
+    "yes": 33,
+    "no": 179,
+    "abstain": 138,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  },
+  {
+   "date": "2026-07-14",
+   "session": 192,
+   "number": 56,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal para la protección de la libertad de expresión.",
+   "subtitle": "Enmiendas a la totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 178,
+    "abstain": 0,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-07-14.json"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "expediente": "122/000118",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-07-04",
+   "session": 53,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley de los Grupos Parlamentarios Popular en el Congreso y Socialista, Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.",
+   "subtitle": "",
+   "totals": {
+    "present": 334,
+    "yes": 258,
+    "no": 43,
+    "abstain": 33,
+    "absent": 16,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-04.json"
+  },
+  {
+   "date": "2024-07-11",
+   "session": 54,
+   "number": 12,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.",
+   "subtitle": "Enmiendas a la totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo presentada por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga).",
+   "totals": {
+    "present": 334,
+    "yes": 4,
+    "no": 297,
+    "abstain": 33,
+    "absent": 16,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-11.json"
+  },
+  {
+   "date": "2024-07-11",
+   "session": 54,
+   "number": 13,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.",
+   "subtitle": "Enmiendas a la totalidad de texto alternativo. Enmienda a la totalidad de texto alternativo presentada por el Grupo Parlamentario VOX.",
+   "totals": {
+    "present": 334,
+    "yes": 32,
+    "no": 302,
+    "abstain": 0,
+    "absent": 16,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-11.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 64,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.",
+   "subtitle": "Votación del dictamen. Votación del dictamen de la Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.",
+   "totals": {
+    "present": 334,
+    "yes": 258,
+    "no": 44,
+    "abstain": 32,
+    "absent": 16,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  },
+  {
+   "date": "2024-07-23",
+   "session": 56,
+   "number": 65,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.",
+   "subtitle": "Votación de conjunto. Votación de conjunto de la Proposición de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal, por tener la misma carácter orgánico.",
+   "totals": {
+    "present": 334,
+    "yes": 259,
+    "no": 43,
+    "abstain": 32,
+    "absent": 16,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-07-23.json"
+  }
+ ]
+}

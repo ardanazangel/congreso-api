@@ -1,0 +1,74 @@
+{
+ "expediente": "173/000157",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 47,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para dar cuenta de las medidas que está poniendo en marcha el Gobierno para paliar las consecuencias de la guerra en Irán sobre las familias y empresas españolas.",
+   "subtitle": "Votación separada por puntos. Punto 1.",
+   "totals": {
+    "present": 349,
+    "yes": 182,
+    "no": 166,
+    "abstain": 1,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 48,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para dar cuenta de las medidas que está poniendo en marcha el Gobierno para paliar las consecuencias de la guerra en Irán sobre las familias y empresas españolas.",
+   "subtitle": "Votación separada por puntos. Punto 2.",
+   "totals": {
+    "present": 350,
+    "yes": 191,
+    "no": 158,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 49,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para dar cuenta de las medidas que está poniendo en marcha el Gobierno para paliar las consecuencias de la guerra en Irán sobre las familias y empresas españolas.",
+   "subtitle": "Votación separada por puntos. Punto 3.",
+   "totals": {
+    "present": 346,
+    "yes": 177,
+    "no": 164,
+    "abstain": 5,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  },
+  {
+   "date": "2026-03-26",
+   "session": 169,
+   "number": 50,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, para dar cuenta de las medidas que está poniendo en marcha el Gobierno para paliar las consecuencias de la guerra en Irán sobre las familias y empresas españolas.",
+   "subtitle": "Votación separada por puntos. Punto 4.",
+   "totals": {
+    "present": 347,
+    "yes": 178,
+    "no": 157,
+    "abstain": 12,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-03-26.json"
+  }
+ ]
+}

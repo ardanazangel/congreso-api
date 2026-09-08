@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000253",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-04-21",
+   "session": 173,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, de medidas administrativas y procesales para la seguridad jurídica de la ordenación territorial y urbanística, el impulso del desarrollo urbano y la vivienda.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 178,
+    "no": 163,
+    "abstain": 6,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-04-21.json"
+  }
+ ]
+}

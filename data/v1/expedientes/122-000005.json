@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000005",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-27",
+   "session": 24,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Vasco (EAJ-PNV), de reforma de la Ley 9/1968, de 5 de abril, sobre secretos oficiales.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 176,
+    "no": 169,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-27.json"
+  }
+ ]
+}

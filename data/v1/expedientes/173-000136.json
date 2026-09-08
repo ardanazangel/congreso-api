@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000136",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-11-13",
+   "session": 146,
+   "number": 62,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la política fiscal del Gobierno y su falta de coherencia con los intereses y necesidades de los españoles.",
+   "subtitle": "",
+   "totals": {
+    "present": 349,
+    "yes": 171,
+    "no": 166,
+    "abstain": 12,
+    "absent": 1,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-11-13.json"
+  }
+ ]
+}

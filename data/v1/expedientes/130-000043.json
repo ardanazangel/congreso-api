@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000043",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 14,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 12/2026, de 26 de mayo, por el que se declaran diversas iniciativas y programas como acontecimientos de excepcional interés público.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 304,
+    "no": 33,
+    "abstain": 10,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-06-18",
+   "session": 188,
+   "number": 15,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 12/2026, de 26 de mayo, por el que se declaran diversas iniciativas y programas como acontecimientos de excepcional interés público.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 347,
+    "no": 0,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-06-18.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000060",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-10-22",
+   "session": 141,
+   "number": 12,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo Internacional entre el Reino de España y la República de Irak en materia de cooperación en el ámbito de la seguridad y la lucha contra la delincuencia, hecho ad referendum en Bagdad el 23 de abril de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 265,
+    "no": 0,
+    "abstain": 82,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-10-22.json"
+  }
+ ]
+}

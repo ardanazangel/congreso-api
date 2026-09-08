@@ -1,0 +1,108 @@
+{
+ "expediente": "173/000020",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 14,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el impacto de las políticas del Gobierno sobre la fortaleza del Estado y la convivencia constitucional.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "totals": {
+    "present": 342,
+    "yes": 171,
+    "no": 171,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 15,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el impacto de las políticas del Gobierno sobre la fortaleza del Estado y la convivencia constitucional.",
+   "subtitle": "Votación separada por puntos Punto 1.",
+   "totals": {
+    "present": 343,
+    "yes": 171,
+    "no": 172,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 16,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el impacto de las políticas del Gobierno sobre la fortaleza del Estado y la convivencia constitucional.",
+   "subtitle": "Votación separada por puntos Punto 2.",
+   "totals": {
+    "present": 343,
+    "yes": 170,
+    "no": 172,
+    "abstain": 1,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 17,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el impacto de las políticas del Gobierno sobre la fortaleza del Estado y la convivencia constitucional.",
+   "subtitle": "Votación separada por puntos Punto 3.",
+   "totals": {
+    "present": 343,
+    "yes": 171,
+    "no": 172,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 18,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el impacto de las políticas del Gobierno sobre la fortaleza del Estado y la convivencia constitucional.",
+   "subtitle": "Votación separada por puntos Punto 4.",
+   "totals": {
+    "present": 343,
+    "yes": 170,
+    "no": 172,
+    "abstain": 1,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 19,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre el impacto de las políticas del Gobierno sobre la fortaleza del Estado y la convivencia constitucional.",
+   "subtitle": "Votación separada por puntos Punto 5.",
+   "totals": {
+    "present": 342,
+    "yes": 170,
+    "no": 172,
+    "abstain": 0,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  }
+ ]
+}

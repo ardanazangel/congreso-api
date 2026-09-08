@@ -1,0 +1,23 @@
+{
+ "expediente": "125/000007",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-11-12",
+   "session": 74,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley de Comunidades y Ciudades Autónomas.",
+   "title": "Proposición de Ley del Parlamento de Cataluña, de modificación de la prescripción de los delitos contra la libertad sexual cometidos contra menores de edad (Orgánica).",
+   "subtitle": "",
+   "totals": {
+    "present": 338,
+    "yes": 305,
+    "no": 32,
+    "abstain": 1,
+    "absent": 12,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-11-12.json"
+  }
+ ]
+}

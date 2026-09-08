@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000086",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-09-16",
+   "session": 131,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, de creación de la Oficina de prevención de la corrupción.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 176,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-09-16.json"
+  }
+ ]
+}

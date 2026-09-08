@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000115",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-02-22",
+   "session": 23,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, para la defensa de los transportistas y agricultores españoles ante los ataques sufridos en la frontera con Francia.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 169,
+    "no": 175,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-02-22.json"
+  }
+ ]
+}

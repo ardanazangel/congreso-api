@@ -1,0 +1,23 @@
+{
+ "expediente": "156/000003",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-12-12",
+   "session": 11,
+   "number": 8,
+   "heading": "Solicitudes de creación de Comisiones de Investigación.",
+   "title": "Solicitud de los Grupos Parlamentarios Republicano, Euskal Herria Bildu y Mixto, de creación de una Comisión de Investigación sobre el espionaje e intromisión a la privacidad e intimidad, a través de los malware Pegasus y Candiru, a líderes políticos, activistas, abogados, periodistas, instituciones y sus familiares y allegados.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 179,
+    "no": 171,
+    "abstain": 0,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-12.json"
+  }
+ ]
+}

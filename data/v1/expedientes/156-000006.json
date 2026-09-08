@@ -1,0 +1,23 @@
+{
+ "expediente": "156/000006",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-03-13",
+   "session": 98,
+   "number": 20,
+   "heading": "Solicitudes de creación de Comisiones de Investigación.",
+   "title": "Solicitud de los Grupos Parlamentarios Plurinacional SUMAR, Mixto, Republicano y Junts per Catalunya, de creación de una Comisión de Investigación sobre la gestión de la crisis derivada de la DANA que tuvo lugar el 29 de octubre de 2024, así como para el estudio y propuesta de medidas de mejora destinadas a paliar los efectos de estos fenómenos adversos en el futuro.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 176,
+    "no": 169,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-03-13.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000030",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 17,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la anulación de la prórroga de 25 años otorgada a la concesionaria de la AP-9, la asunción de la gestión directa de la autopista, la supresión de los peajes y el impulso de la transferencia a Galicia. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Popular en el Congreso y el Grupo Parlamentario Mixto (Sr. Rego Candamil).",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 181,
+    "no": 32,
+    "abstain": 132,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  }
+ ]
+}

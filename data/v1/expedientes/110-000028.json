@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000028",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-05-23",
+   "session": 40,
+   "number": 55,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Declaraciones relativas al Convenio Europeo de asistencia judicial en materia penal, a su Protocolo Adicional y a su Segundo Protocolo Adicional.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 291,
+    "no": 32,
+    "abstain": 20,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-05-23.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "156/000002",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2023-12-12",
+   "session": 11,
+   "number": 7,
+   "heading": "Solicitudes de creación de Comisiones de Investigación.",
+   "title": "Solicitud de los Grupos Parlamentarios Junts per Catalunya y Vasco (EAJ-PNV), de creación de una Comisión de Investigación sobre el derecho a saber la verdad y las implicaciones derivadas de los atentados de Barcelona y Cambrils del 17 de agosto de 2017.",
+   "subtitle": "",
+   "totals": {
+    "present": 350,
+    "yes": 178,
+    "no": 171,
+    "abstain": 1,
+    "absent": 0,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2023-12-12.json"
+  }
+ ]
+}

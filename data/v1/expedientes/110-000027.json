@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000027",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-05-23",
+   "session": 40,
+   "number": 56,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo entre el Reino de España y la República de Guatemala relativo a la regulación y ordenación de los flujos migratorios laborales entre ambos Estados, hecho ad referendum en Madrid el 18 de enero de 2023.",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 323,
+    "no": 1,
+    "abstain": 19,
+    "absent": 7,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-05-23.json"
+  }
+ ]
+}

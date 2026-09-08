@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000008",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-10-30",
+   "session": 73,
+   "number": 1,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, para adoptar medidas urgentes relativas al régimen jurídico aplicable a la Corporación RTVE.",
+   "subtitle": "",
+   "totals": {
+    "present": 176,
+    "yes": 175,
+    "no": 1,
+    "abstain": 0,
+    "absent": 174,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-30.json"
+  },
+  {
+   "date": "2024-10-30",
+   "session": 73,
+   "number": 2,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 5/2024, de 22 de octubre, por el que se modifica la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, para adoptar medidas urgentes relativas al régimen jurídico aplicable a la Corporación RTVE.",
+   "subtitle": "",
+   "totals": {
+    "present": 176,
+    "yes": 176,
+    "no": 0,
+    "abstain": 0,
+    "absent": 174,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-10-30.json"
+  }
+ ]
+}

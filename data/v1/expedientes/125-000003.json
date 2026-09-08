@@ -1,0 +1,23 @@
+{
+ "expediente": "125/000003",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-12",
+   "session": 27,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley de Comunidades y Ciudades Autónomas.",
+   "title": "Proposición de Ley de la Asamblea de Madrid, de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y de la Ley 38/1988, de 28 de diciembre, de Demarcación y Planta Judicial (corresponde al número de expediente 125/000021/0000 de la XIV Legislatura).",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 169,
+    "no": 174,
+    "abstain": 1,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-12.json"
+  }
+ ]
+}

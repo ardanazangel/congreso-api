@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000204",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-12-09",
+   "session": 152,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, en apoyo del sistema alimentario español como sector estratégico esencial de la economía.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 147,
+    "no": 162,
+    "abstain": 35,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-09.json"
+  }
+ ]
+}

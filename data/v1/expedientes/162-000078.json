@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000078",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-03-14",
+   "session": 29,
+   "number": 32,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre la movilidad sostenible y el fomento del uso de la bicicleta. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Republicano.",
+   "subtitle": "",
+   "totals": {
+    "present": 339,
+    "yes": 172,
+    "no": 33,
+    "abstain": 134,
+    "absent": 11,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-03-14.json"
+  }
+ ]
+}

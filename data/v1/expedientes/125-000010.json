@@ -1,0 +1,23 @@
+{
+ "expediente": "125/000010",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2025-12-09",
+   "session": 152,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley de Comunidades y Ciudades Autónomas.",
+   "title": "Proposición de Ley del Parlamento de Cantabria, de modificación del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 155,
+    "no": 33,
+    "abstain": 156,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2025-12-09.json"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "expediente": "120/000004",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2024-04-09",
+   "session": 34,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley de iniciativa popular.",
+   "title": "Proposición de Ley para una regularización extraordinaria para personas extranjeras en España (corresponde al número de expediente 120/000026/0000 de la XIV Legislatura).",
+   "subtitle": "",
+   "totals": {
+    "present": 343,
+    "yes": 310,
+    "no": 33,
+    "abstain": 0,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-04-09.json"
+  },
+  {
+   "date": "2024-06-13",
+   "session": 46,
+   "number": 21,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de texto alternativo a la Proposición de Ley para una regularización extraordinaria para personas extranjeras en España, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 348,
+    "yes": 33,
+    "no": 315,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2024-06-13.json"
+  }
+ ]
+}
