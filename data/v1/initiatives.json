@@ -1,5 +1,117 @@
 [
  {
+  "expediente": "123/000002",
+  "legislature": "XV",
+  "type": "Proposición de ley de Diputados",
+  "title": "Proposición de Ley para la derogación de la Ley 18/2013, de 12 de noviembre, para la regulación de la tauromaquia como patrimonio cultural.",
+  "authors": [
+   "González López, Nahuel (GSUMAR) y 45 Diputados"
+  ],
+  "presentedAt": "2026-09-02",
+  "qualifiedAt": "2026-09-08",
+  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "result": null,
+  "committee": null,
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=123/000002"
+ },
+ {
+  "expediente": "122/000299",
+  "legislature": "XV",
+  "type": "Proposición de ley de Grupos Parlamentarios del Congreso",
+  "title": "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de Cataluña de competencias estatales en materia de inmigración.",
+  "authors": [
+   "Grupo Parlamentario Junts per Catalunya"
+  ],
+  "presentedAt": "2026-08-26",
+  "qualifiedAt": "2026-09-08",
+  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "result": null,
+  "committee": null,
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000299"
+ },
+ {
+  "expediente": "121/000111",
+  "legislature": "XV",
+  "type": "Proyecto de ley",
+  "title": "Proyecto de Ley Orgánica de Integridad Pública.",
+  "authors": [
+   "Gobierno"
+  ],
+  "presentedAt": "2026-07-31",
+  "qualifiedAt": "2026-09-08",
+  "status": "Comisión de Hacienda y Función Pública Publicación",
+  "result": null,
+  "committee": "Comisión de Hacienda y Función Pública",
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000111"
+ },
+ {
+  "expediente": "121/000109",
+  "legislature": "XV",
+  "type": "Proyecto de ley",
+  "title": "Proyecto de Ley de los medicamentos y productos sanitarios.",
+  "authors": [
+   "Gobierno"
+  ],
+  "presentedAt": "2026-07-24",
+  "qualifiedAt": "2026-09-08",
+  "status": "Comisión de Sanidad Publicación",
+  "result": null,
+  "committee": "Comisión de Sanidad",
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000109"
+ },
+ {
+  "expediente": "121/000110",
+  "legislature": "XV",
+  "type": "Proyecto de ley",
+  "title": "Proyecto de Ley por la que se modifica la Ley 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo y reguladora de la venta, el suministro, el consumo y la publicidad de los productos del tabaco.",
+  "authors": [
+   "Gobierno"
+  ],
+  "presentedAt": "2026-07-24",
+  "qualifiedAt": "2026-09-08",
+  "status": "Comisión de Sanidad Publicación",
+  "result": null,
+  "committee": "Comisión de Sanidad",
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000110"
+ },
+ {
+  "expediente": "121/000107",
+  "legislature": "XV",
+  "type": "Proyecto de ley",
+  "title": "Proyecto de Ley por la que se adoptan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio (procedente del Real Decreto-ley 18/2026, de 29 de junio).",
+  "authors": [
+   "Gobierno"
+  ],
+  "presentedAt": "2026-07-23",
+  "qualifiedAt": "2026-09-08",
+  "status": "Comisión de Economía, Comercio y Transformación Digital Publicación",
+  "result": null,
+  "committee": "Comisión de Economía, Comercio y Transformación Digital",
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000107"
+ },
+ {
+  "expediente": "121/000108",
+  "legislature": "XV",
+  "type": "Proyecto de ley",
+  "title": "Proyecto de Ley de medidas urgentes en materia de jubilación parcial anticipada del personal laboral de las Administraciones Públicas y de complemento de insularidad en Illes Balears (procedente del Real Decreto-ley 19/2026, de 29 de junio).",
+  "authors": [
+   "Gobierno"
+  ],
+  "presentedAt": "2026-07-23",
+  "qualifiedAt": "2026-09-08",
+  "status": "Comisión de Hacienda y Función Pública Publicación",
+  "result": null,
+  "committee": "Comisión de Hacienda y Función Pública",
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000108"
+ },
+ {
   "expediente": "125/000016",
   "legislature": "XV",
   "type": "Proposición de ley de Comunidades y Ciudades Autónomas",
@@ -315,7 +427,7 @@
   ],
   "presentedAt": "2026-06-16",
   "qualifiedAt": "2026-06-23",
-  "status": "Gobierno Contestación",
+  "status": "Concluido - (Retirado)",
   "result": null,
   "committee": null,
   "bocg": [
@@ -369,7 +481,7 @@
   ],
   "presentedAt": "2026-06-11",
   "qualifiedAt": "2026-06-16",
-  "status": "Comisión de Sanidad Enmiendas",
+  "status": "Comisión de Sanidad Mesa - Calificación Comisión de Sanidad Enmiendas",
   "result": null,
   "committee": "Comisión de Sanidad",
   "bocg": [
@@ -1263,7 +1375,7 @@
   ],
   "presentedAt": "2026-02-24",
   "qualifiedAt": "2026-03-10",
-  "status": "Pleno Toma en consideración",
+  "status": "Concluido - (Retirado)",
   "result": null,
   "committee": null,
   "bocg": [
@@ -2768,7 +2880,11 @@
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_448_3777.PDF",
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_450_3784.PDF",
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_451_3785.PDF",
-   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_452_3787.PDF"
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_452_3787.PDF",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_454_3793.PDF",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_454_3794.PDF",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_454_3795.PDF",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_454_3796.PDF"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000064"
  },
