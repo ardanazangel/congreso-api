@@ -1,0 +1,23 @@
+{
+ "expediente": "250/000008",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-10",
+   "session": 196,
+   "number": 20,
+   "heading": "Declaración sobre la Cuenta General del Estado.",
+   "title": "Dictamen de la Comisión Mixta para las Relaciones con el Tribunal de Cuentas en relación con la Declaración sobre la Cuenta General del Estado del ejercicio 2024, así como la Resolución adoptada por la Comisión.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 177,
+    "no": 168,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-10.json"
+  }
+ ]
+}

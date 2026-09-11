@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000818",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-10",
+   "session": 196,
+   "number": 5,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre la necesidad de transparencia.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 163,
+    "no": 174,
+    "abstain": 8,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-10.json"
+  }
+ ]
+}

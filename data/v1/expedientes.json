@@ -1,5 +1,101 @@
 [
  {
+  "expediente": "122/000072",
+  "votings": 5,
+  "firstVote": "2025-02-25",
+  "lastVote": "2026-09-10",
+  "title": "Votación del dictamen de la Proposición de Ley sobre concesión de nacionalidad española a las y los saharauis nacidos bajo la administración española.",
+  "url": "expedientes/122-000072.json"
+ },
+ {
+  "expediente": "162/000833",
+  "votings": 1,
+  "firstVote": "2026-09-10",
+  "lastVote": "2026-09-10",
+  "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para una respuesta de Estado ante la crisis de seguridad nacional en Ceuta y para garantizar el futuro de Ceuta y Melilla. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Popular en el Congreso.",
+  "url": "expedientes/162-000833.json"
+ },
+ {
+  "expediente": "162/000818",
+  "votings": 1,
+  "firstVote": "2026-09-10",
+  "lastVote": "2026-09-10",
+  "title": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre la necesidad de transparencia.",
+  "url": "expedientes/162-000818.json"
+ },
+ {
+  "expediente": "173/000185",
+  "votings": 1,
+  "firstVote": "2026-09-10",
+  "lastVote": "2026-09-10",
+  "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre la estrategia que seguirá el Gobierno para revertir el empobrecimiento de los españoles.",
+  "url": "expedientes/173-000185.json"
+ },
+ {
+  "expediente": "173/000186",
+  "votings": 8,
+  "firstVote": "2026-09-10",
+  "lastVote": "2026-09-10",
+  "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la política en materia de vivienda del Gobierno.",
+  "url": "expedientes/173-000186.json"
+ },
+ {
+  "expediente": "122/000229",
+  "votings": 1,
+  "firstVote": "2026-09-10",
+  "lastVote": "2026-09-10",
+  "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para el cambio del modelo de elección de los vocales del Consejo General del Poder Judicial.",
+  "url": "expedientes/122-000229.json"
+ },
+ {
+  "expediente": "122/000297",
+  "votings": 1,
+  "firstVote": "2026-09-10",
+  "lastVote": "2026-09-10",
+  "title": "Proposición de Ley del Grupo Parlamentario Socialista, sobre el reconocimiento de la profesión de biólogo y trabajador social como profesión sanitaria.",
+  "url": "expedientes/122-000297.json"
+ },
+ {
+  "expediente": "110/000078",
+  "votings": 1,
+  "firstVote": "2026-09-10",
+  "lastVote": "2026-09-10",
+  "title": "Acuerdo Internacional entre el Reino de España y la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) relativo a la designación de la Fundación Tres Culturas del Mediterráneo como Centro de Categoría 2 auspiciado por la UNESCO, hecho en París el 28 de enero de 2026.",
+  "url": "expedientes/110-000078.json"
+ },
+ {
+  "expediente": "110/000079",
+  "votings": 1,
+  "firstVote": "2026-09-10",
+  "lastVote": "2026-09-10",
+  "title": "Segundo Protocolo de Revisión del Convenio sobre cooperación para la protección y el aprovechamiento sostenible de las aguas de las cuencas hidrográficas hispano-portuguesas y Protocolo Adicional, hechos en Albufeira el 30 de noviembre de 1998 entre el Reino de España y la República Portuguesa, relativo al régimen de caudales del río Guadiana en la sección de Pomarão, hecho en Madrid el 24 de febrero de 2026.",
+  "url": "expedientes/110-000079.json"
+ },
+ {
+  "expediente": "110/000080",
+  "votings": 1,
+  "firstVote": "2026-09-10",
+  "lastVote": "2026-09-10",
+  "title": "Acuerdo entre el Reino de España y Australia para la protección mutua de información clasificada de interés para la defensa, hecho en Bruselas el 12 de febrero de 2026.",
+  "url": "expedientes/110-000080.json"
+ },
+ {
+  "expediente": "250/000008",
+  "votings": 1,
+  "firstVote": "2026-09-10",
+  "lastVote": "2026-09-10",
+  "title": "Dictamen de la Comisión Mixta para las Relaciones con el Tribunal de Cuentas en relación con la Declaración sobre la Cuenta General del Estado del ejercicio 2024, así como la Resolución adoptada por la Comisión.",
+  "url": "expedientes/250-000008.json"
+ },
+ {
+  "expediente": "158/000024",
+  "votings": 1,
+  "firstVote": "2026-09-10",
+  "lastVote": "2026-09-10",
+  "title": "Propuesta de la Comisión de Interior, de creación de una Subcomisión para la elaboración de un Estatuto jurídico básico de las personas desaparecidas sin causa aparente.",
+  "url": "expedientes/158-000024.json"
+ },
+ {
   "expediente": "130/000051",
   "votings": 2,
   "firstVote": "2026-09-09",
@@ -1174,14 +1270,6 @@
   "lastVote": "2025-12-11",
   "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final de la Proposición de Ley relativa a la regulación de las cláusulas Redito Ad Libitum en la contratación de préstamos y créditos hipotecarios, presentada por el Grupo Parlamentario Popular en el Congreso.",
   "url": "expedientes/122-000124.json"
- },
- {
-  "expediente": "122/000072",
-  "votings": 2,
-  "firstVote": "2025-02-25",
-  "lastVote": "2025-12-11",
-  "title": "Votación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final de la Proposición de Ley sobre concesión de nacionalidad española a las y los saharauis nacidos bajo la administración española, presentada por el Grupo Parlamentario Popular en el Congreso.",
-  "url": "expedientes/122-000072.json"
  },
  {
   "expediente": "121/000012",

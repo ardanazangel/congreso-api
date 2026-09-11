@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000833",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-10",
+   "session": 196,
+   "number": 4,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, para una respuesta de Estado ante la crisis de seguridad nacional en Ceuta y para garantizar el futuro de Ceuta y Melilla. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 170,
+    "no": 175,
+    "abstain": 1,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-10.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000297",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-10",
+   "session": 196,
+   "number": 16,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, sobre el reconocimiento de la profesión de biólogo y trabajador social como profesión sanitaria.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 165,
+    "no": 32,
+    "abstain": 148,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-10.json"
+  }
+ ]
+}

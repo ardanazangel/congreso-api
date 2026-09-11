@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T10:49:05.421Z",
+ "generatedAt": "2026-09-11T10:45:28.136Z",
  "legislature": "XV",
  "source": "https://www.congreso.es/es/opendata/votaciones",
  "days": [
@@ -812,6 +812,12 @@
    "session": 195,
    "votings": 2,
    "url": "sessions/2026-09-09.json"
+  },
+  {
+   "date": "2026-09-10",
+   "session": 196,
+   "votings": 21,
+   "url": "sessions/2026-09-10.json"
   }
  ],
  "missingData": [
@@ -821,8 +827,8 @@
   "2024-01-18"
  ],
  "totals": {
-  "days": 135,
-  "votings": 2058,
+  "days": 136,
+  "votings": 2079,
   "withoutExpediente": 0
  }
 }

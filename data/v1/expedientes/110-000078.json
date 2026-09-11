@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000078",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-10",
+   "session": 196,
+   "number": 17,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo Internacional entre el Reino de España y la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) relativo a la designación de la Fundación Tres Culturas del Mediterráneo como Centro de Categoría 2 auspiciado por la UNESCO, hecho en París el 28 de enero de 2026.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 263,
+    "no": 57,
+    "abstain": 25,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-10.json"
+  }
+ ]
+}

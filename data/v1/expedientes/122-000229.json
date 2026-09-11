@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000229",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-10",
+   "session": 196,
+   "number": 15,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para el cambio del modelo de elección de los vocales del Consejo General del Poder Judicial.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 170,
+    "no": 175,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-10.json"
+  }
+ ]
+}

@@ -35,6 +35,57 @@
     "unanimous": false
    },
    "rollCall": "sessions/2025-12-11.json"
+  },
+  {
+   "date": "2026-09-10",
+   "session": 196,
+   "number": 1,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley sobre concesión de nacionalidad española a las y los saharauis nacidos bajo la administración española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Enmiendas 25, 26 y 30.",
+   "totals": {
+    "present": 347,
+    "yes": 139,
+    "no": 207,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-10.json"
+  },
+  {
+   "date": "2026-09-10",
+   "session": 196,
+   "number": 2,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Proposición de Ley sobre concesión de nacionalidad española a las y los saharauis nacidos bajo la administración española.",
+   "subtitle": "Enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso Resto de las enmiendas.",
+   "totals": {
+    "present": 347,
+    "yes": 169,
+    "no": 177,
+    "abstain": 1,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-10.json"
+  },
+  {
+   "date": "2026-09-10",
+   "session": 196,
+   "number": 3,
+   "heading": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+   "title": "Votación del dictamen de la Proposición de Ley sobre concesión de nacionalidad española a las y los saharauis nacidos bajo la administración española.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 168,
+    "no": 31,
+    "abstain": 145,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-10.json"
   }
  ]
 }

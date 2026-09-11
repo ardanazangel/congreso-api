@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000079",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-10",
+   "session": 196,
+   "number": 18,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Segundo Protocolo de Revisión del Convenio sobre cooperación para la protección y el aprovechamiento sostenible de las aguas de las cuencas hidrográficas hispano-portuguesas y Protocolo Adicional, hechos en Albufeira el 30 de noviembre de 1998 entre el Reino de España y la República Portuguesa, relativo al régimen de caudales del río Guadiana en la sección de Pomarão, hecho en Madrid el 24 de febrero de 2026.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 156,
+    "no": 0,
+    "abstain": 189,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-10.json"
+  }
+ ]
+}
