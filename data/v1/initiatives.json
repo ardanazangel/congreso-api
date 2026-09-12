@@ -9,10 +9,12 @@
   ],
   "presentedAt": "2026-09-02",
   "qualifiedAt": "2026-09-08",
-  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "status": "Gobierno Contestación",
   "result": null,
   "committee": null,
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-357-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=123/000002"
  },
  {
@@ -25,10 +27,12 @@
   ],
   "presentedAt": "2026-08-26",
   "qualifiedAt": "2026-09-08",
-  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "status": "Gobierno Contestación",
   "result": null,
   "committee": null,
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-355-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000299"
  },
  {
@@ -41,10 +45,12 @@
   ],
   "presentedAt": "2026-07-31",
   "qualifiedAt": "2026-09-08",
-  "status": "Comisión de Hacienda y Función Pública Publicación",
+  "status": "Comisión de Hacienda y Función Pública Enmiendas",
   "result": null,
   "committee": "Comisión de Hacienda y Función Pública",
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-112-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000111"
  },
  {
@@ -57,10 +63,12 @@
   ],
   "presentedAt": "2026-07-24",
   "qualifiedAt": "2026-09-08",
-  "status": "Comisión de Sanidad Publicación",
+  "status": "Comisión de Sanidad Enmiendas",
   "result": null,
   "committee": "Comisión de Sanidad",
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-110-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000109"
  },
  {
@@ -73,10 +81,12 @@
   ],
   "presentedAt": "2026-07-24",
   "qualifiedAt": "2026-09-08",
-  "status": "Comisión de Sanidad Publicación",
+  "status": "Comisión de Sanidad Enmiendas",
   "result": null,
   "committee": "Comisión de Sanidad",
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-111-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000110"
  },
  {
@@ -89,10 +99,12 @@
   ],
   "presentedAt": "2026-07-23",
   "qualifiedAt": "2026-09-08",
-  "status": "Comisión de Economía, Comercio y Transformación Digital Publicación",
+  "status": "Comisión de Economía, Comercio y Transformación Digital Enmiendas",
   "result": null,
   "committee": "Comisión de Economía, Comercio y Transformación Digital",
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-108-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000107"
  },
  {
@@ -105,10 +117,12 @@
   ],
   "presentedAt": "2026-07-23",
   "qualifiedAt": "2026-09-08",
-  "status": "Comisión de Hacienda y Función Pública Publicación",
+  "status": "Comisión de Hacienda y Función Pública Enmiendas",
   "result": null,
   "committee": "Comisión de Hacienda y Función Pública",
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-109-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000108"
  },
  {
@@ -143,7 +157,8 @@
   "result": null,
   "committee": "Comisión de Economía, Comercio y Transformación Digital",
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-106-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-106-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-106-2.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000105"
  },
@@ -215,7 +230,11 @@
   "result": null,
   "committee": null,
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-2.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-3.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-4.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-5.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000297"
  },
@@ -427,11 +446,12 @@
   ],
   "presentedAt": "2026-06-16",
   "qualifiedAt": "2026-06-23",
-  "status": "Concluido - (Retirado)",
-  "result": null,
+  "status": "Cerrado",
+  "result": "Retirado 11/09/2026",
   "committee": null,
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-345-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-345-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-345-2.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000291"
  },
@@ -1375,11 +1395,12 @@
   ],
   "presentedAt": "2026-02-24",
   "qualifiedAt": "2026-03-10",
-  "status": "Concluido - (Retirado)",
-  "result": null,
+  "status": "Cerrado",
+  "result": "Retirado 11/09/2026",
   "committee": null,
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-310-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-310-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-310-2.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000260"
  },
@@ -2884,7 +2905,9 @@
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_454_3793.PDF",
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_454_3794.PDF",
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_454_3795.PDF",
-   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_454_3796.PDF"
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_454_3796.PDF",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_455_3799.PDF",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_456_3801.PDF"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000064"
  },
@@ -7388,7 +7411,7 @@
   ],
   "presentedAt": "2024-03-12",
   "qualifiedAt": "2024-03-19",
-  "status": "",
+  "status": "Senado",
   "result": null,
   "committee": "Comisión de Justicia",
   "bocg": [
