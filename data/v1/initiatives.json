@@ -1,5 +1,69 @@
 [
  {
+  "expediente": "122/000300",
+  "legislature": "XV",
+  "type": "Proposición de ley de Grupos Parlamentarios del Congreso",
+  "title": "Proposición de Ley por la que se modifica el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, relativa a la reducción de la tasa máxima de alcohol en la conducción.",
+  "authors": [
+   "Grupo Parlamentario Socialista"
+  ],
+  "presentedAt": "2026-09-11",
+  "qualifiedAt": "2026-09-15",
+  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "result": null,
+  "committee": null,
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000300"
+ },
+ {
+  "expediente": "122/000301",
+  "legislature": "XV",
+  "type": "Proposición de ley de Grupos Parlamentarios del Congreso",
+  "title": "Proposición de Ley de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, con el objeto de incluir a los miembros de la Policía Nacional y de la Guardia Civil, y a los funcionarios del Servicio de Vigilancia Aduanera, dentro de los colectivos que gozan de coeficiente reductor de la edad de jubilación debido a la peligrosidad de su trabajo.",
+  "authors": [
+   "Grupo Parlamentario Popular en el Congreso"
+  ],
+  "presentedAt": "2026-09-11",
+  "qualifiedAt": "2026-09-15",
+  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "result": null,
+  "committee": null,
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000301"
+ },
+ {
+  "expediente": "121/000113",
+  "legislature": "XV",
+  "type": "Proyecto de ley",
+  "title": "Proyecto de Ley por la que se establecen medidas urgentes de protección laboral y social frente a los incendios forestales (procedente del Real Decreto-ley 20/2026, de 29 de julio).",
+  "authors": [
+   "Gobierno"
+  ],
+  "presentedAt": "2026-09-09",
+  "qualifiedAt": "2026-09-15",
+  "status": "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones Publicación",
+  "result": null,
+  "committee": "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones",
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000113"
+ },
+ {
+  "expediente": "121/000112",
+  "legislature": "XV",
+  "type": "Proyecto de ley",
+  "title": "Proyecto de Ley del Estatuto Marco del personal estatutario de los servicios de salud.",
+  "authors": [
+   "Gobierno"
+  ],
+  "presentedAt": "2026-09-07",
+  "qualifiedAt": "2026-09-15",
+  "status": "Comisión de Sanidad Publicación",
+  "result": null,
+  "committee": "Comisión de Sanidad",
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000112"
+ },
+ {
   "expediente": "123/000002",
   "legislature": "XV",
   "type": "Proposición de ley de Diputados",
@@ -226,15 +290,16 @@
   ],
   "presentedAt": "2026-07-14",
   "qualifiedAt": "2026-07-23",
-  "status": "Mesa del Congreso Acuerdo subsiguiente a la toma en consideración",
+  "status": "Comisión de Sanidad Publicación",
   "result": null,
-  "committee": null,
+  "committee": "Comisión de Sanidad",
   "bocg": [
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-1.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-2.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-3.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-4.PDF#page=1",
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-5.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-5.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-6.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000297"
  },
@@ -505,7 +570,8 @@
   "result": null,
   "committee": "Comisión de Sanidad",
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-99-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-99-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-99-2.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000098"
  },
@@ -609,7 +675,7 @@
   ],
   "presentedAt": "2026-05-29",
   "qualifiedAt": "2026-06-02",
-  "status": "Gobierno Contestación",
+  "status": "Concluido - (Decaído)",
   "result": null,
   "committee": null,
   "bocg": [
@@ -2198,8 +2264,8 @@
   ],
   "presentedAt": "2025-11-06",
   "qualifiedAt": "2025-11-11",
-  "status": "Concluido - (Aprobado con modificaciones)",
-  "result": null,
+  "status": "Cerrado",
+  "result": "Aprobado con modificaciones 15/09/2026",
   "committee": "Comisión de Sanidad",
   "bocg": [
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-277-1.PDF#page=1",
@@ -2882,7 +2948,7 @@
   ],
   "presentedAt": "2025-07-17",
   "qualifiedAt": "2025-07-22",
-  "status": "Senado",
+  "status": "Pleno Enmiendas o veto del Senado",
   "result": null,
   "committee": "Comisión de Derechos Sociales y Consumo",
   "bocg": [
@@ -5169,8 +5235,8 @@
   ],
   "presentedAt": "2024-11-21",
   "qualifiedAt": "2024-11-26",
-  "status": "Concluido - (Aprobado con modificaciones)",
-  "result": null,
+  "status": "Cerrado",
+  "result": "Aprobado con modificaciones 15/09/2026",
   "committee": "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones",
   "bocg": [
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-162-1.PDF#page=1",
@@ -8327,8 +8393,8 @@
   ],
   "presentedAt": "2024-01-09",
   "qualifiedAt": "2024-01-16",
-  "status": "Concluido - (Aprobado sin modificaciones)",
-  "result": null,
+  "status": "Cerrado",
+  "result": "Aprobado sin modificaciones 15/09/2026",
   "committee": "Comisión de Transportes y Movilidad Sostenible",
   "bocg": [
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-57-1.PDF#page=1",
