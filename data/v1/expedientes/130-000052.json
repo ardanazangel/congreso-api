@@ -1,0 +1,23 @@
+{
+ "expediente": "130/000052",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-16",
+   "session": 198,
+   "number": 16,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 21/2026, de 25 de agosto, de transparencia e integridad de las actividades de los grupos de interés.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 155,
+    "no": 179,
+    "abstain": 12,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-16.json"
+  }
+ ]
+}

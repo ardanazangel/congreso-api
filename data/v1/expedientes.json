@@ -1,5 +1,85 @@
 [
  {
+  "expediente": "121/000064",
+  "votings": 91,
+  "firstVote": "2025-12-11",
+  "lastVote": "2026-09-16",
+  "title": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+  "url": "expedientes/121-000064.json"
+ },
+ {
+  "expediente": "162/000830",
+  "votings": 1,
+  "firstVote": "2026-09-16",
+  "lastVote": "2026-09-16",
+  "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa al cumplimiento del Acuerdo entre el Reino de España y el Reino de Marruecos sobre la cooperación en el ámbito de la prevención de la emigración ilegal de menores no acompañados, su protección y su retorno concertado, hecho en Rabat el 6 de marzo de 2007, y al rechazo a su reparto por el territorio nacional ante la invasión inmigratoria de Marruecos sobre Ceuta.",
+  "url": "expedientes/162-000830.json"
+ },
+ {
+  "expediente": "162/000697",
+  "votings": 1,
+  "firstVote": "2026-09-16",
+  "lastVote": "2026-09-16",
+  "title": "Proposición no de Ley del Grupo Parlamentario Plurinacional SUMAR, contra las medidas de coerción de Estados Unidos contra Cuba y la defensa del derecho internacional, la soberanía y la paz. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Socialista.",
+  "url": "expedientes/162-000697.json"
+ },
+ {
+  "expediente": "173/000187",
+  "votings": 7,
+  "firstVote": "2026-09-16",
+  "lastVote": "2026-09-16",
+  "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Belarra Urteaga), relativa a los planes del Gobierno sobre el encarecimiento de la vida.",
+  "url": "expedientes/173-000187.json"
+ },
+ {
+  "expediente": "173/000188",
+  "votings": 1,
+  "firstVote": "2026-09-16",
+  "lastVote": "2026-09-16",
+  "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para revertir la situación de inseguridad ocasionada por la invasión en Ceuta.",
+  "url": "expedientes/173-000188.json"
+ },
+ {
+  "expediente": "173/000189",
+  "votings": 4,
+  "firstVote": "2026-09-16",
+  "lastVote": "2026-09-16",
+  "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la crisis que atraviesa la Ciudad Autónoma de Ceuta.",
+  "url": "expedientes/173-000189.json"
+ },
+ {
+  "expediente": "173/000190",
+  "votings": 1,
+  "firstVote": "2026-09-16",
+  "lastVote": "2026-09-16",
+  "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Catalán Higueras), para que el Gobierno explique los motivos por los que el Ministerio para la Transición Ecológica y el Reto Demográfico no ha cumplido el mandato parlamentario de establecer un cronograma para la licitación y adjudicación de las obras de la segunda fase del Canal de Navarra.",
+  "url": "expedientes/173-000190.json"
+ },
+ {
+  "expediente": "130/000052",
+  "votings": 1,
+  "firstVote": "2026-09-16",
+  "lastVote": "2026-09-16",
+  "title": "Real Decreto-ley 21/2026, de 25 de agosto, de transparencia e integridad de las actividades de los grupos de interés.",
+  "url": "expedientes/130-000052.json"
+ },
+ {
+  "expediente": "130/000053",
+  "votings": 2,
+  "firstVote": "2026-09-16",
+  "lastVote": "2026-09-16",
+  "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta.",
+  "url": "expedientes/130-000053.json"
+ },
+ {
+  "expediente": "042/000043",
+  "votings": 1,
+  "firstVote": "2026-09-16",
+  "lastVote": "2026-09-16",
+  "title": "Dictamen de la Comisión del Estatuto sobre declaración de actividades de Excmos. Sres. Diputados.",
+  "url": "expedientes/042-000043.json"
+ },
+ {
   "expediente": "122/000012",
   "votings": 1,
   "firstVote": "2026-09-15",
@@ -190,14 +270,6 @@
   "lastVote": "2026-07-14",
   "title": "Proposición de Ley Orgánica de reforma de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal para la protección de la libertad de expresión.",
   "url": "expedientes/122-000006.json"
- },
- {
-  "expediente": "121/000064",
-  "votings": 52,
-  "firstVote": "2025-12-11",
-  "lastVote": "2026-07-14",
-  "title": "Votación del dictamen del Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
-  "url": "expedientes/121-000064.json"
  },
  {
   "expediente": "430/000009",

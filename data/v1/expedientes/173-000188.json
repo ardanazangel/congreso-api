@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000188",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-16",
+   "session": 198,
+   "number": 10,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para revertir la situación de inseguridad ocasionada por la invasión en Ceuta.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 33,
+    "no": 174,
+    "abstain": 137,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-16.json"
+  }
+ ]
+}

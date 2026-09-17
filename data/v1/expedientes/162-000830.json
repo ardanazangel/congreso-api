@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000830",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-16",
+   "session": 198,
+   "number": 1,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario VOX, relativa al cumplimiento del Acuerdo entre el Reino de España y el Reino de Marruecos sobre la cooperación en el ámbito de la prevención de la emigración ilegal de menores no acompañados, su protección y su retorno concertado, hecho en Rabat el 6 de marzo de 2007, y al rechazo a su reparto por el territorio nacional ante la invasión inmigratoria de Marruecos sobre Ceuta.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 170,
+    "no": 177,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-16.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000697",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-16",
+   "session": 198,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Plurinacional SUMAR, contra las medidas de coerción de Estados Unidos contra Cuba y la defensa del derecho internacional, la soberanía y la paz. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Socialista.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 163,
+    "no": 170,
+    "abstain": 13,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-16.json"
+  }
+ ]
+}

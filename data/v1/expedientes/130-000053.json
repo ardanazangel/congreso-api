@@ -1,0 +1,40 @@
+{
+ "expediente": "130/000053",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-16",
+   "session": 198,
+   "number": 17,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta.",
+   "subtitle": "",
+   "totals": {
+    "present": 344,
+    "yes": 304,
+    "no": 33,
+    "abstain": 7,
+    "absent": 6,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-16.json"
+  },
+  {
+   "date": "2026-09-16",
+   "session": 198,
+   "number": 18,
+   "heading": "Convalidación o derogación de Reales Decretos-leyes.",
+   "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta.",
+   "subtitle": "",
+   "totals": {
+    "present": 345,
+    "yes": 345,
+    "no": 0,
+    "abstain": 0,
+    "absent": 5,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-16.json"
+  }
+ ]
+}
