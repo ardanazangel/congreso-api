@@ -9,10 +9,12 @@
   ],
   "presentedAt": "2026-09-11",
   "qualifiedAt": "2026-09-15",
-  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "status": "Gobierno Contestación",
   "result": null,
   "committee": null,
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-358-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000300"
  },
  {
@@ -25,10 +27,12 @@
   ],
   "presentedAt": "2026-09-11",
   "qualifiedAt": "2026-09-15",
-  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "status": "Gobierno Contestación",
   "result": null,
   "committee": null,
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-359-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000301"
  },
  {
@@ -41,10 +45,12 @@
   ],
   "presentedAt": "2026-09-09",
   "qualifiedAt": "2026-09-15",
-  "status": "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones Publicación",
+  "status": "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones Enmiendas",
   "result": null,
   "committee": "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones",
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-114-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000113"
  },
  {
@@ -57,10 +63,12 @@
   ],
   "presentedAt": "2026-09-07",
   "qualifiedAt": "2026-09-15",
-  "status": "Comisión de Sanidad Publicación",
+  "status": "Comisión de Sanidad Enmiendas",
   "result": null,
   "committee": "Comisión de Sanidad",
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-113-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000112"
  },
  {
@@ -236,7 +244,7 @@
   ],
   "presentedAt": "2026-07-17",
   "qualifiedAt": "2026-07-23",
-  "status": "Comisión de Igualdad Enmiendas",
+  "status": "Comisión de Igualdad Enmiendas Comisión de Igualdad Mesa - Calificación",
   "result": null,
   "committee": "Comisión de Igualdad",
   "bocg": [
@@ -290,7 +298,7 @@
   ],
   "presentedAt": "2026-07-14",
   "qualifiedAt": "2026-07-23",
-  "status": "Comisión de Sanidad Publicación",
+  "status": "Comisión de Sanidad Enmiendas",
   "result": null,
   "committee": "Comisión de Sanidad",
   "bocg": [
@@ -299,7 +307,8 @@
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-3.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-4.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-5.PDF#page=1",
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-6.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-6.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-352-7.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000297"
  },
@@ -621,7 +630,7 @@
   ],
   "presentedAt": "2026-06-03",
   "qualifiedAt": "2026-06-08",
-  "status": "Gobierno Contestación",
+  "status": "Pleno Toma en consideración",
   "result": null,
   "committee": null,
   "bocg": [
@@ -639,7 +648,7 @@
   ],
   "presentedAt": "2026-06-03",
   "qualifiedAt": "2026-06-08",
-  "status": "Gobierno Contestación",
+  "status": "Pleno Toma en consideración",
   "result": null,
   "committee": null,
   "bocg": [
@@ -675,11 +684,12 @@
   ],
   "presentedAt": "2026-05-29",
   "qualifiedAt": "2026-06-02",
-  "status": "Concluido - (Decaído)",
-  "result": null,
+  "status": "Cerrado",
+  "result": "Decaído 18/09/2026",
   "committee": null,
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-336-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-336-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-336-2.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000284"
  },
@@ -1753,7 +1763,7 @@
   "expediente": "122/000247",
   "legislature": "XV",
   "type": "Proposición de ley de Grupos Parlamentarios del Congreso",
-  "title": "Proposición de Ley de reforma de la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia en el Servicio Público de Justicia; y de modificación de la Ley 1/2000, de 7 de enero, en Enjuiciamiento Civil, en cuanto a los procesos de familia con personas menores de edad.",
+  "title": "Proposición de Ley de reforma de la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia en el Servicio Público de Justicia; y de modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en cuanto a los procesos de familia con personas menores de edad.",
   "authors": [
    "Grupo Parlamentario Vasco (EAJ-PNV)"
   ],
