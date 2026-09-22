@@ -1697,11 +1697,12 @@
   ],
   "presentedAt": "2026-01-15",
   "qualifiedAt": "2026-01-27",
-  "status": "Concluido - (Rechazado)",
-  "result": null,
+  "status": "Cerrado",
+  "result": "Rechazado 21/09/2026",
   "committee": null,
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-300-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-300-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-300-2.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000251"
  },
@@ -2987,7 +2988,9 @@
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_456_3801.PDF",
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-64-9.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_458_3817.PDF",
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-64-10.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-64-10.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_460_3815.PDF",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_460_3816.PDF"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000064"
  },
@@ -9169,11 +9172,12 @@
   ],
   "presentedAt": "2023-10-11",
   "qualifiedAt": "2023-10-25",
-  "status": "Concluido - (Rechazado)",
-  "result": null,
+  "status": "Cerrado",
+  "result": "Rechazado 21/09/2026",
   "committee": null,
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-24-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-24-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-24-2.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000012"
  },
