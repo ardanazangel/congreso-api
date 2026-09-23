@@ -1,5 +1,86 @@
 [
  {
+  "expediente": "122/000304",
+  "legislature": "XV",
+  "type": "Proposición de ley de Grupos Parlamentarios del Congreso",
+  "title": "Proposición de Ley de modificación de la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del servicio público de justicia, sobre los MASC como requisito de procedibilidad en Derecho de Familia.",
+  "authors": [
+   "Grupo Parlamentario Popular en el Congreso"
+  ],
+  "presentedAt": "2026-09-18",
+  "qualifiedAt": "2026-09-22",
+  "status": "Cerrado",
+  "result": "Retirado 22/09/2026",
+  "committee": null,
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000304"
+ },
+ {
+  "expediente": "122/000305",
+  "legislature": "XV",
+  "type": "Proposición de ley de Grupos Parlamentarios del Congreso",
+  "title": "Proposición de Ley de modificación de la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del servicio público de justicia, y de modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil sobre los MASC como requisito de procedibilidad en Derecho de Familia.",
+  "authors": [
+   "Grupo Parlamentario Popular en el Congreso"
+  ],
+  "presentedAt": "2026-09-18",
+  "qualifiedAt": "2026-09-22",
+  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "result": null,
+  "committee": null,
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000305"
+ },
+ {
+  "expediente": "121/000114",
+  "legislature": "XV",
+  "type": "Proyecto de ley",
+  "title": "Proyecto de Ley por la que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta (procedente del Real Decreto-ley 22/2026, de 1 de septiembre).",
+  "authors": [
+   "Gobierno"
+  ],
+  "presentedAt": "2026-09-16",
+  "qualifiedAt": "2026-09-22",
+  "status": "Comisión de Política Territorial Publicación",
+  "result": null,
+  "committee": "Comisión de Política Territorial",
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000114"
+ },
+ {
+  "expediente": "122/000303",
+  "legislature": "XV",
+  "type": "Proposición de ley de Grupos Parlamentarios del Congreso",
+  "title": "Proposición de Ley de creación del Gravamen sobre la Concentración de Riqueza.",
+  "authors": [
+   "Grupo Parlamentario Plurinacional SUMAR"
+  ],
+  "presentedAt": "2026-09-16",
+  "qualifiedAt": "2026-09-22",
+  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "result": null,
+  "committee": null,
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000303"
+ },
+ {
+  "expediente": "122/000302",
+  "legislature": "XV",
+  "type": "Proposición de ley de Grupos Parlamentarios del Congreso",
+  "title": "Proposición de Ley por la que se regula el ejercicio profesional de la Criminología.",
+  "authors": [
+   "Grupo Parlamentario Socialista",
+   "Grupo Parlamentario Plurinacional SUMAR"
+  ],
+  "presentedAt": "2026-09-15",
+  "qualifiedAt": "2026-09-22",
+  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "result": null,
+  "committee": null,
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000302"
+ },
+ {
   "expediente": "122/000300",
   "legislature": "XV",
   "type": "Proposición de ley de Grupos Parlamentarios del Congreso",
@@ -9,7 +90,7 @@
   ],
   "presentedAt": "2026-09-11",
   "qualifiedAt": "2026-09-15",
-  "status": "Gobierno Contestación",
+  "status": "Pleno Toma en consideración",
   "result": null,
   "committee": null,
   "bocg": [
@@ -244,7 +325,7 @@
   ],
   "presentedAt": "2026-07-17",
   "qualifiedAt": "2026-07-23",
-  "status": "Comisión de Igualdad Enmiendas Comisión de Igualdad Mesa - Calificación",
+  "status": "Comisión de Igualdad Enmiendas Comisión de Igualdad Debate de totalidad",
   "result": null,
   "committee": "Comisión de Igualdad",
   "bocg": [

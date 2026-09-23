@@ -1,5 +1,21 @@
 [
  {
+  "expediente": "122/000247",
+  "votings": 1,
+  "firstVote": "2026-09-22",
+  "lastVote": "2026-09-22",
+  "title": "Proposición de Ley del Grupo Parlamentario Vasco (EAJ-PNV), de reforma de la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia en el Servicio Público de Justicia; y de modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en cuanto a los procesos de familia con personas menores de edad.",
+  "url": "expedientes/122-000247.json"
+ },
+ {
+  "expediente": "122/000105",
+  "votings": 1,
+  "firstVote": "2026-09-22",
+  "lastVote": "2026-09-22",
+  "title": "Proposición de Ley del Grupo Parlamentario Mixto, de jubilación sin penalización.",
+  "url": "expedientes/122-000105.json"
+ },
+ {
   "expediente": "121/000064",
   "votings": 91,
   "firstVote": "2025-12-11",

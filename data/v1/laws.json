@@ -177,11 +177,27 @@
  },
  {
   "number": "22",
+  "title": "Resolución de 16 de septiembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta.",
+  "type": "Reales decretos",
+  "publishedAt": "2026-09-01",
+  "bulletin": "231",
+  "pdf": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_022_2026_conv.pdf"
+ },
+ {
+  "number": "22",
   "title": "Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta.",
   "type": "Reales decretos",
   "publishedAt": "2026-09-01",
   "bulletin": "216",
   "pdf": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_022_2026.pdf"
+ },
+ {
+  "number": "21",
+  "title": "Resolución de 16 de septiembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 21/2026, de 25 de agosto, de transparencia e integridad de las actividades de los grupos de interés.",
+  "type": "Reales decretos",
+  "publishedAt": "2026-08-25",
+  "bulletin": "231",
+  "pdf": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_021_2026_der.pdf"
  },
  {
   "number": "21",
@@ -209,14 +225,6 @@
  },
  {
   "number": "19",
-  "title": "Resolución de 23 de julio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 19/2026, de 29 de junio, de medidas urgentes en materia de jubilación parcial anticipada del personal laboral de las Administraciones Públicas y de complemento de insularidad en Illes Balears.",
-  "type": "Reales decretos",
-  "publishedAt": "2026-06-29",
-  "bulletin": "180",
-  "pdf": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_019_2026_conv.pdf"
- },
- {
-  "number": "19",
   "title": "Real Decreto-ley 19/2026, de 29 de junio, de medidas urgentes en materia de jubilación parcial anticipada del personal laboral de las Administraciones Públicas y de complemento de insularidad en Illes Balears.",
   "type": "Reales decretos",
   "publishedAt": "2026-06-29",
@@ -224,12 +232,12 @@
   "pdf": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_019_2026.pdf"
  },
  {
-  "number": "18",
-  "title": "Resolución de 23 de julio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 18/2026, de 29 de junio, por el que se adoptan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio.",
+  "number": "19",
+  "title": "Resolución de 23 de julio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 19/2026, de 29 de junio, de medidas urgentes en materia de jubilación parcial anticipada del personal laboral de las Administraciones Públicas y de complemento de insularidad en Illes Balears.",
   "type": "Reales decretos",
   "publishedAt": "2026-06-29",
   "bulletin": "180",
-  "pdf": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_018_2026_conv.pdf"
+  "pdf": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_019_2026_conv.pdf"
  },
  {
   "number": "18",
@@ -238,6 +246,14 @@
   "publishedAt": "2026-06-29",
   "bulletin": "158",
   "pdf": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_018_2026.pdf"
+ },
+ {
+  "number": "18",
+  "title": "Resolución de 23 de julio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 18/2026, de 29 de junio, por el que se adoptan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio.",
+  "type": "Reales decretos",
+  "publishedAt": "2026-06-29",
+  "bulletin": "180",
+  "pdf": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_018_2026_conv.pdf"
  },
  {
   "number": "17",
