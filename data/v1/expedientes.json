@@ -1,5 +1,53 @@
 [
  {
+  "expediente": "162/000822",
+  "votings": 1,
+  "firstVote": "2026-09-23",
+  "lastVote": "2026-09-23",
+  "title": "Proposición no de Ley del Grupo Parlamentario Vasco (EAJ-PNV), sobre la Variante sur Ferroviaria, mercancías por la Y vasca y medidas mitigadoras a nivel municipal. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Vasco (EAJ-PNV).",
+  "url": "expedientes/162-000822.json"
+ },
+ {
+  "expediente": "162/000260",
+  "votings": 1,
+  "firstVote": "2026-09-23",
+  "lastVote": "2026-09-23",
+  "title": "Proposición no de Ley del Grupo Parlamentario Mixto (Sra. Belarra Urteaga y Sra. Santana Perera), relativa a la aprobación de la Ley de Familias. Se vota en los términos resultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Mixto (Sra. Belarra Urteaga y Sra. Santana Perera).",
+  "url": "expedientes/162-000260.json"
+ },
+ {
+  "expediente": "173/000191",
+  "votings": 1,
+  "firstVote": "2026-09-23",
+  "lastVote": "2026-09-23",
+  "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sra. Valido García), sobre la reforma del Estatuto Marco del personal estatutario de los servicios de salud, en particular en lo relativo a la actualización de la clasificación profesional y retributiva del personal sanitario de formación profesional y del personal de gestión y servicios, la reforma del sistema de carrera profesional y la financiación necesaria para garantizar su aplicación en el conjunto del Sistema Nacional de Salud.",
+  "url": "expedientes/173-000191.json"
+ },
+ {
+  "expediente": "173/000192",
+  "votings": 1,
+  "firstVote": "2026-09-23",
+  "lastVote": "2026-09-23",
+  "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a adoptar el Gobierno para revertir los pésimos resultados de nuestro sistema educativo.",
+  "url": "expedientes/173-000192.json"
+ },
+ {
+  "expediente": "173/000193",
+  "votings": 5,
+  "firstVote": "2026-09-23",
+  "lastVote": "2026-09-23",
+  "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la nefasta política educativa de su Gobierno.",
+  "url": "expedientes/173-000193.json"
+ },
+ {
+  "expediente": "130/000054",
+  "votings": 2,
+  "firstVote": "2026-09-23",
+  "lastVote": "2026-09-23",
+  "title": "Tramitación como Proyecto de Ley por el procedimiento de urgencia del Real Decreto-ley 23/2026, de 8 de septiembre, por el que se adoptan medidas fiscales y financieras urgentes que contribuyan a la reconstrucción económica y social de la isla de La Palma, así como medidas tendentes a promover la ejecución de inversiones por parte de las comunidades autónomas que han registrado superávits presupuestarios y excesos de financiación pendientes de aplicar de ejercicios anteriores a 2026.",
+  "url": "expedientes/130-000054.json"
+ },
+ {
   "expediente": "122/000247",
   "votings": 1,
   "firstVote": "2026-09-22",

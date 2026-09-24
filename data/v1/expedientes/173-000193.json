@@ -1,0 +1,91 @@
+{
+ "expediente": "173/000193",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-23",
+   "session": 200,
+   "number": 5,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la nefasta política educativa de su Gobierno.",
+   "subtitle": "Votación separada por puntos. Punto I.",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 171,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-23.json"
+  },
+  {
+   "date": "2026-09-23",
+   "session": 200,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la nefasta política educativa de su Gobierno.",
+   "subtitle": "Votación separada por puntos. Punto II.1.",
+   "totals": {
+    "present": 348,
+    "yes": 177,
+    "no": 171,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-23.json"
+  },
+  {
+   "date": "2026-09-23",
+   "session": 200,
+   "number": 7,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la nefasta política educativa de su Gobierno.",
+   "subtitle": "Votación separada por puntos. Punto II.2.",
+   "totals": {
+    "present": 348,
+    "yes": 172,
+    "no": 170,
+    "abstain": 6,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-23.json"
+  },
+  {
+   "date": "2026-09-23",
+   "session": 200,
+   "number": 8,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la nefasta política educativa de su Gobierno.",
+   "subtitle": "Votación separada por puntos. Punto II.3.",
+   "totals": {
+    "present": 348,
+    "yes": 172,
+    "no": 176,
+    "abstain": 0,
+    "absent": 2,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-23.json"
+  },
+  {
+   "date": "2026-09-23",
+   "session": 200,
+   "number": 9,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre la nefasta política educativa de su Gobierno.",
+   "subtitle": "Votación separada por puntos. Punto II.4.",
+   "totals": {
+    "present": 347,
+    "yes": 171,
+    "no": 176,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-23.json"
+  }
+ ]
+}
