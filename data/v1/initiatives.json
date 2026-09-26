@@ -25,10 +25,12 @@
   ],
   "presentedAt": "2026-09-18",
   "qualifiedAt": "2026-09-22",
-  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "status": "Gobierno Contestación",
   "result": null,
   "committee": null,
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-362-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000305"
  },
  {
@@ -41,10 +43,12 @@
   ],
   "presentedAt": "2026-09-16",
   "qualifiedAt": "2026-09-22",
-  "status": "Comisión de Política Territorial Publicación",
+  "status": "Comisión de Política Territorial Enmiendas",
   "result": null,
   "committee": "Comisión de Política Territorial",
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-115-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000114"
  },
  {
@@ -57,10 +61,12 @@
   ],
   "presentedAt": "2026-09-16",
   "qualifiedAt": "2026-09-22",
-  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "status": "Gobierno Contestación",
   "result": null,
   "committee": null,
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-361-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000303"
  },
  {
@@ -74,10 +80,12 @@
   ],
   "presentedAt": "2026-09-15",
   "qualifiedAt": "2026-09-22",
-  "status": "Boletín Oficial de las Cortes Generales Publicación",
+  "status": "Gobierno Contestación",
   "result": null,
   "committee": null,
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-360-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000302"
  },
  {
@@ -620,7 +628,7 @@
   ],
   "presentedAt": "2026-06-12",
   "qualifiedAt": "2026-06-16",
-  "status": "Gobierno Contestación",
+  "status": "Pleno Toma en consideración",
   "result": null,
   "committee": null,
   "bocg": [
@@ -675,7 +683,7 @@
   ],
   "presentedAt": "2026-06-11",
   "qualifiedAt": "2026-06-16",
-  "status": "Gobierno Contestación",
+  "status": "Pleno Toma en consideración",
   "result": null,
   "committee": null,
   "bocg": [
@@ -693,7 +701,7 @@
   ],
   "presentedAt": "2026-06-04",
   "qualifiedAt": "2026-06-16",
-  "status": "Gobierno Contestación",
+  "status": "Pleno Toma en consideración",
   "result": null,
   "committee": null,
   "bocg": [
