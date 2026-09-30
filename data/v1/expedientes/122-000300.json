@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000300",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-29",
+   "session": 201,
+   "number": 2,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Socialista, por la que se modifica el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, relativa a la reducción de la tasa máxima de alcohol en la conducción.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 173,
+    "no": 168,
+    "abstain": 5,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-29.json"
+  }
+ ]
+}

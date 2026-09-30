@@ -1,0 +1,23 @@
+{
+ "expediente": "122/000287",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-29",
+   "session": 201,
+   "number": 1,
+   "heading": "Toma en consideración de Proposiciones de Ley.",
+   "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, de modificación del artículo 307 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, que regula el curso de selección de los aspirantes a ingresar en la Carrera Judicial (Orgánica).",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 295,
+    "no": 36,
+    "abstain": 15,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-29.json"
+  }
+ ]
+}

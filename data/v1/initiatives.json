@@ -1,5 +1,21 @@
 [
  {
+  "expediente": "121/000115",
+  "legislature": "XV",
+  "type": "Proyecto de ley",
+  "title": "Proyecto de Ley por la que se adoptan medidas fiscales y financieras urgentes que contribuyan a la reconstrucción económica y social de la isla de La Palma, así como medidas tendentes a promover la ejecución de inversiones por parte de las comunidades autónomas que han registrado superávits presupuestarios y excesos de financiación pendientes de aplicar de ejercicios anteriores a 2026 (procedente del Real Decreto-ley 23/2026, de 8 de septiembre).",
+  "authors": [
+   "Gobierno"
+  ],
+  "presentedAt": "2026-09-23",
+  "qualifiedAt": "2026-09-29",
+  "status": "Comisión de Política Territorial Publicación",
+  "result": null,
+  "committee": "Comisión de Política Territorial",
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000115"
+ },
+ {
   "expediente": "122/000304",
   "legislature": "XV",
   "type": "Proposición de ley de Grupos Parlamentarios del Congreso",
@@ -1860,9 +1876,9 @@
   ],
   "presentedAt": "2025-12-18",
   "qualifiedAt": "2026-01-15",
-  "status": "Mesa del Congreso Acuerdo subsiguiente a la toma en consideración",
+  "status": "Comisión de Justicia Publicación",
   "result": null,
-  "committee": null,
+  "committee": "Comisión de Justicia",
   "bocg": [
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-297-1-C1.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-297-2.PDF#page=1"
@@ -6662,9 +6678,9 @@
   ],
   "presentedAt": "2024-05-23",
   "qualifiedAt": "2024-05-28",
-  "status": "Mesa del Congreso Acuerdo subsiguiente a la toma en consideración",
+  "status": "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones Publicación",
   "result": null,
-  "committee": null,
+  "committee": "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones",
   "bocg": [
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-117-1.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-117-2.PDF#page=1"

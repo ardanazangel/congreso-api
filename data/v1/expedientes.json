@@ -1,5 +1,21 @@
 [
  {
+  "expediente": "122/000287",
+  "votings": 1,
+  "firstVote": "2026-09-29",
+  "lastVote": "2026-09-29",
+  "title": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, de modificación del artículo 307 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, que regula el curso de selección de los aspirantes a ingresar en la Carrera Judicial (Orgánica).",
+  "url": "expedientes/122-000287.json"
+ },
+ {
+  "expediente": "122/000300",
+  "votings": 1,
+  "firstVote": "2026-09-29",
+  "lastVote": "2026-09-29",
+  "title": "Proposición de Ley del Grupo Parlamentario Socialista, por la que se modifica el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, relativa a la reducción de la tasa máxima de alcohol en la conducción.",
+  "url": "expedientes/122-000300.json"
+ },
+ {
   "expediente": "162/000822",
   "votings": 1,
   "firstVote": "2026-09-23",
