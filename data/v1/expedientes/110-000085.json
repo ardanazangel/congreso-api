@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000085",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-30",
+   "session": 202,
+   "number": 15,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Protocolo Adicional a la Convención Iberoamericana de Derechos de los Jóvenes, hecho ad referendum en Cartagena de Indias el 25 de octubre de 2016.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 301,
+    "no": 33,
+    "abstain": 12,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-30.json"
+  }
+ ]
+}

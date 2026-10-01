@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000082",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-30",
+   "session": 202,
+   "number": 12,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Convenio por el que se establece una Comisión Internacional de Reclamaciones para Ucrania, hecho en La Haya el 16 de diciembre de 2025.",
+   "subtitle": "",
+   "totals": {
+    "present": 339,
+    "yes": 272,
+    "no": 4,
+    "abstain": 63,
+    "absent": 11,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-30.json"
+  }
+ ]
+}

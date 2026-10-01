@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000086",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-30",
+   "session": 202,
+   "number": 16,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo entre el Reino de España y el Reino de Arabia Saudí sobre exención recíproca de visados para titulares de pasaportes diplomáticos, especiales y de servicio, hecho en Madrid el 13 de mayo de 2026.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 293,
+    "no": 14,
+    "abstain": 39,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-30.json"
+  }
+ ]
+}

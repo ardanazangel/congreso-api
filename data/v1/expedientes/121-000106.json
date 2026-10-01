@@ -1,0 +1,23 @@
+{
+ "expediente": "121/000106",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-30",
+   "session": 202,
+   "number": 10,
+   "heading": "Debates de totalidad de iniciativas legislativas.",
+   "title": "Votación de la enmienda a la totalidad de devolución al Proyecto de Ley Orgánica de medidas en materia de violencia vicaria, presentada por el Grupo Parlamentario VOX.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 34,
+    "no": 312,
+    "abstain": 0,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-30.json"
+  }
+ ]
+}

@@ -18,6 +18,23 @@
     "unanimous": false
    },
    "rollCall": "sessions/2026-06-18.json"
+  },
+  {
+   "date": "2026-09-30",
+   "session": 202,
+   "number": 19,
+   "heading": "Avocación de iniciativas legislativas.",
+   "title": "Votación de las solicitudes de avocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de Ley por la que se modifican la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y la Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria, y se adoptan otras medidas para la mejora del sistema educativo, presentadas por los Grupos Parlamentarios VOX y Popular en el Congreso.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 342,
+    "no": 5,
+    "abstain": 0,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-30.json"
   }
  ]
 }

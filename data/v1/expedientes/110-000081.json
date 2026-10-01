@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000081",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-30",
+   "session": 202,
+   "number": 11,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo entre el Reino de España y el Gobierno de Ucrania sobre cooperación técnica y financiera, hecho en Madrid el 18 de marzo de 2026.",
+   "subtitle": "",
+   "totals": {
+    "present": 340,
+    "yes": 290,
+    "no": 4,
+    "abstain": 46,
+    "absent": 10,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-30.json"
+  }
+ ]
+}

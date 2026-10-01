@@ -1,0 +1,23 @@
+{
+ "expediente": "173/000195",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-30",
+   "session": 202,
+   "number": 6,
+   "heading": "Mociones consecuencia de interpelaciones urgentes.",
+   "title": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas adoptadas en relación con la situación de interés para la seguridad nacional en la ciudad de Ceuta.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 33,
+    "no": 176,
+    "abstain": 138,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-30.json"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "expediente": "110/000084",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-30",
+   "session": 202,
+   "number": 14,
+   "heading": "Dictámenes de la Comisión de Asuntos Exteriores sobre Convenios internacionales.",
+   "title": "Acuerdo sobre Transporte Aéreo entre el Reino de España y la República Federativa de Brasil, hecho en Barcelona el 17 de abril de 2026.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 293,
+    "no": 32,
+    "abstain": 21,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-30.json"
+  }
+ ]
+}

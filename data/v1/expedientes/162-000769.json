@@ -1,0 +1,23 @@
+{
+ "expediente": "162/000769",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-30",
+   "session": 202,
+   "number": 2,
+   "heading": "Proposiciones no de Ley.",
+   "title": "Proposición no de Ley del Grupo Parlamentario Socialista, para la puesta en marcha de un instrumento europeo excepcional de contribución sobre los beneficios extraordinarios de las empresas energéticas.",
+   "subtitle": "",
+   "totals": {
+    "present": 347,
+    "yes": 166,
+    "no": 176,
+    "abstain": 5,
+    "absent": 3,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-30.json"
+  }
+ ]
+}

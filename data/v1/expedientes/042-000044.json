@@ -1,0 +1,23 @@
+{
+ "expediente": "042/000044",
+ "legislature": "XV",
+ "votings": [
+  {
+   "date": "2026-09-30",
+   "session": 202,
+   "number": 20,
+   "heading": "Dictámenes de la Comisión del Estatuto.",
+   "title": "Dictamen de la Comisión del Estatuto sobre declaración de actividades de Excmos. Sres. Diputados.",
+   "subtitle": "",
+   "totals": {
+    "present": 346,
+    "yes": 343,
+    "no": 1,
+    "abstain": 2,
+    "absent": 4,
+    "unanimous": false
+   },
+   "rollCall": "sessions/2026-09-30.json"
+  }
+ ]
+}
