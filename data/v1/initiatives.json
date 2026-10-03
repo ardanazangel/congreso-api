@@ -9,10 +9,12 @@
   ],
   "presentedAt": "2026-09-23",
   "qualifiedAt": "2026-09-29",
-  "status": "Comisión de Política Territorial Publicación",
+  "status": "Comisión de Política Territorial Enmiendas",
   "result": null,
   "committee": "Comisión de Política Territorial",
-  "bocg": [],
+  "bocg": [
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-116-1.PDF#page=1"
+  ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000115"
  },
  {
@@ -244,7 +246,8 @@
   "result": null,
   "committee": "Comisión de Sanidad",
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-110-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-110-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-110-2.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000109"
  },
@@ -553,7 +556,7 @@
   ],
   "presentedAt": "2026-06-19",
   "qualifiedAt": "2026-06-23",
-  "status": "Gobierno Contestación",
+  "status": "Pleno Toma en consideración",
   "result": null,
   "committee": null,
   "bocg": [
@@ -607,7 +610,7 @@
   ],
   "presentedAt": "2026-06-17",
   "qualifiedAt": "2026-06-23",
-  "status": "Gobierno Contestación",
+  "status": "Pleno Toma en consideración",
   "result": null,
   "committee": null,
   "bocg": [
@@ -881,7 +884,7 @@
   ],
   "presentedAt": "2026-05-21",
   "qualifiedAt": "2026-05-26",
-  "status": "Comisión de Justicia Mesa - Calificación Comisión de Justicia Enmiendas",
+  "status": "Comisión de Justicia Enmiendas",
   "result": null,
   "committee": "Comisión de Justicia",
   "bocg": [
@@ -1876,12 +1879,13 @@
   ],
   "presentedAt": "2025-12-18",
   "qualifiedAt": "2026-01-15",
-  "status": "Comisión de Justicia Publicación",
+  "status": "Comisión de Justicia Enmiendas",
   "result": null,
   "committee": "Comisión de Justicia",
   "bocg": [
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-297-1-C1.PDF#page=1",
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-297-2.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-297-2.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-297-3.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000247"
  },
@@ -2978,7 +2982,8 @@
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-257-5.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-257-6.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_462_3836.PDF",
-   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_462_3838.PDF"
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_462_3838.PDF",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_467_3859.PDF"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000215"
  },
@@ -6679,12 +6684,13 @@
   ],
   "presentedAt": "2024-05-23",
   "qualifiedAt": "2024-05-28",
-  "status": "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones Publicación",
+  "status": "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones Enmiendas",
   "result": null,
   "committee": "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones",
   "bocg": [
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-117-1.PDF#page=1",
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-117-2.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-117-2.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-117-3.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000105"
  },
@@ -7069,7 +7075,8 @@
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-102-7.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_426_3627.PDF",
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_452_3786.PDF",
-   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_465_3854.PDF"
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_465_3854.PDF",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_467_3864.PDF"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000088"
  },
@@ -7622,7 +7629,9 @@
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-84-9.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_459_3811.PDF",
    "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_463_3839.PDF",
-   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_463_3840.PDF"
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_463_3840.PDF",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_467_3858.PDF",
+   "https://www.congreso.es/public_oficiales/L15/SEN/BOCG/2026/BOCG_D_15_467_3878.PDF"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000072"
  },
