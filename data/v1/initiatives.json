@@ -1,5 +1,37 @@
 [
  {
+  "expediente": "122/000306",
+  "legislature": "XV",
+  "type": "Proposición de ley de Grupos Parlamentarios del Congreso",
+  "title": "Proposición de Ley para establecer un gravamen temporal sobre los beneficios extraordinarios de empresas del sector energético que financiará una ayuda anual de 1.000 euros para los hogares con menos renta y que será concedida de oficio por la AEAT.",
+  "authors": [
+   "Grupo Parlamentario Plurinacional SUMAR"
+  ],
+  "presentedAt": "2026-10-05",
+  "qualifiedAt": "2026-10-13",
+  "status": "Concluido - (Caducado sin calificación previa)",
+  "result": null,
+  "committee": null,
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000306"
+ },
+ {
+  "expediente": "124/000047",
+  "legislature": "XV",
+  "type": "Proposición de ley del Senado",
+  "title": "Proposición de Ley Orgánica por la que se modifica la disposición adicional décima de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, en materia de rechazo en frontera en las ciudades de Ceuta y Melilla.",
+  "authors": [
+   "Senado"
+  ],
+  "presentedAt": "2026-10-01",
+  "qualifiedAt": "2026-10-13",
+  "status": "Concluido - (Caducado sin calificación previa)",
+  "result": null,
+  "committee": null,
+  "bocg": [],
+  "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=124/000047"
+ },
+ {
   "expediente": "121/000115",
   "legislature": "XV",
   "type": "Proyecto de ley",
