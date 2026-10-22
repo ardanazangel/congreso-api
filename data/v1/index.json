@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T11:19:12.531Z",
+ "generatedAt": "2026-10-22T11:18:22.831Z",
  "legislature": "XV",
  "source": "https://www.congreso.es/es/opendata/votaciones",
  "days": [
@@ -860,7 +860,8 @@
   "2023-09-27",
   "2023-09-29",
   "2023-11-16",
-  "2024-01-18"
+  "2024-01-18",
+  "2026-10-02"
  ],
  "totals": {
   "days": 142,
