@@ -371,7 +371,8 @@
   "result": "Trasladado al próximo Congreso 04/11/2026",
   "committee": null,
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-354-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-354-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/D/BOCG-15-D-610.PDF#page=1564"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=125/000016"
  },
@@ -681,7 +682,8 @@
   "result": "Trasladado al próximo Congreso 04/11/2026",
   "committee": null,
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-346-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-346-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/D/BOCG-15-D-610.PDF#page=1564"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=125/000015"
  },
@@ -1026,7 +1028,8 @@
   "result": "Trasladado al próximo Congreso 04/11/2026",
   "committee": null,
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-331-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-331-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/D/BOCG-15-D-610.PDF#page=1563"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=125/000013"
  },
@@ -3585,14 +3588,16 @@
   ],
   "presentedAt": "2025-06-11",
   "qualifiedAt": "2025-06-17",
-  "status": "Concluido - (Retirado)",
-  "result": null,
+  "status": "Cerrado",
+  "result": "Retirado 16/11/2026",
   "committee": "Comisión Constitucional",
   "bocg": [
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-242-1.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-242-2.PDF#page=1",
    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-242-3.PDF#page=1",
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-242-4.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-242-4.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/D/BOCG-15-D-610.PDF#page=1564",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-242-5.PDF#page=1"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=127/000002"
  },
@@ -9869,7 +9874,8 @@
   "result": "Trasladado al próximo Congreso 04/11/2026",
   "committee": null,
   "bocg": [
-   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-16-1.PDF#page=1"
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-16-1.PDF#page=1",
+   "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/D/BOCG-15-D-610.PDF#page=1564"
   ],
   "url": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=127/000001"
  },
